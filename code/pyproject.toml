@@ -1,0 +1,6 @@
+[project]
+name = "excalidraw-text-extractor"
+version = "0.1.0"
+description = "Extract text from Excalidraw files and export to Markdown"
+requires-python = ">=3.10"
+dependencies = []
