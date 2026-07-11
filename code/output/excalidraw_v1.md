@@ -18,14 +18,10 @@ pendant le petit déjeuner
         - Groupe 3 : terrain+
     - 11h30-11h45 : final de la partie
 
----
-
 Histoire :
 
 On leur présente un groupe de cultiste comme faisant des rituels secrets (= ils
 vont penser que c’est des méchants).
-
----
 
 Contraintes
     - Isochrone à 15 minutes en voiture
@@ -44,12 +40,8 @@ Comprendre qui est le groupe de gens de cultistes
 Trouver quand faire le rituel : utiliser un vieux calendrier qui ne prend pas en
 compte le changement d’heure
 
----
-
 Samedi soir 18h : ah mais ils sont pas méchants, on va devoir faire le rituel à
 leur place
-
----
 
 Enigme du dimanche :
 
@@ -58,13 +50,9 @@ Trouver comment faire le rituel
 Dimanche midi / final : faire le rituel pour désamorcer triangle du Vercors pour
 les 100 prochaines années.
 
----
-
-### [Idée à valider] Plutôt que les rituels aient lieu tous les 100 ans (cf. l'idée
+[Idée à valider] Plutôt que les rituels aient lieu tous les 100 ans (cf. l'idée
 de "désactiver pour les 100 prochaines années"), est-ce qu'on dirait pas 70
 ans ou 140 ans ?
-
----
 
 Hannibal 
 Traversée des alpes
@@ -80,15 +68,11 @@ Diois, du Dauphine
 
 Dauphin du dauphiné
 
----
-
 Passage / route / pelerinage
 
 Triangle des Bermudes du Vercors
 (3 points sur une carte, trouver le centre 
 = endroit du rituel)
-
----
 
 Secte avec rituel
 
@@ -102,7 +86,7 @@ Chapelle en vercors
 
 Lieux à explorer
 
----
+Final
 
 Utiliser des cartes de différentes époques avec 
 des superpositions de cartes pour filtrer les informations
@@ -124,8 +108,6 @@ Masque ?
 Grelot, clochettes, cloches
 
 Morceaux d'uniformes des differentes periodes ? (Hannibal, Napoleon, chevaliers, etc ...)
-
----
 
 Equipe tranquille
 
@@ -149,12 +131,8 @@ et les masques des perchtenlauf
 animalières, puis ça vire théorie du complot 
 --> Batiste peut faire sur GitHub pages
 
----
-
 ou avoir des descriptions de trajets qui mènent à 
 des endroits qu'on retrouve sur une carte (ecrit de l'an 1000)
-
----
 
 Les animaux du vercors ?
 Gypaète barbu (aigle)
@@ -165,17 +143,13 @@ loup
 ours
 chouette chevechette
 
----
-
 Geoguesser avec photo : 
 une equipe a la photo et guide une equipe sur le terrain
 Point de repere, ligne de crete
 
 Equipe rando
 
-# Demander aux parents pour les infos sur les chasseurs
-
----
+Demander aux parents pour les infos sur les chasseurs
 
 Statuettes a detruire 
 Nain de jardin doré ?
@@ -187,8 +161,6 @@ Refaire une statuette avec les moyen du bord ?
 
 Le lieu où sont les objets perdus pourrait contenir la statuette
 
----
-
 Equipe rando :
 Triangulation de photo de piege photographique
     Indice sur place
@@ -199,11 +171,7 @@ Triangulation de photo de piege photographique
         Outils esoteriques et des morceaux de costumes
     Photos des pieges photos
 
----
-
-## Meteo ?
-
----
+Meteo ?
 
 Premier jour
 
@@ -217,8 +185,6 @@ Detruire la statuette
 Message explicatif dans la statuette
 
 3 lieux, 3 enigmes
-
----
 
 Choregraphie
 Heure
@@ -243,8 +209,6 @@ Costume ?
 
 PNJ : fils/fille de Ivan Beaulieu
 
----
-
 Arc : 
 Batiste : Equipe des faibles (dans la chapelle en Vercors) : Ivan : enquête sur les cultistes
 objectif : réunir des infos sur ce qu'il se passe (triangle vercors + cultistes)
@@ -259,8 +223,6 @@ objectif : Trouver le lieu + préparer le lieu (landart ?)
             
 Préparer le lieu = mettre des choses symboliques au sol, genre un tas de feuilles au nord, ...
 
----
-
 Que sont devenus les cultistes ?
 - Ils ont été libérés/tués quand la statuette a été détruite 
 - C'est des gens ordinaires, qui ne se souviennent de rien, et qui peuvent donner leurs masques 
@@ -268,15 +230,41 @@ Que sont devenus les cultistes ?
 
 https://www.cgtrader.com/free-3d-models/various/various-models/soldier-napoleon-coin
 
----
-
 Enigme superposition de carte : 
 chaque groupe revient avec une carte d'une epoque différente. Il y a des trous dans chaque carte.
 Quand ils superposent les 3 cartes, il trouve le lieu du rituel.
 
+
 ---
 
-## Triangle du Vercors
+
+Perchtenlauf
+
+Les Perchten portent des masques en bois très travaillés, parfois associés à des peaux, des
+cloches et des costumes lourds pouvant peser plusieurs kilos.
+
+On distingue souvent deux types :
+
+Schönperchten – les « beaux Perchten », liés à la lumière, à la bienveillance et à la bonne fortune.
+
+Schiachperchten – les « laids Perchten », aux visages monstrueux, cornes et grimaces,
+représentant les forces sombres et chaotiques.
+
+​
+
+Les défilés, appelés Perchtenläufe, voient des groupes masqués parcourir les rues en faisant
+beaucoup de bruit avec cloches et tambours, souvent pour « chasser les mauvais esprits de l’hiver
+» et assurer prospérité pour l’année.
+
+Les défilés, appelés Perchtenläufe, voient des groupes masqués parcourir les rues en faisant
+beaucoup de bruit avec cloches et tambours, souvent pour « chasser les mauvais esprits de l’hiver
+» et assurer prospérité pour l’année.
+
+
+---
+
+
+Triangle du Vercors
 
 Faux articles de presse
 de disparitions (avion, etc)
@@ -295,21 +283,3 @@ soudains de météo, distorsions du temps, échos de voix anciennes. Les
 habitants parlent du « Triangle du Vercors », une zone mystérieuse 
 où les boussoles s’affolent et où certains affirment voir des 
 silhouettes vêtues de peaux d’animaux et de masques cornus.
-
----
-
-## Perchtenlauf
-
-Les Perchten portent des masques en bois très travaillés, parfois associés à des peaux, des
-cloches et des costumes lourds pouvant peser plusieurs kilos.
-
-On distingue souvent deux types :
-
-Schönperchten – les « beaux Perchten », liés à la lumière, à la bienveillance et à la bonne fortune.
-
-Schiachperchten – les « laids Perchten », aux visages monstrueux, cornes et grimaces,
-représentant les forces sombres et chaotiques.
-
-Les défilés, appelés Perchtenläufe, voient des groupes masqués parcourir les rues en faisant
-beaucoup de bruit avec cloches et tambours, souvent pour « chasser les mauvais esprits de l’hiver
-» et assurer prospérité pour l’année.
