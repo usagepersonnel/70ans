@@ -101,6 +101,8 @@ Cartes à utiliser :
 - **PNJ** : fils/fille de Ivan Beaulieu
     - Arrivée du PNJ, infodump
     - Mot de passe pour site web ?
+- **Mécanique PNJ** : les PNJ ne sont pas généreux — il faut résoudre une énigme ou accomplir une tâche pour obtenir un document ou une information
+- **La voyante** : PNJ qui donne un indice énigmatique, tentant à interpréter comme « détruire l'objet ». En réalité c'est juste une mauvaise voyante, ni gentille ni méchante
 
 ## Objets et costumes
 
@@ -134,6 +136,12 @@ Cartes à utiliser :
 
 Ivan : enquête sur les cultistes. Objectif : réunir des infos sur ce qu’il se passe (triangle du Vercors + cultistes).
 
+**Activités du samedi** :
+- Aller chercher une info chez un commerçant / l’office du tourisme
+- Consulter le site web de Ivan Beaulieu (partie publique)
+- Transmettre des infos aux équipes mobiles, échanger des indices
+- Géoguesser : une équipe a la photo du lieu et guide une équipe mobile sur le terrain
+
 ### Équipe sportive (Seb) — équipe des moyens
 
 Créer les conditions de la destruction de la statuette : objet ? + objets qui serviront au rituel ? Trouver différents objets sans savoir lequel va servir à la destruction de la statuette + partie des costumes.
@@ -162,6 +170,44 @@ Objectifs :
 - Objet
 - Costumes/masques
 
+## Pistes narratives et indices
+
+### [Procès] Le notable innocent (Moyen Âge)
+
+Un notable est condamné pour avoir subtilisé un cadeau diplomatique qu'il devait apporter dans le Vercors. Il affirme que son cadeau a disparu et que les paysans parlaient de créatures surnaturelles. Malgré tout, il est condamné. L'évêque du coin aurait a posteriori retrouvé le cadeau dans la forêt et absout le notable à titre posthume, faisant graver sur sa tombe une inscription qui rendit l'histoire célèbre.
+
+→ Événement historique pour le Moyen Âge. Suggère un lien entre le triangle (disparitions) et un cadeau diplomatique potentiellement originaire des Alpes orientales (justification de l'importation des traditions Perchten).
+
+### [Lettre] L'enfant et la grotte dorée
+
+Un enfant racontait partout dans le village avoir trouvé la grotte dorée dans la forêt. Celle-ci contenait de nombreux objets précieux, et même le rouleau à pâtisserie que sa mamie avait perdu l'année passée. Personne ne l'a cru, et comme il n'a jamais pu retrouver la grotte, on le prit pour un fou. C'est une fois adulte qu'il raconta cette histoire à son ami le Dr Brilleux, dans une lettre sincère et détaillée.
+
+→ La grotte collecte aussi des objets du quotidien, pas seulement historiques. La lettre est un document de jeu utilisable comme indice.
+
+### [Tableau] Le chasseur et les loups
+
+Perdu dans la neige et la brume un matin d'hiver, un chasseur raconte avoir vu un drôle de type manger assis sur un rocher, tranquille, alors que des loups le regardaient paisibles, comme s'ils le protégeaient. Au milieu de la scène se trouve un objet mystérieux, apparemment magique [la statuette à détruire]. Troublé, il décida de la peindre en rentrant, et le tableau est désormais exposé chez un commerce local (descendant du chasseur).
+
+→ Montre la statuette en contexte avec les Perchten. Les loups protègent les figures masquées (les animaux ne sont pas des menaces). Le tableau est un indice de jeu (à récupérer chez un commerce local).
+
+### [Voyante] La voyante nulle
+
+Les joueurs vont faire appel à une voyante, qui leur donne un indice énigmatique qu'il est tentant d'interpréter comme « vous devez détruire l'objet ». En fait c'est juste une mauvaise voyante, ni gentille ni méchante.
+
+→ Mécanique qui pousse les joueurs vers la destruction de la statuette (phase 1 du scénario).
+
+## Site web
+
+- Créé par Ivan Beaulieu
+- **Partie publique** (jour 1) : photos animalières qui virent vers la théorie du complot
+- **Partie secrète** (jour 2) : nécessite un code ou une URL cachée sans lien — le PNJ (fils/fille de Ivan) fournit l'accès
+
+## Objectifs communs aux trois équipes [TODO: affiner]
+
+- Trouver le repère des cultistes (grotte ?)
+- Entrer en contact avec la fille/fils de Ivan Beaulieu
+- Détruire la statuette → message explicatif dedans
+
 ## Que sont devenus les cultistes ?
 
 - Ils ont été libérés/tués quand la statuette a été détruite
@@ -173,7 +219,7 @@ Objectifs :
 - Chapelle en Vercors
 - Gîte / village
 - Terrain (3 niveaux de difficulté)
-- Grotte avec les objets disparus
+- Grotte avec les objets disparus — coordonnées réelles : 45.150739, 5.564328 (cf. grottomap.org)
 
 > Contrainte : isochrone à 15 minutes en voiture pour les énigmes et les lieux à explorer
 

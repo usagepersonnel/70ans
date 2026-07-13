@@ -1,1 +1,0 @@
-https://grottomap.org/#45.150739,5.564328,15,RmOdJ9bJ

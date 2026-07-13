@@ -26,7 +26,7 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 
 ### Dossiers
 
-- **defis_equipe_statique/** - À compléter : défis pour les équipes
+- **archived/** - Anciens documents conservés pour référence (à supprimer après intégration)
 
 ## 🎭 Synopsis du scénario
 
