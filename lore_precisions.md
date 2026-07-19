@@ -67,6 +67,11 @@ Liste des contradictions, trous narratifs et questions ouvertes à résoudre ava
     - 💡 **Piste** : Excalidraw confirme "Arrivée du PNJ, infodump". Le PNJ fournit le mot de passe/code pour la partie secrète du site web (jour 2). Reste à déterminer ce qui déclenche son apparition.
 - ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par Ivan Beaulieu. Partie publique (jour 1) + partie secrète (jour 2) nécessitant un code ou une URL cachée. Le PNJ fournit l'accès.
 
+## Pourquoi la statuette est avec les objets ? Et pourquoi les perchtenlaufs ne prennent pas les objets ? [Décision du 19/07]
+
+- Les perchtenlaufs savent où est la grotte, mais ils tiennent les objets en question pour maudits, donc ils n'y touchent pas pour ne pas empirer le phoénomène.
+- Les joueurs vont faire le pire : prendre les objets et détruire la statuette. Donc là, c'est vraiment la merde !!! Ils doivent vraiment réussir le rituel pour conjurer le maléfice avant qu'il soit trop tard.
+
 ## Le calendrier et le timing du rituel
 
 - **Vieux calendrier sans changement d'heure** — Belle idée d'énigme, mais quelle justification narrative ? Le rituel date d'avant l'instauration de l'heure d'été (1916 en France). Pourquoi le rituel serait-il calé sur une heure "absolue" et pas sur l'heure solaire ?
