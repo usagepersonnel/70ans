@@ -15,5 +15,5 @@
 
 
 Notes
-- Yvan a été au gite
+- Yvan a été au gite (le gite où se tiendra l'anniversaire des 70 ans de Bill et Monique, et où tous les convives seront logés)
 - On comprend quelle était sa chambre + on peut y faire de la fouille

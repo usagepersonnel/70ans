@@ -75,8 +75,8 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 ## Pourquoi la statuette est avec les objets ? Et pourquoi les perchtenlaufs ne prennent pas les objets ? [Décision du 19/07]
 
-- Les perchtenlaufs savent où est la grotte, mais ils tiennent les objets en question pour maudits, donc ils n'y touchent pas pour ne pas empirer le phoénomène.
-- Les joueurs vont faire le pire : prendre les objets et détruire la statuette. Donc là, c'est vraiment la merde !!! Ils doivent vraiment réussir le rituel pour conjurer le maléfice avant qu'il soit trop tard.
+- Les perchtenlaufs savent où est la grotte, mais ils tiennent les objets en question pour maudits, donc ils n'y touchent pas pour ne pas empirer le phoénomène. Ainsi, ils gardent ces objets comme une sorte de trésor sacré et secret, en espérant que personne ne vienne y toucher.
+- Les joueurs vont faire le pire : prendre les objets et détruire la statuette. C'est vraiment pas terrible pour calmer un maléfice. Donc là, c'est vraiment la merde !!! Ils doivent vraiment réussir le rituel pour conjurer le maléfice avant qu'il soit trop tard.
 
 ## Le calendrier et le timing du rituel
 
