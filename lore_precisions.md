@@ -73,6 +73,11 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - 💡 **Le PNJ (fils/fille de Ivan)** — Excalidraw confirme « Arrivée du PNJ, infodump ». Le PNJ fournit le mot de passe/code pour la partie secrète du site web (jour 2). Reste à déterminer ce qui déclenche son apparition.
 - ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par Ivan Beaulieu. Partie publique (jour 1) + partie secrète (jour 2) nécessitant un code ou une URL cachée. Le PNJ fournit l'accès.
 
+## Pourquoi la statuette est avec les objets ? Et pourquoi les perchtenlaufs ne prennent pas les objets ? [Décision du 19/07]
+
+- Les perchtenlaufs savent où est la grotte, mais ils tiennent les objets en question pour maudits, donc ils n'y touchent pas pour ne pas empirer le phoénomène.
+- Les joueurs vont faire le pire : prendre les objets et détruire la statuette. Donc là, c'est vraiment la merde !!! Ils doivent vraiment réussir le rituel pour conjurer le maléfice avant qu'il soit trop tard.
+
 ## Le calendrier et le timing du rituel
 
 - 💡 **Justification du changement d'heure** — Proposition : le rituel doit être accompli à un **moment astronomique précis** (par exemple minuit solaire vrai). Avant l'instauration de l'heure d'été (1916 en France), l'heure légale correspondait approximativement à l'heure solaire. Depuis, le changement d'heure crée un décalage. L'énigme du vieux calendrier permet de retrouver l'heure solaire vraie. Le changement d'heure d'octobre est le moment où ce décalage se corrige, créant une fenêtre propice. À valider.

@@ -12,3 +12,8 @@
 - [ ] Créer un site web sur GitHub Pages avec des photos animalières
 - [ ] Faire virer le site vers une théorie du complot / investigation sur les êtres masqués
 - [ ] Intégrer les photos d'Ivan Beaulieu (pièges photographiques) dans le site
+
+
+Notes
+- Yvan a été au gite
+- On comprend quelle était sa chambre + on peut y faire de la fouille
