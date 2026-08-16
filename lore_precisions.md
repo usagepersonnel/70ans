@@ -65,12 +65,12 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 ## Ivan Beaulieu et le PNJ
 
 - 💡 **Qui est Ivan Beaulieu ?** — Photographe animalier (AGENT.md). Il a capturé des images d'êtres masqués dans la forêt avant de disparaître. Il est convaincu qu'ils sont malveillants. Son nom suggère une origine québécoise/acadienne — pertinence à déterminer.
-- 🔑 **Destin d'Ivan Beaulieu** — Il est nécessaire qu'il ne soit pas là, de même que les Perchtenlauf. Deux options :
+- 🔑 **Destin d'Ivan Beaulieu** — Il est nécessaire qu'il ne soit pas là, de même que les Perchtenlauf. Deux options : [PRIO]
   1. **Mort de vieillesse** — Simple, crédible, mais moins mystérieux.
   2. **Disparition mystérieuse** — Plus intrigant, mais il faut éviter que les joueurs cherchent à le retrouver au lieu de faire le rituel.
   À trancher.
 - ❓ **Lien de Ivan avec les cultistes** — A-t-il infiltré le groupe ? A-t-il disparu dans le triangle ? Dépend du destin choisi ci-dessus.
-- 💡 **Le PNJ (fils/fille de Ivan)** — Excalidraw confirme « Arrivée du PNJ, infodump ». Le PNJ fournit le mot de passe/code pour la partie secrète du site web (jour 2). Reste à déterminer ce qui déclenche son apparition.
+- 💡 **Le PNJ (fils/fille de Ivan)** — Excalidraw confirme « Arrivée du PNJ, infodump ». Le PNJ fournit le mot de passe/code pour la partie secrète du site web (jour 2). Reste à déterminer ce qui déclenche son apparition. [PRIO]
 - ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par Ivan Beaulieu. Partie publique (jour 1) + partie secrète (jour 2) nécessitant un code ou une URL cachée. Le PNJ fournit l'accès.
 
 ## Pourquoi la statuette est avec les objets ? Et pourquoi les perchtenlaufs ne prennent pas les objets ? [Décision du 19/07]
@@ -101,7 +101,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ✅ **Existence** — Pendant la nuit du samedi au dimanche, des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes : texte à l'encre invisible dans les douches, indices dans les boîtes de céréales et/ou sous les tasses, éléments étranges sur les voitures.
 - ✅ **Fonction narrative** — Ces manifestations orientent les joueurs vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
 - 🔑 **Qui produit les manifestations ?** — Point clé à trancher. Le maléfice « n'a pas de volonté propre », mais ces manifestations supposent une forme d'intention. Options : le triangle lui-même (donc une forme de volonté ?), les esprits des Perchten, une force protectrice distincte du maléfice ?
-- ❓ **Contenu précis des manifestations** — La forme exacte des indices et leur articulation avec le message de la statuette restent à définir.
+- ❓ **Contenu précis des manifestations** — La forme exacte des indices et leur articulation avec le message de la statuette restent à définir. [PRIO]
 
 ## Le rituel lui-même
 
