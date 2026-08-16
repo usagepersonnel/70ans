@@ -247,3 +247,4 @@ Les joueurs vont faire appel à une voyante, qui leur donne un indice énigmatiq
 
 - https://warland-surplus.fr/10000083-ghillie (ghilli suit)
 - https://www.cgtrader.com/free-3d-models/various/various-models/soldier-napoleon-coin (pièce Napoléon 3D)
+- https://umap.openstreetmap.fr/fr/map/70-ans-mb_1434157#13/44.968867/5.398407

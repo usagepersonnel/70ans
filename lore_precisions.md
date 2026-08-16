@@ -1,85 +1,94 @@
-# Lore — Précisions à travailler
+# Lore — Précisions
 
-Liste des contradictions, trous narratifs et questions ouvertes à résoudre avant de créer les énigmes et les pièces à conviction.
+Décisions, pistes et questions ouvertes sur le lore du jeu, à résoudre avant de créer les énigmes et les pièces à conviction.
+Les questions de game design (répartition des équipes, déroulement, mécaniques d'énigmes) sont dans `deroule.md`.
 
-**Légende** : ✅ Résolu | 💡 Piste trouvée | ⚠️ Manque identifié | (sans marqueur) = question ouverte
+**Légende** : ✅ Résolu | 💡 Piste trouvée | ⚠️ Manque identifié | 🔑 Point clé à trancher | (sans marqueur) = question ouverte
 
 **Sources** : `excalidraw` (brainstorming initial, plus fiable en cas de contradiction) | `archived` (scenario_statique, supprimé mais intégré) | `AGENT.md` | `lore.md`
 
 ## La durée du cycle
 
-- **100, 70 ou 140 ans ?** — Tout le scénario dépend de cette valeur. Le titre du projet est "70ans", ce qui suggère 70, mais rien n'est tranché.
-- Quel est l'événement déclencheur d'il y a <duree> ans ? Un séisme ? Une disparition historique ?
-- Y a-t-il eu un rituel raté ou interrompu la dernière fois, qui expliquerait pourquoi les phénomènes s'accélèrent "depuis plusieurs mois" ?
+- ✅ **Durée** — Les cycles durent **140 ans**.
+- ✅ **Fonction du rituel** — À la fin d'un cycle, un rituel peut apaiser le maléfice ou éventuellement le briser définitivement.
+- ✅ **Échec du rituel** — Un rituel raté ou non réalisé entraîne 140 ans de chaos dans le Vercors, avec des disparitions régulières d'objets et de personnes.
+- ✅ **Réussite partielle** — Le cas habituel : les effets sont fortement réduits, mais des objets peuvent encore disparaître ponctuellement, à n'importe quel moment du cycle.
+- ✅ **Événement d'il y a 140 ans** — Le rituel précédent a été partiellement réussi, ce qui explique les disparitions ponctuelles pendant le cycle actuel.
+- ✅ **Accélération des phénomènes** — À l'approche de la fin du cycle, le maléfice « déborde » naturellement : les phénomènes s'intensifient dans les mois précédant l'échéance.
+- ✅ **Première rupture de transmission** — Si les joueurs n'accomplissent pas le rituel, ce sera la **première fois dans l'histoire** que le rituel n'est pas du tout réalisé. Les conséquences sont inconnues et sans doute terribles.
 
 ## La nature du Triangle du Vercors
 
-- **Qu'est-ce qui cause les disparitions ?** Le triangle est-il une anomalie temporelle naturelle, une malédiction, une conséquence d'un rituel raté ?
-- **Lien de causalité rituel ↔ triangle** — Le rituel *conjure* la malédiction (la contient) ou la *provoque* (la déclenche) ? Si les joueurs brisent la statuette en pensant arrêter le mal, est-ce qu'ils *libèrent* le triangle ou *empêchent* sa conjuration ?
-- **Pourquoi des objets de toutes époques dans la même grotte ?** Le triangle "collecte" des objets à travers le temps ? La grotte est-elle un point de convergence temporel ? Comment justifier qu'on y trouve à la fois une défense d'éléphant, un casque de chevalier, un bicorne et un cadavre nazi ?
-    - 💡 **Piste** : La lettre de l'enfant et la grotte dorée (archived) confirme que la grotte collecte aussi des objets du quotidien (rouleau à pâtisserie perdu). Le procès du notable confirme que des objets disparaissent puis réapparaissent dans la forêt. La grotte = point de convergence temporel confirmé.
-    - 💡 **Piste** : Excalidraw mentionne "passage / route / pèlerinage" — le Vercors serait sur une route de passage historique (Hannibal, pèlerinages), ce qui expliquerait la diversité d'objets d'époques différentes.
-- **Les 3 points du triangle** — Quels sont-ils ? Sont-ils liés aux 3 époques principales ? Sont-ils des lieux réels du Vercors qu'on peut identifier sur les cartes ?
-    - 💡 **Piste** : Coordonnées réelles d'une grotte trouvées (45.150739, 5.564328, grottomap.org) — pourrait être un des points ou le centre.
-- **Pourquoi les boussoles s'affolent-elles ?** Y a-t-il une explication minimale (gisement magnétique, anomalie) ou reste-t-ce purement surnaturel ?
-- **Le triangle et la météo** — Excalidraw mentionne "Météo ?" comme question ouverte. Les changements soudains de météo sont dans le teaser mais sans explication. Liés au triangle ?
+- ✅ **Nature du triangle** — Le triangle est une anomalie temporelle naturelle, provoquée par un phénomène surnaturel. Le maléfice n'a pas de cause connue et n'a pas de volonté propre.
+- ✅ **Effet du rituel** — Le rituel n'a pas créé le triangle : il apaise ou contient temporairement ses effets. Une réussite partielle réduit les disparitions sans les supprimer complètement.
+- ✅ **Effet de la destruction de la statuette** — La destruction ne provoque rien en elle-même : elle est seulement nécessaire pour révéler les instructions et permettre la suite du scénario.
+- ✅ **Objets de toutes époques dans la grotte** — La grotte est un point de convergence temporel : le triangle « collecte » des objets à travers le temps. La lettre de l'enfant (rouleau à pâtisserie) et le procès du notable (cadeau diplomatique) confirment que des objets du quotidien comme précieux disparaissent puis réapparaissent. La diversité d'époques s'explique par les disparitions pendant tout le cycle, et par la position du Vercors sur une route de passage historique (Hannibal, pèlerinages).
+- 💡 **Les 3 points du triangle** — Rémi va les définir : il s'agit de grottes ou lieux similaires, qui seront utilisés pour les énigmes. Coordonnées d'une grotte déjà identifiées (45.150739, 5.564328, grottomap.org). En attente de la carte de Rémi.
+- ✅ **Boussoles affolées** — Effet du maléfice, pas besoin d'explication supplémentaire.
+- ✅ **Météo soudaine** — Effet du maléfice, pas besoin d'explication supplémentaire.
 
 ## La connection Perchtenlauf ↔ Vercors
 
-- ✅ **Pourquoi des traditions autrichiennes/bavaroises dans le Vercors ?** — **Résolu : licence artistique.** On avait envie de faire des masques dans ce style, c'est une liberté narrative.
-- **Qui sont les cultistes concrètement ?** Des habitants du coin ? Des descendants d'une lignée ? Des gens sous emprise ? Le lore dit "des gens ordinaires qui ne se souviennent de rien" — mais alors qui les rassemble pour le rituel ?
+- ✅ **Origine des masques** — Licence artistique : les masques sont inspirés des Perchtenlauf par choix esthétique et narratif, sans besoin de justifier une migration autrichienne vers le Vercors.
+- ✅ **Transmission du rôle** — Les cultistes sont des personnes qui ont repris le flambeau : soit après avoir découvert les instructions en détruisant une statuette, soit par transmission familiale. La transmission familiale est nécessaire pour conserver le savoir pendant les cycles de 140 ans.
+- ✅ **Échec de la transmission** — Personne ne rassemble de nouveaux cultistes si la transmission familiale disparaît. C'est une catastrophe : le rituel n'est pas réalisé et les effets du maléfice deviennent catastrophiques. Cela ne s'est **jamais produit** jusqu'au cycle actuel — d'où l'enjeu critique de cette fin de cycle.
+- ✅ **Conscience des cultistes** — Les cultistes savent consciemment qu'ils protègent le Vercors et qu'ils accomplissent une mission surnaturelle. *(Note : mettre à jour `lore.md` qui dit encore « des gens ordinaires qui ne se souviennent de rien ».)*
 
 ## Les époques et leur cohérence
 
-- **4 époques listées, 3 groupes de joueurs** — Antiquité, Moyen Âge, Napoléon, 2ème GM. Quelle époque est laissée de côté ? Ou y a-t-il un 4ème élément (le présent ?) ?
-- **Hannibal et le Vercors** — Hannibal a traversé les Alpes, pas le Vercors à proprement parler. Le Vercors est un massif pré-alpin. Comment justifier la présence d'objets d'Hannibal dans le Vercors ? Itinéraire alternatif ? Éléments égarés en route ?
-    - 💡 **Piste** : Excalidraw mentionne "passage / route / pèlerinage" — Hannibal aurait pu emprunter une route passant par le Vercors.
-- **Comte du Diois / Dauphin du Dauphiné** — Quel est leur rôle exact ? Sont-ils des praticiens passés du rituel ? Des victimes du triangle ? Des figures politiques dont les symboles (drapeaux) servent au rituel ?
-    - 💡 **Piste** : Excalidraw liste "Drapeau d'Hannibal, du Diois, du Dauphiné" — ces drapeaux semblent servir d'objets/indices dans le rituel ou les énigmes.
-- **Quels événements marquants par époque ?** Séismes, batailles, disparitions documentées ? Il faut au moins un fait historique réel par époque pour ancrer les énigmes.
-    - 💡 **Piste (Moyen Âge)** : Le procès du notable innocent — disparition d'un cadeau diplomatique, créatures surnaturelles évoquées par les paysans, absolution posthume par l'évêque (archived).
-    - 💡 **Piste (époque indéterminée)** : Le tableau du chasseur et les loups — rencontre avec une figure masquée protégée par des loups (archived).
-    - ⚠️ **Manque** : Aucun événement ancré pour l'Antiquité, l'époque napoléonienne et la 2ème GM. À rechercher.
+- ✅ **Époques des objets** — Les objets peuvent appartenir à n'importe quelle époque : les disparitions ont lieu pendant le cycle, et pas uniquement au moment du rituel. Il n'est donc pas nécessaire de faire correspondre chaque objet à une époque précise.
+- ❓ **Hannibal et le Vercors** — Faut-il conserver l'hypothèse d'une route de passage/pèlerinage par le Vercors, ou les objets d'Hannibal sont-ils simplement aspirés par l'anomalie temporelle ? Les deux sont compatibles avec le lore.
+- 💡 **Comte du Diois / Dauphin du Dauphiné** — Excalidraw liste leurs drapeaux avec celui d'Hannibal. Leur fonction exacte reste à décider : objets du rituel, indices de triangulation ou simples marqueurs historiques.
+- ⚠️ **Événements historiques** — Le Moyen Âge dispose d'une piste (procès du notable innocent). Il manque encore un ancrage clair pour l'Antiquité, l'époque napoléonienne et la 2ème GM si ces époques doivent être documentées.
 
 ## La statuette
 
-- **Rôle narratif** — La statuette est-elle un sceau qui contient la malédiction ? Un objet de canalisation du rituel ? Un réceptacle d'esprits ?
-    - 💡 **Piste** : Le tableau du chasseur montre la statuette au centre d'une scène avec une figure masquée et des loups protecteurs — elle semble liée au rituel, pas à la malédiction elle-même.
-- **Pourquoi les joueurs la brisent-ils ?** Pensent-ils détruire un objet maléfique ? Est-ce un accident ? Le scénario dit "joueurs qui brisent quelque chose qui sert au rituel" — mais le contexte précis manque.
-    - 💡 **Piste** : Deux mécaniques convergent : (1) le tableau du chasseur présente l'objet comme « magique », (2) la voyante donne un indice énigmatique interprétable comme « détruire l'objet ».
-- **Pourquoi la reconstruire ?** Si le rituel nécessite la statuette, pourquoi ne pas en faire une autre ? Pourquoi "avec des bouts de la statuette de la veille" ? La statuette originale a-t-elle une valeur unique (matériau, origine, bénédictions accumulées) ?
-- **Le message explicatif dans la statuette** — Qui l'a écrit ? Quand ? Est-ce le PNJ qui le trouve ? Est-ce que les cultistes le laissent à chaque cycle ?
-    - 💡 **Piste** : Confirmé que le message est à l'intérieur de la statuette et révélé à la destruction. Reste à déterminer qui l'a écrit et quand.
-- **Lieu de la statuette** — Excalidraw suggère que "le lieu où sont les objets perdus pourrait contenir la statuette". Donc la statuette serait dans la grotte, trouvée par l'équipe rando le samedi.
+- ✅ **Rôle de transmission** — La statuette contient les instructions permettant de devenir Perchtenlauf et de reprendre le rôle de protecteur du Vercors.
+- 💡 **Rôle dans le rituel** — Le tableau du chasseur la montre au centre d'une scène avec une figure masquée et des loups protecteurs : elle est liée au rituel, mais n'est pas la source du maléfice.
+- ✅ **Pourquoi les joueurs la brisent-ils ?** — Le tableau la présente comme un objet magique et la voyante donne un indice interprétable comme « détruire l'objet ». Les joueurs pensent donc résoudre la malédiction en la brisant.
+- ✅ **Effet de la destruction** — La destruction de la statuette ne provoque rien en elle-même : elle est seulement nécessaire pour révéler les instructions et permettre la suite du scénario.
+- ✅ **Message** — Le message est laissé par les fabricants de la statuette. Il explique en substance que si les joueurs l'ont trouvée, c'est que les anciens Perchtenlauf ne sont plus là — sinon ils ne les auraient pas laissés y accéder — et que les joueurs doivent devenir les nouveaux Perchtenlauf.
+- ✅ **Lieu** — La statuette se trouve dans la grotte où sont rassemblés les objets disparus ; l'équipe rando la découvre le samedi.
+- ✅ **Origine de la statuette actuelle** — Elle a été fabriquée par les Perchtenlauf du cycle précédent, voire d'un cycle antérieur. C'est un vieil objet, potentiellement réutilisé depuis plusieurs cycles.
+- ✅ **Ingrédients de la statuette** — Les instructions précisent que la statuette doit être composée de certains matériaux (du bois, etc.) et porter des symboles correspondant à un loup, etc. La forme et la réalisation restent libres.
+- ✅ **Pourquoi les rituels précédents étaient partiels** — La statuette « parfaite » n'a jamais été réalisée. Les ingrédients sont en partie connus mais jamais réunis correctement. Espoir que ce coup-ci on y arrive.
+- ✅ **Nouvelle statuette** — Les joueurs fabriquent une nouvelle statuette à partir des instructions. Elle doit comporter les matériaux requis et rendre visibles les symboles imposés ; la forme et la réalisation sont libres.
+- ✅ **Morceaux de l'ancienne statuette** — Ils ne sont pas indispensables. Les récupérer peut être pratique, mais les joueurs peuvent fabriquer la nouvelle statuette avec d'autres matériaux conformes aux instructions.
 
 ## Les cultistes
 
-- **Pourquoi ne peuvent-ils pas faire le rituel eux-mêmes ?** C'est le cœur du twist. Sont-ils disparus ? Capturés ? Tués par les joueurs ? En fuite ?
-- **Que s'est-il passé juste avant l'arrivée des joueurs ?** Les phénomènes s'accélèrent "depuis plusieurs mois" — les cultistes ont-ils échoué à faire le rituel au moment prévu ? Ont-ils été interrompus ?
-- **Les trois destins possibles** (libérés/tués, gens ordinaires amnésiques, morts) — Lequel choisir ? Chaque option a des implications différentes sur le final et sur les indices laissés aux joueurs.
+- ✅ **Fonction** — Ce sont des gens ordinaires investis d'une mission surnaturelle : ils savent qu'ils protègent le Vercors et assurent la transmission des instructions et du rituel d'un cycle de 140 ans au suivant.
+- ✅ **Absence au moment du jeu** — On ne sait pas pourquoi les anciens Perchtenlauf ne peuvent pas réaliser le rituel cette fois-ci. Le scénario ne doit pas fournir cette explication. C'est la **première fois** que la transmission est rompue.
+- ✅ **Indice narratif** — Le dimanche, les joueurs doivent comprendre que les anciens Perchtenlauf ne sont plus disponibles et que la solution n'est pas de partir à leur recherche. Le message dans la statuette leur indique directement de devenir les nouveaux Perchtenlauf.
+- ✅ **Avant et après la destruction** — Rien de particulier n'arrive nécessairement aux anciens Perchtenlauf : ce sont des gens ordinaires. Leur destin reste volontairement non expliqué aux joueurs.
 
 ## Ivan Beaulieu et le PNJ
 
-- **Qui est Ivan Beaulieu ?** Chercheur ? Journaliste ? Ancien cultiste ? Habitant qui a enquêté ? Son nom suggère une origine québécoise/acadienne — est-ce pertinent ?
-    - 💡 **Piste** : AGENT.md précise : photographe animalier, a capturé des images d'êtres masqués dans la forêt avant de disparaître. Il est convaincu qu'ils sont malveillants.
-- **Quel est le lien de Ivan avec les cultistes ?** A-t-il infiltré le groupe ? A-t-il disparu lui-même dans le triangle ?
-- **Le PNJ (fils/fille de Ivan)** — Pourquoi arrive-t-il/elle ? Qu'est-ce qui déclenche son apparition ? Sait-il/elle tout dès le départ ou découvre-t-il/elle en même temps que les joueurs ?
-    - 💡 **Piste** : Excalidraw confirme "Arrivée du PNJ, infodump". Le PNJ fournit le mot de passe/code pour la partie secrète du site web (jour 2). Reste à déterminer ce qui déclenche son apparition.
+- 💡 **Qui est Ivan Beaulieu ?** — Photographe animalier (AGENT.md). Il a capturé des images d'êtres masqués dans la forêt avant de disparaître. Il est convaincu qu'ils sont malveillants. Son nom suggère une origine québécoise/acadienne — pertinence à déterminer.
+- 🔑 **Destin d'Ivan Beaulieu** — Il est nécessaire qu'il ne soit pas là, de même que les Perchtenlauf. Deux options : [PRIO]
+  1. **Mort de vieillesse** — Simple, crédible, mais moins mystérieux.
+  2. **Disparition mystérieuse** — Plus intrigant, mais il faut éviter que les joueurs cherchent à le retrouver au lieu de faire le rituel.
+  À trancher.
+- ❓ **Lien de Ivan avec les cultistes** — A-t-il infiltré le groupe ? A-t-il disparu dans le triangle ? Dépend du destin choisi ci-dessus.
+- 💡 **Le PNJ (fils/fille de Ivan)** — Excalidraw confirme « Arrivée du PNJ, infodump ». Le PNJ fournit le mot de passe/code pour la partie secrète du site web (jour 2). Reste à déterminer ce qui déclenche son apparition. [PRIO]
 - ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par Ivan Beaulieu. Partie publique (jour 1) + partie secrète (jour 2) nécessitant un code ou une URL cachée. Le PNJ fournit l'accès.
+
+## Pourquoi la statuette est avec les objets ? Et pourquoi les perchtenlaufs ne prennent pas les objets ? [Décision du 19/07]
+
+- Les perchtenlaufs savent où est la grotte, mais ils tiennent les objets en question pour maudits, donc ils n'y touchent pas pour ne pas empirer le phoénomène. Ainsi, ils gardent ces objets comme une sorte de trésor sacré et secret, en espérant que personne ne vienne y toucher.
+- Les joueurs vont faire le pire : prendre les objets et détruire la statuette. C'est vraiment pas terrible pour calmer un maléfice. Donc là, c'est vraiment la merde !!! Ils doivent vraiment réussir le rituel pour conjurer le maléfice avant qu'il soit trop tard.
 
 ## Le calendrier et le timing du rituel
 
-- **Vieux calendrier sans changement d'heure** — Belle idée d'énigme, mais quelle justification narrative ? Le rituel date d'avant l'instauration de l'heure d'été (1916 en France). Pourquoi le rituel serait-il calé sur une heure "absolue" et pas sur l'heure solaire ?
-- **Quelle heure précise pour le rituel ?** Midi solaire ? Minuit ? Une heure liée à un événement astronomique ?
-- **Pourquoi le rituel doit-il être fait à un moment précis ?** Fenêtre astronomique ? Alignement ? Si on le rate, que se passe-t-il ?
-    - 💡 **Piste** : AGENT.md précise que le rituel doit être effectué lors du changement d'heure d'octobre (+/- 1 jour). L'énigme du vieux calendrier sert à trouver le bon moment.
+- 💡 **Justification du changement d'heure** — Proposition : le rituel doit être accompli à un **moment astronomique précis** (par exemple minuit solaire vrai). Avant l'instauration de l'heure d'été (1916 en France), l'heure légale correspondait approximativement à l'heure solaire. Depuis, le changement d'heure crée un décalage. L'énigme du vieux calendrier permet de retrouver l'heure solaire vraie. Le changement d'heure d'octobre est le moment où ce décalage se corrige, créant une fenêtre propice. À valider.
+- ❓ **Quelle heure précise pour le rituel ?** — Midi solaire ? Minuit ? Une heure liée à un événement astronomique ? Dépend de la justification ci-dessus.
+- ❓ **Pourquoi le rituel doit-il être fait à un moment précis ?** — Fenêtre astronomique ? Alignement ? Si on le rate, que se passe-t-il ?
 
 ## Les cartes et la superposition
 
-- **4 cartes listées, 3 groupes** — Carte des grottes, IGN, état major, Cassini. Même problème que les époques : laquelle est attribuée à quel groupe ? Une carte est-elle redondante ou sert-elle de référence ?
-- **Les trous dans les cartes** — Que représentent-ils ? Des lieux où des objets ont disparu ? Des zones effacées par le triangle ? Comment les trous sont-ils créés matériellement (perforations physiques, zones masquées) ?
-- **Le centre du triangle = lieu du rituel** — Est-ce le même lieu que la grotte aux objets disparus ? Si oui, les joueurs le trouvent déjà le samedi (équipe rando). Si non, comment justifier deux lieux distincts ?
-    - 💡 **Piste** : Coordonnées réelles d'une grotte (45.150739, 5.564328, grottomap.org). Les objectifs communs confirment que le repère des cultistes = la grotte. La grotte semble bien être le lieu du rituel. Si la grotte = centre du triangle ET lieu du rituel, alors l'équipe rando trouve le lieu le samedi — comment éviter que le rituel se fasse trop tôt ?
+- ❓ **4 cartes listées, 3 groupes** — Carte des grottes, IGN, état major, Cassini. Laquelle est attribuée à quel groupe ? Une carte est-elle redondante ? *(Question game design — voir `deroule.md`.)*
+- ❓ **Les trous dans les cartes** — Que représentent-ils ? Des lieux où des objets ont disparu ? Des zones effacées par le triangle ? Comment les trous sont-ils créés matériellement ?
+- 💡 **Le centre du triangle = lieu du rituel** — La grotte aux objets disparus semble être à la fois le repère des cultistes et le lieu du rituel. Coordonnées : 45.150739, 5.564328 (grottomap.org). En attente de la carte de Rémi pour confirmer.
 
 ## Le site web
 
@@ -87,70 +96,33 @@ Liste des contradictions, trous narratifs et questions ouvertes à résoudre ava
 - ✅ **Évolution du contenu** — **Résolu** : Narration volontaire d'Ivan, pas une infection progressive. Structure en deux phases (publique jour 1, secrète jour 2).
 - ✅ **Quel est le lien avec les énigmes ?** — **Résolu** : Le site est consulté par l'équipe statique le samedi (partie publique). La partie secrète (jour 2) donne des indices pour le rituel. Vecteur pendant le jeu, pas seulement teaser.
 
-## Cohérence des équipes et des énigmes
+## Les manifestations nocturnes
 
-### Arcs du samedi (par équipe)
-
-D'après excalidraw, les 3 équipes ont des buts distincts le samedi :
-
-- **Équipe tranquille (Batiste) — chapelle/gîte/village** : enquêter sur les cultistes et le triangle du Vercors. Rassembler des infos (site web de Ivan, commerçant/office du tourisme, géoguesser pour guider les équipes mobiles).
-- **Équipe sportive (Seb) — terrain** : créer les conditions de la destruction de la statuette. Trouver différents objets sans savoir lequel servira à la destruction + trouver une partie des costumes.
-- **Équipe rando (Rémi) — terrain++** : trouver la grotte avec les objets disparus à travers les époques + la statuette. Triangulation de photos de piège photo, trésor caché (outils ésotériques + morceaux de costumes).
-
-### Chevauchements à résoudre
-
-- **Costumes** — L'équipe sportive (Seb) cherche "une partie des costumes" ET l'équipe rando (Rémi) trouve "des morceaux de costumes" dans le trésor caché. Comment répartir clairement ? Qui trouve quoi ?
-- **Repère des cultistes** — L'équipe tranquille (Batiste) "enquête sur les cultistes" et l'équipe rando (Rémi) "trouve la grotte" (= repère des cultistes). Est-ce que Batiste rassemble des infos qui mènent Rémi à la grotte, ou est-ce que Rémi la trouve de manière indépendante ?
-- **Objectifs communs** (trouver le repère des cultistes, contacter le PNJ, détruire la statuette) — Ces objectifs sont-ils vraiment communs ou chaque équipe y contribue différemment ?
-
-### Questions ouvertes sur les équipes
-
-- **Que fait chaque équipe le dimanche ?** Excalidraw indique : Groupe 1 → gîte/village, Groupe 2 → terrain, Groupe 3 → terrain+. Mais les objectifs du dimanche (reconstruire la statuette, chorégraphie, costumes, préparer le lieu) semblent tous attribués à l'équipe rando (Rémi). Que font les autres équipes ?
-- **Le final du samedi (17h30-18h)** — Que s'y passe-t-il concrètement ? C'est le moment du twist — mais comment est-il révélé ? Par le PNJ ? Par un document ? Par une vidéo ?
-- **"Infos inutiles pour le premier jour" (chorégraphie, heure, costume)** — Pourquoi ces infos sont-elles présentes le samedi mais inutilisables ? Sont-elles des leurres ? Des indices prématurés que les joueurs ne peuvent pas encore interpréter ?
-- **3 lieux, 3 énigmes** — Excalidraw mentionne "3 lieux, 3 énigmes". Est-ce que chaque équipe a son propre lieu et sa propre énigme complète, ou est-ce que chaque équipe résout un fragment d'une même énigme ?
+- ✅ **Existence** — Pendant la nuit du samedi au dimanche, des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes : texte à l'encre invisible dans les douches, indices dans les boîtes de céréales et/ou sous les tasses, éléments étranges sur les voitures.
+- ✅ **Fonction narrative** — Ces manifestations orientent les joueurs vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
+- 🔑 **Qui produit les manifestations ?** — Point clé à trancher. Le maléfice « n'a pas de volonté propre », mais ces manifestations supposent une forme d'intention. Options : le triangle lui-même (donc une forme de volonté ?), les esprits des Perchten, une force protectrice distincte du maléfice ?
+- ❓ **Contenu précis des manifestations** — La forme exacte des indices et leur articulation avec le message de la statuette restent à définir. [PRIO]
 
 ## Le rituel lui-même
 
-- **Que fait le rituel concrètement ?** On a 5 éléments (chorégraphie, heure, lieu, objet, costumes) mais pas la description de ce qui se passe quand tout est réuni.
-- **Comment les joueurs apprennent-ils la chorégraphie ?** Vidéo ? Descriptions textuelles ? Figures sur les cartes ? Reconstitution à partir d'indices fragmentaires ?
-- **Qu'est-ce qui indique aux joueurs qu'ils ont réussi ?** Effet visuel ? Disparition des phénomènes ? Apparition de quelque chose ?
-    - 💡 **Piste** : Excalidraw mentionne "fumigènes, lumières" comme éléments pour le succès du final. À intégrer comme effet visuel de réussite.
-- **Le final filmé ?** — Excalidraw mentionne "Final filmé ?" sans détail. Est-ce que les joueurs se filment eux-mêmes ? Est-ce qu'un PNJ filme ? Quel est le but (souvenir, preuve, intégration narrative) ?
+- 💡 **Éléments à réunir** — Le rituel doit combiner cinq éléments : chorégraphie, heure, lieu, objet (la nouvelle statuette) et costumes/masques.
+- ✅ **Sources des instructions** — La chorégraphie et les autres éléments du rituel sont reconstitués à partir d'indices sonores et visuels.
+- ❓ **Que fait le rituel concrètement ?** — Quelle action surnaturelle produit-il sur l'anomalie temporelle : apaisement pour 140 ans, réussite partielle ou possibilité de briser définitivement le maléfice ?
+- ❓ **Qu'est-ce qui indique aux joueurs qu'ils ont réussi ?** — Effet visuel ? Disparition des phénomènes ? Apparition de quelque chose ? Excalidraw mentionne « fumigènes, lumières » comme éléments pour le succès du final.
+- ❓ **Le final filmé ?** — Les joueurs se filment-ils eux-mêmes ? Un PNJ filme ? Quel est le but (souvenir, preuve, intégration narrative) ?
 
 ## Animaux du Vercors
 
-- **Quel rôle narratif ?** Les animaux sont listés mais sans lien clair avec le lore. Sont-ils des indices (photos animalières sur le site web) ? Des victimes du triangle ? Des éléments de costume (peaux) ?
-    - 💡 **Piste** : Le tableau du chasseur montre les loups comme protecteurs des figures masquées (Perchten). Les animaux ne sont pas des menaces — ils sont associés aux protecteurs. À exploiter avec la liste d'animaux du Vercors.
-- **Le gypaète barbu** — Espèce emblématique réintroduite dans les Alpes. Y a-t-il un lien à exploiter (réintroduction = parallèle avec le rituel de conjuration) ?
-- **Lien avec le site web** — Les photos animalières d'Ivan Beaulieu sont la façade du site. Les animaux servent-ils aussi d'indices dans les énigmes ?
+- 💡 **Rôle narratif** — Le tableau du chasseur montre les loups comme protecteurs des figures masquées (Perchten). Les animaux ne sont pas des menaces — ils sont associés aux protecteurs. À exploiter avec la liste d'animaux du Vercors.
+- ❓ **Le gypaète barbu** — Espèce emblématique réintroduite dans les Alpes. Y a-t-il un lien à exploiter (réintroduction = parallèle avec le rituel de conjuration) ?
+- ❓ **Lien avec le site web** — Les photos animalières d'Ivan Beaulieu sont la façade du site. Les animaux servent-ils aussi d'indices dans les énigmes ?
 
-## Pistes narratives et indices documentaires
+---
 
-4 documents/indices identifiés dans le scenario_statique (archived) — à répartir entre les équipes et les jours :
+## Points clés à trancher (récapitulatif)
 
-1. **[Procès] Le notable innocent** (Moyen Âge) — Un notable condamné pour vol d'un cadeau diplomatique destiné au Vercors. Il affirme que le cadeau a disparu (créatures surnaturelles). L'évêque retrouve le cadeau a posteriori, absout le notable posthumement. Inscription sur la tombe.
-2. **[Lettre] L'enfant et la grotte dorée** — Un enfant trouve une grotte pleine d'objets précieux et du quotidien (rouleau à pâtisserie de sa mamie). Personne ne le croit. Adulte, il raconte l'histoire dans une lettre au Dr Brilleux.
-3. **[Tableau] Le chasseur et les loups** — Un chasseur perdu voit un personnage masqué assis sur un rocher, avec des loups protecteurs. Au centre : un objet magique (la statuette). Tableau exposé chez un commerce local (descendant du chasseur).
-4. **[Voyante] La voyante nulle** — PNJ qui donne un indice énigmatique interprétable comme "détruire l'objet". En réalité juste une mauvaise voyante.
-
-**Questions** :
-- Quel document va à quelle équipe / quel jour ?
-- Le tableau est chez un commerce local — est-ce l'commerce/office du tourisme que visite l'équipe tranquille ?
-- La voyante est-elle un PNJ physique ou une interaction à distance ?
-
-## Mécaniques d'énigmes identifiées
-
-Liste des mécaniques d'énigmes mentionnées dans excalidraw et archived, à répartir :
-
-- **Superposition de cartes** — 3 cartes d'époques différentes avec des trous, superposées pour trouver le lieu du rituel
-- **Géoguesser** — Une équipe a une photo et guide une équipe sur le terrain (point de repère, ligne de crête)
-- **Triangulation de photos de piège photographique** — Indices sur place (traces landart, mobile Blairwitch), carte, trésor caché
-- **Vieux calendrier sans changement d'heure** — Pour trouver le moment du rituel
-- **Descriptions de trajets (écrit de l'an 1000)** — Texte ancien décrivant un trajet, à retrouver sur une carte
-- **Fouille du gîte** — Résolution d'énigmes au gîte (14h-14h30 le samedi)
-- **Échange avec PNJ** — Les PNJ ne sont pas généreux, il faut résoudre une énigme ou accomplir une tâche pour obtenir un document
-
-**Questions** :
-- Comment répartir ces mécaniques entre les 3 équipes et les 2 jours ?
-- Certaines mécaniques (géoguesser, triangulation) impliquent une coopération entre équipes — comment l'organiser ?
+1. 🔑 **Qui produit les manifestations nocturnes ?** — Le maléfice sans volonté, les esprits des Perchten, ou une force protectrice ?
+2. 🔑 **Destin d'Ivan Beaulieu** — Mort de vieillesse ou disparition mystérieuse ?
+3. 💡 **Justification du changement d'heure** — Proposition faite (moment astronomique + décalage DST). À valider.
+4. 💡 **Les 3 points du triangle** — En attente de la carte de Rémi.
+5. ⚠️ **Mettre à jour `lore.md`** — Corriger « des gens ordinaires qui ne se souviennent de rien » → cultistes conscients de leur mission.
