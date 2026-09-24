@@ -1,1 +1,5 @@
 archived/*.ini
+
+# Machine-local files — never commit (convention: local_ prefix = local to this machine)
+local_*
+friction_log.md
