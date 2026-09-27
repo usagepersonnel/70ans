@@ -49,6 +49,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ✅ **Effet de la destruction** — La destruction de la statuette ne provoque rien en elle-même : elle est seulement nécessaire pour révéler les instructions et permettre la suite du scénario.
 - ✅ **Message** — Le message est laissé par les fabricants de la statuette. Il explique en substance que si les joueurs l'ont trouvée, c'est que les anciens Perchtenlauf ne sont plus là — sinon ils ne les auraient pas laissés y accéder — et que les joueurs doivent devenir les nouveaux Perchtenlauf.
 - ✅ **Lieu** — La statuette se trouve dans la grotte où sont rassemblés les objets disparus ; l'équipe rando la découvre le samedi.
+- 📝 **Après le vol du fugitif — proposition à confirmer** — Dans `RANDO.md` (récit situé dans le passé), le fugitif la cache près d'une source. Chaîne proposée : les Perchtenlauf le rattrapent, récupèrent la statuette et la replacent dans la grotte — le vol expliquerait que le rituel précédent n'ait été que partiel.
 - ✅ **Origine de la statuette actuelle** — Elle a été fabriquée par les Perchtenlauf du cycle précédent, voire d'un cycle antérieur. C'est un vieil objet, potentiellement réutilisé depuis plusieurs cycles.
 - ✅ **Ingrédients de la statuette** — Les instructions précisent que la statuette doit être composée de certains matériaux (du bois, etc.) et porter des symboles correspondant à un loup, etc. La forme et la réalisation restent libres.
 - ✅ **Pourquoi les rituels précédents étaient partiels** — La statuette « parfaite » n'a jamais été réalisée. Les ingrédients sont en partie connus mais jamais réunis correctement. Espoir que ce coup-ci on y arrive.
@@ -65,14 +66,14 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 ## Le photographe et le PNJ
 
 - 💡 **Photographe animalier** — Il a capturé des images d'êtres masqués dans la forêt. Il est convaincu qu'ils sont malveillants.
-- 📝 **Destin du photographe — souvenir de réunion à confirmer** — Il serait mort dans un véritable accident de voiture alors qu'il se rendait en montagne pour rechercher les Perchtenlauf. Il ne pensait pas heurter les personnes en tenues étranges qu'il a percutées. Un article de journal présente l'événement comme un accident de la route fortuit.
+- 📝 **Destin du photographe — souvenir de réunion à confirmer** — Il serait mort dans un véritable accident de voiture alors qu'il se rendait en montagne pour rechercher les Perchtenlauf. Il ne pensait pas heurter les personnes en tenues étranges qu'il a percutées. Un article de journal présente l'événement comme un accident de la route fortuit. Extension possible : les victimes seraient les derniers Perchtenlauf — l'accident expliquerait alors la rupture de transmission, en déductible (l'article), jamais énoncé.
 - ❓ **Lien du photographe avec les cultistes** — Son rôle auprès des Perchtenlauf et ce qu'il a découvert restent à préciser.
 - 💡 **Le PNJ, enfant du photographe** — Excalidraw confirme « Arrivée du PNJ, infodump ». Le PNJ fournit le mot de passe ou le code pour la partie secrète du site web (jour 2). Reste à déterminer ce qui déclenche son apparition. [PRIO]
 - ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par le photographe. Partie publique (jour 1) + partie secrète (jour 2) nécessitant un code ou une URL cachée. Le PNJ fournit l'accès.
 
 ## Pourquoi la statuette est avec les objets ? Et pourquoi les perchtenlaufs ne prennent pas les objets ? [Décision du 19/07]
 
-- Les perchtenlaufs savent où est la grotte, mais ils tiennent les objets en question pour maudits, donc ils n'y touchent pas pour ne pas empirer le phoénomène. Ainsi, ils gardent ces objets comme une sorte de trésor sacré et secret, en espérant que personne ne vienne y toucher.
+- La grotte est difficile à trouver, donc les personnes qui y tombent par hasard la retrouvent rarement. Les Perchtenlauf savent où elle se trouve, mais considèrent sacrilège d'en retirer les objets, qu'ils tiennent pour maudits. Ils les laissent donc dans la grotte par crainte d'aggraver le phénomène. Elle conserve ainsi des objets disparus de différentes époques.
 - Les joueurs vont faire le pire : prendre les objets et détruire la statuette. C'est vraiment pas terrible pour calmer un maléfice. Donc là, c'est vraiment la merde !!! Ils doivent vraiment réussir le rituel pour conjurer le maléfice avant qu'il soit trop tard.
 
 ## Le calendrier et le timing du rituel
@@ -97,7 +98,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 - ✅ **Existence** — Pendant la nuit du samedi au dimanche, des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes : texte à l'encre invisible dans les douches, indices dans les boîtes de céréales et/ou sous les tasses, éléments étranges sur les voitures.
 - ✅ **Fonction narrative** — Ces manifestations orientent les joueurs vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
-- � **Nature des manifestations — souvenir de réunion à confirmer** — Elles seraient un effet surnaturel qui semble interagir avec le monde, sans volonté ni intention morale clairement bienveillante ou malveillante. Cette zone grise doit rester compatible avec le fait que le maléfice n'a pas de volonté propre.
+- 📝 **Nature des manifestations — souvenir de réunion à confirmer** — Elles seraient un effet surnaturel qui semble interagir avec le monde, sans volonté ni intention morale clairement bienveillante ou malveillante. Cette zone grise doit rester compatible avec le fait que le maléfice n'a pas de volonté propre.
 - ❓ **Contenu précis des manifestations** — La forme exacte des indices et leur articulation avec le message de la statuette restent à définir. [PRIO]
 
 ## Le rituel lui-même
@@ -118,8 +119,9 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 ## Points clés à trancher (récapitulatif)
 
-1. 🔑 **Qui produit les manifestations nocturnes ?** — Le maléfice sans volonté, les esprits des Perchten, ou une force protectrice ?
-2. 🔑 **Destin d'Ivan Beaulieu** — Mort de vieillesse ou disparition mystérieuse ?
+1. **Qui produit les manifestations nocturnes ?** — Souvenir de réunion à confirmer : effet surnaturel « zone grise », sans intention clairement bienveillante ou malveillante (compatible avec un maléfice sans volonté).
+2. **Destin d'Ivan Beaulieu** — Souvenir de réunion à confirmer : vrai accident de voiture en allant chercher les Perchtenlauf (article de journal). Extension possible : victimes = derniers Perchtenlauf → rupture de transmission déductible.
 3. 💡 **Justification du changement d'heure** — Proposition faite (moment astronomique + décalage DST). À valider.
 4. 💡 **Les 3 points du triangle** — En attente de la carte de Rémi.
 5. ⚠️ **Mettre à jour `lore.md`** — Corriger « des gens ordinaires qui ne se souviennent de rien » → cultistes conscients de leur mission.
+
