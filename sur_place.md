@@ -6,7 +6,7 @@ Checklist de repérage et de collecte pour la visite sur le terrain. Tout ce qui
 
 ## 🎯 Priorités si le temps manque
 
-1. **Le lieu du rituel final** — repérer 2-3 candidats (voir section dédiée)
+1. **Le lieu du rituel final** — repérer 2-3 candidats **utilisables vers 10h30–11h** et à courte distance du gîte : contrainte nouvelle (Monique, 02/10), tout doit être terminé à midi
 2. **Les cartes physiques** — acheter l'IGN, demander reproductions de cartes anciennes
 3. **Le feu vert du commerçant** — sonder qui accepterait d'exposer le tableau du chasseur
 
@@ -25,18 +25,22 @@ Terrain principal de l'équipe tranquille : fouille le samedi, manifestations la
 
 ### Manifestations nocturnes (nuit samedi → dimanche)
 
-- [ ] **Les douches** — spot pour le texte à l'encre invisible. Photo + noter la surface des parois (l'encre invisible demande une surface adaptée : carrelage OK, pierre poreuse non). Où le message peut-il apparaître ?
-- [ ] **Cuisine / coin petit-déj** — où sont les boîtes de céréales et les tasses ? Photo des étagères (indices placés physiquement la nuit)
-- [ ] **Le parking** — où seront garées les voitures (« éléments étranges » dessus). Photo + distance depuis les chambres
+Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du dimanche — douches → « arts plastiques », petit-déj → « rituel », voitures → « lieu ».
+
+- [ ] **Les douches** — la buée révèle un texte à l'encre invisible (les symboles de la statuette). Vérifier : surface des parois (carrelage/vitre OK, pierre poreuse non), et que la salle **s'embue bien** (ventilation, taille). Photo
+- [ ] **Cuisine / coin petit-déj** — des fragments (paroles, rythme, gestes) dans les céréales et sous les tasses, qui s'assemblent. Noter la disposition de la table et le nombre de places. Photo des étagères
+- [ ] **Le parking** — un tracé / des repères dans le givre ou la poussière sur les voitures. Photo + distance depuis les chambres + demander au proprio si le **givre matinal est fréquent fin octobre**
 
 ### Dimanche
 
 - [ ] Espaces de travail pour les 3 groupes fonctionnels en parallèle : table pour les arts plastiques (fabriquer la statuette), espace pour répéter la chorégraphie, coin calme pour le groupe « lieu » avec les cartes
-- [ ] **Point d'arrivée du PNJ** — l'enfant d'Ivan débarque pour l'infodump : d'où peut-il apparaître physiquement ?
+- [ ] **Point d'arrivée du PNJ** — proposition à valider : l'enfant d'Ivan revient chaque année autour de l'anniversaire de l'accident et débarque **dimanche matin**. Repérer d'où il peut apparaître physiquement (parking, entrée du village, chemin)
+- [ ] Dans la chambre d'Ivan : où cacher l'indice « il revient chaque année fin octobre » qui prépare sa venue ? (calendrier avec date cerclée, lettre, réservation récurrente au livre d'or…)
 
 ### À demander au propriétaire
 
 - [ ] Légendes ou anecdotes du coin, vieux objets/documents présents dans le gîte
+- [ ] Y a-t-il des **habitués qui reviennent chaque année à date fixe** ? (crédibilité du pèlerinage annuel du PNJ)
 - [ ] Accord pour les mécaniques : fouille, accès douches/cuisine la nuit, éléments sur les voitures
 
 ## ⛪ Le village — enquête de l'équipe tranquille
@@ -71,15 +75,20 @@ Terrain principal de l'équipe tranquille : fouille le samedi, manifestations la
 
 ### Le terroir du fugitif (arc RANDO)
 
+Contexte mis à jour (validé par Rémi, 02/10) : le fugitif cache la statuette près d'une source, les Perchten le rattrapent et la replacent dans la grotte — retour à l'état initial. Le squelette du Scialet Royer n'est **pas** le fugitif : proposition = une victime « collectée » par le triangle (ex. soldat 2GM).
+
 - [ ] Faire le trajet **gîte → Col de Carri** (premier tronçon du parcours, ~15 min) : photo depuis le col vers le village, temps de trajet réel
 - [ ] Vérifier que le texte de `RANDO.md` colle au terrain (toponymes, lignes de vue) — seul contrôle réalité avant que le texte soit retravaillé
+- [ ] Si le parcours passe près d'un scialet : photo utile pour Rémi (le squelette y reste une fausse piste maîtrisée)
 
 ### ⭐ Lieu du rituel final
 
-Rien dans les docs ne dit **où** se passe le rituel du dimanche soir. Besoins : dehors, proche du gîte, utilisable de nuit, atmosphérique (clairière, pierres, entrée de grotte ?), sûr pour des fumigènes, accessible à pied pour tous.
+Le rituel a lieu **vers 10h30–11h le dimanche matin** — tout doit être terminé à midi (cousins qui partent). Besoins : dehors, **≤15 min à pied du gîte** (le planning du dimanche est compressé), atmosphérique (clairière, pierres, entrée de grotte ?), fumigènes visibles **de jour** et sûrs, accessible pour tous.
 
-- [ ] Repérer 2-3 candidats — photo de jour, et photo de nuit si possible
-- [ ] Vérifier la distance de marche depuis le gîte et l'intimité du lieu (pas de passage de voisins)
+Bonus : la visite tombe en journée — les photos prises vers 10h–11h montrent **exactement** la lumière et l'ambiance du vrai moment (brume d'octobre incluse).
+
+- [ ] Repérer 2-3 candidats — photos vers 10h–11h si possible
+- [ ] Vérifier le temps de marche réel depuis le gîte et l'intimité du lieu (pas de passage de voisins)
 
 ## 📸 Production
 
