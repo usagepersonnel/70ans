@@ -26,8 +26,12 @@ Ces points recensent des informations contradictoires ou des souvenirs de réuni
 
 - [x] **Durée du cycle** — Validé : 140 ans (cf. `TODO.md`). Reste à corriger `lore.md` qui contient encore `<duree>` et une ancienne piste de 100 ans.
 - [ ] **Sort des cultistes** — `lore_precisions.md` indique qu'ils connaissent leur mission et que leur sort reste inexpliqué. `lore.md` propose qu'ils oublient tout, soient libérés ou meurent.
-- [ ] **Manifestations nocturnes** — `lore_precisions.md` dit que le maléfice n'a pas de volonté propre, tandis que les manifestations semblent orienter les joueurs. Souvenir de réunion à confirmer : un effet surnaturel interagit sans intention clairement bienveillante ou malveillante.
-- [ ] **Sort du photographe** — `lore_precisions.md` présente encore sa disparition comme une question ouverte. Souvenir de réunion à confirmer : il est mort dans un véritable accident de voiture alors qu'il cherchait les êtres masqués en montagne. L'article de journal fait croire à un accident fortuit où plusieurs personnes en tenues étranges ont été percutées. Extension proposée : victimes = derniers Perchtenlauf → rupture de transmission déductible, jamais énoncée.
-- [ ] **Emplacement de la statuette** — `lore_precisions.md` la place dans la grotte, tandis que `RANDO.md` raconte son vol puis sa dissimulation près d'une source. Proposition à valider : les Perchtenlauf ont rattrapé le fugitif, récupéré la statuette et replacé dans la grotte — le vol expliquerait la réussite partielle du rituel précédent.
+- [x] **Manifestations nocturnes** — Validé (Rémi, 02/10) : effet surnaturel « zone grise », sans intention clairement bienveillante ou malveillante — compatible avec un maléfice sans volonté propre.
+- [x] **Sort du photographe** — Validé (Rémi, 02/10) : vrai accident de voiture, de nuit en montagne, en allant chercher les êtres masqués. Article de journal : accident fortuit, personnes en tenues étranges percutées. Lien avec les derniers Perchtenlauf déductible, jamais énoncé.
+- [x] **Emplacement de la statuette** — Validé (Rémi, 02/10) : les Perchtenlauf ont rattrapé le fugitif, récupéré la statuette près de la source et l'ont replacée dans la grotte (retour à l'état initial). Le vol n'explique pas le rituel partiel — cause : la statuette jamais parfaitement conforme.
 - [ ] **Continuité de la randonnée** — `RANDO.md` mentionne un squelette au Scialet Royer, mais le fugitif poursuit ensuite sa fuite. Le texte propose aussi deux versions incompatibles du sac.
+
+## Logistique
+
+- [ ] **Recaler le planning du dimanche** — Contrainte (Monique, 02/10) : tout doit être terminé à midi, des cousins partent vers 12 h. Le rituel doit avoir lieu vers 10h30–11h ; compresser la remise en situation et le travail en groupes en conséquence.
 

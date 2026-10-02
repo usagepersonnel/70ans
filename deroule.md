@@ -28,6 +28,8 @@ Le dimanche, les joueurs se reforment en **trois groupes fonctionnels**, distinc
 
 Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rituel ensemble. Les horaires d'excalidraw restent la structure de référence : 9h30-10h remise en situation au petit-déjeuner, 10h-11h30 travail en groupes, puis final de la partie.
 
+⚠️ **Contrainte horaire (Monique, 02/10)** — Tout doit être terminé à midi : des cousins veulent partir vers 12 h. Le rituel doit donc avoir lieu vers **10h30–11h**, et le planning du dimanche est à recaler en conséquence (travail en groupes compressé).
+
 - ✅ **Recherche des anciens Perchtenlauf** — Les joueurs ne doivent pas avoir pour objectif de les retrouver : le message de la statuette leur apprend directement qu'ils doivent prendre le relais.
 
 ### Questions ouvertes sur le dimanche

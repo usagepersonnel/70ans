@@ -49,7 +49,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ✅ **Effet de la destruction** — La destruction de la statuette ne provoque rien en elle-même : elle est seulement nécessaire pour révéler les instructions et permettre la suite du scénario.
 - ✅ **Message** — Le message est laissé par les fabricants de la statuette. Il explique en substance que si les joueurs l'ont trouvée, c'est que les anciens Perchtenlauf ne sont plus là — sinon ils ne les auraient pas laissés y accéder — et que les joueurs doivent devenir les nouveaux Perchtenlauf.
 - ✅ **Lieu** — La statuette se trouve dans la grotte où sont rassemblés les objets disparus ; l'équipe rando la découvre le samedi.
-- 📝 **Après le vol du fugitif — proposition à confirmer** — Dans `RANDO.md` (récit situé dans le passé), le fugitif la cache près d'une source. Chaîne proposée : les Perchtenlauf le rattrapent, récupèrent la statuette et la replacent dans la grotte — le vol expliquerait que le rituel précédent n'ait été que partiel.
+- ✅ **Après le vol du fugitif** — Dans `RANDO.md` (récit situé dans le passé), le fugitif la cache près d'une source. Validé (Rémi, 02/10) : les Perchtenlauf le rattrapent, récupèrent la statuette et la replacent dans la grotte — retour à l'état initial. Le vol n'explique pas le rituel partiel : la cause reste la statuette jamais parfaitement conforme aux instructions.
 - ✅ **Origine de la statuette actuelle** — Elle a été fabriquée par les Perchtenlauf du cycle précédent, voire d'un cycle antérieur. C'est un vieil objet, potentiellement réutilisé depuis plusieurs cycles.
 - ✅ **Ingrédients de la statuette** — Les instructions précisent que la statuette doit être composée de certains matériaux (du bois, etc.) et porter des symboles correspondant à un loup, etc. La forme et la réalisation restent libres.
 - ✅ **Pourquoi les rituels précédents étaient partiels** — La statuette « parfaite » n'a jamais été réalisée. Les ingrédients sont en partie connus mais jamais réunis correctement. Espoir que ce coup-ci on y arrive.
@@ -66,7 +66,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 ## Le photographe et le PNJ
 
 - 💡 **Photographe animalier** — Il a capturé des images d'êtres masqués dans la forêt. Il est convaincu qu'ils sont malveillants.
-- 📝 **Destin du photographe — souvenir de réunion à confirmer** — Il serait mort dans un véritable accident de voiture alors qu'il se rendait en montagne pour rechercher les Perchtenlauf. Il ne pensait pas heurter les personnes en tenues étranges qu'il a percutées. Un article de journal présente l'événement comme un accident de la route fortuit. Extension possible : les victimes seraient les derniers Perchtenlauf — l'accident expliquerait alors la rupture de transmission, en déductible (l'article), jamais énoncé.
+- ✅ **Destin du photographe** — Validé (Rémi, 02/10) : il est mort dans un véritable accident de voiture, de nuit en montagne, alors qu'il partait chercher les êtres masqués — fasciné par eux, sans intention de leur nuire. Un article de journal présente l'événement comme un accident de la route fortuit, où il aurait percuté des personnes en tenues étranges. Le scénario ne confirme pas que ces victimes étaient les derniers Perchtenlauf ni que l'accident explique leur absence — le lien reste déductible, jamais énoncé.
 - ❓ **Lien du photographe avec les cultistes** — Son rôle auprès des Perchtenlauf et ce qu'il a découvert restent à préciser.
 - 💡 **Le PNJ, enfant du photographe** — Excalidraw confirme « Arrivée du PNJ, infodump ». Le PNJ fournit le mot de passe ou le code pour la partie secrète du site web (jour 2). Reste à déterminer ce qui déclenche son apparition. [PRIO]
 - ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par le photographe. Partie publique (jour 1) + partie secrète (jour 2) nécessitant un code ou une URL cachée. Le PNJ fournit l'accès.
@@ -78,8 +78,8 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 ## Le calendrier et le timing du rituel
 
-- 💡 **Justification du changement d'heure** — Proposition : le rituel doit être accompli à un **moment astronomique précis** (par exemple minuit solaire vrai). Avant l'instauration de l'heure d'été (1916 en France), l'heure légale correspondait approximativement à l'heure solaire. Depuis, le changement d'heure crée un décalage. L'énigme du vieux calendrier permet de retrouver l'heure solaire vraie. Le changement d'heure d'octobre est le moment où ce décalage se corrige, créant une fenêtre propice. À valider.
-- ❓ **Quelle heure précise pour le rituel ?** — Midi solaire ? Minuit ? Une heure liée à un événement astronomique ? Dépend de la justification ci-dessus.
+- ✅ **Justification du changement d'heure** — Validé (Rémi, 02/10) : le rituel doit être accompli à un **moment astronomique précis** le dimanche du changement d'heure. Avant l'instauration de l'heure d'été (1916 en France), l'heure légale correspondait approximativement à l'heure solaire ; depuis, le changement d'heure crée un décalage. Le basculement réel (3 h → 2 h dans la nuit du 24 au 25 octobre 2026) n'est pas l'heure du rituel : c'est ce qui rend ce week-end propice, quand l'heure légale recolle à l'heure solaire. Le vieux calendrier — qui ignore l'heure d'été — est l'énigme qui permet de retrouver le moment.
+- ⚠️ **Contrainte horaire réelle** — Tout doit être terminé à midi (des cousins partent vers 12 h). Le rituel doit donc avoir lieu vers **10h30–11h** : le vieux calendrier devra justifier une heure de fin de matinée — « midi solaire vrai » tombe vers 12h40 en heure légale, donc hors contrainte.
 - ❓ **Pourquoi le rituel doit-il être fait à un moment précis ?** — Fenêtre astronomique ? Alignement ? Si on le rate, que se passe-t-il ?
 
 ## Les cartes et la superposition
@@ -98,14 +98,14 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 - ✅ **Existence** — Pendant la nuit du samedi au dimanche, des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes : texte à l'encre invisible dans les douches, indices dans les boîtes de céréales et/ou sous les tasses, éléments étranges sur les voitures.
 - ✅ **Fonction narrative** — Ces manifestations orientent les joueurs vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
-- 📝 **Nature des manifestations — souvenir de réunion à confirmer** — Elles seraient un effet surnaturel qui semble interagir avec le monde, sans volonté ni intention morale clairement bienveillante ou malveillante. Cette zone grise doit rester compatible avec le fait que le maléfice n'a pas de volonté propre.
+- ✅ **Nature des manifestations** — Validé (Rémi, 02/10) : elles sont un effet surnaturel qui semble interagir avec le monde, sans volonté ni intention morale clairement bienveillante ou malveillante — un débordement de fin de cycle, ni « contre » ni « pour » les joueurs. Compatible avec un maléfice sans volonté propre.
 - ❓ **Contenu précis des manifestations** — La forme exacte des indices et leur articulation avec le message de la statuette restent à définir. [PRIO]
 
 ## Le rituel lui-même
 
 - 💡 **Éléments à réunir** — Le rituel doit combiner cinq éléments : chorégraphie, heure, lieu, objet (la nouvelle statuette) et costumes/masques.
 - ✅ **Sources des instructions** — La chorégraphie et les autres éléments du rituel sont reconstitués à partir d'indices sonores et visuels.
-- ❓ **Que fait le rituel concrètement ?** — Quelle action surnaturelle produit-il sur l'anomalie temporelle : apaisement pour 140 ans, réussite partielle ou possibilité de briser définitivement le maléfice ?
+- ✅ **Que fait le rituel concrètement ?** — Validé (Rémi, 02/10) : le rituel apaise le maléfice pour un nouveau cycle de 140 ans, et sa qualité décide du résultat — partiel → disparitions réduites mais ponctuelles (le cas habituel) ; parfait → le maléfice est brisé définitivement (jamais arrivé) ; raté → le maléfice se déchaîne.
 - ❓ **Qu'est-ce qui indique aux joueurs qu'ils ont réussi ?** — Effet visuel ? Disparition des phénomènes ? Apparition de quelque chose ? Excalidraw mentionne « fumigènes, lumières » comme éléments pour le succès du final.
 - ❓ **Le final filmé ?** — Les joueurs se filment-ils eux-mêmes ? Un PNJ filme ? Quel est le but (souvenir, preuve, intégration narrative) ?
 
@@ -119,9 +119,9 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 ## Points clés à trancher (récapitulatif)
 
-1. **Qui produit les manifestations nocturnes ?** — Souvenir de réunion à confirmer : effet surnaturel « zone grise », sans intention clairement bienveillante ou malveillante (compatible avec un maléfice sans volonté).
-2. **Destin d'Ivan Beaulieu** — Souvenir de réunion à confirmer : vrai accident de voiture en allant chercher les Perchtenlauf (article de journal). Extension possible : victimes = derniers Perchtenlauf → rupture de transmission déductible.
-3. 💡 **Justification du changement d'heure** — Proposition faite (moment astronomique + décalage DST). À valider.
+1. ~~**Qui produit les manifestations nocturnes ?**~~ — ✅ Validé (Rémi, 02/10) : effet surnaturel « zone grise », sans intention clairement bienveillante ou malveillante (compatible avec un maléfice sans volonté).
+2. ~~**Destin d'Ivan Beaulieu**~~ — ✅ Validé (Rémi, 02/10) : vrai accident de voiture, de nuit en montagne, en allant chercher les êtres masqués (article de journal). Lien avec les derniers Perchtenlauf déductible, jamais énoncé.
+3. ~~**Justification du changement d'heure**~~ — ✅ Validé (Rémi, 02/10), avec contrainte : rituel vers 10h30–11h, tout terminé à midi.
 4. 💡 **Les 3 points du triangle** — En attente de la carte de Rémi.
 5. ⚠️ **Mettre à jour `lore.md`** — Corriger « des gens ordinaires qui ne se souviennent de rien » → cultistes conscients de leur mission.
 
