@@ -1,5 +1,5 @@
-@tasks.md#L27-28 Le 140 a été validé. Les objets disparaissent au fur et à mesure du cycle, mais les rituels sont à faire tous les 140 ans.
+Le cycle de 140 ans a été validé. Les objets disparaissent au fur et à mesure du cycle, mais les rituels sont à faire tous les 140 ans (cf. section « Incohérences à vérifier » de `tasks.md`).
 
-@tasks.md#L31-32 Le récit dans rando est dans le passé (je ne sais pas à quelle époque). On peut imaginer que la statuette n'est pas au même endroit aujourd'hui. Mais bon, elle peut aussi être au même endroit :)
+Le récit dans `RANDO.md` est dans le passé (époque à préciser). La statuette n'était donc pas forcément au même endroit aujourd'hui — tranché le 02/10 : cachée près d'une source par le fugitif, récupérée par les Perchten et replacée dans la grotte.
 
 Les précisions de lore sont encore à terminer.

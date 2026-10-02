@@ -39,8 +39,8 @@ Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'ex
 | Samedi ~18h | **Destruction de la statuette** → le message des fabricants invite à prendre le relais des Perchtenlauf |
 | Nuit samedi→dimanche | **Manifestations** : encre invisible dans les douches, indices dans les céréales / sous les tasses, éléments étranges sur les voitures |
 | Dimanche 9h30–10h | Remise en situation au petit-déjeuner |
-| Dimanche 10h–10h45 | Trois groupes fonctionnels : « lieu » (cartes), « arts plastiques » (statuette), « rituel » (chorégraphie) — durée compressée par la contrainte de midi, à recaler |
-| Dimanche ~10h30–11h | **Le rituel** — le vieux calendrier justifie une heure de fin de matinée. ⚠️ Tout doit être terminé à midi : des cousins partent vers 12 h |
+| Dimanche 10h–10h45 | Trois groupes fonctionnels : « lieu » (cartes), « arts plastiques » (statuette), « rituel » (chorégraphie) — durée compressée par la contrainte de midi |
+| Dimanche ~10h45–11h30 | **Le rituel** — le vieux calendrier justifie une heure de fin de matinée. ⚠️ Tout doit être terminé à midi : des cousins partent vers 12 h |
 
 ## Personnages — repères
 
