@@ -108,7 +108,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - 💡 **Éléments à réunir** — Le rituel doit combiner cinq éléments : chorégraphie, heure, lieu, objet (la nouvelle statuette) et costumes/masques.
 - ✅ **Sources des instructions** — La chorégraphie et les autres éléments du rituel sont reconstitués à partir d'indices sonores et visuels.
 - ✅ **Que fait le rituel concrètement ?** — Validé (Rémi, 02/10) : le rituel apaise le maléfice pour un nouveau cycle de 140 ans, et sa qualité décide du résultat — partiel → disparitions réduites mais ponctuelles (le cas habituel) ; parfait → le maléfice est brisé définitivement (jamais arrivé) ; raté → le maléfice se déchaîne.
-- ❓ **Qu'est-ce qui indique aux joueurs qu'ils ont réussi ?** — Effet visuel ? Disparition des phénomènes ? Apparition de quelque chose ? Excalidraw mentionne « fumigènes, lumières » comme éléments pour le succès du final.
+- ❓ **Qu'est-ce qui indique aux joueurs qu'ils ont réussi ?** — Effet visuel ? Disparition des phénomènes ? Apparition de quelque chose ? Contrainte nouvelle (04/10) : **écologique et sans danger, pas de risque d'incendie** — les fumigènes d'excalidraw sont probablement exclus. Options : crescendo de cloches/grelots (authentique Perchten), statuette échangée contre une version « dorée » préparée d'avance, rubans tissés autour de l'arbre, semis de fleurs au pied de l'arbre.
 - ❓ **Le final filmé ?** — Les joueurs se filment-ils eux-mêmes ? Un PNJ filme ? Quel est le but (souvenir, preuve, intégration narrative) ?
 
 ## Animaux du Vercors

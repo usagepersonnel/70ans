@@ -83,7 +83,7 @@ Contexte mis à jour (validé par Rémi, 02/10) : le fugitif cache la statuette 
 
 ### ⭐ Lieu du rituel final
 
-Le rituel a lieu **vers 10h30–11h le dimanche matin** — tout doit être terminé à midi (cousins qui partent). Besoins : dehors, **≤15 min à pied du gîte** (le planning du dimanche est compressé), atmosphérique (clairière, pierres, entrée de grotte ?), fumigènes visibles **de jour** et sûrs, accessible pour tous.
+Le rituel a lieu **vers 10h30–11h le dimanche matin** — tout doit être terminé à midi (cousins qui partent). Besoins : dehors, **≤15 min à pied du gîte** (le planning du dimanche est compressé), atmosphérique (clairière, pierres, entrée de grotte ?), effet de réussite visible **de jour**, écologique et sans danger (pas de risque d'incendie), accessible pour tous.
 
 Bonus : la visite tombe en journée — les photos prises vers 10h–11h montrent **exactement** la lumière et l'ambiance du vrai moment (brume d'octobre incluse).
 

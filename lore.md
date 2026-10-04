@@ -112,7 +112,7 @@ Cartes à utiliser :
 - La statuette ancienne se trouve dans la grotte aux objets disparus ; l'équipe rando la découvre le samedi.
 - Les joueurs la détruisent — poussés par la voyante, le tableau du chasseur et le journal du fugitif → elle contient le message des fabricants : si les joueurs l'ont trouvée, c'est que les anciens Perchtenlauf ne sont plus là — ils doivent prendre le relais.
 - **Nouvelle statuette** : les joueurs la fabriquent selon les instructions — matériaux imposés (bois, etc.) et symboles à rendre visibles (loup, etc.) ; forme libre ; les morceaux de l'ancienne ne sont pas requis.
-- Idées de fabrication (props) : nain de jardin doré ?, céramique, moyens du bord (pâte à sel, collier de nouilles, concours de sculpture)
+- Fabrication en cours (Mareva) : parties réalisées en terre ; autres pistes props : nain de jardin doré, céramique, moyens du bord (pâte à sel, collier de nouilles)
 
 ### Costumes / masques
 
@@ -240,7 +240,7 @@ Ce sont des gens ordinaires, conscients de leur mission, qui se transmettaient l
 - Trouver des événements propres à la période du duché du Diois
 - Se renseigner sur les cartes d’époques de la Chapelle en Vercors (OT fermé : mairie ou web)
 - Faire des recherches sur les costumes et les masques des Perchtenlauf
-- Concevoir le signal de réussite du rituel (le foyer du champ permet feu et fumée visibles de jour)
+- Concevoir le signal de réussite du rituel — écologique et sans danger, pas de feu (fumigènes exclus ; options : cloches, statuette échangée, rubans, semis)
 - Définir les époques à étudier (Antiquité, moyen âge, ère napoléonienne, 2ème guerre mondiale...)
 - Un site web, où d’abord il y a des photos animalières, puis ça vire théorie du complot (Batiste peut faire sur GitHub pages)
 - Demander aux parents pour les infos sur les chasseurs

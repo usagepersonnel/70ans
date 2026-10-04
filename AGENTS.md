@@ -29,6 +29,7 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 - `deroule.md` — game design : équipes, déroulé, énigmes
 - `feuilles_rando.md` — texte joueur de l'arc rando (récit du fugitif)
 - `reperage.md` — checklist et retours terrain
+- `retroplanning.md` — plan de travail à J-20
 - `TODO.md` — état du projet, priorités, tâches
 - `timeline_*.md` — chronologies de vérification
 - `validation_*.md` — points soumis à validation d'équipe, datés

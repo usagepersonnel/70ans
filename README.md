@@ -11,6 +11,7 @@ L'essentiel du projet est constitué de **fichiers Markdown** :
 - `deroule.md` — Répartition des équipes, déroulement et mécaniques d'énigmes
 - `feuilles_rando.md` — Texte des feuilles trouvées par l'équipe rando (récit du fugitif)
 - `reperage.md` — Checklist et retours de la visite terrain
+- `retroplanning.md` — Plan de travail à J-20 (jalons, tâches par semaine, propriétaires)
 - `TODO.md` — État du projet, priorités et tâches
 - `AGENTS.md` — Vue d'ensemble du projet, pour les IAs
 

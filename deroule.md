@@ -12,6 +12,38 @@ D'après excalidraw, les 3 équipes ont des buts distincts le samedi :
 - **Équipe sportive (Seb) — terrain** : créer les conditions de la destruction de la statuette. Trouver différents objets sans savoir lequel servira à la destruction + trouver une partie des costumes.
 - **Équipe rando (Rémi) — terrain++** : trouver la grotte avec les objets disparus à travers les époques + la statuette. Triangulation de photos de piège photo, trésor caché (outils ésotériques + morceaux de costumes).
 
+### Arc détaillé : équipe tranquille (proposition à valider)
+
+Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avant eux — son carnet d'enquête, trouvé dans sa chambre, est la clé de voûte documentaire : il centralise les pièces (procès, lettre, séance, article) et fait de l'équipe tranquille la « tour de contrôle » du lore, pas un simple guichet.
+
+**14h30–15h15 — La chambre d'Ivan (gîte)**
+
+- Trouver la bonne chambre parmi des chambres identiques : indice via le livre d'or 2011 (photo avec un détail reconnaissable) ou autre indice naturel — mécanisme à finaliser.
+- Fouille : carnet ou petite valise oubliée sous un lit / dans un placard → carnet d'enquête contenant : l'URL du site et les soupçons d'Ivan, une copie du **procès du notable** et de la **lettre de l'enfant**, la **transcription de la voyante** (si l'option document est retenue), l'**article de journal** sur l'accident, et l'indice « il revient chaque année fin octobre » (prépare le PNJ du dimanche).
+- Le « aha » de l'équipe : elle détient l'archive complète de l'enquête — et seule elle comprend le lien possible entre l'accident et la disparition des Perchtenlauf.
+
+**15h15–16h15 — Boucle village**
+
+- Café/librairie : le **tableau du chasseur** — le commerçant n'est pas généreux : énigme ou service à rendre pour voir le tableau et entendre son histoire.
+- Cimetière : identifier **la tombe sans inscription** → la relie au procès du notable (la vraie tombe devient la preuve physique du document).
+- Fontaine avec dates + ours : candidate pour la « source » du fugitif ; les dates gravées peuvent alimenter l'énigme du vieux calendrier.
+- Plantes nommées du village (« Barbe de bouc »…) : repérage utile pour les ingrédients de la nouvelle statuette le dimanche.
+
+**16h15–17h15 — Poste de coordination (géoguesser)**
+
+- L'équipe détient les photos de repérage (panoramas, lignes de crête) et guide les équipes mobiles par **talkies-walkies** (réseau faible) vers les bons spots.
+- En retour : découvertes terrain, photos de pièges → à croiser avec le carnet d'Ivan.
+- Garde-fou « guichet » : le carnet doit contenir des éléments que seule l'équipe tranquille peut interpréter en croisant village + documents (ex. accident + tableau + tombe = la vraie lecture de la mort d'Ivan).
+
+**17h15–18h — Regroupement au gîte**
+
+- Mise en commun des trouvailles ; l'équipe rando présente la statuette.
+- **Destruction de la statuette ~18h** — verrou : nécessite les objets/conditions préparés par l'équipe sportive (à concevoir dans leur arc), ce qui garantit que tout le monde est réuni.
+
+Documents/props nécessaires à cet arc : carnet d'Ivan (central), article de journal, tableau physique, transcription de la voyante (option document), photos géoguesser (déjà prises au repérage), livre d'or bidouillé si utilisé.
+
+❓ À trancher : mécanisme « quelle chambre », forme de la voyante (PNJ ou document), répartition des documents entre carnet et trouvailles directes.
+
 ### Chevauchements à résoudre
 
 - ❓ **Costumes** — L'équipe sportive (Seb) cherche "une partie des costumes" ET l'équipe rando (Rémi) trouve "des morceaux de costumes" dans le trésor caché. Comment répartir clairement ? Qui trouve quoi ?

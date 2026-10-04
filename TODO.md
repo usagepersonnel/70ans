@@ -27,7 +27,7 @@ Points proposés, encore à faire valider par l'équipe (détail dans `lore_prec
 
 1. **Verrou du twist** — sécuriser le timing et la mécanique de la destruction de la statuette : ni trop tôt (l'équipe rando seule l'après-midi), ni jamais (joueurs qui la conservent comme preuve)
 2. **Dimanche trop serré** — pré-stager les matériaux, chorégraphie apprenable en ~20 min, recherche du lieu ≤30 min, trajet voiture intégré
-3. **Signal de réussite du rituel** — le climax manque son payoff ; le foyer du champ permet feu et fumée visibles de jour (fumigènes déjà prévus)
+3. **Signal de réussite du rituel** — le climax manque son payoff ; contrainte : écologique et sans danger, **pas de risque d'incendie** → options : crescendo de cloches (authentique Perchten), statuette échangée contre une version « dorée », rubans autour de l'arbre, semis de fleurs
 4. **Plans B météo et réseau** — pluie fin octobre probable (repli du rituel ?), couverture faible hors du gîte (talkies-walkies / pendant papier pour tout sauf le site)
 5. **« Aha » propre à l'équipe tranquille** — la fouille de la chambre d'Ivan est le meilleur candidat ; éviter qu'elle ne soit qu'un guichet pour les équipes mobiles
 6. **Casting PNJ** — la voyante et l'enfant d'Ivan ne peuvent pas être joués par les joueurs : qui ?
@@ -44,7 +44,8 @@ Points proposés, encore à faire valider par l'équipe (détail dans `lore_prec
 
 ### Arc de l'équipe tranquille (samedi)
 
-- [ ] Décrire l'arc jouable : fouille du gîte, documents et autres indices, interactions au village, géoguesser, informations transmises aux équipes mobiles
+- [x] Décrire l'arc jouable — proposition rédigée dans `deroule.md` (chambre d'Ivan → boucle village → poste de coordination → regroupement), à valider
+- [ ] Arc équipe sportive : détailler le samedi (objets de destruction + costumes) — crée le verrou du twist
 
 ### Site web public
 
