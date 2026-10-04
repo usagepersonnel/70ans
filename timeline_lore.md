@@ -1,6 +1,6 @@
 # Timeline — chronologie du lore
 
-Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'expérience joueur de l'arc rando (ordre de découverte des feuilles), voir `chronologie_rando.md`. Pour les décisions et questions détaillées, voir `lore_precisions.md`.
+Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'expérience joueur de l'arc rando (ordre de découverte des feuilles), voir `timeline_rando.md`. Pour les décisions et questions détaillées, voir `lore_precisions.md`.
 
 **Légende** : ✅ Établi | 💡 Proposition à valider | 📝 Souvenir de réunion à confirmer | ⚠️ Manque identifié | ❓ À trancher
 
@@ -19,7 +19,7 @@ Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'ex
 | ~an 1000 | Un texte ancien décrit un trajet retrouvable sur carte (l'« écrit de l'an 1000 », mécanique d'énigme) | ✅ Mécanique ; date lore à fixer |
 | Moyen Âge | **Le notable innocent** — un cadeau diplomatique disparaît, le notable est condamné, l'évêque le retrouve dans la forêt et l'absout à titre posthume (inscription sur la tombe) | ✅ Ancre Moyen Âge. 💡 Le cadeau pourrait venir des Alpes orientales → justifie l'importation des traditions Perchten |
 | Ère napoléonienne | Chevaux / sabre de Napoléon parmi les objets disparus | ⚠️ Ancrage à documenter |
-| 2ème guerre mondiale | Effets / squelette nazis parmi les objets disparus ; contexte maquis du Vercors exploitable | ⚠️ Ancrage à documenter |
+| 2ème guerre mondiale | Effets de guerre parmi les objets disparus ; squelette du scialet : époque à redéfinir — décision prise de ne pas exploiter les lieux de mémoire réels (visite terrain) | ⚠️ Ancrage à documenter |
 | ~140 ans avant le jeu (~1886 si 2026) | **Rituel précédent partiellement réussi** → les disparitions ponctuelles du cycle actuel. Cause : la statuette n'a jamais été parfaitement conforme aux instructions (le vol du fugitif n'y contribue pas — la statuette a été récupérée avant le rituel) | ✅ |
 | Époque indéterminée (fin d'un cycle, ~1886 ?) | **Le fugitif** — un Perchtenlauf d'une vingtaine d'années, endoctriné depuis l'enfance, est convaincu par les « voix de la forêt » que la statuette cause les cycles. À l'aube, il la vole dans la Grotte des Maléfices, fuit vers le sud-ouest, se cache dans un scialet jumeau, est encerclé près du village, cache l'objet près d'une source et laisse un message demandant de le détruire. **Les Perchten le rattrapent, récupèrent la statuette et la replacent dans la grotte** — où l'équipe rando la trouve aujourd'hui | ✅ Chaîne validée (Rémi, 02/10 : « retour à l'état initial »). ❓ Sort final inconnu (squelette au Scialet Royer ?) |
 | Époque indéterminée (XIXe–XXe ?) | **L'enfant et la grotte dorée** — un enfant découvre la grotte aux objets (dont le rouleau à pâtisserie de sa grand-mère), personne ne le croit ; adulte, il raconte tout dans une lettre au Dr Brilleux | ✅ Événement ; date à fixer |
@@ -38,14 +38,15 @@ Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'ex
 | Samedi 14h40–17h30 | Trois équipes sur le terrain : tranquille (village/gîte), sportive (objets + costumes), rando (parcours du fugitif à rebours → grotte + statuette) |
 | Samedi ~18h | **Destruction de la statuette** → le message des fabricants invite à prendre le relais des Perchtenlauf |
 | Nuit samedi→dimanche | **Manifestations** : encre invisible dans les douches, indices dans les céréales / sous les tasses, éléments étranges sur les voitures |
-| Dimanche 9h30–10h | Remise en situation au petit-déjeuner |
+| Dimanche 9h30–10h | Remise en situation au petit-déjeuner (découverte des manifestations) |
 | Dimanche 10h–10h45 | Trois groupes fonctionnels : « lieu » (cartes), « arts plastiques » (statuette), « rituel » (chorégraphie) — durée compressée par la contrainte de midi |
-| Dimanche ~10h45–11h30 | **Le rituel** — le vieux calendrier justifie une heure de fin de matinée. ⚠️ Tout doit être terminé à midi : des cousins partent vers 12 h |
+| Dimanche ~10h45 | Départ en voiture vers le lieu du rituel — champ repéré : circulaire, petit arbre, foyer ; ~10 min de route + 1 min à pied |
+| Dimanche ~11h–11h30 | **Le rituel** — le vieux calendrier justifie une heure de fin de matinée (pas de cadran solaire au village : énigme autonome). ⚠️ Tout doit être terminé à midi : des cousins partent vers 12 h |
 
 ## Personnages — repères
 
 - **Ivan Beaulieu** — photographe animalier, créateur du site, mort ✅ dans un accident de voiture de nuit en montagne, en allant chercher les êtres masqués (fasciné par eux, sans intention de leur nuire)
-- **Le PNJ** — enfant d'Ivan ; arrive pendant le jeu, fait l'infodump et donne l'accès à la partie secrète du site
+- **Le PNJ** — enfant d'Ivan ; reviendrait chaque année autour de l'anniversaire de l'accident (💡 proposition), arrive dimanche matin : infodump + accès à la partie secrète du site
 - **La voyante** — mauvaise voyante ; son indice ambigu oriente les joueurs vers « détruire l'objet »
 - **Le fugitif** — Perchtenlauf du passé (~20 ans), voleur de la statuette ; son récit structure l'arc rando
 - **Les anciens Perchtenlauf** — absents au moment du jeu, sans explication dans le scénario ✅
@@ -54,7 +55,8 @@ Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'ex
 ## À trancher pour caler la timeline
 
 - ✅ **Époque du fugitif** — fin du cycle précédent (~1886) : les Perchten le rattrapent, récupèrent la statuette près de la source et la replacent dans la grotte (validé Rémi, 02/10). Le vol n'explique pas le rituel partiel — cause : la statuette jamais parfaitement conforme
-- ❓ **Sort du fugitif** — le squelette du Scialet Royer est-il le sien ? Sa fuite s'arrête-t-elle là ou continue-t-elle ?
-- ❓ **Dates de la lettre et du tableau** — époques de l'enfant de la grotte dorée et du chasseur, et chaîne de transmission jusqu'au commerçant actuel
+- 💡 **Sort du fugitif** — proposition : le squelette du Scialet Royer n'est pas le sien (victime collectée par le triangle, époque à choisir sans lieux de mémoire réels) ; son récit s'arrête quand les Perchten le rattrapent, sort non raconté
+- 🔑 **Les voix de la forêt** — elles manipulent le fugitif alors que le maléfice « n'a pas de volonté » : contradiction à trancher (options dans `lore_precisions.md`)
+- ❓ **Dates de la lettre et du tableau** — époques de l'enfant de la grotte dorée et du chasseur, et chaîne de transmission jusqu'au commerçant actuel (café/librairie du village — accord obtenu)
 - ~~**Mort d'Ivan**~~ — ✅ Validé (Rémi, 02/10). Reste à fixer la chronologie : séjour au gîte → photos → site → accident
-- ❓ **Heure précise du rituel** — le vieux calendrier doit justifier **~10h30–11h** : tout doit être terminé à midi (contrainte réelle)
+- ✅ **Créneau du rituel** — ~11h–11h30 sur le champ repéré (~10 min en voiture du gîte) ; le vieux calendrier doit justifier cette heure de fin de matinée, de façon autonome (pas de cadran solaire au village)

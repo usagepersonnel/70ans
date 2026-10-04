@@ -26,15 +26,21 @@ Le dimanche, les joueurs se reforment en **trois groupes fonctionnels**, distinc
 - **Groupe « arts plastiques »** — Fabrique la nouvelle statuette à partir des instructions révélées dans l'ancienne. Il réunit les matériaux nécessaires et fait apparaître les symboles imposés ; la forme et la réalisation restent libres.
 - **Groupe « rituel »** — Reconstitue le rituel : chorégraphie, sons, gestes, costumes et autres éléments à partir d'indices sonores et visuels.
 
-Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rituel ensemble. Les horaires d'excalidraw restent la structure de référence : 9h30-10h remise en situation au petit-déjeuner, 10h-11h30 travail en groupes, puis final de la partie.
+Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rituel ensemble.
 
-⚠️ **Contrainte horaire (Monique, 02/10)** — Tout doit être terminé à midi : des cousins veulent partir vers 12 h. Le rituel doit donc avoir lieu vers **10h30–11h**, et le planning du dimanche est à recaler en conséquence (travail en groupes compressé).
+⚠️ **Contrainte horaire (Monique, 02/10)** — Tout doit être terminé à midi : des cousins veulent partir vers 12 h. Planning recalé après repérage (le lieu du rituel est à ~10 min en voiture, il faut prévoir chauffeurs et places) :
+
+- 9h30–10h : remise en situation au petit-déjeuner (découverte des manifestations)
+- 10h–10h45 : travail des trois groupes fonctionnels
+- ~10h45 : départ en voiture vers le lieu du rituel
+- ~11h–11h30 : rituel
+- retour au gîte et clôture avant midi
 
 - ✅ **Recherche des anciens Perchtenlauf** — Les joueurs ne doivent pas avoir pour objectif de les retrouver : le message de la statuette leur apprend directement qu'ils doivent prendre le relais.
 
 ### Questions ouvertes sur le dimanche
 
-- ❓ **Affectation pratique** — Quel groupe correspond au Groupe 1 (gîte/village), au Groupe 2 (terrain) et au Groupe 3 (terrain+) indiqués par excalidraw ?
+- ✅ **Espaces de travail** — Le gîte a tout ce qu'il faut pour les 3 groupes en parallèle : table (arts plastiques), espace de répétition (chorégraphie), coin calme (cartes). Constat terrain.
 - ❓ **Trois lieux, trois énigmes** — Faut-il comprendre « trois lieux, trois énigmes » comme les trois lieux/arcs du samedi, ou comme les trois groupes fonctionnels du dimanche ? Si c'est le dimanche, quel espace accueille chaque groupe et quel indice concret lance chaque énigme ?
 - ❓ **Articulation des résultats** — Le groupe « lieu » rapporte-t-il uniquement les coordonnées, le groupe « arts plastiques » la statuette, et le groupe « rituel » la chorégraphie/costumes ? Faut-il une validation croisée avant le final ?
 
@@ -46,7 +52,7 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
   - indices dans les boîtes de céréales et/ou sous les tasses ;
   - éléments étranges sur les voitures.
 - ✅ **Dimanche matin** — Les joueurs découvrent ces manifestations pendant ou autour du petit-déjeuner. Elles les orientent vers les trois groupes fonctionnels du dimanche et vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
-- ❓ **Contenu précis des manifestations** — La forme exacte des indices et leur articulation avec le message de la statuette restent à définir.
+- 💡 **Contenu précis des manifestations** — Proposition : chaque manifestation amorce un groupe — douches → « arts plastiques », petit-déj → « rituel », voitures → « lieu ». Contraintes terrain à intégrer : douches en plastique → utiliser les miroirs de l'espace commun ; pas de givre probable → tracé aux marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. À valider (cf. `lore_precisions.md`).
 
 ## Pistes narratives et indices documentaires
 
@@ -60,8 +66,8 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 ### Questions
 
 - ❓ Quel document va à quelle équipe / quel jour ?
-- ❓ Le tableau est chez un commerce local — est-ce le commerçant/office du tourisme que visite l'équipe tranquille ?
-- ❓ La voyante est-elle un PNJ physique ou une interaction à distance ?
+- ✅ Le tableau est chez le café/librairie du village — accord du commerçant obtenu (visite terrain). C'est aussi un possible point de chute pour l'équipe tranquille.
+- ❓ La voyante est-elle un PNJ physique ou une interaction à distance ? — Pas de lieu identifié au village (visite : OT fermé, commerces = pharmacie, café/librairie, boulangerie). Options : PNJ au gîte (à caster) ou document — une transcription de séance retrouvée dans les affaires d'Ivan remplit la même fonction sans acteur.
 
 ## Mécaniques d'énigmes identifiées
 
@@ -78,5 +84,5 @@ Liste des mécaniques d'énigmes mentionnées dans excalidraw et archived, à r�
 ### Questions
 
 - ❓ Comment répartir ces mécaniques entre les 3 équipes et les 2 jours ?
-- ❓ Certaines mécaniques (géoguesser, triangulation) impliquent une coopération entre équipes — comment l'organiser ?
-- ❓ 4 cartes listées (grottes, IGN, état major, Cassini), 3 groupes : laquelle est attribuée à quel groupe ? Une carte est-elle redondante ?
+- ❓ Certaines mécaniques (géoguesser, triangulation) impliquent une coopération entre équipes — comment l'organiser ? Contrainte terrain : couverture téléphonique faible et inconstante hors du gîte → tout ce qui demande une connexion a besoin d'un pendant papier ou de talkies-walkies (bonus ambiance : interférences « du triangle »). Seul le site web d'Ivan peut supposer le réseau.
+- ❓ 4 cartes listées (grottes, IGN, état major, Cassini), 3 groupes : laquelle est attribuée à quel groupe ? Une carte est-elle redondante ? La superposition doit pointer vers les coordonnées réelles du lieu du rituel repéré (champ à ~10 min en voiture) ; les 3 points du triangle maillent la région.

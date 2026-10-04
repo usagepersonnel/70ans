@@ -14,10 +14,10 @@ Note: la vérité est que Ivan était à leur recherche car il est fasciné par 
 La nuit de samedi à dimanche, des phénomènes surnaturels ont lieu dans le gîte (texte à l'encre invisible dans les douches, indices sous les bols et dans les céréales, éléments étranges sur les voitures) et donnent des indices pour le dimanche. Ces manifestations sont un effet surnaturel sans intention claire — ni bienveillant ni malveillant : le maléfice n'a pas de volonté propre, c'est plutôt un débordement de fin de cycle qui interagit avec le monde sans être « contre eux » (ni pour eux).
 → Débloque : l'écriture du contenu des indices — des phénomènes qui guident sans sembler les viser personnellement.
 
-3. Qu'est-il advenu de la statuette après les notes du fugitif ? (cf. `RANDO.md` — le récit écrit par un Perchten d'un cycle passé, que l'équipe rando lit à rebours samedi) ✅ Validé (Rémi, 02/10)
+3. Qu'est-il advenu de la statuette après les notes du fugitif ? (cf. `feuilles_rando.md` — le récit écrit par un Perchten d'un cycle passé, que l'équipe rando lit à rebours samedi) ✅ Validé (Rémi, 02/10)
 
 Les Perchten ont rattrapé le fugitif, récupéré la statuette près de la source et l'ont replacée dans la grotte — où l'équipe rando la trouve aujourd'hui. Le vol n'est pas l'explication du fait que le rituel d'il y a 140 ans n'ait été que partiel. L'explication, c'est le fait que la statuette n'a jamais été parfaitement conforme aux instructions (matériaux, etc...).
-→ Débloque : la cohérence entre `lore_precisions.md` et `RANDO.md`, le final du parcours rando, et le twist.
+→ Débloque : la cohérence entre `lore_precisions.md` et `feuilles_rando.md`, le final du parcours rando, et le twist.
 
 4. Quel est le déclencheur temporel exact du rituel ? ✅ Validé (Rémi, 02/10), avec une contrainte nouvelle
 

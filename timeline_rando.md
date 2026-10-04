@@ -1,6 +1,6 @@
 # Chronologie de la randonnée
 
-Ce document sépare les événements vécus par le fugitif de l’ordre dans lequel les joueurs les découvrent. Il sert de guide de travail pour clarifier le récit avant de réécrire les feuilles de `RANDO.md`.
+Ce document sépare les événements vécus par le fugitif de l’ordre dans lequel les joueurs les découvrent. Il sert de guide de travail pour clarifier le récit avant de réécrire les feuilles de `feuilles_rando.md`.
 
 Les événements ci-dessous sont reconstruits à partir du brouillon actuel. Quand le texte ne permet pas de trancher, l’incertitude est signalée plutôt que comblée.
 
@@ -56,4 +56,4 @@ Cette progression décrit une intention possible, pas encore un résultat garant
 
 ## Source
 
-Cette chronologie est une lecture de travail de [`RANDO.md`](RANDO.md). Elle n’ajoute pas de nouvelle décision de lore et ne remplace pas le texte destiné aux joueurs.
+Cette chronologie est une lecture de travail de [`feuilles_rando.md`](feuilles_rando.md). Elle n’ajoute pas de nouvelle décision de lore et ne remplace pas le texte destiné aux joueurs.

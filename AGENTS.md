@@ -1,4 +1,4 @@
-# AGENT - Documentation du Projet
+# AGENTS - Documentation du Projet
 
 ## 📋 Vue d'ensemble
 
@@ -24,9 +24,16 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 
 ## 📁 Structure du projet
 
-### Dossiers
-
-- **archived/** - Anciens documents conservés pour référence (à supprimer après intégration)
+- `lore.md` — canon narratif (source de vérité)
+- `lore_precisions.md` — décisions et questions de lore
+- `deroule.md` — game design : équipes, déroulé, énigmes
+- `feuilles_rando.md` — texte joueur de l'arc rando (récit du fugitif)
+- `reperage.md` — checklist et retours terrain
+- `TODO.md` — état du projet, priorités, tâches
+- `timeline_*.md` — chronologies de vérification
+- `validation_*.md` — points soumis à validation d'équipe, datés
+- `ref_*.md` — références non vivantes
+- `code/` — script utilitaire Mermaid → markdown (non essentiel)
 
 ## 🎭 Synopsis du scénario
 
@@ -36,7 +43,7 @@ Des disparitions étranges ont lieu dans le Vercors depuis l'Antiquité. Le « T
 
 - Ivan Beaulieu, photographe animalier, a capturé des images d'êtres masqués dans la forêt avant de disparaître. Il est convaincu qu'ils sont malveillants
 - Les joueurs découvrent que ces êtres (liés au folklore Perchten) ne sont pas dangereux mais protègent contre les phénomènes étranges
-- Un rituel de danse avec costumes spécifiques permet de désamorcer le « triangle » pour XX ans (selon la qualité du rituel, les effets peuvent être plus ou moins atténués, voire le triangle complètement neutralisé)
+- Un rituel de danse avec costumes spécifiques permet de désamorcer le « triangle » pour les 140 prochaines années (selon la qualité du rituel, les effets peuvent être plus ou moins atténués, voire le triangle complètement neutralisé)
 - Le rituel doit être effectué lors du changement d'heure d'octobre (+/- 1 jour)
 
 **Progression narrative (mécanisme de révélation)** :

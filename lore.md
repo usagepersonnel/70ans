@@ -1,5 +1,7 @@
 # Lore
 
+> **Navigation** : décisions & questions ouvertes → `lore_precisions.md` ; déroulé & game design → `deroule.md` ; chronologie → `timeline_lore.md` ; parcours rando → `timeline_rando.md` / `feuilles_rando.md` ; repérage terrain → `reperage.md` ; tâches & priorités → `TODO.md`.
+
 ## Teaser
 
 Depuis plusieurs mois, d’étranges disparitions agitent le massif du Vercors. Des randonneurs racontent des phénomènes inexpliqués : changements soudains de météo, distorsions du temps, échos de voix anciennes. Les habitants parlent du « Triangle du Vercors », une zone mystérieuse où les boussoles s’affolent et où certains affirment voir des silhouettes vêtues de peaux d’animaux et de masques cornus.
@@ -8,17 +10,15 @@ Faux articles de presse de disparitions (avion, etc). Boussoles qui s’agitent.
 
 ## Contexte
 
-Les Perchtenlauf font un rituel tous les <duree> ans pour conjurer la malédiction du Triangle du Vercors.
+Les Perchtenlauf font un rituel tous les **140 ans** pour apaiser le maléfice du Triangle du Vercors — le maléfice est une anomalie temporelle naturelle, sans cause connue ni volonté propre. Résultat gradué : rituel parfait → maléfice brisé (jamais arrivé) ; partiel → disparitions réduites mais ponctuelles (le cas habituel) ; raté ou non réalisé → le maléfice se déchaîne. Détail des décisions : `lore_precisions.md`.
 
-> [Idée à valider] Plutôt que les rituels aient lieu tous les 100 ans (cf. l’idée de "désactiver pour les 100 prochaines années"), est-ce qu’on dirait pas 70 ans ou 140 ans ?
-
-On présente aux joueurs un groupe de cultistes comme faisant des rituels secrets (= ils vont penser que c’est des méchants). Les joueurs brisent quelque chose qui sert au rituel.
+On présente aux joueurs un groupe de cultistes comme faisant des rituels secrets (= ils vont penser que c’est des méchants). En réalité ce sont des gens ordinaires, conscients de leur mission de protection du Vercors, qui se transmettent le flambeau d'un cycle à l'autre — transmission familiale, ou reprise du rôle via les instructions de la statuette. Le cycle actuel est le **premier** où la transmission est rompue ; la raison n'est pas expliquée aux joueurs. Les joueurs brisent la statuette, qui contient les instructions pour prendre le relais.
 
 ### Le Triangle du Vercors
 
 - 3 points sur une carte, trouver le centre = endroit du rituel
 - Y’a des trucs qui disparaissent (triangle du Vercors)
-- Objets disparus à travers les époques : éléphants (Hannibal), chevaux/sabre (Napoléon), squelette (Nazis)
+- Objets (et personnes) disparus à travers les époques : éléphants (Hannibal), chevaux/sabre (Napoléon), un squelette de soldat (époque à trancher — pas d'exploitation des lieux de mémoire réels)
 - Drapeau d’Hannibal, du Diois, du Dauphiné
 
 ### Les Perchtenlauf
@@ -37,7 +37,7 @@ Les défilés, appelés Perchtenläufe, voient des groupes masqués parcourir le
 - Antiquité (Hannibal, traversée des Alpes)
 - Moyen Âge (chevaliers)
 - Ère napoléonienne
-- 2ème guerre mondiale (Nazis)
+- 2ème guerre mondiale (soldats)
 
 > Définir les époques à étudier plus précisément. Événements marquants (séismes) ?
 
@@ -57,14 +57,13 @@ Les défilés, appelés Perchtenläufe, voient des groupes masqués parcourir le
 
 Twist : ah mais ils sont pas méchants, on va devoir faire le rituel à leur place.
 
-### Dimanche 25/10 matin (10h-12h)
+### Dimanche 25/10 matin (tout terminé avant midi — des cousins partent vers 12h)
 
-- 9h30-10h : remise en situation pendant le petit déjeuner
-- 10h-11h30 :
-    - Groupe 1 : gîte/village
-    - Groupe 2 : terrain
-    - Groupe 3 : terrain+
-- 11h30-11h45 : final de la partie
+- 9h30-10h : remise en situation pendant le petit déjeuner (découverte des manifestations nocturnes)
+- 10h-10h45 : trois groupes fonctionnels — « lieu » (cartes), « arts plastiques » (nouvelle statuette), « rituel » (chorégraphie, costumes)
+- ~10h45 : départ en voiture vers le lieu du rituel (champ repéré, ~10 min de route + 1 min à pied)
+- ~11h-11h30 : le rituel, autour de l'arbre et du foyer du champ
+- retour au gîte et clôture avant midi
 
 ## Énigmes
 
@@ -77,11 +76,13 @@ Twist : ah mais ils sont pas méchants, on va devoir faire le rituel à leur pla
 ### Énigme du dimanche
 
 - Trouver comment faire le rituel
-- Dimanche midi / final : faire le rituel pour désamorcer le triangle du Vercors pour les <duree> prochaines années
+- Final : faire le rituel pour apaiser le maléfice pour les 140 prochaines années — sa qualité décide du résultat (partiel / parfait / raté)
 
 ### Énigme superposition de cartes
 
 Chaque groupe revient avec une carte d’une époque différente. Il y a des trous dans chaque carte. Quand ils superposent les 3 cartes, ils trouvent le lieu du rituel.
+
+La superposition doit désigner le lieu repéré sur le terrain (le champ, ~10 min en voiture) : les 3 points du triangle maillent la région (la grotte réelle connue est à ~23 km). Question ouverte : 4 cartes listées, 3 groupes (cf. `deroule.md`).
 
 Cartes à utiliser :
 - Carte des grottes
@@ -98,21 +99,20 @@ Cartes à utiliser :
 
 ## Personnages
 
-- **PNJ** : fils/fille de Ivan Beaulieu
-    - Arrivée du PNJ, infodump
-    - Mot de passe pour site web ?
+- **Ivan Beaulieu** — photographe animalier. Il a photographié les êtres masqués, s'est convaincu de leur malveillance et a créé le site web (façade animalière → complot, partie publique + partie secrète). Mort dans un vrai accident de voiture, de nuit en montagne, en allant les chercher : l'article de journal mentionne des personnes en tenues étranges percutées — peut-être les derniers Perchtenlauf (déductible, jamais énoncé).
+- **PNJ : l'enfant d'Ivan** — reviendrait chaque année autour de l'anniversaire de l'accident (proposition à valider, cf. `lore_precisions.md`). Arrive dimanche matin : infodump + code de la partie secrète du site.
+- **La voyante** — donne un indice énigmatique tentant à interpréter comme « détruire l'objet ». En réalité c'est juste une mauvaise voyante, ni gentille ni méchante. Forme de l'interaction à trancher : pas de lieu au village (cf. `deroule.md`).
+- **Le fugitif** — Perchtenlauf du cycle précédent (~1886), convaincu par les « voix de la forêt » que la statuette causait les cycles : il l'a volée, a fui, a été rattrapé ; les Perchten l'ont replacée dans la grotte. Son récit structure l'arc rando (cf. `feuilles_rando.md`). Son sort n'est pas raconté ; la nature des voix reste à trancher (cf. `lore_precisions.md`).
 - **Mécanique PNJ** : les PNJ ne sont pas généreux — il faut résoudre une énigme ou accomplir une tâche pour obtenir un document ou une information
-- **La voyante** : PNJ qui donne un indice énigmatique, tentant à interpréter comme « détruire l'objet ». En réalité c'est juste une mauvaise voyante, ni gentille ni méchante
 
 ## Objets et costumes
 
-### Statuette à détruire
+### Statuette
 
-- Nain de jardin doré ?
-- Statue en céramique
-- Refaire une statuette avec les moyens du bord ? (pâte à sel, collier de nouille, concours de sculpture)
-- Message explicatif dans la statuette
-- Le lieu où sont les objets perdus pourrait contenir la statuette
+- La statuette ancienne se trouve dans la grotte aux objets disparus ; l'équipe rando la découvre le samedi.
+- Les joueurs la détruisent — poussés par la voyante, le tableau du chasseur et le journal du fugitif → elle contient le message des fabricants : si les joueurs l'ont trouvée, c'est que les anciens Perchtenlauf ne sont plus là — ils doivent prendre le relais.
+- **Nouvelle statuette** : les joueurs la fabriquent selon les instructions — matériaux imposés (bois, etc.) et symboles à rendre visibles (loup, etc.) ; forme libre ; les morceaux de l'ancienne ne sont pas requis.
+- Idées de fabrication (props) : nain de jardin doré ?, céramique, moyens du bord (pâte à sel, collier de nouilles, concours de sculpture)
 
 ### Costumes / masques
 
@@ -128,7 +128,8 @@ Cartes à utiliser :
 
 - Corne d’éléphants en papier mâché ou os d’éléphants
 - Outils ésotériques et morceaux de costumes (dans le trésor caché)
-- Défense d’éléphant décorée en or, scie, casque/épée de chevalier, cadavre nazi, chapeau bicorne/pièce monnaie
+- Défense d’éléphant décorée en or, scie, casque/épée de chevalier, ossements de soldat (époque à trancher), chapeau bicorne/pièce de monnaie
+- Ingrédients à récolter : les plantes nommées du village (« Barbe de bouc », etc.) peuvent servir de liste de matériaux pour la statuette ou le rituel (repérage terrain)
 
 ## Équipes et arcs
 
@@ -210,16 +211,15 @@ Les joueurs vont faire appel à une voyante, qui leur donne un indice énigmatiq
 
 ## Que sont devenus les cultistes ?
 
-- Ils ont été libérés/tués quand la statuette a été détruite
-- C’est des gens ordinaires, qui ne se souviennent de rien, et qui peuvent donner leurs masques
-- Autre option : ils meurent, on trouve le corps
+Ce sont des gens ordinaires, conscients de leur mission, qui se transmettaient le flambeau d'un cycle à l'autre. Pour la première fois, la transmission est rompue : aucun Perchtenlauf n'est disponible pour le rituel — la raison n'est pas expliquée aux joueurs (piste déductible : l'accident d'Ivan, jamais confirmée). Le message dans la statuette indique directement aux joueurs de prendre le relais. Détail : `lore_precisions.md`.
 
 ## Lieux
 
 - Chapelle en Vercors
 - Gîte / village
 - Terrain (3 niveaux de difficulté)
-- Grotte avec les objets disparus — coordonnées réelles : 45.150739, 5.564328 (cf. grottomap.org)
+- Lieu du rituel final : champ circulaire avec un petit arbre et un foyer de feu de camp (repéré sur place) — ~10 min en voiture + 1 min à pied depuis le gîte
+- Grotte avec les objets disparus — coordonnées réelles : 45.150739, 5.564328 (cf. grottomap.org) — ⚠️ ~23 km à vol d'oiseau de La Chapelle : cette grotte réelle sert de point du maillage régional du triangle, pas de repère atteignable à pied ; le repère des cultistes sur le parcours rando reste à caler sur le terrain local
 
 > Contrainte : isochrone à 15 minutes en voiture pour les énigmes et les lieux à explorer
 
@@ -235,10 +235,12 @@ Les joueurs vont faire appel à une voyante, qui leur donne un indice énigmatiq
 
 ## Tâches à faire
 
+> Liste de travail détaillée et à jour : `TODO.md`.
+
 - Trouver des événements propres à la période du duché du Diois
-- Se renseigner sur les cartes d’époques de la Chapelle en Vercors
+- Se renseigner sur les cartes d’époques de la Chapelle en Vercors (OT fermé : mairie ou web)
 - Faire des recherches sur les costumes et les masques des Perchtenlauf
-- Réfléchir au final avec des éléments pour le succès (fumigènes, lumières...)
+- Concevoir le signal de réussite du rituel (le foyer du champ permet feu et fumée visibles de jour)
 - Définir les époques à étudier (Antiquité, moyen âge, ère napoléonienne, 2ème guerre mondiale...)
 - Un site web, où d’abord il y a des photos animalières, puis ça vire théorie du complot (Batiste peut faire sur GitHub pages)
 - Demander aux parents pour les infos sur les chasseurs

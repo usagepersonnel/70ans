@@ -5,7 +5,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 **Légende** : ✅ Résolu | 💡 Piste trouvée | 📝 Souvenir de réunion à confirmer | ⚠️ Manque identifié | 🔑 Point clé à trancher | (sans marqueur) = question ouverte
 
-**Sources** : `excalidraw` (brainstorming initial, plus fiable en cas de contradiction) | `archived` (scenario_statique, supprimé mais intégré) | `AGENT.md` | `lore.md`
+**Sources** : `excalidraw` (brainstorming initial, plus fiable en cas de contradiction) | `archived` (scenario_statique, supprimé mais intégré, cf. `ref_archive.md`) | `AGENTS.md` | `lore.md`
 
 ## La durée du cycle
 
@@ -23,16 +23,17 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ✅ **Effet du rituel** — Le rituel n'a pas créé le triangle : il apaise ou contient temporairement ses effets. Une réussite partielle réduit les disparitions sans les supprimer complètement.
 - ✅ **Effet de la destruction de la statuette** — La destruction ne provoque rien en elle-même : elle est seulement nécessaire pour révéler les instructions et permettre la suite du scénario.
 - ✅ **Objets de toutes époques dans la grotte** — La grotte est un point de convergence temporel : le triangle « collecte » des objets à travers le temps. La lettre de l'enfant (rouleau à pâtisserie) et le procès du notable (cadeau diplomatique) confirment que des objets du quotidien comme précieux disparaissent puis réapparaissent. La diversité d'époques s'explique par les disparitions pendant tout le cycle, et par la position du Vercors sur une route de passage historique (Hannibal, pèlerinages).
-- 💡 **Les 3 points du triangle** — Rémi va les définir : il s'agit de grottes ou lieux similaires, qui seront utilisés pour les énigmes. Coordonnées d'une grotte déjà identifiées (45.150739, 5.564328, grottomap.org). En attente de la carte de Rémi.
+- 💡 **Les 3 points du triangle** — Rémi va les définir : il s'agit de grottes ou lieux similaires, qui seront utilisés pour les énigmes. Coordonnées d'une grotte déjà identifiées (45.150739, 5.564328, grottomap.org). Constat terrain : cette grotte est à ~23 km à vol d'oiseau de La Chapelle → les 3 points maillent la région, et le centre du triangle doit tomber sur le lieu du rituel repéré (champ à ~10 min en voiture du gîte). En attente de la carte de Rémi.
 - ✅ **Boussoles affolées** — Effet du maléfice, pas besoin d'explication supplémentaire.
 - ✅ **Météo soudaine** — Effet du maléfice, pas besoin d'explication supplémentaire.
+- 🔑 **Les voix de la forêt** — `feuilles_rando.md` montre des voix qui guident et manipulent le fugitif, alors que le maléfice « n'a pas de volonté » : contradiction à trancher. Options : (a) échos/pareidolie — l'anomalie renvoie des fragments de pensées et le fugitif, endoctriné, les a interprétés comme des ordres ; (b) psychologique — culpabilité et endoctrinement, les « voix » relèvent du récit non fiable ; (c) entité tierce — à éviter, alourdit le lore. Piste recommandée : a+b — l'anomalie n'a pas de volonté mais fait écran aux projections humaines, ce qui unifie les voix du fugitif et les manifestations nocturnes (« zone grise ») sous un même mécanisme, et laisse aux joueurs futés une ré-interprétation possible avant le twist.
 
 ## La connection Perchtenlauf ↔ Vercors
 
 - ✅ **Origine des masques** — Licence artistique : les masques sont inspirés des Perchtenlauf par choix esthétique et narratif, sans besoin de justifier une migration autrichienne vers le Vercors.
 - ✅ **Transmission du rôle** — Les cultistes sont des personnes qui ont repris le flambeau : soit après avoir découvert les instructions en détruisant une statuette, soit par transmission familiale. La transmission familiale est nécessaire pour conserver le savoir pendant les cycles de 140 ans.
 - ✅ **Échec de la transmission** — Personne ne rassemble de nouveaux cultistes si la transmission familiale disparaît. C'est une catastrophe : le rituel n'est pas réalisé et les effets du maléfice deviennent catastrophiques. Cela ne s'est **jamais produit** jusqu'au cycle actuel — d'où l'enjeu critique de cette fin de cycle.
-- ✅ **Conscience des cultistes** — Les cultistes savent consciemment qu'ils protègent le Vercors et qu'ils accomplissent une mission surnaturelle. *(Note : mettre à jour `lore.md` qui dit encore « des gens ordinaires qui ne se souviennent de rien ».)*
+- ✅ **Conscience des cultistes** — Les cultistes savent consciemment qu'ils protègent le Vercors et qu'ils accomplissent une mission surnaturelle. *(Note : `lore.md` mis à jour le 04/10.)*
 
 ## Les époques et leur cohérence
 
@@ -49,7 +50,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ✅ **Effet de la destruction** — La destruction de la statuette ne provoque rien en elle-même : elle est seulement nécessaire pour révéler les instructions et permettre la suite du scénario.
 - ✅ **Message** — Le message est laissé par les fabricants de la statuette. Il explique en substance que si les joueurs l'ont trouvée, c'est que les anciens Perchtenlauf ne sont plus là — sinon ils ne les auraient pas laissés y accéder — et que les joueurs doivent devenir les nouveaux Perchtenlauf.
 - ✅ **Lieu** — La statuette se trouve dans la grotte où sont rassemblés les objets disparus ; l'équipe rando la découvre le samedi.
-- ✅ **Après le vol du fugitif** — Dans `RANDO.md` (récit situé dans le passé), le fugitif la cache près d'une source. Validé (Rémi, 02/10) : les Perchtenlauf le rattrapent, récupèrent la statuette et la replacent dans la grotte — retour à l'état initial. Le vol n'explique pas le rituel partiel : la cause reste la statuette jamais parfaitement conforme aux instructions.
+- ✅ **Après le vol du fugitif** — Dans `feuilles_rando.md` (récit situé dans le passé), le fugitif la cache près d'une source. Validé (Rémi, 02/10) : les Perchtenlauf le rattrapent, récupèrent la statuette et la replacent dans la grotte — retour à l'état initial. Le vol n'explique pas le rituel partiel : la cause reste la statuette jamais parfaitement conforme aux instructions.
 - ✅ **Origine de la statuette actuelle** — Elle a été fabriquée par les Perchtenlauf du cycle précédent, voire d'un cycle antérieur. C'est un vieil objet, potentiellement réutilisé depuis plusieurs cycles.
 - ✅ **Ingrédients de la statuette** — Les instructions précisent que la statuette doit être composée de certains matériaux (du bois, etc.) et porter des symboles correspondant à un loup, etc. La forme et la réalisation restent libres.
 - ✅ **Pourquoi les rituels précédents étaient partiels** — La statuette « parfaite » n'a jamais été réalisée. Les ingrédients sont en partie connus mais jamais réunis correctement. Espoir que ce coup-ci on y arrive.
@@ -68,7 +69,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - 💡 **Photographe animalier** — Il a capturé des images d'êtres masqués dans la forêt. Il est convaincu qu'ils sont malveillants.
 - ✅ **Destin du photographe** — Validé (Rémi, 02/10) : il est mort dans un véritable accident de voiture, de nuit en montagne, alors qu'il partait chercher les êtres masqués — fasciné par eux, sans intention de leur nuire. Un article de journal présente l'événement comme un accident de la route fortuit, où il aurait percuté des personnes en tenues étranges. Le scénario ne confirme pas que ces victimes étaient les derniers Perchtenlauf ni que l'accident explique leur absence — le lien reste déductible, jamais énoncé.
 - ❓ **Lien du photographe avec les cultistes** — Son rôle auprès des Perchtenlauf et ce qu'il a découvert restent à préciser.
-- 💡 **Le PNJ, enfant du photographe** — Excalidraw confirme « Arrivée du PNJ, infodump ». Le PNJ fournit le mot de passe ou le code pour la partie secrète du site web (jour 2). Reste à déterminer ce qui déclenche son apparition. [PRIO]
+- 💡 **Le PNJ, enfant du photographe** — Proposition : il revient chaque année autour de l'anniversaire de l'accident (pèlerinage) et débarque dimanche matin, sans dépendre d'une action des joueurs ; la fouille du samedi peut annoncer sa venue (« il revient chaque année fin octobre » — carnet ou petite valise oubliés sous un lit ou dans un placard). Infodump + code de la partie secrète du site. À valider.
 - ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par le photographe. Partie publique (jour 1) + partie secrète (jour 2) nécessitant un code ou une URL cachée. Le PNJ fournit l'accès.
 
 ## Pourquoi la statuette est avec les objets ? Et pourquoi les perchtenlaufs ne prennent pas les objets ? [Décision du 19/07]
@@ -79,7 +80,8 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 ## Le calendrier et le timing du rituel
 
 - ✅ **Justification du changement d'heure** — Validé (Rémi, 02/10) : le rituel doit être accompli à un **moment astronomique précis** le dimanche du changement d'heure. Avant l'instauration de l'heure d'été (1916 en France), l'heure légale correspondait approximativement à l'heure solaire ; depuis, le changement d'heure crée un décalage. Le basculement réel (3 h → 2 h dans la nuit du 24 au 25 octobre 2026) n'est pas l'heure du rituel : c'est ce qui rend ce week-end propice, quand l'heure légale recolle à l'heure solaire. Le vieux calendrier — qui ignore l'heure d'été — est l'énigme qui permet de retrouver le moment.
-- ⚠️ **Contrainte horaire réelle** — Tout doit être terminé à midi (des cousins partent vers 12 h). Le rituel doit donc avoir lieu vers **10h30–11h** : le vieux calendrier devra justifier une heure de fin de matinée — « midi solaire vrai » tombe vers 12h40 en heure légale, donc hors contrainte.
+- ⚠️ **Contrainte horaire réelle** — Tout doit être terminé à midi (des cousins partent vers 12 h). Créneau retenu : rituel **~11h–11h30** sur le lieu repéré (10 min en voiture depuis le gîte) ; le vieux calendrier devra justifier une heure de fin de matinée — « midi solaire vrai » tombe vers 12h40 en heure légale, donc hors contrainte.
+- ⚠️ **Pas de cadran solaire** — aucun repéré au village (visite terrain) : l'énigme du vieux calendrier doit être autonome (le document porte l'énigme) ou s'appuyer sur un autre ancrage (fontaine datée avec ours ?).
 - ❓ **Pourquoi le rituel doit-il être fait à un moment précis ?** — Fenêtre astronomique ? Alignement ? Si on le rate, que se passe-t-il ?
 
 ## Les cartes et la superposition
@@ -99,7 +101,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ✅ **Existence** — Pendant la nuit du samedi au dimanche, des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes : texte à l'encre invisible dans les douches, indices dans les boîtes de céréales et/ou sous les tasses, éléments étranges sur les voitures.
 - ✅ **Fonction narrative** — Ces manifestations orientent les joueurs vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
 - ✅ **Nature des manifestations** — Validé (Rémi, 02/10) : elles sont un effet surnaturel qui semble interagir avec le monde, sans volonté ni intention morale clairement bienveillante ou malveillante — un débordement de fin de cycle, ni « contre » ni « pour » les joueurs. Compatible avec un maléfice sans volonté propre.
-- ❓ **Contenu précis des manifestations** — La forme exacte des indices et leur articulation avec le message de la statuette restent à définir. [PRIO]
+- 💡 **Contenu précis des manifestations** — Proposition : chaque manifestation amorce un groupe du dimanche — douches → symboles de la nouvelle statuette (« arts plastiques »), céréales/tasses → fragments de paroles/rythme/gestes (« rituel »), voitures → tracé/repères (« lieu »). Le message de la statuette donne l'objectif global, les manifestations le premier fil de chaque groupe. Contraintes terrain : douches en plastique → utiliser les miroirs de l'espace commun ; pas de givre probable → tracé aux marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. À valider.
 
 ## Le rituel lui-même
 
@@ -119,9 +121,13 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 ## Points clés à trancher (récapitulatif)
 
-1. ~~**Qui produit les manifestations nocturnes ?**~~ — ✅ Validé (Rémi, 02/10) : effet surnaturel « zone grise », sans intention clairement bienveillante ou malveillante (compatible avec un maléfice sans volonté).
+1. ~~**Qui produit les manifestations nocturnes ?**~~ — ✅ Validé (Rémi, 02/10) : effet surnaturel « zone grise », sans intention clairement bienveillante ou malveillante. 💡 Contenu proposé (mapping par groupe + contraintes terrain) — à valider.
 2. ~~**Destin d'Ivan Beaulieu**~~ — ✅ Validé (Rémi, 02/10) : vrai accident de voiture, de nuit en montagne, en allant chercher les êtres masqués (article de journal). Lien avec les derniers Perchtenlauf déductible, jamais énoncé.
-3. ~~**Justification du changement d'heure**~~ — ✅ Validé (Rémi, 02/10), avec contrainte : rituel vers 10h30–11h, tout terminé à midi.
-4. 💡 **Les 3 points du triangle** — En attente de la carte de Rémi.
-5. ⚠️ **Mettre à jour `lore.md`** — Corriger « des gens ordinaires qui ne se souviennent de rien » → cultistes conscients de leur mission.
+3. ~~**Justification du changement d'heure**~~ — ✅ Validé (Rémi, 02/10). Créneau retenu : rituel ~11h–11h30 sur le champ repéré, tout terminé à midi. ⚠️ Pas de cadran solaire au village — énigme du calendrier autonome.
+4. 💡 **Les 3 points du triangle** — La grotte connue est à ~23 km → maillage régional ; centre = le champ du rituel. En attente de la carte de Rémi.
+5. 🔑 **Les voix de la forêt** — Contradiction « sans volonté » vs manipulation du fugitif (options ci-dessus, piste recommandée échos/projection).
+6. 💡 **Déclencheur du PNJ** — Proposition pèlerinage annuel autour de l'anniversaire de l'accident.
+7. 💡 **Squelette du scialet** — Pas le fugitif ; époque à choisir sans exploiter les lieux de mémoire réels.
+8. ❓ **La voyante** — Pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans les affaires d'Ivan).
+9. ~~**Mettre à jour `lore.md`**~~ — ✅ Fait (04/10). `feuilles_rando.md` reste à réécrire une fois les points ci-dessus tranchés.
 
