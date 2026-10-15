@@ -7,13 +7,16 @@ Principe : chaque info vit en un seul endroit — lore canonique dans `lore.md`,
 - `lore.md` synchronisé avec les décisions validées (cycle 140 ans, cultistes conscients, statuette, mort d'Ivan, calendrier, planning du dimanche)
 - `feuilles_rando.md` reste à réécrire une fois les points de lore tranchés (sac, squelette, voix)
 
-Points proposés, encore à faire valider par l'équipe (détail dans `lore_precisions.md`) :
+Décisions validées en équipe (réunion du 04/10 — détail dans `lore_precisions.md` et `validation_2026-10-02.md`) :
+
+- Pas de PNJ « enfant d'Ivan » pour l'instant : le carnet d'Ivan porte l'infodump et le code du site secret (réversible)
+- Squelette du scialet ≠ fugitif (victime collectée par le triangle ; époque à choisir sans lieux de mémoire réels)
+- Mapping des manifestations par groupe (douches/miroirs→statuette, petit-déj→rituel, voitures→lieu) : OK, textes à écrire
+
+Reste à trancher :
 
 - Nature des voix de la forêt — contradiction avec « le maléfice n'a pas de volonté » (piste recommandée : échos/projection, pas d'entité)
-- Déclencheur de l'arrivée du PNJ — proposition : pèlerinage annuel autour de l'anniversaire de l'accident
-- Contenu des manifestations nocturnes — proposition : mapping par groupe (douches→statuette, petit-déj→rituel, voitures→lieu)
-- Identité du squelette du scialet — pas le fugitif ; époque à choisir sans exploiter les lieux de mémoire réels
-- Mécanisme de la voyante — pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans les affaires d'Ivan)
+- Mécanisme de la voyante — pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans le carnet d'Ivan, cohérent avec « pas de PNJ »)
 
 ## Acquis du repérage terrain
 
@@ -30,7 +33,7 @@ Points proposés, encore à faire valider par l'équipe (détail dans `lore_prec
 3. **Signal de réussite du rituel** — le climax manque son payoff ; contrainte : écologique et sans danger, **pas de risque d'incendie** → options : crescendo de cloches (authentique Perchten), statuette échangée contre une version « dorée », rubans autour de l'arbre, semis de fleurs
 4. **Plans B météo et réseau** — pluie fin octobre probable (repli du rituel ?), couverture faible hors du gîte (talkies-walkies / pendant papier pour tout sauf le site)
 5. **« Aha » propre à l'équipe tranquille** — la fouille de la chambre d'Ivan est le meilleur candidat ; éviter qu'elle ne soit qu'un guichet pour les équipes mobiles
-6. **Casting PNJ** — la voyante et l'enfant d'Ivan ne peuvent pas être joués par les joueurs : qui ?
+6. **Casting PNJ** — le PNJ « enfant d'Ivan » est supprimé ; reste la voyante, uniquement si l'option PNJ est retenue (qui ?)
 7. **Production** — costumes/masques pour tout le groupe le dimanche + props vieillis + site web : poste le plus lourd, à estimer tôt
 
 ## Tâches

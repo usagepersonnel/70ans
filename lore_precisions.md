@@ -26,7 +26,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - 💡 **Les 3 points du triangle** — Rémi va les définir : il s'agit de grottes ou lieux similaires, qui seront utilisés pour les énigmes. Coordonnées d'une grotte déjà identifiées (45.150739, 5.564328, grottomap.org). Constat terrain : cette grotte est à ~23 km à vol d'oiseau de La Chapelle → les 3 points maillent la région, et le centre du triangle doit tomber sur le lieu du rituel repéré (champ à ~10 min en voiture du gîte). En attente de la carte de Rémi.
 - ✅ **Boussoles affolées** — Effet du maléfice, pas besoin d'explication supplémentaire.
 - ✅ **Météo soudaine** — Effet du maléfice, pas besoin d'explication supplémentaire.
-- 🔑 **Les voix de la forêt** — `feuilles_rando.md` montre des voix qui guident et manipulent le fugitif, alors que le maléfice « n'a pas de volonté » : contradiction à trancher. Options : (a) échos/pareidolie — l'anomalie renvoie des fragments de pensées et le fugitif, endoctriné, les a interprétés comme des ordres ; (b) psychologique — culpabilité et endoctrinement, les « voix » relèvent du récit non fiable ; (c) entité tierce — à éviter, alourdit le lore. Piste recommandée : a+b — l'anomalie n'a pas de volonté mais fait écran aux projections humaines, ce qui unifie les voix du fugitif et les manifestations nocturnes (« zone grise ») sous un même mécanisme, et laisse aux joueurs futés une ré-interprétation possible avant le twist.
+- ❓ **Les voix de la forêt** — Question ouverte (à confirmer en réunion). `feuilles_rando.md` montre des voix qui guident et manipulent le fugitif, alors que le maléfice « n'a pas de volonté ». Sont-ce les mêmes « échos du passé » que les manifestations nocturnes ? Trois lectures possibles : (a) les voix du fugitif **sont** des échos, même mécanisme que les manifestations — unifie le lore et résout la contradiction ; (b) seules les manifestations sont des échos — les voix relèvent de la psychologie/endoctrinement du fugitif (récit non fiable) ; (c) les deux : échos réels + interprétation biaisée. Aucune n'est décidée.
 
 ## La connection Perchtenlauf ↔ Vercors
 
@@ -69,8 +69,8 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - 💡 **Photographe animalier** — Il a capturé des images d'êtres masqués dans la forêt. Il est convaincu qu'ils sont malveillants.
 - ✅ **Destin du photographe** — Validé (Rémi, 02/10) : il est mort dans un véritable accident de voiture, de nuit en montagne, alors qu'il partait chercher les êtres masqués — fasciné par eux, sans intention de leur nuire. Un article de journal présente l'événement comme un accident de la route fortuit, où il aurait percuté des personnes en tenues étranges. Le scénario ne confirme pas que ces victimes étaient les derniers Perchtenlauf ni que l'accident explique leur absence — le lien reste déductible, jamais énoncé.
 - ❓ **Lien du photographe avec les cultistes** — Son rôle auprès des Perchtenlauf et ce qu'il a découvert restent à préciser.
-- 💡 **Le PNJ, enfant du photographe** — Proposition : il revient chaque année autour de l'anniversaire de l'accident (pèlerinage) et débarque dimanche matin, sans dépendre d'une action des joueurs ; la fouille du samedi peut annoncer sa venue (« il revient chaque année fin octobre » — carnet ou petite valise oubliés sous un lit ou dans un placard). Infodump + code de la partie secrète du site. À valider.
-- ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par le photographe. Partie publique (jour 1) + partie secrète (jour 2) nécessitant un code ou une URL cachée. Le PNJ fournit l'accès.
+- ✅ **Pas de PNJ enfant d'Ivan** — Validé en équipe : on se passe du PNJ pour l'instant. Son rôle (infodump + code de la partie secrète du site) passe par le carnet d'Ivan trouvé dans sa chambre le samedi. Le pèlerinage annuel est abandonné — réversible si un volontaire se déclare.
+- ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par le photographe. Partie publique (jour 1) + partie secrète (jour 2) nécessitant un code ou une URL cachée. Le code se trouve dans le carnet d'Ivan (fouille du samedi) — possibilité d'en faire une mini-énigme (code dérivé de ses notes/photos).
 
 ## Pourquoi la statuette est avec les objets ? Et pourquoi les perchtenlaufs ne prennent pas les objets ? [Décision du 19/07]
 
@@ -100,8 +100,8 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 - ✅ **Existence** — Pendant la nuit du samedi au dimanche, des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes : texte à l'encre invisible dans les douches, indices dans les boîtes de céréales et/ou sous les tasses, éléments étranges sur les voitures.
 - ✅ **Fonction narrative** — Ces manifestations orientent les joueurs vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
-- ✅ **Nature des manifestations** — Validé (Rémi, 02/10) : elles sont un effet surnaturel qui semble interagir avec le monde, sans volonté ni intention morale clairement bienveillante ou malveillante — un débordement de fin de cycle, ni « contre » ni « pour » les joueurs. Compatible avec un maléfice sans volonté propre.
-- 💡 **Contenu précis des manifestations** — Proposition : chaque manifestation amorce un groupe du dimanche — douches → symboles de la nouvelle statuette (« arts plastiques »), céréales/tasses → fragments de paroles/rythme/gestes (« rituel »), voitures → tracé/repères (« lieu »). Le message de la statuette donne l'objectif global, les manifestations le premier fil de chaque groupe. Contraintes terrain : douches en plastique → utiliser les miroirs de l'espace commun ; pas de givre probable → tracé aux marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. À valider.
+- ✅ **Nature des manifestations** — Validé (Rémi, 02/10) : elles sont un effet surnaturel qui semble interagir avec le monde, sans volonté ni intention morale clairement bienveillante ou malveillante — un débordement de fin de cycle, ni « contre » ni « pour » les joueurs. Compatible avec un maléfice sans volonté propre. Mécanisme retenu (validé en équipe) : des **échos du passé** — des pensées de Perchtenlauf d'autrefois qui rémanent (ex. « il faut du bois pour la statuette » sous un bol). Le lien avec les voix entendues par le fugitif reste une question ouverte (cf. « Les voix de la forêt »).
+- ✅ **Contenu des manifestations** — Validé en équipe : le mapping par groupe convient globalement — douches/miroirs → symboles de la nouvelle statuette (« arts plastiques »), céréales/tasses → fragments de paroles/rythme/gestes (« rituel »), voitures → tracé/repères (« lieu »). Le message de la statuette donne l'objectif global, les manifestations le premier fil de chaque groupe. Contraintes terrain : douches en plastique → miroirs de l'espace commun ; pas de givre → marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. Reste : écrire les textes des échos.
 
 ## Le rituel lui-même
 
@@ -125,9 +125,9 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 2. ~~**Destin d'Ivan Beaulieu**~~ — ✅ Validé (Rémi, 02/10) : vrai accident de voiture, de nuit en montagne, en allant chercher les êtres masqués (article de journal). Lien avec les derniers Perchtenlauf déductible, jamais énoncé.
 3. ~~**Justification du changement d'heure**~~ — ✅ Validé (Rémi, 02/10). Créneau retenu : rituel ~11h–11h30 sur le champ repéré, tout terminé à midi. ⚠️ Pas de cadran solaire au village — énigme du calendrier autonome.
 4. 💡 **Les 3 points du triangle** — La grotte connue est à ~23 km → maillage régional ; centre = le champ du rituel. En attente de la carte de Rémi.
-5. 🔑 **Les voix de la forêt** — Contradiction « sans volonté » vs manipulation du fugitif (options ci-dessus, piste recommandée échos/projection).
-6. 💡 **Déclencheur du PNJ** — Proposition pèlerinage annuel autour de l'anniversaire de l'accident.
-7. 💡 **Squelette du scialet** — Pas le fugitif ; époque à choisir sans exploiter les lieux de mémoire réels.
-8. ❓ **La voyante** — Pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans les affaires d'Ivan).
+5. ❓ **Les voix de la forêt** — Question ouverte : sont-ce les mêmes « échos du passé » que les manifestations nocturnes, autre chose, ou les deux ? (options dans la section « Le triangle »)
+6. ~~**Déclencheur du PNJ**~~ — ✅ Validé en équipe : pas de PNJ, son rôle passe par le carnet d'Ivan.
+7. ~~**Squelette du scialet**~~ — ✅ Confirmé : pas le fugitif (victime collectée par le triangle). Reste : choisir l'époque, sans exploiter les lieux de mémoire réels.
+8. ❓ **La voyante** — Pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans le carnet d'Ivan — cohérent avec l'option « pas de PNJ »).
 9. ~~**Mettre à jour `lore.md`**~~ — ✅ Fait (04/10). `feuilles_rando.md` reste à réécrire une fois les points ci-dessus tranchés.
 

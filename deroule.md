@@ -19,7 +19,7 @@ Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avan
 **14h30–15h15 — La chambre d'Ivan (gîte)**
 
 - Trouver la bonne chambre parmi des chambres identiques : indice via le livre d'or 2011 (photo avec un détail reconnaissable) ou autre indice naturel — mécanisme à finaliser.
-- Fouille : carnet ou petite valise oubliée sous un lit / dans un placard → carnet d'enquête contenant : l'URL du site et les soupçons d'Ivan, une copie du **procès du notable** et de la **lettre de l'enfant**, la **transcription de la voyante** (si l'option document est retenue), l'**article de journal** sur l'accident, et l'indice « il revient chaque année fin octobre » (prépare le PNJ du dimanche).
+- Fouille : carnet ou petite valise oubliée sous un lit / dans un placard → carnet d'enquête contenant : l'URL du site et les soupçons d'Ivan, une copie du **procès du notable** et de la **lettre de l'enfant**, la **transcription de la voyante** (si l'option document est retenue), l'**article de journal** sur l'accident, et le **code de la partie secrète du site** (le carnet remplace le PNJ « enfant d'Ivan », supprimé : validé en équipe).
 - Le « aha » de l'équipe : elle détient l'archive complète de l'enquête — et seule elle comprend le lien possible entre l'accident et la disparition des Perchtenlauf.
 
 **15h15–16h15 — Boucle village**
@@ -48,7 +48,7 @@ Documents/props nécessaires à cet arc : carnet d'Ivan (central), article de jo
 
 - ❓ **Costumes** — L'équipe sportive (Seb) cherche "une partie des costumes" ET l'équipe rando (Rémi) trouve "des morceaux de costumes" dans le trésor caché. Comment répartir clairement ? Qui trouve quoi ?
 - ❓ **Repère des cultistes** — L'équipe tranquille (Batiste) "enquête sur les cultistes" et l'équipe rando (Rémi) "trouve la grotte" (= repère des cultistes). Est-ce que Batiste rassemble des infos qui mènent Rémi à la grotte, ou est-ce que Rémi la trouve de manière indépendante ?
-- ❓ **Objectifs communs** (trouver le repère des cultistes, contacter le PNJ, détruire la statuette) — Ces objectifs sont-ils vraiment communs ou chaque équipe y contribue différemment ?
+- ❓ **Objectifs communs** (trouver le repère des cultistes, trouver le carnet d'Ivan — remplace le contact avec son enfant, détruire la statuette) — Ces objectifs sont-ils vraiment communs ou chaque équipe y contribue différemment ?
 
 ## Répartition du dimanche
 
@@ -84,7 +84,7 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
   - indices dans les boîtes de céréales et/ou sous les tasses ;
   - éléments étranges sur les voitures.
 - ✅ **Dimanche matin** — Les joueurs découvrent ces manifestations pendant ou autour du petit-déjeuner. Elles les orientent vers les trois groupes fonctionnels du dimanche et vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
-- 💡 **Contenu précis des manifestations** — Proposition : chaque manifestation amorce un groupe — douches → « arts plastiques », petit-déj → « rituel », voitures → « lieu ». Contraintes terrain à intégrer : douches en plastique → utiliser les miroirs de l'espace commun ; pas de givre probable → tracé aux marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. À valider (cf. `lore_precisions.md`).
+- ✅ **Contenu des manifestations** — Validé en équipe : chaque manifestation amorce un groupe — douches/miroirs → « arts plastiques », petit-déj → « rituel », voitures → « lieu ». Les textes sont des **échos du passé** (pensées rémanentes de Perchtenlauf, ex. « il faut du bois pour la statuette ») : impersonnels, sans intention, mais porteurs de lore. Contraintes terrain : douches en plastique → miroirs de l'espace commun ; pas de givre → marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. Reste : écrire les textes (cf. `lore_precisions.md`).
 
 ## Pistes narratives et indices documentaires
 

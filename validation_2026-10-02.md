@@ -37,17 +37,17 @@ Les cycles durent 140 ans. Pendant un cycle, des objets disparaissent à n'impor
 
 Points complémentaires à valider :
 
-7. Le squelette du Scialet Royer, c'est le fugitif ?
+7. Le squelette du Scialet Royer, c'est le fugitif ? ✅ Validé en équipe : **non**, confirmé.
 
 On propose que non. Dans le parcours rando, le récit du fugitif continue après le scialet — donc si le squelette était le sien, la chronologie coincerait. On propose que ce soit quelqu'un d'autre « collecté » par le triangle pendant le cycle (par exemple un soldat de la 2ème guerre mondiale, cohérent avec les effets d'époque déjà prévus parmi les objets de la grotte). Ça transforme une incohérence en renfort du thème : des gens disparaissent aussi, pas que des objets. Le fugitif, lui, est rattrapé par les Perchten après avoir caché la statuette près de la source — son récit s'arrête là, et son sort n'est pas raconté (comme celui des anciens Perchten : volontairement non expliqué).
 → Débloque : la continuité du parcours rando, et une fausse piste maîtrisée au lieu d'une contradiction.
 
-8. Qu'est-ce qui déclenche l'arrivée du PNJ (l'enfant d'Ivan) ?
+8. Qu'est-ce qui déclenche l'arrivée du PNJ (l'enfant d'Ivan) ? ✅ Validé en équipe : **on se passe du PNJ** pour l'instant — son rôle (infodump + code de la partie secrète) passe par le carnet d'Ivan trouvé dans sa chambre. Réversible si un volontaire se déclare.
 
 On propose qu'il revienne chaque année à la même date, autour de l'anniversaire de l'accident de son père — une sorte de pèlerinage au village et au gîte. Il débarque dimanche matin, tombe sur des joueurs qui viennent de fouiller la chambre d'Ivan la veille, fait l'infodump et donne le code de la partie secrète du site. La fouille du samedi peut d'ailleurs révéler qu'il est attendu (« il revient chaque année fin octobre »), pour que son arrivée ne tombe pas du ciel.
 → Débloque : le timing du PNJ (jour 2, cohérent avec la partie secrète du site) et sa motivation, sans dépendre d'une action des joueurs.
 
-9. Que révèlent exactement les manifestations nocturnes ?
+9. Que révèlent exactement les manifestations nocturnes ? ✅ Validé en équipe : mapping par groupe OK, détail à écrire. Mécanisme retenu : les textes sont des **échos du passé** — pensées rémanentes de Perchtenlauf d'autrefois (impersonnel, sans intention, mais porteur de lore : ex. « il faut du bois pour la statuette » sous un bol ou dans une douche).
 
 On propose que chaque manifestation amorce un des trois groupes du dimanche :
 

@@ -34,8 +34,8 @@ Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du
 ### Dimanche
 
 - [x] Espaces de travail pour les 3 groupes fonctionnels en parallèle : table pour les arts plastiques (fabriquer la statuette), espace pour répéter la chorégraphie, coin calme pour le groupe « lieu » avec les cartes ✅ Il y a tout ce qu'il faut
-- [ ] **Point d'arrivée du PNJ** — proposition à valider : l'enfant d'Ivan revient chaque année autour de l'anniversaire de l'accident et débarque **dimanche matin**. Repérer d'où il peut apparaître physiquement (parking, entrée du village, chemin)
-- [x] Dans la chambre d'Ivan : où cacher l'indice « il revient chaque année fin octobre » qui prépare sa venue ? (calendrier avec date cerclée, lettre, réservation récurrente au livre d'or…) ✅ A mon avis on devrait cacher sous un lit ou dans un placard un livret, carnet, ou petite valise que Ivan aurait oublié
+- [x] **Point d'arrivée du PNJ** — ✅ Sans objet : le PNJ « enfant d'Ivan » est supprimé (validé en équipe) ; le carnet d'Ivan le remplace.
+- [x] Dans la chambre d'Ivan : où cacher le carnet d'Ivan (qui porte désormais l'infodump et le code du site secret, le PNJ étant supprimé) ? ✅ A mon avis on devrait cacher sous un lit ou dans un placard un livret, carnet, ou petite valise que Ivan aurait oublié
 
 ### À demander au propriétaire
 

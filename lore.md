@@ -100,9 +100,9 @@ Cartes à utiliser :
 ## Personnages
 
 - **Ivan Beaulieu** — photographe animalier. Il a photographié les êtres masqués, s'est convaincu de leur malveillance et a créé le site web (façade animalière → complot, partie publique + partie secrète). Mort dans un vrai accident de voiture, de nuit en montagne, en allant les chercher : l'article de journal mentionne des personnes en tenues étranges percutées — peut-être les derniers Perchtenlauf (déductible, jamais énoncé).
-- **PNJ : l'enfant d'Ivan** — reviendrait chaque année autour de l'anniversaire de l'accident (proposition à valider, cf. `lore_precisions.md`). Arrive dimanche matin : infodump + code de la partie secrète du site.
+- **Pas de PNJ « enfant d'Ivan »** (validé en équipe, réversible) — son rôle (infodump + code de la partie secrète du site) passe par le carnet d'Ivan trouvé dans sa chambre le samedi.
 - **La voyante** — donne un indice énigmatique tentant à interpréter comme « détruire l'objet ». En réalité c'est juste une mauvaise voyante, ni gentille ni méchante. Forme de l'interaction à trancher : pas de lieu au village (cf. `deroule.md`).
-- **Le fugitif** — Perchtenlauf du cycle précédent (~1886), convaincu par les « voix de la forêt » que la statuette causait les cycles : il l'a volée, a fui, a été rattrapé ; les Perchten l'ont replacée dans la grotte. Son récit structure l'arc rando (cf. `feuilles_rando.md`). Son sort n'est pas raconté ; la nature des voix reste à trancher (cf. `lore_precisions.md`).
+- **Le fugitif** — Perchtenlauf du cycle précédent (~1886), convaincu par les « voix de la forêt » que la statuette causait les cycles : il l'a volée, a fui, a été rattrapé ; les Perchten l'ont replacée dans la grotte. Son récit structure l'arc rando (cf. `feuilles_rando.md`). Son sort n'est pas raconté ; la nature des voix reste à trancher — sont-ce les mêmes échos du passé que les manifestations nocturnes ? (cf. `lore_precisions.md`).
 - **Mécanique PNJ** : les PNJ ne sont pas généreux — il faut résoudre une énigme ou accomplir une tâche pour obtenir un document ou une information
 
 ## Objets et costumes
@@ -201,7 +201,7 @@ Les joueurs vont faire appel à une voyante, qui leur donne un indice énigmatiq
 
 - Créé par Ivan Beaulieu
 - **Partie publique** (jour 1) : photos animalières qui virent vers la théorie du complot
-- **Partie secrète** (jour 2) : nécessite un code ou une URL cachée sans lien — le PNJ (fils/fille de Ivan) fournit l'accès
+- **Partie secrète** (jour 2) : nécessite un code ou une URL cachée sans lien — le code est dans le carnet d'Ivan (fouille du samedi)
 
 ## Objectifs communs aux trois équipes [TODO: affiner]
 

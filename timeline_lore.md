@@ -21,7 +21,7 @@ Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'ex
 | Ère napoléonienne | Chevaux / sabre de Napoléon parmi les objets disparus | ⚠️ Ancrage à documenter |
 | 2ème guerre mondiale | Effets de guerre parmi les objets disparus ; squelette du scialet : époque à redéfinir — décision prise de ne pas exploiter les lieux de mémoire réels (visite terrain) | ⚠️ Ancrage à documenter |
 | ~140 ans avant le jeu (~1886 si 2026) | **Rituel précédent partiellement réussi** → les disparitions ponctuelles du cycle actuel. Cause : la statuette n'a jamais été parfaitement conforme aux instructions (le vol du fugitif n'y contribue pas — la statuette a été récupérée avant le rituel) | ✅ |
-| Époque indéterminée (fin d'un cycle, ~1886 ?) | **Le fugitif** — un Perchtenlauf d'une vingtaine d'années, endoctriné depuis l'enfance, est convaincu par les « voix de la forêt » que la statuette cause les cycles. À l'aube, il la vole dans la Grotte des Maléfices, fuit vers le sud-ouest, se cache dans un scialet jumeau, est encerclé près du village, cache l'objet près d'une source et laisse un message demandant de le détruire. **Les Perchten le rattrapent, récupèrent la statuette et la replacent dans la grotte** — où l'équipe rando la trouve aujourd'hui | ✅ Chaîne validée (Rémi, 02/10 : « retour à l'état initial »). ❓ Sort final inconnu (squelette au Scialet Royer ?) |
+| Époque indéterminée (fin d'un cycle, ~1886 ?) | **Le fugitif** — un Perchtenlauf d'une vingtaine d'années, endoctriné depuis l'enfance, est convaincu par les « voix de la forêt » que la statuette cause les cycles. À l'aube, il la vole dans la Grotte des Maléfices, fuit vers le sud-ouest, se cache dans un scialet jumeau, est encerclé près du village, cache l'objet près d'une source et laisse un message demandant de le détruire. **Les Perchten le rattrapent, récupèrent la statuette et la replacent dans la grotte** — où l'équipe rando la trouve aujourd'hui | ✅ Chaîne validée (Rémi, 02/10 : « retour à l'état initial »). ✅ Le squelette du Scialet Royer n'est pas le fugitif (validé en équipe). Son sort n'est pas raconté |
 | Époque indéterminée (XIXe–XXe ?) | **L'enfant et la grotte dorée** — un enfant découvre la grotte aux objets (dont le rouleau à pâtisserie de sa grand-mère), personne ne le croit ; adulte, il raconte tout dans une lettre au Dr Brilleux | ✅ Événement ; date à fixer |
 | Époque indéterminée | **Le chasseur et les loups** — un chasseur perdu voit une figure masquée entourée de loups protecteurs, la statuette au centre ; il peint la scène. Le tableau est aujourd'hui chez un descendant, commerçant local | ✅ Événement ; date à fixer (générations) |
 | 1916 | Instauration de l'heure d'été en France → décalage entre heure légale et heure solaire | ✅ Base de l'énigme du vieux calendrier (validé Rémi, 02/10) |
@@ -46,7 +46,7 @@ Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'ex
 ## Personnages — repères
 
 - **Ivan Beaulieu** — photographe animalier, créateur du site, mort ✅ dans un accident de voiture de nuit en montagne, en allant chercher les êtres masqués (fasciné par eux, sans intention de leur nuire)
-- **Le PNJ** — enfant d'Ivan ; reviendrait chaque année autour de l'anniversaire de l'accident (💡 proposition), arrive dimanche matin : infodump + accès à la partie secrète du site
+- **Pas de PNJ « enfant d'Ivan »** (validé en équipe, réversible) — le carnet d'Ivan porte l'infodump et le code de la partie secrète du site
 - **La voyante** — mauvaise voyante ; son indice ambigu oriente les joueurs vers « détruire l'objet »
 - **Le fugitif** — Perchtenlauf du passé (~20 ans), voleur de la statuette ; son récit structure l'arc rando
 - **Les anciens Perchtenlauf** — absents au moment du jeu, sans explication dans le scénario ✅
@@ -55,8 +55,8 @@ Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'ex
 ## À trancher pour caler la timeline
 
 - ✅ **Époque du fugitif** — fin du cycle précédent (~1886) : les Perchten le rattrapent, récupèrent la statuette près de la source et la replacent dans la grotte (validé Rémi, 02/10). Le vol n'explique pas le rituel partiel — cause : la statuette jamais parfaitement conforme
-- 💡 **Sort du fugitif** — proposition : le squelette du Scialet Royer n'est pas le sien (victime collectée par le triangle, époque à choisir sans lieux de mémoire réels) ; son récit s'arrête quand les Perchten le rattrapent, sort non raconté
-- 🔑 **Les voix de la forêt** — elles manipulent le fugitif alors que le maléfice « n'a pas de volonté » : contradiction à trancher (options dans `lore_precisions.md`)
+- ✅ **Sort du fugitif** — validé en équipe : le squelette du Scialet Royer n'est pas le sien (victime collectée par le triangle ; ❓ époque à choisir, sans lieux de mémoire réels) ; son récit s'arrête quand les Perchten le rattrapent, sort non raconté
+- ❓ **Les voix de la forêt** — elles manipulent le fugitif alors que le maléfice « n'a pas de volonté » : sont-ce les mêmes échos du passé que les manifestations nocturnes, autre chose, ou les deux ? À confirmer (options dans `lore_precisions.md`)
 - ❓ **Dates de la lettre et du tableau** — époques de l'enfant de la grotte dorée et du chasseur, et chaîne de transmission jusqu'au commerçant actuel (café/librairie du village — accord obtenu)
 - ~~**Mort d'Ivan**~~ — ✅ Validé (Rémi, 02/10). Reste à fixer la chronologie : séjour au gîte → photos → site → accident
 - ✅ **Créneau du rituel** — ~11h–11h30 sur le champ repéré (~10 min en voiture du gîte) ; le vieux calendrier doit justifier cette heure de fin de matinée, de façon autonome (pas de cadran solaire au village)

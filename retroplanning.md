@@ -14,7 +14,7 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 
 | Tâche | Qui | Bloque |
 |---|---|---|
-| **Validation lore en équipe** — trancher les 5 points de `lore_precisions.md` (voix, PNJ, manifestations, squelette, voyante). Format proposé : 30 min en visio ou réponses asynchrones sur un doc | Tous | Tout le reste |
+| **Validation lore en équipe** — 3 des 5 points tranchés le 04/10 (pas de PNJ enfant d'Ivan, manifestations = échos du passé, squelette ≠ fugitif). **Restent : la voyante** (PNJ ou document ?) et **les voix du fugitif** (mêmes échos que les manifestations ? autre chose ? les deux ?), plus les points de la réunion de ce soir | Tous | Tout le reste |
 | Arc équipe tranquille — valider le détail du samedi (`deroule.md`) | Batiste | Documents, site |
 | Arc équipe sportive — détailler le samedi : quels objets, où, justification narrative (crée le verrou de destruction de la statuette) | Seb | Timing du twist |
 | Réécriture `feuilles_rando.md` — après tranchage voix/squelette/sac | Rémi | Parcours rando |
@@ -42,7 +42,7 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 | Site web : partie secrète + code, test complet sur mobile (le gîte capte « un peu ») | Batiste |
 | Vieillissement et impression des documents ; découpe des trous dans les cartes | ? |
 | Kit logistique : talkies-walkies, marqueurs craie vitres, encre invisible pour miroirs, matériel arts plastiques pour la nouvelle statuette | ? |
-| Casting PNJ (enfant d'Ivan, voyante si option PNJ) + brief | ? |
+| Casting PNJ (voyante uniquement, si option PNJ — le PNJ enfant d'Ivan est supprimé) + brief | ? |
 | Plan B météo : variante pluie pour le rituel et pour le samedi terrain | ? |
 | **Dry-run** : lecture à voix haute du déroulé complet en équipe + checklist finale | Tous |
 | Emballage : tout ce qui part au Vercors listé et regroupé | ? |
