@@ -8,9 +8,11 @@ Questions de répartition des équipes, d'énigmes et de mécaniques. Le lore es
 
 D'après excalidraw, les 3 équipes ont des buts distincts le samedi :
 
-- **Équipe tranquille (Batiste) — chapelle/gîte/village** : enquêter sur les cultistes et le triangle du Vercors. Rassembler des infos (site web de Ivan, commerçant/office du tourisme, géoguesser pour guider les équipes mobiles).
+- **Équipe tranquille (Batiste) — chapelle/gîte/village** : enquêter sur les cultistes et le triangle du Vercors. Enquête autonome : fouille du gîte, site web d'Ivan, commerçant, boucle village.
 - **Équipe sportive (Seb) — terrain** : créer les conditions de la destruction de la statuette. Trouver différents objets sans savoir lequel servira à la destruction + trouver une partie des costumes.
 - **Équipe rando (Rémi) — terrain++** : trouver la grotte avec les objets disparus à travers les époques + la statuette. Triangulation de photos de piège photo, trésor caché (outils ésotériques + morceaux de costumes).
+
+✅ **Validé en équipe (11/10)** : pas de communication entre équipes le samedi — chacune fait son truc, moins d'aléas. Chaque arc est donc autonome ; le géoguesser et les talkies-walkies sont abandonnés.
 
 ### Arc détaillé : équipe tranquille (proposition à valider)
 
@@ -20,35 +22,36 @@ Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avan
 
 - Trouver la bonne chambre parmi des chambres identiques : indice via le livre d'or 2011 (photo avec un détail reconnaissable) ou autre indice naturel — mécanisme à finaliser.
 - Fouille : carnet ou petite valise oubliée sous un lit / dans un placard → carnet d'enquête contenant : l'URL du site et les soupçons d'Ivan, une copie du **procès du notable** et de la **lettre de l'enfant**, la **transcription de la voyante** (si l'option document est retenue), l'**article de journal** sur l'accident, et le **code de la partie secrète du site** (le carnet remplace le PNJ « enfant d'Ivan », supprimé : validé en équipe).
+- ✅ **Bouteilles (décision 11/10)** : des bouteilles des parents servent de décor au gîte — l'une cache un secret d'Ivan (ex. la dernière carte à superposer, pièce du groupe « lieu » du dimanche). [à voir si on n'utiliserait pas plutôt ça le dimanche ?]
 - Le « aha » de l'équipe : elle détient l'archive complète de l'enquête — et seule elle comprend le lien possible entre l'accident et la disparition des Perchtenlauf.
 
 **15h15–16h15 — Boucle village**
 
 - Café/librairie : le **tableau du chasseur** — le commerçant n'est pas généreux : énigme ou service à rendre pour voir le tableau et entendre son histoire.
-- Cimetière : identifier **la tombe sans inscription** → la relie au procès du notable (la vraie tombe devient la preuve physique du document).
+- Cimetière : identifier **la tombe sans inscription** → la relie au procès du notable (la vraie tombe devient la preuve physique du document). ✅ Visite du cimetière pendant le jeu validée en équipe (11/10, jugée respectueuse).
 - Fontaine avec dates + ours : candidate pour la « source » du fugitif ; les dates gravées peuvent alimenter l'énigme du vieux calendrier.
 - Plantes nommées du village (« Barbe de bouc »…) : repérage utile pour les ingrédients de la nouvelle statuette le dimanche.
 
-**16h15–17h15 — Poste de coordination (géoguesser)**
+**16h15–17h15 — Recoupements au gîte**
 
-- L'équipe détient les photos de repérage (panoramas, lignes de crête) et guide les équipes mobiles par **talkies-walkies** (réseau faible) vers les bons spots.
-- En retour : découvertes terrain, photos de pièges → à croiser avec le carnet d'Ivan.
-- Garde-fou « guichet » : le carnet doit contenir des éléments que seule l'équipe tranquille peut interpréter en croisant village + documents (ex. accident + tableau + tombe = la vraie lecture de la mort d'Ivan).
+- Retour au gîte : l'équipe croise ses trouvailles du village avec le carnet d'Ivan et explore la partie secrète du site (le réseau suffit au gîte).
+- Enigmes autonomes à résoudre ici : le **vieux calendrier** (heure solaire du rituel, document auto-portant), la mise en relation accident + tableau + tombe = la vraie lecture de la mort d'Ivan.
+- Si la voyante est un PNJ, c'est le moment et le lieu de l'interaction.
 
 **17h15–18h — Regroupement au gîte**
 
 - Mise en commun des trouvailles ; l'équipe rando présente la statuette.
 - **Destruction de la statuette ~18h** — verrou : nécessite les objets/conditions préparés par l'équipe sportive (à concevoir dans leur arc), ce qui garantit que tout le monde est réuni.
 
-Documents/props nécessaires à cet arc : carnet d'Ivan (central), article de journal, tableau physique, transcription de la voyante (option document), photos géoguesser (déjà prises au repérage), livre d'or bidouillé si utilisé.
+Documents/props nécessaires à cet arc : carnet d'Ivan (central), article de journal, tableau physique, transcription de la voyante (option document), bouteilles + secret caché (décision 11/10), livre d'or bidouillé si utilisé.
 
 ❓ À trancher : mécanisme « quelle chambre », forme de la voyante (PNJ ou document), répartition des documents entre carnet et trouvailles directes.
 
 ### Chevauchements à résoudre
 
 - ❓ **Costumes** — L'équipe sportive (Seb) cherche "une partie des costumes" ET l'équipe rando (Rémi) trouve "des morceaux de costumes" dans le trésor caché. Comment répartir clairement ? Qui trouve quoi ?
-- ❓ **Repère des cultistes** — L'équipe tranquille (Batiste) "enquête sur les cultistes" et l'équipe rando (Rémi) "trouve la grotte" (= repère des cultistes). Est-ce que Batiste rassemble des infos qui mènent Rémi à la grotte, ou est-ce que Rémi la trouve de manière indépendante ?
-- ❓ **Objectifs communs** (trouver le repère des cultistes, trouver le carnet d'Ivan — remplace le contact avec son enfant, détruire la statuette) — Ces objectifs sont-ils vraiment communs ou chaque équipe y contribue différemment ?
+- ✅ **Repère des cultistes** — Résolu par « pas de communication le samedi » (11/10) : l'équipe rando trouve la grotte de manière indépendante (triangulation des photos de piège photo). L'équipe tranquille enquête sur les cultistes de son côté, sans guider personne.
+- ✅ **Objectifs communs** — Résolu par « pas de communication le samedi » (11/10) : chaque équipe a son propre objectif autonome ; la convergence se fait au regroupement du soir et à la destruction de la statuette.
 
 ## Répartition du dimanche
 
@@ -78,13 +81,14 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 
 ## Déroulement du twist entre samedi et dimanche
 
-- ✅ **Samedi soir** — Les joueurs brisent la statuette, probablement persuadés qu'elle est liée au maléfice. Ils découvrent le message laissé par les fabricants, mais celui-ci ne doit pas nécessairement tout expliquer immédiatement.
+- ✅ **Samedi soir** — Les joueurs brisent la statuette, probablement persuadés qu'elle est liée au maléfice. Ils découvrent le message écrit à la première personne (« je ») par un ancien Perchtenlauf (décision 11/10 ; rédaction : Mareva) — il ne doit pas nécessairement tout expliquer immédiatement.
+- ❓ **Créer la défiance (décision 11/10)** — Il faut assez d'éléments rendant la statuette suspecte le samedi pour que les joueurs la détruisent. Leviers existants : le site complotiste d'Ivan (les masqués présentés comme dangereux), l'indice de la voyante, le journal du fugitif, le tableau du chasseur. Suffisant ou pas ? À concevoir dans le détail des arcs.
 - ✅ **Pendant la nuit** — Des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes :
   - texte à l'encre invisible apparaissant dans les douches ;
   - indices dans les boîtes de céréales et/ou sous les tasses ;
   - éléments étranges sur les voitures.
 - ✅ **Dimanche matin** — Les joueurs découvrent ces manifestations pendant ou autour du petit-déjeuner. Elles les orientent vers les trois groupes fonctionnels du dimanche et vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
-- ✅ **Contenu des manifestations** — Validé en équipe : chaque manifestation amorce un groupe — douches/miroirs → « arts plastiques », petit-déj → « rituel », voitures → « lieu ». Les textes sont des **échos du passé** (pensées rémanentes de Perchtenlauf, ex. « il faut du bois pour la statuette ») : impersonnels, sans intention, mais porteurs de lore. Contraintes terrain : douches en plastique → miroirs de l'espace commun ; pas de givre → marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. Reste : écrire les textes (cf. `lore_precisions.md`).
+- ✅ **Contenu des manifestations** — Validé en équipe : chaque manifestation amorce un groupe — douches/miroirs → « arts plastiques », petit-déj → « rituel », voitures → « lieu ». Les textes sont des **échos du passé** (pensées rémanentes venant potentiellement d'anciens Perchtenlauf, entre autres, ex. « il faut du bois pour la statuette ») : impersonnels, sans intention, mais porteurs de lore. Contraintes terrain : douches en plastique → miroirs de l'espace commun ; pas de givre → marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. Reste : écrire les textes (cf. `lore_precisions.md`).
 
 ## Pistes narratives et indices documentaires
 
@@ -106,7 +110,7 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 Liste des mécaniques d'énigmes mentionnées dans excalidraw et archived, à répartir :
 
 - **Superposition de cartes** — 3 cartes d'époques différentes avec des trous, superposées pour trouver le lieu du rituel
-- **Géoguesser** — Une équipe a une photo et guide une équipe sur le terrain (point de repère, ligne de crête)
+- ~~**Géoguesser**~~ — Abandonné (11/10) : pas de communication entre équipes le samedi
 - **Triangulation de photos de piège photographique** — Indices sur place (traces landart, mobile Blairwitch), carte, trésor caché
 - **Vieux calendrier sans changement d'heure** — Pour trouver le moment du rituel
 - **Descriptions de trajets (écrit de l'an 1000)** — Texte ancien décrivant un trajet, à retrouver sur une carte
@@ -116,5 +120,5 @@ Liste des mécaniques d'énigmes mentionnées dans excalidraw et archived, à r�
 ### Questions
 
 - ❓ Comment répartir ces mécaniques entre les 3 équipes et les 2 jours ?
-- ❓ Certaines mécaniques (géoguesser, triangulation) impliquent une coopération entre équipes — comment l'organiser ? Contrainte terrain : couverture téléphonique faible et inconstante hors du gîte → tout ce qui demande une connexion a besoin d'un pendant papier ou de talkies-walkies (bonus ambiance : interférences « du triangle »). Seul le site web d'Ivan peut supposer le réseau.
+- ✅ Coopération entre équipes : supprimée le samedi (décision 11/10 — chaque arc est autonome). La triangulation de photos devient une mécanique interne à l'équipe rando. Seul le site web d'Ivan suppose encore le réseau (consulté au gîte, où la couverture suffit).
 - ❓ 4 cartes listées (grottes, IGN, état major, Cassini), 3 groupes : laquelle est attribuée à quel groupe ? Une carte est-elle redondante ? La superposition doit pointer vers les coordonnées réelles du lieu du rituel repéré (champ à ~10 min en voiture) ; les 3 points du triangle maillent la région.

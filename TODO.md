@@ -13,7 +13,17 @@ Décisions validées en équipe (réunion du 04/10 — détail dans `lore_precis
 - Squelette du scialet ≠ fugitif (victime collectée par le triangle ; époque à choisir sans lieux de mémoire réels)
 - Mapping des manifestations par groupe (douches/miroirs→statuette, petit-déj→rituel, voitures→lieu) : OK, textes à écrire
 
+Décisions validées en équipe (réunion du 11/10 — détail dans `validation_2026-10-11.md`) :
+
+- **Pas de communication entre équipes le samedi** : chaque arc est autonome — géoguesser et talkies abandonnés ; l'équipe tranquille fait une enquête complète (gîte → village → recoupements)
+- **Bouteilles des parents** apportées au gîte comme décor : l'une cache un secret d'Ivan (ex. dernière carte à superposer)
+- **Message de la statuette** écrit au « je » par un ancien Perchtenlauf — Mareva rédige
+- Manifestations nocturnes = échos du passé confirmé, sources élargies (potentiellement d'anciens Perchtenlauf entre autres)
+- Visite du cimetière voisin pendant le jeu : OK (jugé respectueux)
+
 Reste à trancher :
+
+- **Défiance envers la statuette** (demande du 11/10) : quels éléments concrets la rendent suspecte le samedi, pour que les joueurs finissent par la détruire ? Leviers existants : site d'Ivan, voyante, journal du fugitif, tableau
 
 - Nature des voix de la forêt — contradiction avec « le maléfice n'a pas de volonté » (piste recommandée : échos/projection, pas d'entité)
 - Mécanisme de la voyante — pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans le carnet d'Ivan, cohérent avec « pas de PNJ »)
@@ -23,7 +33,7 @@ Reste à trancher :
 - Lieu du rituel : champ circulaire, petit arbre, foyer — ~10 min en voiture + 1 min à pied
 - Tableau du chasseur : accord du café/librairie
 - Tombe sans inscription (candidate tombe du notable), fontaine datée avec ours (candidate « source » du fugitif), plantes à noms évocateurs (« Barbe de bouc » → ingrédients du rituel)
-- Contraintes relevées : pas de givre (marqueurs craie), douches plastiques (→ miroirs), réseau faible (→ papier/talkies), OT fermé, pas de cadran solaire
+- Contraintes relevées : pas de givre (marqueurs craie), douches plastiques (→ miroirs), réseau faible (→ papier ; communication entre équipes de toute façon abandonnée le 11/10), OT fermé, pas de cadran solaire
 - La grotte aux coordonnées connues est à ~23 km : les 3 points du triangle maillent la région, le centre tombe sur le champ du rituel
 
 ## Critiques de game design à adresser (une par une)
@@ -31,8 +41,8 @@ Reste à trancher :
 1. **Verrou du twist** — sécuriser le timing et la mécanique de la destruction de la statuette : ni trop tôt (l'équipe rando seule l'après-midi), ni jamais (joueurs qui la conservent comme preuve)
 2. **Dimanche trop serré** — pré-stager les matériaux, chorégraphie apprenable en ~20 min, recherche du lieu ≤30 min, trajet voiture intégré
 3. **Signal de réussite du rituel** — le climax manque son payoff ; contrainte : écologique et sans danger, **pas de risque d'incendie** → options : crescendo de cloches (authentique Perchten), statuette échangée contre une version « dorée », rubans autour de l'arbre, semis de fleurs
-4. **Plans B météo et réseau** — pluie fin octobre probable (repli du rituel ?), couverture faible hors du gîte (talkies-walkies / pendant papier pour tout sauf le site)
-5. **« Aha » propre à l'équipe tranquille** — la fouille de la chambre d'Ivan est le meilleur candidat ; éviter qu'elle ne soit qu'un guichet pour les équipes mobiles
+4. **Plans B météo et réseau** — pluie fin octobre probable (repli du rituel ?) ; couverture faible hors du gîte — partiellement résolu : pas de communication entre équipes le samedi (11/10), seul le site d'Ivan suppose le réseau (au gîte)
+5. **« Aha » propre à l'équipe tranquille** — la fouille de la chambre d'Ivan est le meilleur candidat ; risque « guichet » écarté : l'arc est autonome depuis la décision du 11/10
 6. **Casting PNJ** — le PNJ « enfant d'Ivan » est supprimé ; reste la voyante, uniquement si l'option PNJ est retenue (qui ?)
 7. **Production** — costumes/masques pour tout le groupe le dimanche + props vieillis + site web : poste le plus lourd, à estimer tôt
 
@@ -47,7 +57,8 @@ Reste à trancher :
 
 ### Arc de l'équipe tranquille (samedi)
 
-- [x] Décrire l'arc jouable — proposition rédigée dans `deroule.md` (chambre d'Ivan → boucle village → poste de coordination → regroupement), à valider
+- [x] Décrire l'arc jouable — rédigé dans `deroule.md` (chambre d'Ivan → boucle village → recoupements au gîte → regroupement), arc autonome validé le 11/10
+- [ ] Concevoir les éléments de **défiance envers la statuette** (décision 11/10) — répartis entre les arcs : site d'Ivan, voyante, journal du fugitif, tableau
 - [ ] Arc équipe sportive : détailler le samedi (objets de destruction + costumes) — crée le verrou du twist
 
 ### Site web public
@@ -68,4 +79,5 @@ Note : le photographe a séjourné au gîte. Les joueurs peuvent découvrir quel
 
 - [ ] **Cartes physiques** — acheter l'IGN du secteur + reproductions de cartes anciennes (Cassini, état-major). OT fermé : mairie ou web
 - [ ] **Matériel des manifestations** — encre invisible adaptée aux miroirs (douches en plastique), marqueurs craie effaçables pour les voitures (pas de givre attendu)
-- [ ] **Communication entre équipes** — couverture faible hors du gîte : talkies-walkies ou pendants papier pour le géoguesser et la coordination
+- [x] **Communication entre équipes** — sans objet : pas de communication le samedi (décidé 11/10)
+- [ ] **Prop bouteilles** — bouteilles des parents apportées au gîte comme décor ; préparer le secret d'Ivan à y cacher (ex. dernière carte à superposer)

@@ -49,7 +49,7 @@ Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du
 
 - [x] Photos des dates, inscriptions, vitraux, symboles — chercher tout motif loup, figure masquée, détail étrange ✅ Fait. On a trouvé une fontaine avec dates + ours, une église avec des vitraux, un cimetière avec des tombes anciennes (dont une sans aucune inscription), et plein de plantes avec des noms compliqués indiqués dessus dans toute la ville, dont des noms barrants comme "Barbe de bouc".
 - [x] **Cadran solaire** s'il y en a un — photo + position : matériau direct pour l'énigme du vieux calendrier / heure solaire. ✅ AUCUN — l'énigme du calendrier doit être autonome.
-- [x] Cimetière : photographier de vraies vieilles tombes (noms, dates, style d'inscription) pour fabriquer la « tombe du notable » crédible — le procès se solde par une inscription sur la tombe. ✅ Fait. On a trouvé une tombe sans inscription — candidate directe pour la tombe du notable.
+- [x] Cimetière : photographier de vraies vieilles tombes (noms, dates, style d'inscription) pour fabriquer la « tombe du notable » crédible — le procès se solde par une inscription sur la tombe. ✅ Fait. On a trouvé une tombe sans inscription — candidate directe pour la tombe du notable. Visite du cimetière pendant le jeu validée en équipe (11/10, jugée respectueuse).
 
 ### Commerces et office du tourisme
 
@@ -69,7 +69,7 @@ Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du
 
 ### Géoguesser et lignes de vue
 
-- [ ] Panoramas depuis le village/gîte vers le Col de Carri, crêtes, falaises, pics distinctifs — photos + orientation (boussole). Ces photos deviennent le matériau du géoguesser : l'équipe tranquille les détient et guide les autres
+- [ ] Panoramas depuis le village/gîte vers le Col de Carri, crêtes, falaises, pics distinctifs — photos + orientation (boussole). ~~Ces photos deviennent le matériau du géoguesser~~ — géoguesser abandonné (11/10 : pas de communication entre équipes) ; les photos peuvent servir à la triangulation de l'équipe rando ou au site d'Ivan
 - [ ] La « trouée au-dessus de la route et du village » (d'où les poursuivants repèrent le fugitif dans `feuilles_rando.md`) — visible depuis le village ? Repérer où
 - [x] **Une source ou fontaine** près du village — le fugitif cache l'objet « près d'une source » : un lieu réel peut-il jouer ce rôle ? ✅ Fontaine avec dates et ours repérée au village — candidate directe.
 
@@ -96,11 +96,12 @@ Bonus : la visite tombe en journée — les photos prises vers 10h–11h montren
 - [ ] **Cartes physiques** — acheter l'IGN du secteur (office du tourisme/tabac) ; demander des reproductions de cartes anciennes (Cassini, état-major). La superposition de cartes du dimanche a besoin de matériel réel
 - [ ] **Sons** — enregistrer ambiance forêt, cloche de l'église, silence nocturne (partie secrète du site, indices sonores du rituel)
 - [ ] **Contacts** — téléphone du propriétaire, du commerçant, de l'OT : il y aura des questions après coup
+- [ ] **Bouteilles (décision Seb, 11/10)** — des bouteilles chez les parents sont apportées au gîte comme décor ; l'une cache un secret d'Ivan (ex. la dernière carte à superposer). Repérer l'emplacement « décor » au gîte + préparer le prop
 
 ## 🚶 Logistique
 
 - [ ] **Temps de marche réels** : gîte → village, gîte → église, gîte → Col de Carri. L'équipe tranquille n'est pas sportive — tout doit être faisable à pied tranquille
-- [x] **Réseau téléphone** au gîte, dans le village, au col — le géoguesser et les infos transmises aux équipes mobiles supposent qu'on communique ✅ Couverture faible et inconstante hors du gîte → tout ce qui requiert une connexion a un pendant papier/physique (ou talkies-walkies), sauf le site web d'Ivan.
+- [x] **Réseau téléphone** au gîte, dans le village, au col ✅ Couverture faible et inconstante hors du gîte. Màj 11/10 : pas de communication entre équipes le samedi → plus besoin de talkies ; seul le site web d'Ivan suppose le réseau (consulté au gîte, où on capte un peu).
 - [ ] Où poser l'équipe tranquille au village pendant que les autres randonnent (café, banc, salle) ? → le café/librairie existe et est partenaire (tableau) : possible point de chute.
 
 ## ❓ Questions lore à trancher grâce au terrain

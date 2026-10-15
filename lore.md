@@ -110,7 +110,7 @@ Cartes à utiliser :
 ### Statuette
 
 - La statuette ancienne se trouve dans la grotte aux objets disparus ; l'équipe rando la découvre le samedi.
-- Les joueurs la détruisent — poussés par la voyante, le tableau du chasseur et le journal du fugitif → elle contient le message des fabricants : si les joueurs l'ont trouvée, c'est que les anciens Perchtenlauf ne sont plus là — ils doivent prendre le relais.
+- Les joueurs la détruisent — poussés par la voyante, le tableau du chasseur et le journal du fugitif → elle contient le message d'un ancien Perchtenlauf écrit à la première personne : si les joueurs l'ont trouvée, c'est que les anciens Perchtenlauf ne sont plus là — ils doivent prendre le relais.
 - **Nouvelle statuette** : les joueurs la fabriquent selon les instructions — matériaux imposés (bois, etc.) et symboles à rendre visibles (loup, etc.) ; forme libre ; les morceaux de l'ancienne ne sont pas requis.
 - Fabrication en cours (Mareva) : parties réalisées en terre ; autres pistes props : nain de jardin doré, céramique, moyens du bord (pâte à sel, collier de nouilles)
 

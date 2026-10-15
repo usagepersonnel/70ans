@@ -36,7 +36,7 @@ Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'ex
 |---|---|
 | Samedi 14h–14h30 | Fouille du gîte — la chambre d'Ivan |
 | Samedi 14h40–17h30 | Trois équipes sur le terrain : tranquille (village/gîte), sportive (objets + costumes), rando (parcours du fugitif à rebours → grotte + statuette) |
-| Samedi ~18h | **Destruction de la statuette** → le message des fabricants invite à prendre le relais des Perchtenlauf |
+| Samedi ~18h | **Destruction de la statuette** → le message d'un ancien Perchtenlauf (au « je ») invite à prendre le relais |
 | Nuit samedi→dimanche | **Manifestations** : encre invisible dans les douches, indices dans les céréales / sous les tasses, éléments étranges sur les voitures |
 | Dimanche 9h30–10h | Remise en situation au petit-déjeuner (découverte des manifestations) |
 | Dimanche 10h–10h45 | Trois groupes fonctionnels : « lieu » (cartes), « arts plastiques » (statuette), « rituel » (chorégraphie) — durée compressée par la contrainte de midi |

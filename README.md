@@ -15,7 +15,7 @@ L'essentiel du projet est constitué de **fichiers Markdown** :
 - `TODO.md` — État du projet, priorités et tâches
 - `AGENTS.md` — Vue d'ensemble du projet, pour les IAs
 
-Préfixes : `timeline_*` = documents de vérification (`timeline_lore.md`, `timeline_rando.md`), `validation_*` = comptes rendus datés à valider (`validation_2026-10-02.md`), `ref_*` = références non vivantes (`ref_archive.md`).
+Préfixes : `timeline_*` = documents de vérification (`timeline_lore.md`, `timeline_rando.md`), `validation_*` = comptes rendus datés des réunions (`validation_2026-10-02.md`, `validation_2026-10-11.md`), `ref_*` = références non vivantes (`ref_archive.md`).
 
 ## Le dossier `code/`
 

@@ -6,7 +6,7 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 
 ## Jalons
 
-- **11 oct** — Design verrouillé : lore tranché, 3 arcs détaillés, rituel défini
+- **11 oct** — Design verrouillé : lore tranché, 3 arcs détaillés, rituel défini — ⚠️ partiellement tenu (réunion faite, décisions intégrées ; restent voyante, voix du fugitif et défiance envers la statuette)
 - **18 oct** — Tous les contenus écrits, toutes les commandes passées
 - **23 oct** — Kit complet prêt à partir, dry-run fait
 
@@ -14,8 +14,8 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 
 | Tâche | Qui | Bloque |
 |---|---|---|
-| **Validation lore en équipe** — 3 des 5 points tranchés le 04/10 (pas de PNJ enfant d'Ivan, manifestations = échos du passé, squelette ≠ fugitif). **Restent : la voyante** (PNJ ou document ?) et **les voix du fugitif** (mêmes échos que les manifestations ? autre chose ? les deux ?), plus les points de la réunion de ce soir | Tous | Tout le reste |
-| Arc équipe tranquille — valider le détail du samedi (`deroule.md`) | Batiste | Documents, site |
+| **Validation lore en équipe** — réunion du 11/10 faite (`validation_2026-10-11.md`) : pas de communication samedi, bouteilles au gîte, message au « je », échos confirmés, cimetière OK. **Restent : la voyante** (PNJ ou document ?), **les voix du fugitif** et la **défiance envers la statuette** | Tous | Tout le reste |
+| ~~Arc équipe tranquille~~ — ✅ arc autonome détaillé dans `deroule.md`, validé le 11/10 | Batiste | Documents, site |
 | Arc équipe sportive — détailler le samedi : quels objets, où, justification narrative (crée le verrou de destruction de la statuette) | Seb | Timing du twist |
 | Réécriture `feuilles_rando.md` — après tranchage voix/squelette/sac | Rémi | Parcours rando |
 | Site web : squelette — repo public + structure publique/secrète | Batiste | Contenus site |
@@ -30,10 +30,10 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 | Site web : partie publique remplie (photos animalières → complot) | Batiste |
 | Manifestations nocturnes : écrire les indices (symboles → miroirs, fragments petit-déj, tracé voitures) | ? |
 | Cartes trouées : maquettes des 3–4 cartes + technique de fabrication des trous | Rémi ? |
-| Statuette ancienne : finition de la fabrication (parties déjà faites en terre par Mareva) + insertion du message | Mareva / ? |
+| Statuette ancienne : finition de la fabrication (parties déjà faites en terre par Mareva) + insertion du message — rédigé au « je » par un ancien Perchtenlauf (décision 11/10) | Mareva / ? |
 | Costumes : finition et compléments pour tout le groupe | Mareva |
 | Signal de réussite : décision + matériel. Contrainte : **écologique et sans danger — pas de risque d'incendie** (fumigènes probablement exclus). Options : crescendo de cloches/grelots (authentique Perchten : le bruit chasse les esprits), statuette échangée en douce contre une version « dorée » préparée d'avance, rubans tissés autour de l'arbre, semis de fleurs au pied de l'arbre | ? |
-| Photos géoguesser : sélection dans les photos du repérage | Batiste ? |
+| ~~Photos géoguesser~~ — abandonné (11/10). Remplacé par : prop bouteilles (décor gîte + secret d'Ivan caché, ex. dernière carte) | Seb ? |
 
 ## Semaine 3 (19–23 oct) — Assembler, tester, kit
 
@@ -41,7 +41,7 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 |---|---|
 | Site web : partie secrète + code, test complet sur mobile (le gîte capte « un peu ») | Batiste |
 | Vieillissement et impression des documents ; découpe des trous dans les cartes | ? |
-| Kit logistique : talkies-walkies, marqueurs craie vitres, encre invisible pour miroirs, matériel arts plastiques pour la nouvelle statuette | ? |
+| Kit logistique : marqueurs craie vitres, encre invisible pour miroirs, matériel arts plastiques pour la nouvelle statuette, prop bouteilles | ? |
 | Casting PNJ (voyante uniquement, si option PNJ — le PNJ enfant d'Ivan est supprimé) + brief | ? |
 | Plan B météo : variante pluie pour le rituel et pour le samedi terrain | ? |
 | **Dry-run** : lecture à voix haute du déroulé complet en équipe + checklist finale | Tous |
@@ -51,5 +51,5 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 
 - Le twist dépend de la destruction de la statuette au bon moment → l'arc sportive doit créer le verrou
 - Dimanche très serré → pré-stager les matériaux, tout doit tenir en ~45 min de travail de groupe
-- Réseau faible hors du gîte → talkies et pendants papier pour tout sauf le site
+- Réseau faible hors du gîte → sans objet en partie : pas de communication entre équipes le samedi (11/10) ; le site d'Ivan se consulte au gîte où on capte un peu
 - Pas de feu au rituel (contrainte éco/sécurité) → le signal de réussite doit être repensé sans fumigènes ni foyer
