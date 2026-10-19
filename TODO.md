@@ -86,7 +86,10 @@ Point d'entrée unique : on y ajoute toute contradiction repérée entre documen
 
 - [x] **Spec complète écrite** — `ivan-beaulieu-photos/SPEC.md` (structure, gate à 4 clés, zone secrète, stack)
 - [ ] **Questions en suspens** — voir `questions.md` (fontaine, photos repérage, chambres, plantes, dates d'Ivan…)
-- [ ] Construire la v1 : façade portfolio + journal + conférence + gate `/archives` (4 champs, API `/api/unlock`, cookie)
+- [x] Construire la v1 : façade portfolio + journal + conférence + gate `/archives` (4 champs, API `/api/unlock`, cookie) — déployé et vérifié Playwright en prod ; audio = placeholder WAV en attendant les vrais enregistrements
+- [ ] Déployer les variables d'env Vercel (`KEY_*`, `ARCHIVES_TOKEN`) avec les vraies valeurs — `ARCHIVES_TOKEN` à changer impérativement (le défaut est dans le code)
+- [ ] Choisir le mot caché dans le tableau du chasseur (clé 2 — actuellement « veille » en placeholder)
+- [ ] Remplacer les 3 WAV placeholder par les enregistrements de Mareva + photos de pièges réelles (page `/archives/pieges`)
 
 - [x] Créer un dépôt distinct dédié au site — fait : repo **privé** `ivan-beaulieu-photos` (Astro+TS), déployé sur Vercel → https://ivan-beaulieu-photos.vercel.app (zone secrète = gate serveur, pas de contenu sensible dans le repo public)
 - [ ] Définir la frontière entre le contenu public et les éléments secrets du scénario — ne publier aucun indice ni contenu réservé à la partie secrète
