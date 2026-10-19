@@ -38,6 +38,8 @@ Reste à trancher :
 
 ## Critiques de game design à adresser (une par une)
 
+**Porte d'entrée (19/10)** : la cartographie du parcours joueur [`enigmes.md`](enigmes.md) tranche les points 1, 5, 6 et les questions pendantes de `validation_2026-10-19.md`. Le plus gros trou = l'arc sportif (mapping avec Seb requis).
+
 1. **Verrou du twist** — sécuriser le timing et la mécanique de la destruction de la statuette : ni trop tôt (l'équipe rando seule l'après-midi), ni jamais (joueurs qui la conservent comme preuve)
 2. **Dimanche trop serré** — pré-stager les matériaux, chorégraphie apprenable en ~20 min, recherche du lieu ≤30 min, trajet voiture intégré
 3. ~~**Signal de réussite du rituel**~~ — ✅ résolu (`rituel/README.md` §4) : statuette échangée contre une version dorée + fumigènes sûrs (vert = parfait, orange = partiel) ; reste l'achat du matériel (`rituel/checklist_production.md`)

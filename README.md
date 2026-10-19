@@ -9,6 +9,7 @@ L'essentiel du projet est constitué de **fichiers Markdown** :
 - `lore.md` — Lore général : contexte, personnages, objets, rituel (source de vérité narrative)
 - `lore_precisions.md` — Décisions, pistes et questions ouvertes sur le lore --> à valider d'abord
 - `deroule.md` — Répartition des équipes, déroulement et mécaniques d'énigmes
+- `enigmes.md` — Cartographie du parcours joueur : étapes, difficultés, déblocages (tranche les questions ouvertes)
 - `feuilles_rando.md` — Texte des feuilles trouvées par l'équipe rando (récit du fugitif)
 - `reperage.md` — Checklist et retours de la visite terrain
 - `retroplanning.md` — Plan de travail à J-20 (jalons, tâches par semaine, propriétaires)

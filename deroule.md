@@ -1,6 +1,6 @@
 # Déroulé du jeu — Questions de game design
 
-Questions de répartition des équipes, d'énigmes et de mécaniques. Le lore est dans `lore_precisions.md`.
+Questions de répartition des équipes, d'énigmes et de mécaniques. Le lore est dans `lore_precisions.md`. La cartographie du parcours joueur (difficultés → déblocages) est dans [`enigmes.md`](enigmes.md).
 
 **Légende** : ✅ Décidé | ❓ Question ouverte
 

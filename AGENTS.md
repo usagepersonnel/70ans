@@ -27,6 +27,7 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 - `lore.md` — canon narratif (source de vérité)
 - `lore_precisions.md` — décisions et questions de lore
 - `deroule.md` — game design : équipes, déroulé, énigmes
+- `enigmes.md` — cartographie du parcours joueur (étape → difficulté → déblocage)
 - `feuilles_rando.md` — texte joueur de l'arc rando (récit du fugitif)
 - `reperage.md` — checklist et retours terrain
 - `retroplanning.md` — plan de travail à J-20
