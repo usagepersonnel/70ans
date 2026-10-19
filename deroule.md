@@ -55,11 +55,11 @@ Documents/props nécessaires à cet arc : carnet d'Ivan (central), article de jo
 
 ## Répartition du dimanche
 
-Le dimanche, les joueurs se reforment en **trois groupes fonctionnels**, distincts des arcs sportifs du samedi :
+Le dimanche, les joueurs se reforment en **trois groupes fonctionnels**, distincts des arcs sportifs du samedi (détail complet et mécaniques dans [`rituel/`](rituel/README.md), qui fait foi pour le dimanche) :
 
-- **Groupe « lieu »** — Cherche le lieu du rituel à partir d'indices, notamment la triangulation et la superposition des cartes. Il prépare également le lieu une fois identifié.
-- **Groupe « arts plastiques »** — Fabrique la nouvelle statuette à partir des instructions révélées dans l'ancienne. Il réunit les matériaux nécessaires et fait apparaître les symboles imposés ; la forme et la réalisation restent libres.
-- **Groupe « rituel »** — Reconstitue le rituel : chorégraphie, sons, gestes, costumes et autres éléments à partir d'indices sonores et visuels.
+- **Groupe « terrain »** — Cherche le lieu du rituel à partir d'indices, notamment la triangulation et la superposition des cartes. Il prépare également le lieu une fois identifié (pierres, triangle en branchages, tipi).
+- **Groupe « statuette »** — Fabrique la nouvelle statuette à partir des instructions révélées dans l'ancienne : les 8 éléments requis dont le **fil**, l'élément manquant des cycles passés. Il réunit les matériaux nécessaires ; la forme et la réalisation restent libres.
+- **Groupe « danse »** — Reconstitue le rituel : chorégraphie, 12 sons, gestes, costumes à partir des 3 clips audio et des indices.
 
 Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rituel ensemble.
 
@@ -76,8 +76,8 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 ### Questions ouvertes sur le dimanche
 
 - ✅ **Espaces de travail** — Le gîte a tout ce qu'il faut pour les 3 groupes en parallèle : table (arts plastiques), espace de répétition (chorégraphie), coin calme (cartes). Constat terrain.
-- ❓ **Trois lieux, trois énigmes** — Faut-il comprendre « trois lieux, trois énigmes » comme les trois lieux/arcs du samedi, ou comme les trois groupes fonctionnels du dimanche ? Si c'est le dimanche, quel espace accueille chaque groupe et quel indice concret lance chaque énigme ?
-- ❓ **Articulation des résultats** — Le groupe « lieu » rapporte-t-il uniquement les coordonnées, le groupe « arts plastiques » la statuette, et le groupe « rituel » la chorégraphie/costumes ? Faut-il une validation croisée avant le final ?
+- ✅ **Trois lieux, trois énigmes** — Résolu (`rituel/`) : ce sont les trois groupes fonctionnels du dimanche ; chaque manifestation nocturne amorce un groupe (miroirs → statuette, petit-déj → danse, voitures → terrain) et chaque groupe a sa mécanique (`rituel/enigmes_dimanche.md` §3).
+- ✅ **Articulation des résultats** — Résolu (`rituel/README.md` §1) : « interprétation contrainte » — les énigmes livrent une liste d'éléments obligatoires, la checklist gradue rituel partiel / parfait (fumigène orange / vert + statuette dorée).
 
 ## Déroulement du twist entre samedi et dimanche
 
@@ -88,7 +88,7 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
   - indices dans les boîtes de céréales et/ou sous les tasses ;
   - éléments étranges sur les voitures.
 - ✅ **Dimanche matin** — Les joueurs découvrent ces manifestations pendant ou autour du petit-déjeuner. Elles les orientent vers les trois groupes fonctionnels du dimanche et vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
-- ✅ **Contenu des manifestations** — Validé en équipe : chaque manifestation amorce un groupe — douches/miroirs → « arts plastiques », petit-déj → « rituel », voitures → « lieu ». Les textes sont des **échos du passé** (pensées rémanentes venant potentiellement d'anciens Perchtenlauf, entre autres, ex. « il faut du bois pour la statuette ») : impersonnels, sans intention, mais porteurs de lore. Contraintes terrain : douches en plastique → miroirs de l'espace commun ; pas de givre → marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. Reste : écrire les textes (cf. `lore_precisions.md`).
+- ✅ **Contenu des manifestations** — Validé en équipe : chaque manifestation amorce un groupe — douches/miroirs → « arts plastiques », petit-déj → « rituel », voitures → « lieu ». Les textes sont des **échos du passé** (pensées rémanentes venant potentiellement d'anciens Perchtenlauf, entre autres, ex. « il faut du bois pour la statuette ») : impersonnels, sans intention, mais porteurs de lore. Contraintes terrain : douches en plastique → miroirs de l'espace commun ; pas de givre → marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. Textes proposés (💡 à valider) dans `rituel/enigmes_dimanche.md` §2.
 
 ## Pistes narratives et indices documentaires
 

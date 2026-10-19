@@ -240,9 +240,9 @@ Ce sont des gens ordinaires, conscients de leur mission, qui se transmettaient l
 - Trouver des événements propres à la période du duché du Diois
 - Se renseigner sur les cartes d’époques de la Chapelle en Vercors (OT fermé : mairie ou web)
 - Faire des recherches sur les costumes et les masques des Perchtenlauf
-- Concevoir le signal de réussite du rituel — écologique et sans danger, pas de feu (fumigènes exclus ; options : cloches, statuette échangée, rubans, semis)
+- ~~Concevoir le signal de réussite du rituel~~ — ✅ Résolu (`rituel/README.md`) : statuette échangée en douce contre une version dorée + fumigènes sûrs (vert = rituel parfait, orange = partiel)
 - Définir les époques à étudier (Antiquité, moyen âge, ère napoléonienne, 2ème guerre mondiale...)
-- Un site web, où d’abord il y a des photos animalières, puis ça vire théorie du complot (Batiste peut faire sur GitHub pages)
+- Un site web, où d’abord il y a des photos animalières, puis ça vire théorie du complot (Batiste — repo privé `ivan-beaulieu-photos`, déployé sur Vercel)
 - Demander aux parents pour les infos sur les chasseurs
 
 ## Liens

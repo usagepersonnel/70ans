@@ -32,7 +32,7 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 | Cartes trouées : maquettes des 3–4 cartes + technique de fabrication des trous | Rémi ? |
 | Statuette ancienne : finition de la fabrication (parties déjà faites en terre par Mareva) + insertion du message — rédigé au « je » par un ancien Perchtenlauf (décision 11/10) | Mareva / ? |
 | Costumes : finition et compléments pour tout le groupe | Mareva |
-| Signal de réussite : décision + matériel. Contrainte : **écologique et sans danger — pas de risque d'incendie** (fumigènes probablement exclus). Options : crescendo de cloches/grelots (authentique Perchten : le bruit chasse les esprits), statuette échangée en douce contre une version « dorée » préparée d'avance, rubans tissés autour de l'arbre, semis de fleurs au pied de l'arbre | ? |
+| Signal de réussite : ✅ décidé (`rituel/README.md` §4) — statuette échangée en douce contre une version « dorée » + fumigènes sûrs (vert = parfait, orange = partiel). Reste : acheter la bombe dorée (séchage rapide) | ? |
 | ~~Photos géoguesser~~ — abandonné (11/10). Remplacé par : prop bouteilles (décor gîte + secret d'Ivan caché, ex. dernière carte) | Seb ? |
 
 ## Semaine 3 (19–23 oct) — Assembler, tester, kit
@@ -52,4 +52,4 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 - Le twist dépend de la destruction de la statuette au bon moment → l'arc sportive doit créer le verrou
 - Dimanche très serré → pré-stager les matériaux, tout doit tenir en ~45 min de travail de groupe
 - Réseau faible hors du gîte → sans objet en partie : pas de communication entre équipes le samedi (11/10) ; le site d'Ivan se consulte au gîte où on capte un peu
-- Pas de feu au rituel (contrainte éco/sécurité) → le signal de réussite doit être repensé sans fumigènes ni foyer
+- Pas de feu au rituel (contrainte éco/sécurité) → ✅ résolu : statuette dorée échangée + fumigènes sûrs trouvés (`rituel/README.md` §4)

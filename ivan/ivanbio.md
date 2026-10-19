@@ -1,6 +1,6 @@
-Ivan Dequene, Accompagnateur en moyenne montagne et Photographe animalier du Vercors                                                                          ivandequene2@orange.fr
+Ivan Beaulieu, Accompagnateur en moyenne montagne et Photographe animalier du Vercors                                                                          ivanbeaulieu2@orange.fr
 
-tous droits réservés / copyright Ivan Dequene © 2025
+tous droits réservés / copyright Ivan Beaulieu © 2025
 
 Ivan est né et a grandi en Picardie, avant de venir s'installer dans la vallée grenobloise pour suivre des études d'ingéneries dans les anées 1970. Mais la fièvre montagnarde ne pris pas longtemps a l'atteindre et en paralelle d'une carriere au CNRS, il devint un habitué des massifs alentours. 
 Il se lance dans la photographie animalière suite a une rencontre avec un lynx au pied de la grande Moucherolle, ce qui lui fait découvrir la bequté et la diversité de la faune locale . 

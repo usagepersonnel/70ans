@@ -11,7 +11,7 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 
 ## 👥 Équipe de création
 
-- **Batiste** - Création du dossier, développement web (GitHub Pages)
+- **Batiste** - Création du dossier, développement web (site d'Ivan, repo privé `ivan-beaulieu-photos` déployé sur Vercel)
 - **Mareva** - Création du jeu
 - **Rémi** - Création du jeu
 - **Sébastien (Seb)** - Création du jeu
@@ -31,6 +31,8 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 - `reperage.md` — checklist et retours terrain
 - `retroplanning.md` — plan de travail à J-20
 - `TODO.md` — état du projet, priorités, tâches
+- `rituel/` — conception complète du rituel du dimanche (structure, partition des 12 sons, énigmes, checklist production)
+- `ivan/` — biographie et photos d'Ivan Beaulieu (assets pour le site web)
 - `timeline_*.md` — chronologies de vérification
 - `validation_*.md` — points soumis à validation d'équipe, datés
 - `ref_*.md` — références non vivantes
@@ -75,4 +77,4 @@ Fin du jour 1 : les joueurs détruisent la statuette
 
 ### Web
 
-- Créer un site web (GitHub Pages) avec des photos animalières qui virent vers la théorie du complot (tâche pour Batiste)
+- Créer un site web avec des photos animalières qui virent vers la théorie du complot (tâche pour Batiste — Astro+TS, repo privé `ivan-beaulieu-photos`, Vercel)

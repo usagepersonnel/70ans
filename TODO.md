@@ -40,7 +40,7 @@ Reste à trancher :
 
 1. **Verrou du twist** — sécuriser le timing et la mécanique de la destruction de la statuette : ni trop tôt (l'équipe rando seule l'après-midi), ni jamais (joueurs qui la conservent comme preuve)
 2. **Dimanche trop serré** — pré-stager les matériaux, chorégraphie apprenable en ~20 min, recherche du lieu ≤30 min, trajet voiture intégré
-3. **Signal de réussite du rituel** — le climax manque son payoff ; contrainte : écologique et sans danger, **pas de risque d'incendie** → options : crescendo de cloches (authentique Perchten), statuette échangée contre une version « dorée », rubans autour de l'arbre, semis de fleurs
+3. ~~**Signal de réussite du rituel**~~ — ✅ résolu (`rituel/README.md` §4) : statuette échangée contre une version dorée + fumigènes sûrs (vert = parfait, orange = partiel) ; reste l'achat du matériel (`rituel/checklist_production.md`)
 4. **Plans B météo et réseau** — pluie fin octobre probable (repli du rituel ?) ; couverture faible hors du gîte — partiellement résolu : pas de communication entre équipes le samedi (11/10), seul le site d'Ivan suppose le réseau (au gîte)
 5. **« Aha » propre à l'équipe tranquille** — la fouille de la chambre d'Ivan est le meilleur candidat ; risque « guichet » écarté : l'arc est autonome depuis la décision du 11/10
 6. **Casting PNJ** — le PNJ « enfant d'Ivan » est supprimé ; reste la voyante, uniquement si l'option PNJ est retenue (qui ?)
@@ -63,7 +63,7 @@ Reste à trancher :
 
 ### Site web public
 
-- [ ] Créer un dépôt distinct dédié au site, prévu pour être public et publié avec GitHub Pages
+- [x] Créer un dépôt distinct dédié au site — fait : repo **privé** `ivan-beaulieu-photos` (Astro+TS), déployé sur Vercel → https://ivan-beaulieu-photos.vercel.app (zone secrète = gate serveur, pas de contenu sensible dans le repo public)
 - [ ] Définir la frontière entre le contenu public et les éléments secrets du scénario — ne publier aucun indice ni contenu réservé à la partie secrète
 - [ ] Créer la partie publique du site : photos animalières qui évoluent vers une enquête sur les êtres masqués
 - [ ] Intégrer les photos de pièges photographiques dans le site

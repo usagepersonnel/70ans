@@ -13,9 +13,11 @@ L'essentiel du projet est constitué de **fichiers Markdown** :
 - `reperage.md` — Checklist et retours de la visite terrain
 - `retroplanning.md` — Plan de travail à J-20 (jalons, tâches par semaine, propriétaires)
 - `TODO.md` — État du projet, priorités et tâches
+- `rituel/` — Conception du rituel du dimanche (structure, 12 sons, énigmes, production) — fait foi pour le dimanche
+- `ivan/` — Biographie et photos d'Ivan Beaulieu (assets du site web `ivan-beaulieu-photos`)
 - `AGENTS.md` — Vue d'ensemble du projet, pour les IAs
 
-Préfixes : `timeline_*` = documents de vérification (`timeline_lore.md`, `timeline_rando.md`), `validation_*` = comptes rendus datés des réunions (`validation_2026-10-02.md`, `validation_2026-10-11.md`), `ref_*` = références non vivantes (`ref_archive.md`).
+Préfixes : `timeline_*` = documents de vérification (`timeline_lore.md`, `timeline_rando.md`), `validation_*` = comptes rendus datés des réunions et points de validation (`validation_2026-10-02.md`, `validation_2026-10-11.md`, `validation_2026-10-19.md`), `ref_*` = références non vivantes (`ref_archive.md`).
 
 ## Le dossier `code/`
 
