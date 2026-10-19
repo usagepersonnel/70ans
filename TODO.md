@@ -28,6 +28,16 @@ Reste à trancher :
 - Nature des voix de la forêt — contradiction avec « le maléfice n'a pas de volonté » (piste recommandée : échos/projection, pas d'entité)
 - Mécanisme de la voyante — pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans le carnet d'Ivan, cohérent avec « pas de PNJ »)
 
+## Incohérences connues (à résoudre)
+
+Point d'entrée unique : on y ajoute toute contradiction repérée entre documents, et on la raye une fois résolue.
+
+1. **Date du fugitif** — `lore.md` : « cycle précédent (~1886) » ; `feuilles_rando.md` : 1746, soit deux cycles avant 2026 (`timeline_lore.md` : 1886, 1746, 1606). À trancher avec Rémi.
+2. **`lore.md` périmé** — géoguesser et « transmettre des infos aux équipes mobiles » (section Autres énigmes et « Équipe tranquille ») ; « entrer en contact avec la fille/fils d'Ivan » (Objectifs communs : désormais un message unique au lancement) ; anciens noms des groupes du dimanche (« lieu / arts plastiques / rituel » → terrain / statuette / danse).
+3. **Partie secrète du site** — `lore_precisions.md` (section Le site web) : accessible le jour 2 ; décision retenue : accès dès le samedi avec le code du carnet.
+4. **Horaires du samedi** — `lore.md`, `reperage.md`, `timeline_lore.md` : fouille du gîte 14h–14h30 puis formation des groupes 14h30–14h40 ; `deroule.md` : chambre d'Ivan 14h30–15h15 pour l'équipe tranquille seule. À aligner avec le lancement.
+5. **Mort d'Ivan « récente »** — `ivan/ivanbio.md` : « récent décès » ; décision 19/10 : mort il y a un an. À reformuler (texte de Seb).
+
 ## Acquis du repérage terrain
 
 - Lieu du rituel : champ circulaire, petit arbre, foyer — ~10 min en voiture + 1 min à pied
@@ -63,7 +73,20 @@ Reste à trancher :
 - [ ] Concevoir les éléments de **défiance envers la statuette** (décision 11/10) — répartis entre les arcs : site d'Ivan, voyante, journal du fugitif, tableau
 - [ ] Arc équipe sportive : détailler le samedi (objets de destruction + costumes) — crée le verrou du twist
 
+### Lancement du samedi (décision 19/10)
+
+- [ ] Rédiger l'email (ou le script d'appel) du fils/de la fille d'Ivan : commande annulée, père mort il y a un an, remboursement, ton triste, sans appel à répondre — puis l'imprimer
+- [ ] Créer l'**affiche déchirée** d'Ivan (conférence/débat au café-librairie, d'un peu plus d'un an) : vieillir, déchirer, accrocher au gîte
+- [ ] Café-librairie : créer l'**image** du tableau du chasseur + préparer les **tirages d'Ivan** à exposer (accord à compléter pour les tirages)
+- [ ] Bambou (message du fugitif, arc de Rémi) : vérifier si on en a un, sinon trouver une alternative — à confirmer avec Rémi
+- [ ] Décider et huiler comment les **3 groupes se forment et partent chacun avec leur référent (Batiste / Seb / Rémi)** à partir du lancement de 14h
+- [ ] **Équipe Slow — météo pluie & rythme** : gîte à ~10 min à pied du centre-ville (un éclaireur peut refaire un aller-retour si un indice a été oublié), mais pluie annoncée → concentrer le temps au sec (gîte + café-librairie) et limiter les arrêts sous la pluie (cimetière, fontaine) à des vérifications rapides (5 min)
+
 ### Site web public
+
+- [x] **Spec complète écrite** — `ivan-beaulieu-photos/SPEC.md` (structure, gate à 4 clés, zone secrète, stack)
+- [ ] **Questions en suspens** — voir `questions.md` (fontaine, photos repérage, chambres, plantes, dates d'Ivan…)
+- [ ] Construire la v1 : façade portfolio + journal + conférence + gate `/archives` (4 champs, API `/api/unlock`, cookie)
 
 - [x] Créer un dépôt distinct dédié au site — fait : repo **privé** `ivan-beaulieu-photos` (Astro+TS), déployé sur Vercel → https://ivan-beaulieu-photos.vercel.app (zone secrète = gate serveur, pas de contenu sensible dans le repo public)
 - [ ] Définir la frontière entre le contenu public et les éléments secrets du scénario — ne publier aucun indice ni contenu réservé à la partie secrète

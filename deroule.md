@@ -14,27 +14,31 @@ D'après excalidraw, les 3 équipes ont des buts distincts le samedi :
 
 ✅ **Validé en équipe (11/10)** : pas de communication entre équipes le samedi — chacune fait son truc, moins d'aléas. Chaque arc est donc autonome ; le géoguesser et les talkies-walkies sont abandonnés.
 
+✅ **Lancement du samedi (décision 19/10, Batiste + Mareva)** — Le jeu démarre par un message unique du fils ou de la fille d'Ivan (email imprimé ou appel) : la commande passée sur le site pour une demi-journée de photo animalière en groupe est annulée, Ivan est mort il y a un an, remboursement à venir. Ton triste, aucune discussion possible : ce n'est pas un PNJ. Au gîte, l'**affiche déchirée** d'Ivan (d'un peu plus d'un an : conférence/débat au café-librairie) oriente les joueurs vers le café pour en savoir plus sur lui. Exploration et variantes : [`enigmes.md`](enigmes.md) §0.
+
+❓ **Formation des trois groupes** — comment les joueurs se répartissent-ils à partir du lancement ? Pistes : affiche à trois parcours (option, pas forcément la meilleure), autre à trouver.
+
 ### Arc détaillé : équipe tranquille (proposition à valider)
 
 Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avant eux — son carnet d'enquête, trouvé dans sa chambre, est la clé de voûte documentaire : il centralise les pièces (procès, lettre, séance, article) et fait de l'équipe tranquille la « tour de contrôle » du lore, pas un simple guichet.
 
 **14h30–15h15 — La chambre d'Ivan (gîte)**
 
-- Trouver la bonne chambre parmi des chambres identiques : indice via le livre d'or 2011 (photo avec un détail reconnaissable) ou autre indice naturel — mécanisme à finaliser.
-- Fouille : carnet ou petite valise oubliée sous un lit / dans un placard → carnet d'enquête contenant : l'URL du site et les soupçons d'Ivan, une copie du **procès du notable** et de la **lettre de l'enfant**, la **transcription de la voyante** (si l'option document est retenue), l'**article de journal** sur l'accident, et le **code de la partie secrète du site** (le carnet remplace le PNJ « enfant d'Ivan », supprimé : validé en équipe).
+- Trouver la bonne chambre parmi des chambres identiques (✅ 19/10) : fausse page du livre d'or 2011 — photo d'Ivan « la vue depuis ma fenêtre » (repère extérieur reconnaissable) + un symbole animal par chambre, la sienne étant décollée/effacée. Deux pistes redondantes : les joueurs trouveront.
+- Fouille : carnet ou petite valise oubliée sous un lit / dans un placard → carnet d'enquête contenant : les soupçons d'Ivan et la mention de son **espace d'archives privé sur son site**, une copie du **procès du notable** et de la **lettre de l'enfant**, la **transcription de la voyante** (si l'option document est retenue), l'**article de journal** sur l'accident (« trois piétons »), une **loupe** et des éléments du **code de la partie secrète du site** (l'URL complète du site manque encore : le bas de l'affiche du gîte est déchiré — elle sera trouvée sur l'affiche intacte au café-librairie).
 - ✅ **Bouteilles (décision 11/10)** : des bouteilles des parents servent de décor au gîte — l'une cache un secret d'Ivan (ex. la dernière carte à superposer, pièce du groupe « lieu » du dimanche). [à voir si on n'utiliserait pas plutôt ça le dimanche ?]
 - Le « aha » de l'équipe : elle détient l'archive complète de l'enquête — et seule elle comprend le lien possible entre l'accident et la disparition des Perchtenlauf.
 
 **15h15–16h15 — Boucle village**
 
-- Café/librairie : le **tableau du chasseur** — le commerçant n'est pas généreux : énigme ou service à rendre pour voir le tableau et entendre son histoire.
+- Café/librairie : **l'affiche intacte** de la conférence *« Les Habitants de la nuit »* (qui donne enfin l'**URL complète du site d'Ivan** + QR code), ses tirages exposés, et le **tableau du chasseur** — le commerçant n'est pas généreux : énigme ou service à rendre pour voir le tableau et entendre son histoire.
 - Cimetière : identifier **la tombe sans inscription** → la relie au procès du notable (la vraie tombe devient la preuve physique du document). ✅ Visite du cimetière pendant le jeu validée en équipe (11/10, jugée respectueuse).
 - Fontaine avec dates + ours : candidate pour la « source » du fugitif ; les dates gravées peuvent alimenter l'énigme du vieux calendrier.
 - Plantes nommées du village (« Barbe de bouc »…) : repérage utile pour les ingrédients de la nouvelle statuette le dimanche.
 
 **16h15–17h15 — Recoupements au gîte**
 
-- Retour au gîte : l'équipe croise ses trouvailles du village avec le carnet d'Ivan et explore la partie secrète du site (le réseau suffit au gîte).
+- Retour au gîte : armée de l'URL trouvée au café et des indices récoltés au village, l'équipe découvre enfin le **site d'Ivan** (au gîte, où le réseau suffit) et déverrouille sa **partie secrète**.
 - Enigmes autonomes à résoudre ici : le **vieux calendrier** (heure solaire du rituel, document auto-portant), la mise en relation accident + tableau + tombe = la vraie lecture de la mort d'Ivan.
 - Si la voyante est un PNJ, c'est le moment et le lieu de l'interaction.
 

@@ -27,13 +27,14 @@ Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'ex
 | 1916 | Instauration de l'heure d'été en France → décalage entre heure légale et heure solaire | ✅ Base de l'énigme du vieux calendrier (validé Rémi, 02/10) |
 | Années/mois avant le jeu | **Ivan Beaulieu** séjourne au gîte, photographie des êtres masqués en forêt et se convainc de leur malveillance | ✅ |
 | Idem | Ivan crée le **site web** : photos animalières → théorie du complot (partie publique) + partie secrète sous code | ✅ |
-| Idem | **Mort d'Ivan** — véritable accident de voiture alors qu'il partait en montagne chercher les Perchten ; l'article de journal décrit un accident fortuit où il a percuté des personnes en tenues étranges. Les victimes pourraient être les derniers Perchten → la rupture de transmission serait déductible via l'article, jamais énoncée | ✅ Validé (Rémi, 02/10) |
+| ~1 an avant le jeu (19/10) | **Mort d'Ivan** — véritable accident de voiture alors qu'il partait en montagne chercher les Perchten ; l'article de journal décrit un accident fortuit où il a percuté des personnes en tenues étranges. Les victimes pourraient être les derniers Perchten → la rupture de transmission serait déductible via l'article, jamais énoncée | ✅ Validé (Rémi, 02/10) |
 | Mois avant le jeu | **Les phénomènes s'intensifient** (fin de cycle) : disparitions, météo soudaine, boussoles affolées, silhouettes masquées capturées par des pièges photo | ✅ |
 
 ## Le week-end du jeu (24–25 octobre)
 
 | Moment | Événement |
 |---|---|
+| Samedi ~14h | Lancement : message unique de l'enfant d'Ivan (commande annulée) + affiche déchirée au gîte (19/10) |
 | Samedi 14h–14h30 | Fouille du gîte — la chambre d'Ivan |
 | Samedi 14h40–17h30 | Trois équipes sur le terrain : tranquille (village/gîte), sportive (objets + costumes), rando (parcours du fugitif à rebours → grotte + statuette) |
 | Samedi ~18h | **Destruction de la statuette** → le message d'un ancien Perchtenlauf (au « je ») invite à prendre le relais |

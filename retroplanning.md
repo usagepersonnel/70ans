@@ -40,6 +40,9 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 | Tâche | Qui |
 |---|---|
 | Site web : partie secrète + code, test complet sur mobile (le gîte capte « un peu ») | Batiste |
+| Lancement du samedi (19/10) : rédiger puis imprimer l'email du fils/de la fille d'Ivan (commande annulée) ; créer et vieillir l'affiche déchirée (conférence au café-librairie) | Batiste ? |
+| Café-librairie : créer l'image du tableau du chasseur + tirages d'Ivan à exposer (accord à compléter) | ? |
+| Bambou (message du fugitif) : vérifier qu'on en a un, sinon alternative — à confirmer avec Rémi | Rémi ? |
 | Vieillissement et impression des documents ; découpe des trous dans les cartes | ? |
 | Kit logistique : marqueurs craie vitres, encre invisible pour miroirs, matériel arts plastiques pour la nouvelle statuette, prop bouteilles | ? |
 | Casting PNJ (voyante uniquement, si option PNJ — le PNJ enfant d'Ivan est supprimé) + brief | ? |
