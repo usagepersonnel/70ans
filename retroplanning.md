@@ -14,7 +14,7 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 
 | Tâche | Qui | Bloque |
 |---|---|---|
-| **Validation lore en équipe** — réunion du 11/10 faite (`validation_2026-10-11.md`) : pas de communication samedi, bouteilles au gîte, message au « je », échos confirmés, cimetière OK. **Restent : la voyante** (PNJ ou document ?), **les voix du fugitif** et la **défiance envers la statuette** | Tous | Tout le reste |
+| **Validation lore en équipe** — réunion du 11/10 faite (`validation_2026-10-11.md`) : pas de communication samedi, bouteilles au gîte, message au « je », échos confirmés, cimetière OK. ✅ **Voyante résolue** (document `documents_ivan/05`). **Restent : les voix du fugitif** et la **défiance envers la statuette** | Tous | Tout le reste |
 | ~~Arc équipe tranquille~~ — ✅ arc autonome détaillé dans `deroule.md`, validé le 11/10 | Batiste | Documents, site |
 | Arc équipe sportive — détailler le samedi : quels objets, où, justification narrative (crée le verrou de destruction de la statuette) | Seb | Timing du twist |
 | Réécriture `feuilles_rando.md` — après tranchage voix/squelette/sac | Rémi | Parcours rando |
@@ -26,26 +26,26 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 
 | Tâche | Qui |
 |---|---|
-| Documents du jeu : procès du notable, lettre de l'enfant, article de journal d'Ivan, carnet d'Ivan, message dans la statuette, vieux calendrier (énigme autonome), transcription de la voyante (si option document) | ? |
+| Documents du jeu : ✅ faits dans `documents_ivan/` + `props_slow/` — procès du notable, lettre de l'enfant, article de journal d'Ivan, pochette d'Ivan, vieux calendrier (énigme autonome), transcription de la voyante (document retenu), email de Camille, affiche, livre d'or. **Reste : le message dans la statuette** (Mareva) | ? |
 | Site web : partie publique remplie (photos animalières → complot) | Batiste |
 | Manifestations nocturnes : écrire les indices (symboles → miroirs, fragments petit-déj, tracé voitures) | ? |
 | Cartes trouées : maquettes des 3–4 cartes + technique de fabrication des trous | Rémi ? |
 | Statuette ancienne : finition de la fabrication (parties déjà faites en terre par Mareva) + insertion du message — rédigé au « je » par un ancien Perchtenlauf (décision 11/10) | Mareva / ? |
 | Costumes : finition et compléments pour tout le groupe | Mareva |
 | Signal de réussite : ✅ décidé (`rituel/README.md` §4) — statuette échangée en douce contre une version « dorée » + fumigènes sûrs (vert = parfait, orange = partiel). Reste : acheter la bombe dorée (séchage rapide) | ? |
-| ~~Photos géoguesser~~ — abandonné (11/10). Remplacé par : prop bouteilles (décor gîte + secret d'Ivan caché, ex. dernière carte) | Seb ? |
+| ~~Photos géoguesser~~ — abandonné (11/10). Remplacé par : prop bouteilles (décor gîte + secret d'Ivan caché, ex. dernière carte — 💡 usage plutôt dimanche) | Seb ? |
 
 ## Semaine 3 (19–23 oct) — Assembler, tester, kit
 
 | Tâche | Qui |
 |---|---|
 | Site web : partie secrète + code, test complet sur mobile (le gîte capte « un peu ») | Batiste |
-| Lancement du samedi (19/10) : rédiger puis imprimer l'email du fils/de la fille d'Ivan (commande annulée) ; créer et vieillir l'affiche déchirée (conférence au café-librairie) | Batiste ? |
+| Lancement du samedi (19/10) : ✅ contenus rédigés (`props_slow/slow_01` email de Camille, `slow_02` affiche). Reste : imprimer l'email, créer et vieillir l'affiche déchirée | Batiste ? |
 | Café-librairie : créer l'image du tableau du chasseur + tirages d'Ivan à exposer (accord à compléter) | ? |
 | Bambou (message du fugitif) : vérifier qu'on en a un, sinon alternative — à confirmer avec Rémi | Rémi ? |
 | Vieillissement et impression des documents ; découpe des trous dans les cartes | ? |
 | Kit logistique : marqueurs craie vitres, encre invisible pour miroirs, matériel arts plastiques pour la nouvelle statuette, prop bouteilles | ? |
-| Casting PNJ (voyante uniquement, si option PNJ — le PNJ enfant d'Ivan est supprimé) + brief | ? |
+| ~~Casting PNJ~~ — sans objet : voyante = document, enfant d'Ivan = message unique | — |
 | Plan B météo : variante pluie pour le rituel et pour le samedi terrain | ? |
 | **Dry-run** : lecture à voix haute du déroulé complet en équipe + checklist finale | Tous |
 | Emballage : tout ce qui part au Vercors listé et regroupé | ? |

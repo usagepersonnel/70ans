@@ -31,7 +31,7 @@ Chaque étape : **Étape** / difficulté / déblocage / produit. `❓` = trou da
 **💡 Pistes retenues par Batiste (19/10, à confirmer avec le groupe)**
 
 - **Loupe** à la place de la boussole (environ 2 € l'unité) : idée retenue, **quand et à quoi elle sert sera défini en bossant le déroulé** (les usages précis — tirages du café, date sur la fontaine — ne sont pas retenus à ce stade).
-- **Balade proposée comme un hommage** : l'enfant d'Ivan écrit « si vous voulez faire la balade quand même, voici l'itinéraire de mon père » et joint trois fiches itinéraire (tranquille, sportive, grande rando), photocopiées sans lire les marges, qui contiennent les dernières notes d'Ivan. Cela répond en partie à la formation des trois groupes.
+- **Balade proposée comme un hommage** : l'enfant d'Ivan écrit « si vous voulez faire la balade quand même, voici l'itinéraire de mon père » et joint trois dossiers de parcours (tranquille, sportive, grande rando), photocopiés sans lire les marges, qui contiennent les dernières notes d'Ivan. Cela répond en partie à la formation des trois groupes.
 - <a_confirmer>**Bambou** : canne de jardinerie (diamètre intérieur ~15 mm, bouchon de liège ou de cire) ou tube à affiches en carton. C'est Rémi qui décide.</a_confirmer>
 - **Une équipe, un animal** : Chouette (Slow), Bouquetin (rando), Loup (sportifs). Un volontaire de chaque équipe porte le masque correspondant dimanche.
 - **Titre retenu** : **« Les Habitants de la nuit »** — nom de la conférence d'Ivan, réutilisable sur l'affiche, le site et le week-end.
@@ -57,7 +57,7 @@ Fil : les joueurs remontent la journée du fugitif (9 septembre 1746) à l'enver
 | A6 | Belvédère 1355 m | Corne à poudre + gourde en peau | Trouver la trouée | Description du lieu dans le texte précédent | La statuette décrite : « matériau inconnu, très légère » — indice de défiance physique |
 | A7 | Grotte des Ferrières | — | La « Grotte des Maléfices » : objets disparus à travers les époques + **la statuette** | Chaîne complète | Retour au gîte avec la statuette |
 
-❓ **Cohérence** : le fugitif dit cacher la statuette à la source (A1), mais les joueurs la trouvent dans la grotte (A7). Résolution candidate : *la statuette est « immuable » — elle réapparaît toujours dans la grotte* (déjà suggéré par le texte A6/A1 : « seule la statuette semble immuable »). Ça explique aussi pourquoi les cycles se répètent.
+❓ **Cohérence** : le fugitif dit cacher la statuette à la source (A1), mais les joueurs la trouvent dans la grotte (A7). Canon validé (02/10, `lore_precisions.md`) : **les Perchten ont rattrapé le fugitif et replacé la statuette** — « seule la statuette semble immuable » est une croyance du fugitif, pas un fait magique (éviter la réapparition surnaturelle : ça ajouterait un mécanisme inexpliqué au canon).
 
 </a_confirmer>
 
@@ -94,7 +94,7 @@ Articulation avec Rémi : dans `feuilles_rando.md` (Col de Carri, A2), le fugiti
 
 | Équipe | Ce qu'elle ramène à 17h30 | Pourquoi elle veut **détruire** la statuette | Ce que sa trouvaille servira **en vrai le dimanche** | Animal associé (casting dimanche) |
 |---|---|---|---|---|
-| **Slow** (Batiste) | **Le dossier d'Ivan** (carnet + site déverrouillé) : 15 ans de relevés, tableau du chasseur, procès, accident des « 3 piétons » | Ivan et la voyante concluent que la statuette est le nœud du mal qui attire les êtres masqués | **La partition sonore** (les 3 bandes `00:03 / 06:12 / 18:47` + carnet d'écoute sur le site) + l'échéance (vieux calendrier) | **Chouette** *(voit ce qui est caché)* |
+| **Slow** (Batiste) | **Le dossier d'Ivan** (pochette + site déverrouillé) : quinze veilles de relevés (2011–2025), tableau du chasseur, procès, accident des « 3 piétons » | Ivan et la voyante concluent que la statuette est le nœud du mal qui attire les êtres masqués | **La partition sonore** (les 3 bandes `00:03 / 06:12 / 18:47` + carnet d'écoute sur le site) + l'échéance (vieux calendrier) | **Chouette** *(voit ce qui est caché)* |
 | <a_confirmer>**Rando** (Rémi)</a_confirmer> | **La statuette** (trouvée dans la Grotte des Ferrières avec les objets disparus) + **les écrits du fugitif** + **la carte de Cassini** | Le fugitif de 1746 supplie explicitement de détruire la statuette et dit que les masques sont nécessaires au rituel | **La statuette** (qui révèle le message au « je » une fois brisée) + **la carte de Cassini** (pour localiser le lieu du rituel dimanche) | <a_confirmer>**Bouquetin** *(les hauteurs)*</a_confirmer> |
 | <a_confirmer>**Sportifs** (Seb)</a_confirmer> | **Toutes les tenues et masques des Perchten** (trouvés via les pièges photo et les énigmes animaux à ~200 m D+) | Ils ont traqué les êtres masqués jusqu'à leur cache et ramènent les masques requis par le journal de Rémi *(❓ + indice propre à Seb ?)* | **Les 3 masques et costumes** indispensables pour accomplir la vraie danse du dimanche matin | <a_confirmer>**Loup** *(la meute, les sentiers)*</a_confirmer> |
 
@@ -108,11 +108,11 @@ Manifestations (échos du passé) → 3 groupes (terrain / statuette / danse) �
 
 | Question | Ce que dit le mapping |
 |---|---|
-| **Voyante** (7) | 💡 Le journal (arc A) appelle déjà à détruire ; la voyante servirait à donner **la même conclusion à l'équipe tranquille** (B5) — convergence indépendante. → *proposition : document (transcription dans le carnet), pas de PNJ à caster* |
+| **Voyante** (7) | ✅ **Document retenu** : transcription de séance dans la pochette (`documents_ivan/05`), pas de PNJ — elle donne à l'équipe tranquille **la même conclusion** que le journal de Rémi (convergence indépendante, B3–B4) |
 | <a_confirmer>**Voix du fugitif** (8) | Elles « guident » le fugitif vers la destruction — **elles servent la fausse piste** (ce sont elles qui le trompent ?). Suggestion de cohérence : voix = les phénomènes du Triangle (qui *veulent* la fin des Perchtenlauf), distincts des échos bienveillants. À valider — ça donne un vrai antagoniste au lore.</a_confirmer> |
-| **Défiance** (9) | ✅ Levier principal déjà écrit : **le journal appelle explicitement à détruire** (A1). Renforts déjà écrits : matériau inconnu (A6), tableau (B4). Manque : un lien site↔statuette (Ivan relie les phénomènes à l'objet) + les conditions de destruction (arc C). Pas besoin d'élément dédié supplémentaire. |
+| **Défiance** (9) | ✅ Levier principal déjà écrit : **le journal appelle explicitement à détruire** (A1). Renforts déjà écrits : matériau inconnu (A6), tableau (B4). ✅ Lien site↔statuette désormais couvert : le carnet p.2 (`documents_ivan/01`) relie les silhouettes à « un objet qu'elles gardent » et la voyante (`05`) conclut « tant qu'elle est entière, cela recommencera ». Reste ouvert : les conditions mécaniques de destruction (arc C, avec Seb). |
 | <a_confirmer>**Bouteilles** (10) | Dimanche (décision de Batiste) → la carte cachée complète la superposition du groupe terrain — vérifier qu'ils en ont *besoin* (sinon la bouteille est décorative, OK aussi)</a_confirmer> |
 | <a_confirmer>**Squelette** (11) | Si abandonné : remplacer l'indice A2 (« squelette du fuyard ») par un autre signe de fin de course (ex. ses effets abandonnés, une marque gravée) — et le crâne en résine d'A3 devient un prop de grotte « porte de l'Enfer », pas un squelette identifié</a_confirmer> |
 | **Zone secrète** (13) | ✅ Direction retenue : accès total dès le samedi ; les fichiers sans contexte (clips, cartes annotées) sont « inexploitables » — leur sens éclot dimanche. Le site sert donc les trois jours sans cloisonnement artificiel |
-| **Chambre d'Ivan** (B1) | ❓ Dernier trou du mapping côté tranquille |
+| **Chambre d'Ivan** (B1) | ✅ Résolu : livre d'or 2011 + étiquette de la Chouette décollée (`props_slow/slow_03`) — arc tranquille complet de bout en bout |
 | <a_confirmer>**Arc sportif** (C)</a_confirmer> | ❓ Plus gros trou documentaire — Seb avance de son côté |

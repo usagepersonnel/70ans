@@ -4,7 +4,7 @@
 
 ---
 
-## Transcription — Fonds privé du Dr H. Brilleux, Die (lettre datée du 3 novembre 1921)
+## Transcription — Fonds privé du Dr H. Brilleux, Die (lettre datée du 3 novembre 1931)
 
 > Mon cher Henri,
 >

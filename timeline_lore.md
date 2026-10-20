@@ -35,19 +35,19 @@ Repères temporels du scénario, du passé profond au week-end du jeu. Pour l'ex
 | Moment | Événement |
 |---|---|
 | Samedi ~14h | Lancement : message unique de l'enfant d'Ivan (commande annulée) + affiche déchirée au gîte (19/10) |
-| Samedi 14h–14h30 | Fouille du gîte — la chambre d'Ivan |
-| Samedi 14h40–17h30 | Trois équipes sur le terrain : tranquille (village/gîte), sportive (objets + costumes), rando (parcours du fugitif à rebours → grotte + statuette) |
-| Samedi ~18h | **Destruction de la statuette** → le message d'un ancien Perchtenlauf (au « je ») invite à prendre le relais |
-| Nuit samedi→dimanche | **Manifestations** : encre invisible dans les douches, indices dans les céréales / sous les tasses, éléments étranges sur les voitures |
+| Samedi ~14h15–14h30 | Séparation des 3 groupes, chacun sur son arc autonome (pas de communication, 11/10) |
+| Samedi 14h30–17h30 | Trois arcs en parallèle : tranquille (chambre d'Ivan 14h30–15h15 → boucle village → site au gîte), sportive (pièges photo + énigmes animaux → tenues/masques), rando (parcours du fugitif à rebours → grotte + statuette) |
+| Samedi ~17h30–18h | **Destruction de la statuette** → le message d'un ancien Perchtenlauf (au « je ») invite à prendre le relais |
+| Nuit samedi→dimanche | **Manifestations** : textes sur les miroirs de l'espace commun, indices dans les céréales / sous les tasses, éléments étranges sur les voitures |
 | Dimanche 9h30–10h | Remise en situation au petit-déjeuner (découverte des manifestations) |
-| Dimanche 10h–10h45 | Trois groupes fonctionnels : « lieu » (cartes), « arts plastiques » (statuette), « rituel » (chorégraphie) — durée compressée par la contrainte de midi |
+| Dimanche 10h–10h45 | Trois groupes fonctionnels : « terrain » (cartes/lieu), « statuette » (nouvelle statuette), « danse » (chorégraphie) — durée compressée par la contrainte de midi |
 | Dimanche ~10h45 | Départ en voiture vers le lieu du rituel — champ repéré : circulaire, petit arbre, foyer ; ~10 min de route + 1 min à pied |
 | Dimanche ~11h–11h30 | **Le rituel** — le vieux calendrier justifie une heure de fin de matinée (pas de cadran solaire au village : énigme autonome). ⚠️ Tout doit être terminé à midi : des cousins partent vers 12 h |
 
 ## Personnages — repères
 
 - **Ivan Beaulieu** — photographe animalier, créateur du site, mort ✅ dans un accident de voiture de nuit en montagne, en allant chercher les êtres masqués (fasciné par eux, sans intention de leur nuire)
-- **Pas de PNJ « enfant d'Ivan »** (validé en équipe, réversible) — le carnet d'Ivan porte l'infodump et le code de la partie secrète du site
+- **Pas de PNJ « enfant d'Ivan »** (validé en équipe, réversible) — la pochette d'Ivan porte l'infodump et le code de la partie secrète du site
 - **La voyante** — mauvaise voyante ; son indice ambigu oriente les joueurs vers « détruire l'objet »
 - **Le fugitif** — Perchtenlauf du passé (~20 ans), voleur de la statuette ; son récit structure l'arc rando
 - **Les anciens Perchtenlauf** — absents au moment du jeu, sans explication dans le scénario ✅

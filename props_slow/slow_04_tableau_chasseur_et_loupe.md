@@ -29,7 +29,7 @@ On peut partir du style eau-forte / gravure ancienne de `ivan/bring-back-the-etc
 - **Où le cacher sur l'image** :
   - Gravé en tout petit (corps 4 ou 5 pt, fondu dans les hachures de la pierre du rocher juste sous la statuette, ou dans le collier/l'écorce au pied du sapin) : le mot **`VEILLE`** (le site accepte déjà `veille`, `veillent`, `la veille` dans `src/lib/keys.ts`).
   - Pour être sûr que les joueurs sachent *où* poser la loupe sur le tableau sans chercher 20 minutes : au dos ou dans le cartel sous le tableau, une légende indique :
-    > **« Rencontre dans les brumes du Haut-Vercors (novembre 1886) »**
+    > **« Rencontre dans les brumes du Haut-Vercors (fin octobre 1886) »**
     > *Encre et brou de noix — Collection familiale.*
     > *« Le chasseur affirmait que la pierre même du rocher portait un mot gravé sous l'idole, si menu que seul l'œil approché de près pouvait le lire. »*
 - **Pourquoi le mot `VEILLE` est génial** :

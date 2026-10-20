@@ -14,11 +14,17 @@ L'essentiel du projet est constitué de **fichiers Markdown** :
 - `reperage.md` — Checklist et retours de la visite terrain
 - `retroplanning.md` — Plan de travail à J-20 (jalons, tâches par semaine, propriétaires)
 - `TODO.md` — État du projet, priorités et tâches
+- `questions.md` — Questions en suspens pour l'équipe + draft du message de synchro
+- `documents_ivan/` — Contenu de la pochette d'Ivan (7 pièces + index) — le cœur documentaire de l'arc tranquille
+- `props_slow/` — Props de lancement et de l'arc tranquille (email, affiche, livre d'or, tableau, calendrier)
 - `rituel/` — Conception du rituel du dimanche (structure, 12 sons, énigmes, production) — fait foi pour le dimanche
 - `ivan/` — Biographie et photos d'Ivan Beaulieu (assets du site web `ivan-beaulieu-photos`)
+- `cartes/` — Matériau cartographique du dimanche
+- `methode_coherence.md` + `audit_coherence_2026-10-20.md` — méthode et rapport de la passe de cohérence
+- `archived/` — Documents retirés de la conception courante (références, pas de mise à jour)
 - `AGENTS.md` — Vue d'ensemble du projet, pour les IAs
 
-Préfixes : `timeline_*` = documents de vérification (`timeline_lore.md`, `timeline_rando.md`), `validation_*` = comptes rendus datés des réunions et points de validation (`validation_2026-10-02.md`, `validation_2026-10-11.md`, `validation_2026-10-19.md`), `ref_*` = références non vivantes (`ref_archive.md`).
+Préfixes : `timeline_*` = documents de vérification (`timeline_lore.md`, `timeline_rando.md`), `validation_*` = comptes rendus datés des réunions et points de validation (`validation_2026-10-02.md`, `validation_2026-10-11.md`, `validation_2026-10-19.md`), `ref_*` = références non vivantes (`archived/ref_archive.md`).
 
 ## Le dossier `code/`
 

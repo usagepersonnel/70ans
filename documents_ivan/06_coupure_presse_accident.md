@@ -1,6 +1,6 @@
 # Pièce 6 — La coupure de presse de l'accident d'Ivan
 
-*(Coupure du journal local pliée et glissée **sous l'élastique extérieur de la pochette d'Ivan par les propriétaires du gîte** le lendemain du drame, avec le petit post-it des hôtes : « Affaires retrouvées dans la chambre d'Ivan après son accident + article du Dauphiné. À garder de côté pour Camille quand iel passera au gîte. »)*
+*(Coupure du journal local pliée et glissée **sous l'élastique extérieur de la pochette d'Ivan par les propriétaires du gîte** le lendemain du drame, avec le petit post-it des hôtes : « Affaires retrouvées dans la chambre d'Ivan après son accident + article du Dauphiné. À garder de côté pour Camille, à son prochain passage. »)*
 
 ---
 

@@ -5,7 +5,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 **Légende** : ✅ Résolu | 💡 Piste trouvée | 📝 Souvenir de réunion à confirmer | ⚠️ Manque identifié | 🔑 Point clé à trancher | (sans marqueur) = question ouverte
 
-**Sources** : `excalidraw` (brainstorming initial, plus fiable en cas de contradiction) | `archived` (scenario_statique, supprimé mais intégré, cf. `ref_archive.md`) | `AGENTS.md` | `lore.md`
+**Sources** : `excalidraw` (brainstorming initial, plus fiable en cas de contradiction **sauf décisions ultérieures actées dans `validation_*`**) | `archived` (scenario_statique, supprimé mais intégré, cf. `ref_archive.md`) | `AGENTS.md` | `lore.md`
 
 ## La durée du cycle
 
@@ -71,7 +71,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ❓ **Lien du photographe avec les cultistes** — Son rôle auprès des Perchtenlauf et ce qu'il a découvert restent à préciser.
 - ✅ **Pas de PNJ enfant d'Ivan** — Validé en équipe : on se passe du PNJ pour l'instant. Son rôle (infodump + code de la partie secrète du site) passe par le carnet d'Ivan trouvé dans sa chambre le samedi. Le pèlerinage annuel est abandonné — réversible si un volontaire se déclare. Nuance (19/10, Batiste + Mareva) : un **message unique** de l'enfant d'Ivan (email imprimé ou appel : commande annulée, père décédé il y a un an, remboursement) lance le jeu — aucune réponse possible, ce n'est pas un PNJ.
 - ✅ **Ivan, habitué du gîte** — (19/10) il séjournait au gîte au changement d'heure chaque année depuis 2011 (livre d'or 2011). Le café-librairie expose ses tirages.
-- ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par le photographe. Partie publique (jour 1) + partie secrète (jour 2) nécessitant un code ou une URL cachée. Le code se trouve dans le carnet d'Ivan (fouille du samedi) — possibilité d'en faire une mini-énigme (code dérivé de ses notes/photos).
+- ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par le photographe. Partie publique + partie secrète (`/archives`) déverrouillée **dès le samedi** par les 4 clés de l'aide-mémoire de la pochette d'Ivan (fouille du samedi) — les contenus secrets n'ont de sens que dimanche.
 
 ## Pourquoi la statuette est avec les objets ? Et pourquoi les perchtenlaufs ne prennent pas les objets ? [Décision du 19/07]
 
@@ -89,20 +89,20 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 - ❓ **4 cartes listées, 3 groupes** — Carte des grottes, IGN, état major, Cassini. Laquelle est attribuée à quel groupe ? Une carte est-elle redondante ? *(Question game design — voir `deroule.md`.)*
 - ❓ **Les trous dans les cartes** — Que représentent-ils ? Des lieux où des objets ont disparu ? Des zones effacées par le triangle ? Comment les trous sont-ils créés matériellement ?
-- 💡 **Le centre du triangle = lieu du rituel** — La grotte aux objets disparus semble être à la fois le repère des cultistes et le lieu du rituel. Coordonnées : 45.150739, 5.564328 (grottomap.org). En attente de la carte de Rémi pour confirmer.
+- 💡 **Le centre du triangle = lieu du rituel** — ~~La grotte aux objets disparus semble être à la fois le repère des cultistes et le lieu du rituel~~ → **corrigé par le repérage terrain** : la grotte connue est à ~23 km (maillage régional), le centre du triangle tombe sur le champ du rituel repéré (~10 min en voiture). En attente de la carte de Rémi pour confirmer.
 
 ## Le site web
 
-- ✅ **Qui l'a créé ?** — **Résolu** : Ivan Beaulieu. Structure en deux parties : publique (jour 1, photos animalières → théorie du complot) et secrète (jour 2, nécessite code/URL cachée).
-- ✅ **Évolution du contenu** — **Résolu** : Narration volontaire d'Ivan, pas une infection progressive. Structure en deux phases (publique jour 1, secrète jour 2).
-- ✅ **Quel est le lien avec les énigmes ?** — **Résolu** : Le site est consulté par l'équipe statique le samedi (partie publique). La partie secrète (jour 2) donne des indices pour le rituel. Vecteur pendant le jeu, pas seulement teaser.
+- ✅ **Qui l'a créé ?** — **Résolu** : Ivan Beaulieu. Structure en deux parties : publique (photos animalières → théorie du complot) et secrète (`/archives`, sous 4 clés).
+- ✅ **Évolution du contenu** — **Résolu** : Narration volontaire d'Ivan, pas une infection progressive.
+- ✅ **Quel est le lien avec les énigmes ?** — **Résolu** : Le site est consulté par l'équipe tranquille le samedi au gîte (publique + zone secrète déverrouillée). La partie secrète donne les briques qui prennent sens dimanche (bandes audio, photos horodatées). Vecteur pendant le jeu, pas seulement teaser.
 
 ## Les manifestations nocturnes
 
 - ✅ **Existence** — Pendant la nuit du samedi au dimanche, des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes : texte à l'encre invisible dans les douches, indices dans les boîtes de céréales et/ou sous les tasses, éléments étranges sur les voitures.
 - ✅ **Fonction narrative** — Ces manifestations orientent les joueurs vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
 - ✅ **Nature des manifestations** — Validé (Rémi, 02/10) : elles sont un effet surnaturel qui semble interagir avec le monde, sans volonté ni intention morale clairement bienveillante ou malveillante — un débordement de fin de cycle, ni « contre » ni « pour » les joueurs. Compatible avec un maléfice sans volonté propre. Mécanisme retenu (validé en équipe, reconfirmé le 11/10) : des **échos du passé** — des pensées rémanentes, sans intention, venant potentiellement d'anciens Perchtenlauf entre autres (ex. « il faut du bois pour la statuette » sous un bol). Le lien avec les voix entendues par le fugitif reste une question ouverte (cf. « Les voix de la forêt »).
-- ✅ **Contenu des manifestations** — Validé en équipe : le mapping par groupe convient globalement — douches/miroirs → symboles de la nouvelle statuette (« arts plastiques »), céréales/tasses → fragments de paroles/rythme/gestes (« rituel »), voitures → tracé/repères (« lieu »). Le message de la statuette donne l'objectif global, les manifestations le premier fil de chaque groupe. Contraintes terrain : douches en plastique → miroirs de l'espace commun ; pas de givre → marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. Reste : écrire les textes des échos.
+- ✅ **Contenu des manifestations** — Validé en équipe : le mapping par groupe convient globalement — miroirs → symboles de la nouvelle statuette (« statuette »), céréales/tasses → fragments de paroles/rythme/gestes (« danse »), voitures → tracé/repères (« terrain »). Le message de la statuette donne l'objectif global, les manifestations le premier fil de chaque groupe. Contraintes terrain : douches en plastique → miroirs de l'espace commun ; pas de givre → marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. Reste : écrire les textes des échos.
 
 ## Le rituel lui-même
 

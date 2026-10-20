@@ -11,7 +11,7 @@ Décisions validées en équipe (réunion du 04/10 — détail dans `lore_precis
 
 - Pas de PNJ « enfant d'Ivan » pour l'instant : le carnet d'Ivan porte l'infodump et le code du site secret (réversible)
 - Squelette du scialet ≠ fugitif (victime collectée par le triangle ; époque à choisir sans lieux de mémoire réels)
-- Mapping des manifestations par groupe (douches/miroirs→statuette, petit-déj→rituel, voitures→lieu) : OK, textes à écrire
+- Mapping des manifestations par groupe (miroirs→statuette, petit-déj→danse, voitures→terrain) : OK, textes à écrire
 
 Décisions validées en équipe (réunion du 11/10 — détail dans `validation_2026-10-11.md`) :
 
@@ -26,19 +26,20 @@ Reste à trancher :
 - **Défiance envers la statuette** (demande du 11/10) : quels éléments concrets la rendent suspecte le samedi, pour que les joueurs finissent par la détruire ? Leviers existants : site d'Ivan, voyante, journal du fugitif, tableau
 
 - Nature des voix de la forêt — contradiction avec « le maléfice n'a pas de volonté » (piste recommandée : échos/projection, pas d'entité)
-- Mécanisme de la voyante — pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans le carnet d'Ivan, cohérent avec « pas de PNJ »)
+- ~~Mécanisme de la voyante~~ — ✅ résolu : document (`documents_ivan/05`), pas de PNJ
 
 ## Incohérences connues (à résoudre)
 
 Point d'entrée unique : on y ajoute toute contradiction repérée entre documents, et on la raye une fois résolue.
+**Audit complet du 20/10** : `audit_coherence_2026-10-20.md` (62 corrections 🟢 appliquées, 17 arbitrages 🟠 listés).
 
-1. **Date du fugitif** — `lore.md` : « cycle précédent (~1886) » ; `feuilles_rando.md` : 1746, soit deux cycles avant 2026 (`timeline_lore.md` : 1886, 1746, 1606). À trancher avec Rémi.
-2. **`lore.md` périmé** — géoguesser et « transmettre des infos aux équipes mobiles » (section Autres énigmes et « Équipe tranquille ») ; « entrer en contact avec la fille/fils d'Ivan » (Objectifs communs : désormais un message unique au lancement) ; anciens noms des groupes du dimanche (« lieu / arts plastiques / rituel » → terrain / statuette / danse).
-3. **Partie secrète du site** — `lore_precisions.md` (section Le site web) : accessible le jour 2 ; décision retenue : accès dès le samedi avec le code du carnet.
-4. **Horaires du samedi** — `lore.md`, `reperage.md`, `timeline_lore.md` : fouille du gîte 14h–14h30 puis formation des groupes 14h30–14h40 ; `deroule.md` : chambre d'Ivan 14h30–15h15 pour l'équipe tranquille seule. À aligner avec le lancement.
-5. **Mort d'Ivan « récente »** — `ivan/ivanbio.md` : « récent décès » ; décision 19/10 : mort il y a un an. À reformuler (texte de Seb).
-6. **Apparitions Perchten hors-cycle** — nouveaux docs `ivan/Perchtenlauf Hiboux` (radio allemande 1944) et `ivan/Perchtenlauf Loup` (article 1894) : si le rituel « éteint » le triangle ~140 ans, pourquoi des manifestations en 1894 et 1944 ? Deux pistes : (a) les Perchten patrouillent toujours, le rituel ne fait que refermer les brèches ; (b) apparitions seulement en fin de cycle → alors 1894 et 1944 deviennent des dates de cycles intermédiaires (cycle plus court ?). À trancher.
-7. **Doc Perchten manquant pour le Bouquetin** — Hiboux (1944) et Loup (1894) existent ; rien pour le bouquetin, 3e masque du rituel. Voulu ou oubli ?
+1. **Date du fugitif** — `lore.md` : « cycle précédent (~1886) » ; `feuilles_rando.md` : 1746, soit deux cycles avant 2026 (`timeline_lore.md` : 1886, 1746, 1606). À trancher avec Rémi. ⚠️ Impact site : `disparitions.astro` code déjà « vers 1746 ».
+2. ~~**`lore.md` périmé**~~ — ✅ corrigé (passe du 20/10) : géoguesser, « transmettre aux équipes », PNJ enfant, noms de groupes, tableau, site jour 2.
+3. ~~**Partie secrète du site**~~ — ✅ corrigé (20/10) : `lore_precisions.md` aligné sur l'accès samedi via les 4 clés.
+4. ~~**Horaires du samedi**~~ — ✅ corrigé (20/10) : `lore.md`, `reperage.md`, `timeline_lore.md`, `deroule.md` alignés sur le lancement 14h + arcs autonomes.
+5. ~~**Mort d'Ivan « récente »**~~ — ✅ déjà corrigé : `ivanbio.md` dit « décès en octobre 2025 ».
+6. **Apparitions Perchten hors-cycle** — nouveaux docs `ivan/Perchtenlauf Hiboux` (radio allemande 1944) et `ivan/Perchtenlauf Loup` (article 1894) : si le rituel « éteint » le triangle ~140 ans, pourquoi des manifestations en 1894 et 1944 ? 💡 L'audit du 20/10 tranche en faveur de (a) : l'almanach (`slow_05`) ne liste que 1606/1746/1886 comme Grandes Veilles → 1894 et 1944 sont des **patrouilles ordinaires** (« ils veillent » — le mot du tableau) ; le rituel ne se rejoue qu'en fin de cycle. À confirmer en équipe.
+7. **Doc Perchten manquant pour le Bouquetin** — Hiboux (1944) et Loup (1894) existent ; rien pour le bouquetin, 3e masque du rituel. `documents_ivan/07` couvre l'absence (« pas encore trouvé de coupure, c'est celui que décrit Marcellin ») — faut-il un 3e doc historique pour la symétrie ? (a priori non nécessaire).
 
 ## Acquis du repérage terrain
 
@@ -77,8 +78,8 @@ Point d'entrée unique : on y ajoute toute contradiction repérée entre documen
 
 ### Lancement du samedi (décision 19/10)
 
-- [ ] Rédiger l'email (ou le script d'appel) du fils/de la fille d'Ivan : commande annulée, père mort il y a un an, remboursement, ton triste, sans appel à répondre — puis l'imprimer
-- [ ] Créer l'**affiche déchirée** d'Ivan (conférence/débat au café-librairie, d'un peu plus d'un an) : vieillir, déchirer, accrocher au gîte
+- [x] Rédiger l'email de l'enfant d'Ivan (Camille) — `props_slow/slow_01` : commande annulée, père mort il y a un an, remboursement, ton triste, sans appel à répondre. **Reste : l'imprimer**
+- [x] Rédiger l'**affiche déchirée** d'Ivan — `props_slow/slow_02` (version gîte déchirée + version café intacte). **Reste : vieillir, déchirer, accrocher**
 - [ ] Café-librairie : créer l'**image** du tableau du chasseur + préparer les **tirages d'Ivan** à exposer (accord à compléter pour les tirages)
 - [ ] Bambou (message du fugitif, arc de Rémi) : vérifier si on en a un, sinon trouver une alternative — à confirmer avec Rémi
 - [ ] Décider et huiler comment les **3 groupes se forment et partent chacun avec leur référent (Batiste / Seb / Rémi)** à partir du lancement de 14h
@@ -92,7 +93,7 @@ Point d'entrée unique : on y ajoute toute contradiction repérée entre documen
 - [ ] **Questions en suspens** — voir `questions.md` (fontaine, photos repérage, chambres, plantes, dates d'Ivan…)
 - [x] Construire la v1 : façade portfolio + journal + conférence + gate `/archives` (4 champs, API `/api/unlock`, cookie) — déployé et vérifié Playwright en prod ; audio = placeholder WAV en attendant les vrais enregistrements
 - [ ] Déployer les variables d'env Vercel (`KEY_*`, `ARCHIVES_TOKEN`) avec les vraies valeurs — `ARCHIVES_TOKEN` à changer impérativement (le défaut est dans le code)
-- [ ] Choisir le mot caché dans le tableau du chasseur (clé 2 — actuellement « veille » en placeholder)
+- [x] Choisir le mot caché dans le tableau du chasseur (clé 2) — **`VEILLE` retenu** (`props_slow/slow_04` ; double sens : « la veille » le samedi / « ils veillent » le dimanche — déjà configuré côté site)
 - [ ] Remplacer les 3 WAV placeholder par les enregistrements de Mareva + photos de pièges réelles (page `/archives/pieges`)
 
 - [x] Créer un dépôt distinct dédié au site — fait : repo **privé** `ivan-beaulieu-photos` (Astro+TS), déployé sur Vercel → https://ivan-beaulieu-photos.vercel.app (zone secrète = gate serveur, pas de contenu sensible dans le repo public)

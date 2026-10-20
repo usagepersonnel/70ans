@@ -20,18 +20,18 @@ D'après excalidraw, les 3 équipes ont des buts distincts le samedi :
 
 ### Arc détaillé : équipe tranquille (proposition à valider)
 
-Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avant eux — son carnet d'enquête, trouvé dans sa chambre, est la clé de voûte documentaire : il centralise les pièces (procès, lettre, séance, article) et fait de l'équipe tranquille la « tour de contrôle » du lore, pas un simple guichet.
+Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avant eux — sa pochette d'enquête (chemise cartonnée à élastiques pleine de feuilles volantes, `documents_ivan/`), trouvée dans sa chambre, est la clé de voûte documentaire : elle centralise les pièces (procès, lettre, séance, article) et fait de l'équipe tranquille la « tour de contrôle » du lore, pas un simple guichet.
 
 **14h30–15h15 — La chambre d'Ivan (gîte)**
 
 - Trouver la bonne chambre parmi des chambres identiques (✅ 19/10) : fausse page du livre d'or 2011 — photo d'Ivan « la vue depuis ma fenêtre » (repère extérieur reconnaissable) + un symbole animal par chambre, la sienne étant décollée/effacée. Deux pistes redondantes : les joueurs trouveront.
-- Fouille : carnet ou petite valise oubliée sous un lit / dans un placard → carnet d'enquête contenant : les soupçons d'Ivan et la mention de son **espace d'archives privé sur son site**, une copie du **procès du notable** et de la **lettre de l'enfant**, la **transcription de la voyante** (si l'option document est retenue), l'**article de journal** sur l'accident (« trois piétons »), une **loupe** et des éléments du **code de la partie secrète du site** (l'URL complète du site manque encore : le bas de l'affiche du gîte est déchiré — elle sera trouvée sur l'affiche intacte au café-librairie).
-- ✅ **Bouteilles (décision 11/10)** : des bouteilles des parents servent de décor au gîte — l'une cache un secret d'Ivan (ex. la dernière carte à superposer, pièce du groupe « lieu » du dimanche). [à voir si on n'utiliserait pas plutôt ça le dimanche ?]
+- Fouille : pochette cartonnée à élastiques oubliée (sous un lit / dans un placard) → feuilles volantes + photocopies contenant : les soupçons d'Ivan et la mention de son **espace d'archives privé sur son site**, une copie du **procès du notable** et de la **lettre de l'enfant**, la **transcription de la voyante** (document retenu), l'**article de journal** sur l'accident (« trois piétons », découpé et glissé dans la pochette par les hôtes du gîte), une **loupe** et l'**aide-mémoire des 4 clés de la partie secrète du site** (l'URL complète du site manque encore : le bas de l'affiche du gîte est déchiré — elle sera trouvée sur l'affiche intacte au café-librairie).
+- ✅ **Bouteilles (décision 11/10)** : des bouteilles des parents servent de décor au gîte — l'une cache un secret d'Ivan (ex. la dernière carte à superposer). 💡 **Plutôt dimanche** (19/10, `enigmes.md` B5) : les bouteilles comme dernière carte à superposer le dimanche matin.
 - Le « aha » de l'équipe : elle détient l'archive complète de l'enquête — et seule elle comprend le lien possible entre l'accident et la disparition des Perchtenlauf.
 
 **15h15–16h15 — Boucle village**
 
-- Café/librairie : **l'affiche intacte** de la conférence *« Les Habitants de la nuit »* (qui donne enfin l'**URL complète du site d'Ivan** + QR code), ses tirages exposés, et le **tableau du chasseur** — le commerçant n'est pas généreux : énigme ou service à rendre pour voir le tableau et entendre son histoire.
+- Café/librairie : **l'affiche intacte** de la conférence *« Les Habitants de la nuit »* (qui donne enfin l'**URL complète du site d'Ivan** + QR code), ses tirages exposés, et le **tableau du chasseur** — 💡 interaction sobre privilégiée (`props_slow/slow_04` : le tableau est visible en libre-service, la commerçante peut raconter son histoire si sollicitée) ; l'option « énigme ou service à rendre » reste possible si le commerçant joue le jeu.
 - Cimetière : identifier **la tombe sans inscription** → la relie au procès du notable (la vraie tombe devient la preuve physique du document). ✅ Visite du cimetière pendant le jeu validée en équipe (11/10, jugée respectueuse).
 - Fontaine avec dates + ours : candidate pour la « source » du fugitif ; les dates gravées peuvent alimenter l'énigme du vieux calendrier.
 - Plantes nommées du village (« Barbe de bouc »…) : repérage utile pour les ingrédients de la nouvelle statuette le dimanche.
@@ -42,14 +42,14 @@ Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avan
 - Enigmes autonomes à résoudre ici : le **vieux calendrier** (heure solaire du rituel, document auto-portant), la mise en relation accident + tableau + tombe = la vraie lecture de la mort d'Ivan.
 - Si la voyante est un PNJ, c'est le moment et le lieu de l'interaction.
 
-**17h15–18h — Regroupement au gîte**
+**~17h30 — Regroupement au gîte**
 
 - Mise en commun des trouvailles ; l'équipe rando présente la statuette.
-- **Destruction de la statuette ~18h** — verrou : nécessite les objets/conditions préparés par l'équipe sportive (à concevoir dans leur arc), ce qui garantit que tout le monde est réuni.
+- **Destruction de la statuette** (à la suite du regroupement) — verrou : nécessite les objets/conditions préparés par l'équipe sportive (à concevoir dans leur arc), ce qui garantit que tout le monde est réuni.
 
-Documents/props nécessaires à cet arc : carnet d'Ivan (central), article de journal, tableau physique, transcription de la voyante (option document), bouteilles + secret caché (décision 11/10), livre d'or bidouillé si utilisé.
+Documents/props nécessaires à cet arc : pochette d'Ivan (central, `documents_ivan/`), article de journal, tableau physique, transcription de la voyante (document), bouteilles + secret caché (décision 11/10, 💡 usage dimanche), livre d'or bidouillé (`props_slow/slow_03`).
 
-❓ À trancher : mécanisme « quelle chambre », forme de la voyante (PNJ ou document), répartition des documents entre carnet et trouvailles directes.
+✅ **Résolu** : mécanisme « quelle chambre » = livre d'or 2011 + étiquette animale décollée (`props_slow/slow_03`) ; voyante = document (`documents_ivan/05`) ; documents = tous dans la pochette (arc tranquille), amorces Seb/Rémi trouvées au gîte en parallèle.
 
 ### Chevauchements à résoudre
 
@@ -88,11 +88,11 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 - ✅ **Samedi soir** — Les joueurs brisent la statuette, probablement persuadés qu'elle est liée au maléfice. Ils découvrent le message écrit à la première personne (« je ») par un ancien Perchtenlauf (décision 11/10 ; rédaction : Mareva) — il ne doit pas nécessairement tout expliquer immédiatement.
 - ❓ **Créer la défiance (décision 11/10)** — Il faut assez d'éléments rendant la statuette suspecte le samedi pour que les joueurs la détruisent. Leviers existants : le site complotiste d'Ivan (les masqués présentés comme dangereux), l'indice de la voyante, le journal du fugitif, le tableau du chasseur. Suffisant ou pas ? À concevoir dans le détail des arcs.
 - ✅ **Pendant la nuit** — Des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes :
-  - texte à l'encre invisible apparaissant dans les douches ;
+  - textes apparaissant sur les miroirs de l'espace commun ;
   - indices dans les boîtes de céréales et/ou sous les tasses ;
   - éléments étranges sur les voitures.
 - ✅ **Dimanche matin** — Les joueurs découvrent ces manifestations pendant ou autour du petit-déjeuner. Elles les orientent vers les trois groupes fonctionnels du dimanche et vers la nécessité de fabriquer une nouvelle statuette et de réaliser le rituel.
-- ✅ **Contenu des manifestations** — Validé en équipe : chaque manifestation amorce un groupe — douches/miroirs → « arts plastiques », petit-déj → « rituel », voitures → « lieu ». Les textes sont des **échos du passé** (pensées rémanentes venant potentiellement d'anciens Perchtenlauf, entre autres, ex. « il faut du bois pour la statuette ») : impersonnels, sans intention, mais porteurs de lore. Contraintes terrain : douches en plastique → miroirs de l'espace commun ; pas de givre → marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. Textes proposés (💡 à valider) dans `rituel/enigmes_dimanche.md` §2.
+- ✅ **Contenu des manifestations** — Validé en équipe : chaque manifestation amorce un groupe — miroirs → « statuette », petit-déj → « danse », voitures → « terrain ». Les textes sont des **échos du passé** (pensées rémanentes venant potentiellement d'anciens Perchtenlauf, entre autres, ex. « il faut du bois pour la statuette ») : impersonnels, sans intention, mais porteurs de lore. Contraintes terrain : douches en plastique → miroirs de l'espace commun ; pas de givre → marqueurs craie effaçables sur les vitres ; table du petit-déj adaptée. Textes proposés (💡 à valider) dans `rituel/enigmes_dimanche.md` §2.
 
 ## Pistes narratives et indices documentaires
 
@@ -100,14 +100,14 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 
 1. **[Procès] Le notable innocent** (Moyen Âge) — Un notable condamné pour vol d'un cadeau diplomatique destiné au Vercors. Il affirme que le cadeau a disparu (créatures surnaturelles). L'évêque retrouve le cadeau a posteriori, absout le notable posthumement. Inscription sur la tombe.
 2. **[Lettre] L'enfant et la grotte dorée** — Un enfant trouve une grotte pleine d'objets précieux et du quotidien (rouleau à pâtisserie de sa mamie). Personne ne le croit. Adulte, il raconte l'histoire dans une lettre au Dr Brilleux.
-3. **[Tableau] Le chasseur et les loups** — Un chasseur perdu voit un personnage masqué assis sur un rocher, avec des loups protecteurs. Au centre : un objet magique (la statuette). Tableau exposé chez un commerce local (descendant du chasseur).
-4. **[Voyante] La voyante nulle** — PNJ qui donne un indice énigmatique interprétable comme "détruire l'objet". En réalité juste une mauvaise voyante.
+3. **[Tableau] Le chasseur et les loups** — Un chasseur perdu voit une figure masquée debout près d'un rocher plat sur lequel repose la statuette, avec des loups protecteurs assis autour. Tableau exposé chez un commerce local (descendant du chasseur). Spec visuelle : `props_slow/slow_04`.
+4. **[Voyante] La voyante nulle** — ✅ **Document retenu** : transcription de séance dans les affaires d'Ivan (`documents_ivan/05`) — donne un indice interprétable comme « détruire l'objet », en réalité juste une mauvaise voyante.
 
 ### Questions
 
-- ❓ Quel document va à quelle équipe / quel jour ?
+- ✅ **Mappé** : tous les documents d'Ivan sont dans sa pochette (arc tranquille, samedi) ; le tableau et l'affiche intacte sont au café-librairie ; les amorces des arcs Seb/Rémi se trouvent au gîte au lancement.
 - ✅ Le tableau est chez le café/librairie du village — accord du commerçant obtenu (visite terrain). C'est aussi un possible point de chute pour l'équipe tranquille.
-- ❓ La voyante est-elle un PNJ physique ou une interaction à distance ? — Pas de lieu identifié au village (visite : OT fermé, commerces = pharmacie, café/librairie, boulangerie). Options : PNJ au gîte (à caster) ou document — une transcription de séance retrouvée dans les affaires d'Ivan remplit la même fonction sans acteur.
+- ✅ **Voyante = document** — pas de lieu ni d'acteur nécessaire au village ; la transcription de séance dans la pochette d'Ivan remplit la même fonction (cf. `documents_ivan/05`).
 
 ## Mécaniques d'énigmes identifiées
 
@@ -118,7 +118,7 @@ Liste des mécaniques d'énigmes mentionnées dans excalidraw et archived, à r�
 - **Triangulation de photos de piège photographique** — Indices sur place (traces landart, mobile Blairwitch), carte, trésor caché
 - **Vieux calendrier sans changement d'heure** — Pour trouver le moment du rituel
 - **Descriptions de trajets (écrit de l'an 1000)** — Texte ancien décrivant un trajet, à retrouver sur une carte
-- **Fouille du gîte** — Résolution d'énigmes au gîte (14h-14h30 le samedi)
+- **Fouille du gîte** — Résolution d'énigmes au gîte (lancement 14h, chambre d'Ivan 14h30–15h15 pour le groupe tranquille)
 - **Échange avec PNJ** — Les PNJ ne sont pas généreux, il faut résoudre une énigme ou accomplir une tâche pour obtenir un document
 
 ### Questions

@@ -45,13 +45,12 @@ Les défilés, appelés Perchtenläufe, voient des groupes masqués parcourir le
 
 ### Samedi 24/10 après-midi (14h-18h)
 
-- 14h-14h30 : au gîte (fouille, résolutions d’énigmes)
-- 14h30-14h40 : formation des groupes
-- 14h40-17h30 : sur le terrain
-    - Groupe 1 : terrain
-    - Groupe 2 : terrain+
-    - Groupe 3 : terrain++
-- 17h30-18h : final de la journée au gîte
+- 14h : lancement commun au gîte (email imprimé de l'enfant d'Ivan + affiche déchirée — 100 % physique)
+- ~14h15-14h30 : séparation des 3 groupes, chacun sur son arc autonome (pas de communication entre équipes)
+    - Groupe tranquille (Batiste) : chambre d'Ivan au gîte 14h30-15h15 → boucle village → site au gîte
+    - Groupe sportif (Seb) : parcours pièges photo + énigmes animaux (~200 m D+) → tenues/masques
+    - Groupe rando (Rémi) : trace du fugitif à rebours → grotte + statuette
+- ~17h30 : regroupement au gîte → destruction de la statuette
 
 ### Samedi soir 18h
 
@@ -60,7 +59,7 @@ Twist : ah mais ils sont pas méchants, on va devoir faire le rituel à leur pla
 ### Dimanche 25/10 matin (tout terminé avant midi — des cousins partent vers 12h)
 
 - 9h30-10h : remise en situation pendant le petit déjeuner (découverte des manifestations nocturnes)
-- 10h-10h45 : trois groupes fonctionnels — « lieu » (cartes), « arts plastiques » (nouvelle statuette), « rituel » (chorégraphie, costumes)
+- 10h-10h45 : trois groupes fonctionnels — « terrain » (cartes/lieu), « statuette » (nouvelle statuette), « danse » (chorégraphie, costumes)
 - ~10h45 : départ en voiture vers le lieu du rituel (champ repéré, ~10 min de route + 1 min à pied)
 - ~11h-11h30 : le rituel, autour de l'arbre et du foyer du champ
 - retour au gîte et clôture avant midi
@@ -92,15 +91,15 @@ Cartes à utiliser :
 
 ### Autres énigmes
 
-- Geoguesser avec photo : une équipe a la photo et guide une équipe sur le terrain. Point de repère, ligne de crête.
-- Triangulation de photo de piège photographique
+- ~~Geoguesser avec photo~~ — abandonné (11/10 : pas de communication entre équipes le samedi)
+- Triangulation de photo de piège photographique (arc sportif de Seb)
 - Descriptions de trajets qui mènent à des endroits qu’on retrouve sur une carte (écrit de l’an 1000)
 - 3 lieux, 3 énigmes
 
 ## Personnages
 
 - **Ivan Beaulieu** — photographe animalier. Il a photographié les êtres masqués, s'est convaincu de leur malveillance et a créé le site web (façade animalière → complot, partie publique + partie secrète). Mort il y a un an (décision 19/10) dans un vrai accident de voiture, de nuit en montagne, en allant les chercher : l'article de journal mentionne des personnes en tenues étranges percutées — peut-être les derniers Perchtenlauf (déductible, jamais énoncé).
-- **Pas de PNJ « enfant d'Ivan »** (validé en équipe, réversible) — son rôle (infodump + code de la partie secrète du site) passe par le carnet d'Ivan trouvé dans sa chambre le samedi. Seule trace de l'enfant : un **message unique** au lancement (email ou appel annonçant l'annulation de la commande faite sur le site, cf. `deroule.md`), sans réponse possible — ce n'est pas un PNJ.
+- **Pas de PNJ « enfant d'Ivan »** (validé en équipe, réversible) — son rôle (infodump + code de la partie secrète du site) passe par la pochette d'Ivan trouvée dans sa chambre le samedi. Seule trace de l'enfant : un **message unique** au lancement (email ou appel annonçant l'annulation de la commande faite sur le site, cf. `deroule.md`), sans réponse possible — ce n'est pas un PNJ.
 - **La voyante** — donne un indice énigmatique tentant à interpréter comme « détruire l'objet ». En réalité c'est juste une mauvaise voyante, ni gentille ni méchante. Forme de l'interaction à trancher : pas de lieu au village (cf. `deroule.md`).
 - **Le fugitif** — Perchtenlauf du cycle précédent (~1886), convaincu par les « voix de la forêt » que la statuette causait les cycles : il l'a volée, a fui, a été rattrapé ; les Perchten l'ont replacée dans la grotte. Son récit structure l'arc rando (cf. `feuilles_rando.md`). Son sort n'est pas raconté ; la nature des voix reste à trancher — sont-ce les mêmes échos du passé que les manifestations nocturnes ? (cf. `lore_precisions.md`).
 - **Mécanique PNJ** : les PNJ ne sont pas généreux — il faut résoudre une énigme ou accomplir une tâche pour obtenir un document ou une information
@@ -135,27 +134,20 @@ Cartes à utiliser :
 
 ### Équipe tranquille (Batiste) — dans la chapelle en Vercors
 
-Ivan : enquête sur les cultistes. Objectif : réunir des infos sur ce qu’il se passe (triangle du Vercors + cultistes).
+Ivan : enquête sur les cultistes. Objectif : réunir des infos sur ce qu’il se passe (triangle du Vercors + cultistes). Arc autonome : l'équipe rejoue l'enquête d'Ivan (chambre → pochette → boucle village → site).
 
 **Activités du samedi** :
-- Aller chercher une info chez un commerçant / l’office du tourisme
-- Consulter le site web de Ivan Beaulieu (partie publique)
-- Transmettre des infos aux équipes mobiles, échanger des indices
-- Géoguesser : une équipe a la photo du lieu et guide une équipe mobile sur le terrain
+- Identifier puis fouiller la chambre d'Ivan au gîte (livre d'or 2011 + pochette d'Ivan + loupe)
+- Boucle village : café-librairie (affiche intacte, tableau du chasseur à la loupe), cimetière, fontaine, plantes
+- Consulter le site web d'Ivan au gîte (partie publique + zone secrète déverrouillée par les 4 clés)
 
 ### Équipe sportive (Seb) — équipe des moyens
 
-Créer les conditions de la destruction de la statuette : objet ? + objets qui serviront au rituel ? Trouver différents objets sans savoir lequel va servir à la destruction de la statuette + partie des costumes.
+Utilise les photos de pièges photo d'Ivan comme éléments de localisation et résout des énigmes autour des animaux (~200 m D+) → trouve et ramène **toutes les tenues et masques des Perchten** (élément requis pour agir sur la statuette selon le texte du fugitif).
 
 ### Équipe rando (Rémi) — équipe des forts
 
-Trouvent la grotte avec les objets disparus dans le temps et la statuette.
-
-Triangulation de photo de piège photographique :
-- Indice sur place : traces landart, mobile Blairwitch
-- Carte
-- Trésor caché : outils ésotériques et morceaux de costumes
-- Photos des pièges photos
+Trouvent la grotte avec les objets disparus dans le temps et la statuette, en remontant la trace du fugitif à rebours (feuilles trouvées à chaque étape, dont la carte de Cassini).
 
 Objectifs :
 - Trouver le lieu + préparer le lieu (landart ?)
@@ -187,7 +179,7 @@ Un enfant racontait partout dans le village avoir trouvé la grotte dorée dans 
 
 ### [Tableau] Le chasseur et les loups
 
-Perdu dans la neige et la brume un matin d'hiver, un chasseur raconte avoir vu un drôle de type manger assis sur un rocher, tranquille, alors que des loups le regardaient paisibles, comme s'ils le protégeaient. Au milieu de la scène se trouve un objet mystérieux, apparemment magique [la statuette à détruire]. Troublé, il décida de la peindre en rentrant, et le tableau est désormais exposé chez un commerce local (descendant du chasseur).
+Perdu dans la neige et la brume un matin d'hiver, un chasseur raconte avoir vu une silhouette vêtue de peaux et masquée debout près d'un rocher plat, alors que des loups assis la regardaient paisibles, comme s'ils la protégeaient. Posée sur le rocher : une statuette mystérieuse, apparemment magique [la statuette à détruire]. Troublé, il décida de la peindre en rentrant, et le tableau est désormais exposé chez un commerce local (descendant du chasseur).
 
 → Montre la statuette en contexte avec les Perchten. Les loups protègent les figures masquées (les animaux ne sont pas des menaces). Le tableau est un indice de jeu (à récupérer chez un commerce local).
 
@@ -200,13 +192,13 @@ Les joueurs vont faire appel à une voyante, qui leur donne un indice énigmatiq
 ## Site web
 
 - Créé par Ivan Beaulieu
-- **Partie publique** (jour 1) : photos animalières qui virent vers la théorie du complot
-- **Partie secrète** (jour 2) : nécessite un code ou une URL cachée sans lien — le code est dans le carnet d'Ivan (fouille du samedi)
+- **Partie publique** : photos animalières qui virent vers la théorie du complot (consultée samedi en fin d'après-midi)
+- **Partie secrète** (`/archives`) : déverrouillée dès le samedi par les 4 clés de l'aide-mémoire de la pochette d'Ivan — ses contenus (sons, cartes) n'ont de sens que dimanche
 
 ## Objectifs communs aux trois équipes [TODO: affiner]
 
 - Trouver le repère des cultistes (grotte ?)
-- Entrer en contact avec la fille/fils de Ivan Beaulieu
+- ~~Entrer en contact avec la fille/fils d'Ivan~~ — remplacé : un message unique de l'enfant d'Ivan lance le jeu (email imprimé, commande annulée), sans réponse possible
 - Détruire la statuette → message explicatif dedans
 
 ## Que sont devenus les cultistes ?

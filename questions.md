@@ -12,9 +12,9 @@ Réponses à fournir quand vous passez par là — aucune ne nous bloque, les r�
 
 ## Lore / props
 
-6. **Prénom de l'enfant d'Ivan** pour la signature de l'email (« C. Beaulieu » en attendant)
-7. **Année de naissance d'Ivan** (bio : né en Picardie, études « années 1970 » → ~1950 ?) pour son site et son carnet
-8. **Date exacte de l'accident** (décision : « il y a un an » → octobre 2025 ; la veille du changement d'heure ?)
+6. ~~**Prénom de l'enfant d'Ivan**~~ → **Camille** retenu dans `props_slow/slow_01` (épicène, volontaire) — à valider par le groupe
+7. ~~**Année de naissance d'Ivan**~~ → la coupure de presse (`documents_ivan/06`) fixe **73 ans en oct. 2025 → né ~1952**. Bio à aligner sur cette valeur
+8. ~~**Date exacte de l'accident**~~ → fixée : **nuit du samedi 18 au dimanche 19 octobre 2025** (coupure `06`, carnet `01`, site) — une semaine avant le changement d'heure
 9. **La chambre d'Ivan existe-t-elle vraiment** ou on en choisit une au hasard à l'arrivée ? (prop : photo « vue depuis sa fenêtre » à fabriquer une fois la chambre choisie — à faire sur place à l'arrivée vendredi)
 10. **Livre d'or 2011** : format/état exact (album photo ?) pour y glisser la fausse page/photo d'Ivan
 
@@ -27,15 +27,15 @@ Réponses à fournir quand vous passez par là — aucune ne nous bloque, les r�
 
 ## Équipe (points de synchro Samedi)
 
-11. **Seb & Rémi — Lancement de 14h00 et séparation des 3 groupes** : leur va-t-il que le lancement (email de l'enfant d'Ivan annulant la sortie car Ivan est mort il y a 1 an) contienne 3 « pistes de départ » laissées par Ivan (chambre/village pour Batiste, carte des pièges photo à ~200 m D+ pour Seb, 1re feuille du fugitif pour Rémi) ? Sinon, comment ont-ils prévu que leurs joueurs trouvent leur tout premier indice à 14h15 ?
-12. **Seb — Parcours Sportif (~200 m D+)** :
+18. **Seb & Rémi — Lancement de 14h00 et séparation des 3 groupes** : leur va-t-il que le lancement (email de l'enfant d'Ivan annulant la sortie car Ivan est mort il y a 1 an) contienne 3 « pistes de départ » laissées par Ivan (chambre/village pour Batiste, carte des pièges photo à ~200 m D+ pour Seb, 1re feuille du fugitif pour Rémi) ? Sinon, comment ont-ils prévu que leurs joueurs trouvent leur tout premier indice à 14h15 ?
+19. **Seb — Parcours Sportif (~200 m D+)** :
     - Confirmes-tu que ton équipe ramène **toutes les tenues/masques des Perchten** (et que la grotte de Rémi contient la statuette + les objets disparus) ?
     - Dans la cache finale des tenues, y a-t-il aussi un indice qui pousse ton équipe à vouloir **détruire la statuette** à 17h30 (ou un protocole sur « comment la détruire avec les masques ») ?
-13. **Rémi — Parcours Rando** :
+20. **Rémi — Parcours Rando** :
     - Quel contenant pour la 1re feuille du fugitif au départ du gîte (on n'a pas de bambou pour l'instant : étui/tube carton, enveloppe d'Ivan, autre) ?
     - Trancher la date du fugitif (`1746` dans `feuilles_rando.md` vs `~1886` dans `lore.md` — les deux marchent avec le cycle de 140 ans : 1746 = 2 cycles avant 2026, 1886 = 1 cycle avant 2026).
     - As-tu les 3 points du triangle / la carte que ton équipe ramène pour la superposition du dimanche matin ?
-14. **Mareva** : les 6 points de `rituel/checklist_production.md` §1 + texte exact du message caché à l'intérieur de la statuette.
+21. **Mareva** : les 6 points de `rituel/checklist_production.md` §1 + texte exact du message caché à l'intérieur de la statuette.
 
 ## Draft message
 

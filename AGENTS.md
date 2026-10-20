@@ -32,8 +32,12 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 - `reperage.md` — checklist et retours terrain
 - `retroplanning.md` — plan de travail à J-20
 - `TODO.md` — état du projet, priorités, tâches
+- `questions.md` — questions en suspens pour l'équipe + draft du message de synchro
+- `documents_ivan/` — contenu de la pochette d'Ivan (7 pièces + index) — arc tranquille
+- `props_slow/` — props du lancement et de l'arc tranquille
 - `rituel/` — conception complète du rituel du dimanche (structure, partition des 12 sons, énigmes, checklist production)
 - `ivan/` — biographie et photos d'Ivan Beaulieu (assets pour le site web)
+- `methode_coherence.md` + `audit_coherence_2026-10-20.md` — méthode et rapport de cohérence
 - `timeline_*.md` — chronologies de vérification
 - `validation_*.md` — points soumis à validation d'équipe, datés
 - `ref_*.md` — références non vivantes
@@ -45,10 +49,10 @@ Des disparitions étranges ont lieu dans le Vercors depuis l'Antiquité. Le « T
 
 **Points clés de l'intrigue** :
 
-- Ivan Beaulieu, photographe animalier, a capturé des images d'êtres masqués dans la forêt avant de disparaître. Il est convaincu qu'ils sont malveillants
+- Ivan Beaulieu, photographe animalier, a capturé des images d'êtres masqués dans la forêt avant de mourir dans un accident de la route (oct. 2025, un an avant le jeu). Il est convaincu qu'ils sont malveillants
 - Les joueurs découvrent que ces êtres (liés au folklore Perchten) ne sont pas dangereux mais protègent contre les phénomènes étranges
 - Un rituel de danse avec costumes spécifiques permet de désamorcer le « triangle » pour les 140 prochaines années (selon la qualité du rituel, les effets peuvent être plus ou moins atténués, voire le triangle complètement neutralisé)
-- Le rituel doit être effectué lors du changement d'heure d'octobre (+/- 1 jour)
+- Le rituel doit être effectué le dimanche du changement d'heure d'octobre, avant 11h30 à la montre (10h au soleil + corrections, cf. `props_slow/slow_05`)
 
 **Progression narrative (mécanisme de révélation)** :
 

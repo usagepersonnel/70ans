@@ -36,13 +36,13 @@ Mais pour que le calcul soit un plaisir ludique faisable en 5 minutes par toute 
 > Elle fut tenue par nos aïeux en l'an **1606**, puis en l'an **1746**, et se tiendra de nouveau en cette année **1886**.
 >
 > **De l'heure juste où le cercle doit être refermé :**
-> Les Trois Veilleurs doivent avoir achevé leur ronde **au dixième coup du cadran solaire du bourg (10 h 00 au soleil des anciens)** — ni après, car l'ombre du roc aurait tourné et la brèche demeurerait ouverte pour un siècle. »
+> Les Trois Veilleurs doivent avoir achevé leur ronde **au dixième coup du cadran des anciens (10 h 00, heure du soleil)** — ni après, car l'ombre du roc aurait tourné et la brèche demeurerait ouverte jusqu'à la prochaine Veille. »
 >
 > ---
 >
 > **Table de concordance des horloges modernes (ajoutée par l'horloger de Die, 1976) :**
 >
-> *Attention ! Nos montres modernes ne marquent plus l'heure du cadran solaire de 1886. Pour convertir une heure du soleil des anciens en heure de votre montre un dimanche de passage à l'heure d'hiver :*
+> *Attention ! Nos montres modernes ne marquent plus l'heure du soleil de 1886. Pour convertir une heure du soleil des anciens en heure de votre montre un dimanche de passage à l'heure d'hiver :*
 >
 > 1. **Règle du Fuseau de Paris (+ 1 heure) :** Depuis l'adoption de l'heure légale d'hiver (UTC+1), nos montres avancent d'**1 heure pleine (60 minutes)** sur le méridien.
 > 2. **Règle de la Reculée d'Octobre (+ 1 heure la veille, − 1 heure dans la nuit) :** Dans la nuit du samedi au dimanche d'octobre, les montres reculent d'une heure à 3 heures du matin — on est donc bien en **heure d'hiver** le dimanche matin.
@@ -55,7 +55,7 @@ Mais pour que le calcul soit un plaisir ludique faisable en 5 minutes par toute 
 > *« J'ai retrouvé ce feuillet d'almanach de 1886 plié dans un vieux paroissien de La Chapelle.*
 > *Faisons le calcul pour le prochain cycle :*
 > - *1606 (+140) → 1746 (+140) → 1886 (+140) → **2026** (c'est donc bien **un seul cycle** de 140 ans après 1886).*
-> - *Heure limite au cadran solaire des anciens : **10 h 00**.*
+> - *Heure limite, heure du soleil des anciens : **10 h 00**.*
 > - *On applique la Règle 1 (+ 1 h 00 d'heure légale d'hiver) + la Règle 3 (+ 30 min pour 1 cycle écoulé depuis 1886) :*
 >
 > **ÉCHÉANCE ABSOLUE DU DIMANCHE 25 OCTOBRE 2026 : `[ 11 h 30 ]` À LA MONTRE.**

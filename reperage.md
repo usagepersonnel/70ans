@@ -16,7 +16,7 @@ Ces trois points sont ceux où le terrain décide du design, pas l'inverse.
 
 Terrain principal de l'équipe tranquille : fouille le samedi, manifestations la nuit, travail en groupes le dimanche.
 
-### Fouille (samedi 14h–14h30)
+### Fouille (samedi, équipe tranquille 14h30–15h15)
 
 - [x] Repérer la chambre qui jouera le rôle de **chambre d'Ivan** — photo + cachettes plausibles (sous matelas, derrière cadre, bibliothèque, fond de tiroir) ✅ De nombreuses chambes identiques, n'importe laquelle fera l'affaire.
 - [x] Comment les joueurs découvrent-ils *quelle* chambre ? Chercher un indice naturel (plan du gîte, nom des chambres, livre d'or) ✅ Il existe un livre d'or datant de 2011, surtout des photos. A part ça pas de livre d'or. Donc à voir si c'est exploitable. Sinon un autre indice est à trouver.
@@ -25,7 +25,7 @@ Terrain principal de l'équipe tranquille : fouille le samedi, manifestations la
 
 ### Manifestations nocturnes (nuit samedi → dimanche)
 
-Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du dimanche — douches → « arts plastiques », petit-déj → « rituel », voitures → « lieu ».
+Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du dimanche — miroirs → « statuette », petit-déj → « danse », voitures → « terrain ».
 
 - [x] **Les douches** — la buée révèle un texte à l'encre invisible (les symboles de la statuette). ✅ Douches en plastique → utiliser les miroirs et carreaux de l'espace commun à la place. Fenêtre dans l'espace principal, pas dans chaque douche.
 - [x] **Cuisine / coin petit-déj** — des fragments (paroles, rythme, gestes) dans les céréales et sous les tasses, qui s'assemblent. ✅ Plein d'opportunités sur place.
@@ -33,9 +33,9 @@ Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du
 
 ### Dimanche
 
-- [x] Espaces de travail pour les 3 groupes fonctionnels en parallèle : table pour les arts plastiques (fabriquer la statuette), espace pour répéter la chorégraphie, coin calme pour le groupe « lieu » avec les cartes ✅ Il y a tout ce qu'il faut
-- [x] **Point d'arrivée du PNJ** — ✅ Sans objet : le PNJ « enfant d'Ivan » est supprimé (validé en équipe) ; le carnet d'Ivan le remplace.
-- [x] Dans la chambre d'Ivan : où cacher le carnet d'Ivan (qui porte désormais l'infodump et le code du site secret, le PNJ étant supprimé) ? ✅ A mon avis on devrait cacher sous un lit ou dans un placard un livret, carnet, ou petite valise que Ivan aurait oublié
+- [x] Espaces de travail pour les 3 groupes fonctionnels en parallèle : table pour fabriquer la statuette (« statuette »), espace pour répéter la chorégraphie (« danse »), coin calme pour le groupe « terrain » avec les cartes ✅ Il y a tout ce qu'il faut
+- [x] **Point d'arrivée du PNJ** — ✅ Sans objet : le PNJ « enfant d'Ivan » est supprimé (validé en équipe) ; la pochette d'Ivan le remplace.
+- [x] Dans la chambre d'Ivan : où cacher la pochette d'Ivan (qui porte désormais l'infodump et le code du site secret, le PNJ étant supprimé) ? ✅ Une chemise cartonnée à élastiques pleine de feuilles volantes qu'Ivan aurait oubliée (sous un lit ou dans un placard) — cf. `documents_ivan/00`
 
 ### À demander au propriétaire
 
