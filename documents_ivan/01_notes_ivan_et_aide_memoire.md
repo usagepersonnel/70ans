@@ -10,7 +10,7 @@
 > *Dossier « La Chapelle — Veilles d'octobre » (pièces d'archives & doubles de sécurité)*
 >
 > *(Petit mot sur post-it ajouté sur le dessus par les propriétaires du gîte après octobre 2025 :*
-> *« Affaires retrouvées dans la chambre d'Ivan après son accident + article du Dauphiné. À garder précieusement de côté pour sa fille/son fils Camille quand iel passera au gîte. »)*
+> *« Affaires retrouvées dans la chambre d'Ivan après son accident + article du Dauphiné. À garder précieusement de côté pour Camille, à son prochain passage. »)*
 
 ---
 

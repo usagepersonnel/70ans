@@ -11,7 +11,7 @@ Application de `methode_coherence.md` sur `70ans` + `ivan-beaulieu-photos`.
 ## 🟠 Arbitrages à trancher (avec l'équipe, pas unilatéralement)
 
 ### A. Date du fugitif : 1746 vs ~1886
-- `feuilles_rando.md` : « 9 septembre 1746 » partout ; `lore.md` l.105 + `timeline_lore.md` l.24,58 : « fin du cycle précédent (~1886) » ; `questions.md` #13 pose déjà la question à Rémi.
+- `feuilles_rando.md` : « 9 septembre 1746 » partout ; `lore.md` l.105 + `timeline_lore.md` l.24,58 : « fin du cycle précédent (~1886) » ; `questions.md` #20 pose déjà la question à Rémi.
 - **Impact collatéral trouvé** : le site code déjà « vers 1746 » (`disparitions.astro` l.12) — si Rémi choisit 1886, il faut modifier le site.
 - **Recommandation** : 1746. Chaque année a alors un rôle propre : 1746 = fugitif (2 cycles avant), 1886 = Marcellin + almanach + tableau (1 cycle avant), et les apparitions 1894/1944 = patrouilles hors-cycle (point H). Si 1886 : réécrire les dates des feuilles + déplacer la lettre de Marcellin.
 
@@ -21,7 +21,7 @@ Application de `methode_coherence.md` sur `70ans` + `ivan-beaulieu-photos`.
 
 ### C. Destruction de la statuette : marteau vs « rituel de purification »
 - `feuilles_rando.md` (Scialet→Refuge) : « il faut un **rituel de purification** pour la détruire » ; `enigmes.md` A3 ajoute « (canon : la statuette ne se brise pas à coups de marteau) » — pourtant les joueurs la brisent physiquement à ~18h.
-- Pont possible déjà esquissé : « les masques sont essentiels au rituel » (Col de Carri) → un joueur masqué la brise. Mais **nulle part le mécanisme exact n'est écrit** : la destruction physique marche-t-elle seule ? le « rituel de purification » était-il une croyance erronée du fugitif ? → à trancher dans la réponse de Seb/Rémi (déjà dans `questions.md` #12).
+- Pont possible déjà esquissé : « les masques sont essentiels au rituel » (Col de Carri) → un joueur masqué la brise. Mais **nulle part le mécanisme exact n'est écrit** : la destruction physique marche-t-elle seule ? le « rituel de purification » était-il une croyance erronée du fugitif ? → à trancher dans la réponse de Seb/Rémi (déjà dans `questions.md` #19).
 
 ### D. Statuette « immuable » (réapparition magique) vs « replacée par les Perchten »
 - `enigmes.md` l.60 propose *« la statuette réapparaît toujours dans la grotte »* ; le canon validé (02/10) dit : les Perchten ont rattrapé le fugitif et **replacé** la statuette (`lore_precisions.md` l.53).
@@ -75,6 +75,8 @@ Application de `methode_coherence.md` sur `70ans` + `ivan-beaulieu-photos`.
 ---
 
 ## 🟢 Corrections mécaniques (doc rot — appliquer directement)
+
+> **État d'application (20/10, commit local)** : tout est appliqué **sauf** les items 56–60 (repo `ivan-beaulieu-photos` → PR séparée, jamais de push direct sur `main`), l'item 38 (dates du rétroplanning laissées indicatives), l'item 48 (années sautées du tableau : acceptable tel quel) et l'item 55 (timestamps des photos WhatsApp : vigilance de production, pas une correction). Items 61–62 (terminologie « carnet »/« Slow ») appliqués aux endroits où la précision compte.
 
 ### `lore.md` (le plus périmé — TODO #2 en cours)
 1. l.48–50 : planning samedi « 14h–14h30 fouille → 14h30–14h40 formation → 14h40–17h30 terrain » → remplacer par : 14h lancement commun, ~14h15–14h30 séparation des 3 arcs autonomes, 17h30 regroupement.
@@ -153,7 +155,7 @@ Application de `methode_coherence.md` sur `70ans` + `ivan-beaulieu-photos`.
 50. `slow_05` : « cadran solaire du bourg » + « pour un siècle » → cf. point M.
 
 ### `documents_ivan/04`
-51. Marcellin : 9 ans en 1886 → ~44 ans en 1921 avec des « petits-enfants » — serré mais possible ; option douce : 11–12 ans ou lettre datée ~1931 (🔵).
+51. Marcellin : 9 ans en 1886 → ~44 ans en 1921 avec des « petits-enfants » — serré mais possible ; ✅ **appliqué** : lettre redatée au 3 novembre **1931** (54 ans, petits-enfants plausibles). Propagé dans `methode_coherence.md`.
 
 ### `documents_ivan/06`
 52. Post-it des hôtes : « quand **iel** passera » — le pronom inclusif peut jurer sur un prop réaliste → « quand elle/il passera » ou « pour la famille » (🔵, choix de style).
@@ -189,7 +191,7 @@ Application de `methode_coherence.md` sur `70ans` + `ivan-beaulieu-photos`.
 - « Couvre-feu » oct. 2020 dans `02` : détail réel exact ✅
 - Les douches → miroirs : déjà propagé dans `rituel/` et `reperage.md` ; restent des traces dans `lore.md`/`timeline_lore.md`/`deroule.md` (listées ci-dessus)
 - « Ma carte du triangle est dans le carnet que je garde sur moi » (`disparitions.astro`) : justifie élégamment l'absence de carte du triangle dans la pochette ✅
-- Hannibal ~218 av. J.-C., procès « Automne 1466 vigile de la Toussaint », lettre « fin oct. 1886 » écrite 3 nov. 1921 : datations internes cohérentes ✅
+- Hannibal ~218 av. J.-C., procès « Automne 1466 vigile de la Toussaint », lettre « fin oct. 1886 » écrite 3 nov. 1931 : datations internes cohérentes ✅
 
 ## Reste en dehors du périmètre (volontaire)
 
