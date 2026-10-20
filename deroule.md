@@ -8,9 +8,9 @@ Questions de répartition des équipes, d'énigmes et de mécaniques. Le lore es
 
 D'après excalidraw, les 3 équipes ont des buts distincts le samedi :
 
-- **Équipe tranquille (Batiste) — chapelle/gîte/village** : enquêter sur les cultistes et le triangle du Vercors. Enquête autonome : fouille du gîte, site web d'Ivan, commerçant, boucle village.
-- **Équipe sportive (Seb) — terrain** : créer les conditions de la destruction de la statuette. Trouver différents objets sans savoir lequel servira à la destruction + trouver une partie des costumes.
-- **Équipe rando (Rémi) — terrain++** : trouver la grotte avec les objets disparus à travers les époques + la statuette. Triangulation de photos de piège photo, trésor caché (outils ésotériques + morceaux de costumes).
+- **Équipe tranquille (Batiste) — chapelle/gîte/village** : enquêter sur les cultistes et le triangle du Vercors. Enquête autonome : fouille du gîte, carnet d'Ivan, boucle village (café, cimetière, fontaine, plantes), site web d'Ivan et zone secrète.
+- **Équipe sportive (Seb) — terrain (~200 m D+)** : énigmes autour des animaux en utilisant les **pièges photo d'Ivan** comme éléments de localisation → trouver et ramener **toutes les tenues/masques des Perchten** (qui sont l'élément requis pour le rituel sur la statuette selon le texte du fugitif).
+- **Équipe rando (Rémi) — terrain++** : remonter la trace du fugitif de 1746 à rebours jusqu'à la **Grotte des Ferrières** → trouver les objets disparus à travers les époques + **la statuette** + la carte de Cassini.
 
 ✅ **Validé en équipe (11/10)** : pas de communication entre équipes le samedi — chacune fait son truc, moins d'aléas. Chaque arc est donc autonome ; le géoguesser et les talkies-walkies sont abandonnés.
 

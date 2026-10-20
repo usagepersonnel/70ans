@@ -55,7 +55,7 @@ Fil : les joueurs remontent la journée du fugitif (9 septembre 1746) à l'enver
 | A4 | Refuge de Crobache | Sacoche cuir + vieux livre + cryptex | Trouver la cabane, ouvrir le cryptex | ❓ Code du cryptex — où ? | Texte brouillard + voix qui guident |
 | A5 | Plaine de Fauchier | Cryptex : code alphabétique + carte de Cassini | Trouver/décoder le code | Indice toponyme « Fauchier » | **Carte de Cassini** (1ère pièce de la superposition du dimanche ?) |
 | A6 | Belvédère 1355 m | Corne à poudre + gourde en peau | Trouver la trouée | Description du lieu dans le texte précédent | La statuette décrite : « matériau inconnu, très légère » — indice de défiance physique |
-| A7 | Grotte des Ferrières | — | La « Grotte des Maléfices » : objets disparus + trésor (outils ésotériques, morceaux de costumes) + **la statuette** + photos de piège photo pour la triangulation | Chaîne complète | Retour au gîte avec la statuette |
+| A7 | Grotte des Ferrières | — | La « Grotte des Maléfices » : objets disparus à travers les époques + **la statuette** | Chaîne complète | Retour au gîte avec la statuette |
 
 ❓ **Cohérence** : le fugitif dit cacher la statuette à la source (A1), mais les joueurs la trouvent dans la grotte (A7). Résolution candidate : *la statuette est « immuable » — elle réapparaît toujours dans la grotte* (déjà suggéré par le texte A6/A1 : « seule la statuette semble immuable »). Ça explique aussi pourquoi les cycles se répètent.
 
@@ -67,33 +67,36 @@ Déjà détaillé dans `deroule.md` §« Arc détaillé » — résumé en mappi
 
 | # | Étape | Difficulté | Déblocage | Produit |
 |---|---|---|---|---|
-| B0 | **14h00 — Lancement au gîte** (100 % physique, zéro téléphone) | Email imprimé de l'enfant d'Ivan (commande annulée, mort il y a 1 an, pas d'URL dedans) + affiche *« Les Habitants de la nuit »* dont **le bas (coordonnées / URL du site) est déchiré** | L'email mentionne qu'Ivan logeait au gîte chaque automne depuis 2011 ; l'affiche pointe le café-librairie | Deux pistes physiques immédiates : **fouiller le gîte** (où dormait-il ?) et **aller au café** (trouver ses coordonnées / l'affiche intacte) |
-| B1 | **14h30 — La chambre d'Ivan** (gîte) | Quelle chambre parmi des identiques ? | ✅ Livre d'or 2011 : fausse page/photo d'Ivan — *« toujours la même chambre, celle d'où l'on voit [repère extérieur] »* + animal par chambre, **la sienne est décollée/effacée** (déduction) | Accès à sa chambre |
-| B2 | **14h45 — La fouille** (gîte) | Trouver ce qu'Ivan a laissé | Carnet / petite valise cachée sous un lit ou placard | **Carnet d'Ivan** (procès, lettre, article « trois piétons », ❓ transcription voyante, aide-mémoire des 4 clés, mention du dossier privé) + **la loupe** + **le vieux calendrier** |
-| B3 | **15h15 — Boucle village** (3 stops éclair + café au chaud) | Récolter les 4 clés + l'URL | **Café** : affiche intacte (URL + QR), tableau inspecté **à la loupe** (clé 2) ; **fontaine à l'ours** (clé 1) ; **cimetière** : tombe sans inscription (clé 3) ; **étiquettes botaniques** : « Barbe de bouc » (clé 4) | URL + les 4 clés, et la preuve terrain que le carnet d'Ivan disait vrai |
-| B4 | **16h15 — Retour au chaud : site + zone secrète** | Trouver et déverrouiller `🔒 Archives` | Onglet visible sur le site + aide-mémoire d'Ivan : **4 champs = 4 clés du village** (tolérance syntaxe, ✅ par champ) — logique in-fiction : clés locales + personnelles pour mémoire, inaccessibles à un inconnu | Zone secrète ouverte : pièges horodatés `00:03 / 06:12 / 18:47`, 3 pistes audio, carnet d'écoute → conviction : la statuette est dangereuse |
+| B0 | **14h00 — Lancement au gîte** (100 % physique, zéro téléphone) | Email imprimé de l'enfant d'Ivan (`props_slow/slow_01_lancement_email_enfant.md`) + affiche *« Les Habitants de la nuit »* dont **le bas (URL) est déchiré** (`props_slow/slow_02_affiche_habitants_de_la_nuit.md`) | L'email mentionne qu'Ivan logeait au gîte chaque automne depuis 2011 et propose 3 parcours ; l'affiche pointe le café-librairie | Séparation naturelle des 3 groupes + deux pistes physiques immédiates pour les Slow : **fouiller le gîte** et **aller au café** |
+| B1 | **14h30 — La chambre d'Ivan** (gîte) | Quelle chambre parmi des identiques ? | ✅ Livre d'or 2011 (`props_slow/slow_03_livre_dor_2011_chambre.md`) : photo « vue depuis ma fenêtre » + étiquette de la **Chouette** décollée par Ivan sur sa porte (et collée dans son carnet) | Accès à sa chambre + ancrage de l'animal Chouette pour le groupe Slow |
+| B2 | **14h45 — La fouille** (gîte) | Trouver ce qu'Ivan a laissé | Carnet / petite valise cachée sous un lit ou placard | **Carnet d'Ivan** (`documents_ivan/`) + **la loupe** + **le vieux calendrier** (`props_slow/slow_05_enigme_vieux_calendrier.md`) |
+| B3 | **15h15 — Boucle village** (3 stops éclair + café au chaud) | Récolter les 4 clés + l'URL | **Café** : affiche intacte (`slow_02`), tableau du chasseur inspecté **à la loupe** → mot `VEILLE` (`props_slow/slow_04_tableau_chasseur_et_loupe.md`, clé 2) ; **fontaine à l'ours** (clé 1) ; **cimetière** : tombe sans inscription (clé 3) ; **étiquettes botaniques** : « Barbe de bouc » (clé 4) | URL + les 4 clés, et la preuve terrain que le carnet d'Ivan disait vrai |
+| B4 | **16h15 — Retour au chaud : site + zone secrète + vieux calendrier** | Déverrouiller `🔒 Archives` + calculer l'échéance sur le vieux calendrier | 4 champs sur le site = 4 clés du village ; almanach de 1886 (`slow_05`) convertit `10h00 au soleil` en **`11h30 à la montre`** (dimanche matin) | Zone secrète ouverte (3 bandes audio `00:03 / 06:12 / 18:47`, carnet d'écoute, pièges) + échéance de 11h30 connue → conviction : il faut détruire la statuette |
 
 <a_confirmer>
 
-## C. Samedi — équipe sportive (Seb) : les conditions de la destruction
+## C. Samedi — équipe sportive (Seb) : les pièges photo et les tenues des Perchten (~200 m D+)
 
-Arc le moins documenté. Rôle canonique suggéré par le mapping : le fugitif apprend que la statuette ne se détruit que par un **« rituel de purification »** (A3) → les conditions/objets de cette destruction sont la quête de l'équipe sportive.
+Rôle mis à jour (20/10) : l'équipe de Seb utilise les **photos de pièges photo d'Ivan** (`ivan/ChouetteFinale.jpg`, `LoupFinal.jpg`, renards…) comme éléments de localisation, résout des **énigmes autour des animaux** sur un parcours d'environ 200 m D+, et trouve **toutes les tenues/masques des Perchten**.
+Articulation avec Rémi : dans `feuilles_rando.md` (Col de Carri, A2), le fugitif écrit que *« les masques des esprits de la forêt sont un élément essentiel pour le rituel »* → ramener les tenues/masques **est** la condition qui permet d'agir sur la statuette à 17h30 (pas besoin d'un outil de destruction séparé).
 
 | # | Étape | Difficulté | Déblocage | Produit |
 |---|---|---|---|---|
-| C1–C? | ❓ Trouver différents objets sans savoir lequel servira + une partie des costumes | À documenter avec Seb | — | Les **conditions de destruction** = le verrou horaire du samedi (on ne peut pas briser avant d'avoir tout) + morceaux de costumes |
+| C0 | **14h15 — Amorce au gîte** | ❓ Comment reçoivent-ils la 1re piste / 1re photo de piège ? | Proposition : fiche parcours d'Ivan + 1er cliché de piège dans le pli de l'enfant d'Ivan (à confirmer avec Seb) | Départ vers le secteur à ~200 m D+ |
+| C1–C? | **Parcours pièges photo & énigmes animaux** | Localiser les étapes grâce aux clichés de pièges photo et résoudre les énigmes animaux | Détails avec Seb | Progression vers la cache des Perchten |
+| C_fin | **Cache des Perchten** | Trouver la cache finale | Dernière énigme animale | **Toutes les tenues et masques des Perchten** + ❓ quel indice leur fait croire qu'il faut **détruire** la statuette ? |
 
-❓ À mapper avec Seb : étapes, lieux, rapport difficulté/récompense, et le partage « costumes » avec le trésor de l'équipe rando (A7).
+❓ À confirmer avec Seb : comment démarre C0 à 14h15, et est-ce que la cache finale contient un élément qui les pousse eux aussi vers la destruction de la statuette (ou s'ils se rallient aux preuves de Rémi et Batiste à 17h30).
 
 </a_confirmer>
 
-## D. Samedi ~18h — le regroupement (convergence)
+## D. Samedi ~17h30 — le regroupement et la table de convergence des 3 équipes
 
-| Étape | Ce qui se passe | Produit |
-|---|---|---|
-| D1 | Mise en commun : la rando présente la statuette et le journal (« détruis-la ») ; la tranquille apporte l'archive (tableau, procès, mort d'Ivan) ; la sportive ses objets | Deux sources indépendantes convergent : **l'objet est dangereux, il faut le briser** |
-| D2 | ❓ Débat possible (« et si c'était une erreur ? ») — souhaitable : il rend le twist plus fort | La décision de détruire doit être *gagnée* narrativement, pas subie |
-| D3 | Destruction selon les conditions trouvées par la sportive | **Le message au « je » de l'ancien Perchtenlauf** (Mareva) — le retournement commence |
+| Équipe | Ce qu'elle ramène à 17h30 | Pourquoi elle veut **détruire** la statuette | Ce que sa trouvaille servira **en vrai le dimanche** | Animal associé (casting dimanche) |
+|---|---|---|---|---|
+| **Slow** (Batiste) | **Le dossier d'Ivan** (carnet + site déverrouillé) : 15 ans de relevés, tableau du chasseur, procès, accident des « 3 piétons » | Ivan et la voyante concluent que la statuette est le nœud du mal qui attire les êtres masqués | **La partition sonore** (les 3 bandes `00:03 / 06:12 / 18:47` + carnet d'écoute sur le site) + l'échéance (vieux calendrier) | **Chouette** *(voit ce qui est caché)* |
+| <a_confirmer>**Rando** (Rémi)</a_confirmer> | **La statuette** (trouvée dans la Grotte des Ferrières avec les objets disparus) + **les écrits du fugitif** + **la carte de Cassini** | Le fugitif de 1746 supplie explicitement de détruire la statuette et dit que les masques sont nécessaires au rituel | **La statuette** (qui révèle le message au « je » une fois brisée) + **la carte de Cassini** (pour localiser le lieu du rituel dimanche) | <a_confirmer>**Bouquetin** *(les hauteurs)*</a_confirmer> |
+| <a_confirmer>**Sportifs** (Seb)</a_confirmer> | **Toutes les tenues et masques des Perchten** (trouvés via les pièges photo et les énigmes animaux à ~200 m D+) | Ils ont traqué les êtres masqués jusqu'à leur cache et ramènent les masques requis par le journal de Rémi *(❓ + indice propre à Seb ?)* | **Les 3 masques et costumes** indispensables pour accomplir la vraie danse du dimanche matin | <a_confirmer>**Loup** *(la meute, les sentiers)*</a_confirmer> |
 
 ## E. Nuit → dimanche
 

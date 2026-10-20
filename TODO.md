@@ -37,6 +37,8 @@ Point d'entrée unique : on y ajoute toute contradiction repérée entre documen
 3. **Partie secrète du site** — `lore_precisions.md` (section Le site web) : accessible le jour 2 ; décision retenue : accès dès le samedi avec le code du carnet.
 4. **Horaires du samedi** — `lore.md`, `reperage.md`, `timeline_lore.md` : fouille du gîte 14h–14h30 puis formation des groupes 14h30–14h40 ; `deroule.md` : chambre d'Ivan 14h30–15h15 pour l'équipe tranquille seule. À aligner avec le lancement.
 5. **Mort d'Ivan « récente »** — `ivan/ivanbio.md` : « récent décès » ; décision 19/10 : mort il y a un an. À reformuler (texte de Seb).
+6. **Apparitions Perchten hors-cycle** — nouveaux docs `ivan/Perchtenlauf Hiboux` (radio allemande 1944) et `ivan/Perchtenlauf Loup` (article 1894) : si le rituel « éteint » le triangle ~140 ans, pourquoi des manifestations en 1894 et 1944 ? Deux pistes : (a) les Perchten patrouillent toujours, le rituel ne fait que refermer les brèches ; (b) apparitions seulement en fin de cycle → alors 1894 et 1944 deviennent des dates de cycles intermédiaires (cycle plus court ?). À trancher.
+7. **Doc Perchten manquant pour le Bouquetin** — Hiboux (1944) et Loup (1894) existent ; rien pour le bouquetin, 3e masque du rituel. Voulu ou oubli ?
 
 ## Acquis du repérage terrain
 
@@ -82,7 +84,9 @@ Point d'entrée unique : on y ajoute toute contradiction repérée entre documen
 - [ ] Décider et huiler comment les **3 groupes se forment et partent chacun avec leur référent (Batiste / Seb / Rémi)** à partir du lancement de 14h
 - [ ] **Équipe Slow — météo pluie & rythme** : gîte à ~10 min à pied du centre-ville (un éclaireur peut refaire un aller-retour si un indice a été oublié), mais pluie annoncée → concentrer le temps au sec (gîte + café-librairie) et limiter les arrêts sous la pluie (cimetière, fontaine) à des vérifications rapides (5 min)
 
-### Site web public
+- [x] **Contenu du carnet d'Ivan rédigé (v1)** — `documents_ivan/` (7 pièces + index `00_README_carnet.md`) : notes & aide-mémoire des 4 clés, relevés 2011–2025, procès du notable, lettre de l'enfant, voyante, coupure accident « trois piétons », annexes 1894/1944
+- [x] **Props de l'équipe Slow & lancement rédigés (v1)** — `props_slow/` (5 pièces + index `00_README_props_slow.md`) : email imprimé de l'enfant (`slow_01`), affiche déchirée/intacte (`slow_02`), livre d'or 2011 + portes des chambres (`slow_03`), tableau du chasseur + loupe (`slow_04`), énigme du vieux calendrier → 11h30 (`slow_05`)
+- [ ] **Mise en forme & impression** des fichiers de `documents_ivan/` et `props_slow/` (une fois les retours de l'équipe intégrés)
 
 - [x] **Spec complète écrite** — `ivan-beaulieu-photos/SPEC.md` (structure, gate à 4 clés, zone secrète, stack)
 - [ ] **Questions en suspens** — voir `questions.md` (fontaine, photos repérage, chambres, plantes, dates d'Ivan…)
