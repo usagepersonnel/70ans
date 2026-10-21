@@ -53,19 +53,13 @@ Mais pour que le calcul soit un plaisir ludique faisable en 5 minutes par toute 
 ### VERSO — Note manuscrite d'Ivan au crayon
 
 > *« J'ai retrouvé ce feuillet d'almanach de 1886 plié dans un vieux paroissien de La Chapelle.*
-> *Faisons le calcul pour le prochain cycle :*
-> - *1606 (+140) → 1746 (+140) → 1886 (+140) → **2026** (c'est donc bien **un seul cycle** de 140 ans après 1886).*
-> - *Heure limite, heure du soleil des anciens : **10 h 00**.*
-> - *On applique la Règle 1 (+ 1 h 00 d'heure légale d'hiver) + la Règle 3 (+ 30 min pour 1 cycle écoulé depuis 1886) :*
 >
-> **ÉCHÉANCE ABSOLUE DU DIMANCHE 25 OCTOBRE 2026 : `[ 11 h 30 ]` À LA MONTRE.**
->
-> *Quoi qu'il faille faire ce week-end-là, tout devra être terminé **avant 11 h 30 le dimanche matin** ! »*
+> *Si quelqu'un lit cet almanach à l'automne de la prochaine Grande Veille : faites le calcul avec les 3 règles du recto pour savoir **avant quelle heure précise à votre montre** tout doit être accompli le dimanche matin. Ne vous trompez pas d'une demi-heure ! »*
 
 ---
 
-## Variante si tu veux que les joueurs fassent l'addition eux-mêmes
-Pour que ce soit une vraie petite énigme (et pas juste une note déjà résolue par Ivan) :
-- Sur le verso, on **retire la ligne `11 h 30`** : Ivan a seulement écrit :
-  > *« Si quelqu'un lit cet almanach à l'automne de la prochaine Grande Veille : faites le calcul avec les 3 règles du recto pour savoir **avant quelle heure précise à votre montre** tout doit être accompli le dimanche matin. Ne vous trompez pas d'une demi-heure ! »*
-- Les joueurs font eux-mêmes : `1886 + 140 = 2026` (1 cycle) → `10h00 (soleil) + 1h00 (Règle 1) + 0h30 (Règle 3, 1 cycle) = 11h30` !
+## Version retenue (21/10) : les joueurs font le calcul
+
+Le verso ne donne **pas** le résultat : les joueurs font eux-mêmes `1886 + 140 = 2026` (1 cycle) → `10h00 (soleil) + 1h00 (Règle 1) + 0h30 (Règle 3, 1 cycle) = 11h30`. C'est un vrai moment d'énigme pour l'équipe — et la note d'Ivan prévient déjà : « ne vous trompez pas d'une demi-heure ».
+
+*Version de secours (non retenue) : le verso d'Ivan donnait directement `11h30` — à réintroduire si l'équipe bloque.*

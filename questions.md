@@ -41,4 +41,4 @@
     - La statuette ancienne peut-elle être creuse et légère, d'une seule pièce, sombre à reflets ? Description retenue : `lore/lore.md`, section Statuette
 20. **Scène de 17h30** : confirme-t-on le rituel sommaire avec les 3 masques et la statuette, sans marteau ? Proposition et raisonnement dans `design/deroule.md` (section 17h30). Reste à décider : qui porte les masques, ce que font les trois masqués, et ce que le geste de briser donne à voir
 23. **Gel des textes avant impression** (@équipe) : à partir de quand ne modifie-t-on plus les textes imprimés, sauf blocage ? Suggestion : jeudi soir 22/10. Après ce moment, chaque changement oblige à réimprimer
-24. **Répartition des joueurs entre les 3 parcours** (@Batiste) : l'email laisse chacun choisir. Combien de joueurs par équipe attend-on (35 au total), et faut-il équilibrer ? Cela fixe le nombre de pochettes, de loupes et d'exemplaires de chaque prop
+24. **Répartition Sportif/Rando** (@Seb, @Rémi) : Slow ≈ 10 joueurs sur 35 (Batiste, 21/10). Combien attendez-vous chacun de votre côté, et faut-il équilibrer ? Le matériel Slow est dimensionné pour 10

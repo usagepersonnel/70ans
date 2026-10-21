@@ -27,9 +27,9 @@
 | Affiche « Les Habitants de la nuit », 2 versions (`joueurs/slow/props/02_affiche_habitants_de_la_nuit.md`) | Batiste ? | imprimer ×2, vieillir, déchirer la version gîte, accrocher | en cours (texte écrit) |
 | 3 dossiers de parcours, un feuillet par équipe, enveloppe posée à côté de l'email (`questions.md` #16) | Batiste (Slow), Seb (Sportif), Rémi (Rando) | écrire ; Rando = 1re feuille du fugitif « jointe en l'état » | à faire |
 | Livre d'or 2011 : feuillet, photo « vue depuis la fenêtre », étiquettes d'animaux sur **toutes** les portes (`joueurs/slow/props/03_livre_dor_2011_chambre.md`) | répartir | photo prise vendredi à l'arrivée, fabriquer les étiquettes | à faire |
-| Pochette d'Ivan : 7 pièces, étiquette Chouette au rabat (`joueurs/slow/pochette/`) | Batiste | mise en forme, impression, vieillissement, une fois les retours de l'équipe intégrés | en cours (textes v1 écrits) |
+| Pochette d'Ivan : 7 pièces, étiquette Chouette au rabat (`joueurs/slow/pochette/`) | Batiste | mise en forme, impression, vieillissement — aide-mémoire en 3 exemplaires (sous-groupes de ~10) — une fois les retours de l'équipe intégrés | en cours (textes v1 écrits) |
 | Vieux calendrier (`joueurs/slow/props/05_enigme_vieux_calendrier.md`) | Batiste | imprimer, vieillir | en cours (texte écrit) |
-| Loupe(s), environ 2 € pièce | répartir | acheter ; combien, `questions.md` #24 si besoin | à faire |
+| Loupe, environ 2 € | répartir | acheter (1 seule : elle reste dans la pochette ; seule la clé 2 du tableau en a besoin — si l'équipe se scinde, elle va au sous-groupe du café) | à faire |
 | Tableau du chasseur : image avec `VEILLE` en corps 4-5 pt, et tirages d'Ivan à exposer au café (`joueurs/slow/props/04_tableau_chasseur_et_loupe.md`) | répartir | créer l'image, imprimer ; accord du café à compléter pour les tirages | à faire |
 
 ## Équipe Rando (Rémi)
@@ -106,7 +106,7 @@
 
 - Frontière entre le contenu public du site et la zone secrète (ne publier aucun indice réservé à la partie secrète).
 - Images WhatsApp du 18/10 (`assets/photos/`) : avant de les utiliser sur le site, vérifier qu'aucune date incrustée ne postdate la mort d'Ivan (oct. 2025) ; les renommer ensuite (espaces et parenthèses dans les noms). Provenance et droits : `questions.md` #11.
-- Vendredi sur place : vérifier que la tombe sans inscription correspond à « allée du fond, grande dalle de calcaire gris » (sinon ajuster `joueurs/slow/pochette/03_proces_notable.md`) ; qu'aucune autre plante étiquetée n'évoque une bête cornue (étiquettes relevées : `design/reperage.md`) ; et si les chambres ont des noms ou des numéros (`questions.md` #4).
+- Vendredi sur place : vérifier que la tombe sans inscription correspond à « allée du fond, grande dalle de calcaire gris » (sinon ajuster `joueurs/slow/pochette/03_proces_notable.md`) ; qu'aucune autre plante étiquetée n'évoque une bête cornue (« Barbe de bouc » retenue le 21/10 sauf blocage majeur ; étiquettes relevées : `design/reperage.md`) ; et si les chambres ont des noms ou des numéros (`questions.md` #4).
 - Partie publique du site et photos de pièges : la v1 est en ligne, vérifier ce qu'il reste.
 - Recherche historique : événements du duché du Diois, cartes d'époques de La Chapelle-en-Vercors (OT fermé : mairie ou web), époques à documenter (Antiquité, napoléonien, 2GM), événements marquants (séismes).
 

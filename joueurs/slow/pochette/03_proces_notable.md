@@ -24,7 +24,7 @@
 
 > *« Encore eux ! Oiseaux + cornes + loup, dès 1466, avec un lien direct avec les vallées autrichiennes (Perchten ?).*
 >
-> *J'ai cherché la tombe d'Anselme Giraud dans le carré ancien du cimetière de La Chapelle (plan joint : allée du fond, la grande dalle de calcaire gris). L'épitaphe commandée par l'Évêque a-t-elle été burinée ? Ou la pierre a-t-elle subi le même sort que le reste ?*
+> *J'ai cherché la tombe d'Anselme Giraud dans le carré ancien du cimetière de La Chapelle (allée du fond, la grande dalle de calcaire gris). L'épitaphe commandée par l'Évêque a-t-elle été burinée ? Ou la pierre a-t-elle subi le même sort que le reste ?*
 > *→ **C'est ma clé n°3** : il suffit d'aller devant la tombe et de regarder **ce qui y est inscrit aujourd'hui**. »*
 
 ---
