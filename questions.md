@@ -20,17 +20,18 @@ Réponses à fournir quand vous passez par là — aucune ne nous bloque, les r�
 
 ## Nouveaux assets (uploads du 20/10)
 
-14. **Source des photos de pièges** (`ChouetteFinale.jpg`, `LoupFinal.jpg`, les renards WhatsApp) : d'où viennent-elles ? Vrais clichés d'un contact (ONF, garde, chasseur) ou prises sur le web ? → droits + savoir si on peut les utiliser telles quelles sur le site public
+14. **Source des photos de pièges** (`ChouetteFinale.jpg`, `LoupFinal.jpg`, les renards WhatsApp) : partiellement répondu (Seb 21/10) — en jeu ce sont des clichés des pièges d'Ivan, sur le trajet ou pointant vers un lieu du trajet. Reste : provenance réelle + droits pour le site public ?
 15. **L'eau-forte ours/loups** (`bring-back-the-etching-style.jpg`) : générée par IA ? C'est une référence de style pour le tableau du chasseur ou un asset destiné à servir tel quel ?
-16. **La source des deux docs Perchten** (Mareva ? Rémi ?) — savoir qui les a écrits pour caler leur place dans l'arc slow
-17. **Photos de piège bouquetin** : les chouette/loup/renard sont couverts ; un cliché nocturne de bouquetin existe-t-il ?
+16. ~~**La source des deux docs Perchten**~~ → ✅ **Seb** (il les a écrits + a ajouté `Perchtenlauf bouquetin` le 20/10 — « mes trucs pour Ivan et les Perchtenlauf »)
+17. **Photos de piège bouquetin** : des clichés `bouquetin*.jpg` existent dans `ivan/` — à vérifier s'ils font « cliché nocturne de piège » pour le site
+17b. **Texte Bouquetin (Seb)** : pas de date + apparition à la Grande Moucherotte (nord Vercors, ~60 km du jeu ; ton texte de 1944 est local, « nord de Vassieux ») → date à fixer et lieu à confirmer (Archiane / Grand Veymont si on reste local). Et les 3 textes : dans la pochette d'Ivan, épinglés au gîte, ou les deux ?
 
 ## Équipe (points de synchro Samedi)
 
-18. **Seb & Rémi — Lancement de 14h00 et séparation des 3 groupes** : leur va-t-il que le lancement (email de l'enfant d'Ivan annulant la sortie car Ivan est mort il y a 1 an) contienne 3 « pistes de départ » laissées par Ivan (chambre/village pour Batiste, carte des pièges photo à ~200 m D+ pour Seb, 1re feuille du fugitif pour Rémi) ? Sinon, comment ont-ils prévu que leurs joueurs trouvent leur tout premier indice à 14h15 ?
+18. **Seb & Rémi — Lancement de 14h00 et séparation des 3 groupes** : ✅ **OK pour Seb (21/10)** — Camille + départ 14h validés. Reste : Rémi, et comment chaque équipe reçoit son **tout premier indice à 14h15** (glissé dans le pli de l'email de Camille, ou trouvé autrement au gîte).
 19. **Seb — Parcours Sportif (~200 m D+)** :
-    - Confirmes-tu que ton équipe ramène **toutes les tenues/masques des Perchten** (et que la grotte de Rémi contient la statuette + les objets disparus) ?
-    - Dans la cache finale des tenues, y a-t-il aussi un indice qui pousse ton équipe à vouloir **détruire la statuette** à 17h30 (ou un protocole sur « comment la détruire avec les masques ») ?
+    - ~~Tenues/masques~~ → ✅ confirmé (Seb 21/10) : son groupe ramène **toutes les tenues et tous les masques**, + probablement des **cailloux peints**
+    - Toujours ouvert : dans la cache finale, y a-t-il un indice qui pousse ton équipe à vouloir **détruire la statuette** à 17h30 (ou un protocole « comment la détruire avec les masques ») ?
 20. **Rémi — Parcours Rando** :
     - Quel contenant pour la 1re feuille du fugitif au départ du gîte (on n'a pas de bambou pour l'instant : étui/tube carton, enveloppe d'Ivan, autre) ?
     - Trancher la date du fugitif (`1746` dans `feuilles_rando.md` vs `~1886` dans `lore.md` — les deux marchent avec le cycle de 140 ans : 1746 = 2 cycles avant 2026, 1886 = 1 cycle avant 2026).
@@ -60,11 +61,11 @@ Ce que j'aime là-dedans : Ivan devient le personnage principal sans jamais appa
 
 2. On a fait une grosse passe de mise en cohérence
 
-Un récap façon PR est dans le fichier mise_en_coherence_etape1_recap.md : planning du samedi réaligné, groupes du dimanche renommés (terrain / statuette / danse), voyante = document, props rendus plausibles, etc. Je n'ai rien tranché à votre place sur vos arcs : tout ce qui vous concerne est balisé « a_confirmer ».
+Un récap façon PR est dans le fichier meta/mise_en_coherence_etape1_recap.md : planning du samedi réaligné, groupes du dimanche renommés (terrain / statuette / danse), voyante = document, props rendus plausibles, etc. Je n'ai rien tranché à votre place sur vos arcs : tout ce qui vous concerne est balisé « a_confirmer ».
 
 3. Il reste des points à trancher
 
-La liste complète est dans le fichier audit_coherence_2026-10-20.md (section « Arbitrages »). Vous pouvez y piocher ce qui touche votre partie sans attendre. Voici mes questions pour vous.
+La liste complète est dans le fichier meta/audit_coherence_2026-10-20.md (section « Arbitrages »). Vous pouvez y piocher ce qui touche votre partie sans attendre. Voici mes questions pour vous.
 
 @Seb et @Rémi : le lancement à 14h vous convient-il ? Comment vos joueurs reçoivent-ils leur tout premier indice à 14h15 (glissé dans l'email de Camille, ou trouvé autrement au gîte) ?
 

@@ -20,7 +20,7 @@ L'essentiel du projet est constitué de **fichiers Markdown** :
 - `rituel/` — Conception du rituel du dimanche (structure, 12 sons, énigmes, production) — fait foi pour le dimanche
 - `ivan/` — Biographie et photos d'Ivan Beaulieu (assets du site web `ivan-beaulieu-photos`)
 - `cartes/` — Matériau cartographique du dimanche
-- `methode_coherence.md` + `audit_coherence_2026-10-20.md` — méthode et rapport de la passe de cohérence
+- `meta/` — méthode, rapport et récap de la passe de cohérence (`methode_coherence.md`, `audit_coherence_2026-10-20.md`, `mise_en_coherence_etape1_recap.md`)
 - `archived/` — Documents retirés de la conception courante (références, pas de mise à jour)
 - `AGENTS.md` — Vue d'ensemble du projet, pour les IAs
 

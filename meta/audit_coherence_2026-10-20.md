@@ -198,3 +198,15 @@ Application de `methode_coherence.md` sur `70ans` + `ivan-beaulieu-photos`.
 - `code/output/excalidraw*.md` : snapshots du brainstorm initial — **ne pas corriger**, c'est une archive (Niveau 5).
 - `archived/` : idem.
 - Les `<a_confirmer>` volontaires sur les arcs Seb/Rémi : ce ne sont pas des incohérences, c'est le périmètre de travail des autres.
+
+---
+
+## Suivi post-audit (21/10)
+
+Réponses de Seb (chat) :
+
+- ✅ Lancement 14h + email de Camille : OK pour lui.
+- ✅ Son équipe ramène **toutes les tenues et masques** (+ probablement des cailloux peints) ; les clichés de pièges sont sur le trajet ou pointent vers un lieu du trajet (arrêt-espèce). → partie « Seb » du point C levée, **sauf réponse contraire de Rémi** sur « détruire vs purifier ».
+- 🟠 Toujours ouvert : 1re amorce à 14h15, indice « détruire » dans sa cache, provenance/droits réels des photos de pièges.
+- 🟢 Nouveau : `ivan/Perchtenlauf bouquetin` (upload 20/10) complète le trio → TODO #7 résolu. Reste : texte **non daté** ; apparition à la **Grande Moucherotte** (nord Vercors, ~60 km du jeu — le texte de 1944 est lui local, « nord de Vassieux ») ; placement des 3 textes à trancher (pochette `07` vs épinglés au gîte — cohabitation possible).
+- Point E : la lecture « patrouilles ordinaires » tient — le trio confirme des apparitions hors-cycle espacées (1894, 1944, [Bouquetin à dater]).

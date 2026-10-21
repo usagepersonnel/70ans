@@ -37,7 +37,7 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 - `props_slow/` — props du lancement et de l'arc tranquille
 - `rituel/` — conception complète du rituel du dimanche (structure, partition des 12 sons, énigmes, checklist production)
 - `ivan/` — biographie et photos d'Ivan Beaulieu (assets pour le site web)
-- `methode_coherence.md` + `audit_coherence_2026-10-20.md` — méthode et rapport de cohérence
+- `meta/` — méthode, rapport et récap de la passe de cohérence (`methode_coherence.md`, `audit_coherence_2026-10-20.md`, `mise_en_coherence_etape1_recap.md`)
 - `timeline_*.md` — chronologies de vérification
 - `validation_*.md` — points soumis à validation d'équipe, datés
 - `ref_*.md` — références non vivantes

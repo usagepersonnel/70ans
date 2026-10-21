@@ -78,15 +78,18 @@ Déjà détaillé dans `deroule.md` §« Arc détaillé » — résumé en mappi
 ## C. Samedi — équipe sportive (Seb) : les pièges photo et les tenues des Perchten (~200 m D+)
 
 Rôle mis à jour (20/10) : l'équipe de Seb utilise les **photos de pièges photo d'Ivan** (`ivan/ChouetteFinale.jpg`, `LoupFinal.jpg`, renards…) comme éléments de localisation, résout des **énigmes autour des animaux** sur un parcours d'environ 200 m D+, et trouve **toutes les tenues/masques des Perchten**.
-Articulation avec Rémi : dans `feuilles_rando.md` (Col de Carri, A2), le fugitif écrit que *« les masques des esprits de la forêt sont un élément essentiel pour le rituel »* → ramener les tenues/masques **est** la condition qui permet d'agir sur la statuette à 17h30 (pas besoin d'un outil de destruction séparé).
+Confirmé par Seb (21/10) : tenues + masques ramenés ✅ (+ probablement des **cailloux peints**) ; les clichés de pièges sont soit sur le trajet, soit pointent vers un lieu du trajet (ex. un arrêt où Ivan parlait d'une espèce).
+Articulation avec Rémi : dans `feuilles_rando.md` (Col de Carri, A2), le fugitif écrit que *« les masques des esprits de la forêt sont un élément essentiel pour le rituel »* → ramener les tenues/masques **est** la condition qui permet d'agir sur la statuette à 17h30 (pas besoin d'un outil de destruction séparé). *(Lecture côté Seb OK — sauf réponse contraire de Rémi sur « détruire vs purifier ».)*
 
 | # | Étape | Difficulté | Déblocage | Produit |
 |---|---|---|---|---|
-| C0 | **14h15 — Amorce au gîte** | ❓ Comment reçoivent-ils la 1re piste / 1re photo de piège ? | Proposition : fiche parcours d'Ivan + 1er cliché de piège dans le pli de l'enfant d'Ivan (à confirmer avec Seb) | Départ vers le secteur à ~200 m D+ |
+| C0 | **14h15 — Amorce au gîte** | ❓ Comment reçoivent-ils la 1re piste / 1re photo de piège ? (toujours ouvert — Seb n'a pas encore tranché, 21/10) | Proposition : fiche parcours d'Ivan + 1er cliché de piège dans le pli de l'enfant d'Ivan | Départ vers le secteur à ~200 m D+ |
 | C1–C? | **Parcours pièges photo & énigmes animaux** | Localiser les étapes grâce aux clichés de pièges photo et résoudre les énigmes animaux | Détails avec Seb | Progression vers la cache des Perchten |
-| C_fin | **Cache des Perchten** | Trouver la cache finale | Dernière énigme animale | **Toutes les tenues et masques des Perchten** + ❓ quel indice leur fait croire qu'il faut **détruire** la statuette ? |
+| C_fin | **Cache des Perchten** | Trouver la cache finale | Dernière énigme animale | **Toutes les tenues et masques des Perchten** ✅ (Seb 21/10, + cailloux peints) + ❓ quel indice leur fait croire qu'il faut **détruire** la statuette ? |
 
-❓ À confirmer avec Seb : comment démarre C0 à 14h15, et est-ce que la cache finale contient un élément qui les pousse eux aussi vers la destruction de la statuette (ou s'ils se rallient aux preuves de Rémi et Batiste à 17h30).
+❓ Reste à confirmer avec Seb : comment démarre C0 à 14h15, et est-ce que la cache finale contient un élément qui les pousse eux aussi vers la destruction de la statuette (ou s'ils se rallient aux preuves de Rémi et Batiste à 17h30).
+
+**Textes Perchtenlauf (Seb, 20/10)** : le trio est complet — `ivan/Perchtenlauf Loup` (1894), `Perchtenlauf Hiboux` (1944), `Perchtenlauf bouquetin` (non daté). Placement à trancher (Seb hésite) : photocopies dans la pochette (`documents_ivan/07` — mais la fiche d'Ivan y dit « pas encore trouvé de coupure » pour le bouquetin) vs épinglés au gîte — les deux peuvent coexister. ⚠️ Bouquetin : pas de date + apparition à la Grande Moucherotte (nord Vercors, ~60 km du site du jeu ; le texte de 1944 est lui local, « nord de Vassieux ») → à confirmer avec Seb (Archiane / Grand Veymont si on veut rester local).
 
 </a_confirmer>
 
@@ -96,7 +99,7 @@ Articulation avec Rémi : dans `feuilles_rando.md` (Col de Carri, A2), le fugiti
 |---|---|---|---|---|
 | **Slow** (Batiste) | **Le dossier d'Ivan** (pochette + site déverrouillé) : quinze veilles de relevés (2011–2025), tableau du chasseur, procès, accident des « 3 piétons » | Ivan et la voyante concluent que la statuette est le nœud du mal qui attire les êtres masqués | **La partition sonore** (les 3 bandes `00:03 / 06:12 / 18:47` + carnet d'écoute sur le site) + l'échéance (vieux calendrier) | **Chouette** *(voit ce qui est caché)* |
 | <a_confirmer>**Rando** (Rémi)</a_confirmer> | **La statuette** (trouvée dans la Grotte des Ferrières avec les objets disparus) + **les écrits du fugitif** + **la carte de Cassini** | Le fugitif de 1746 supplie explicitement de détruire la statuette et dit que les masques sont nécessaires au rituel | **La statuette** (qui révèle le message au « je » une fois brisée) + **la carte de Cassini** (pour localiser le lieu du rituel dimanche) | <a_confirmer>**Bouquetin** *(les hauteurs)*</a_confirmer> |
-| <a_confirmer>**Sportifs** (Seb)</a_confirmer> | **Toutes les tenues et masques des Perchten** (trouvés via les pièges photo et les énigmes animaux à ~200 m D+) | Ils ont traqué les êtres masqués jusqu'à leur cache et ramènent les masques requis par le journal de Rémi *(❓ + indice propre à Seb ?)* | **Les 3 masques et costumes** indispensables pour accomplir la vraie danse du dimanche matin | <a_confirmer>**Loup** *(la meute, les sentiers)*</a_confirmer> |
+| <a_confirmer>**Sportifs** (Seb)</a_confirmer> | **Toutes les tenues et masques des Perchten** ✅ (Seb 21/10 ; trouvés via les pièges photo et les énigmes animaux à ~200 m D+, + cailloux peints) | Ils ont traqué les êtres masqués jusqu'à leur cache et ramènent les masques requis par le journal de Rémi *(❓ + indice propre à Seb ? — sauf réponse contraire de Rémi)* | **Les 3 masques et costumes** indispensables pour accomplir la vraie danse du dimanche matin | <a_confirmer>**Loup** *(la meute, les sentiers)*</a_confirmer> |
 
 ## E. Nuit → dimanche
 

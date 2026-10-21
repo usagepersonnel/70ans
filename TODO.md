@@ -31,15 +31,15 @@ Reste à trancher :
 ## Incohérences connues (à résoudre)
 
 Point d'entrée unique : on y ajoute toute contradiction repérée entre documents, et on la raye une fois résolue.
-**Audit complet du 20/10** : `audit_coherence_2026-10-20.md` (62 corrections 🟢 appliquées, 17 arbitrages 🟠 listés).
+**Audit complet du 20/10** : `meta/audit_coherence_2026-10-20.md` (62 corrections 🟢 appliquées, 17 arbitrages 🟠 listés).
 
 1. **Date du fugitif** — `lore.md` : « cycle précédent (~1886) » ; `feuilles_rando.md` : 1746, soit deux cycles avant 2026 (`timeline_lore.md` : 1886, 1746, 1606). À trancher avec Rémi. ⚠️ Impact site : `disparitions.astro` code déjà « vers 1746 ».
 2. ~~**`lore.md` périmé**~~ — ✅ corrigé (passe du 20/10) : géoguesser, « transmettre aux équipes », PNJ enfant, noms de groupes, tableau, site jour 2.
 3. ~~**Partie secrète du site**~~ — ✅ corrigé (20/10) : `lore_precisions.md` aligné sur l'accès samedi via les 4 clés.
 4. ~~**Horaires du samedi**~~ — ✅ corrigé (20/10) : `lore.md`, `reperage.md`, `timeline_lore.md`, `deroule.md` alignés sur le lancement 14h + arcs autonomes.
 5. ~~**Mort d'Ivan « récente »**~~ — ✅ déjà corrigé : `ivanbio.md` dit « décès en octobre 2025 ».
-6. **Apparitions Perchten hors-cycle** — nouveaux docs `ivan/Perchtenlauf Hiboux` (radio allemande 1944) et `ivan/Perchtenlauf Loup` (article 1894) : si le rituel « éteint » le triangle ~140 ans, pourquoi des manifestations en 1894 et 1944 ? 💡 L'audit du 20/10 tranche en faveur de (a) : l'almanach (`slow_05`) ne liste que 1606/1746/1886 comme Grandes Veilles → 1894 et 1944 sont des **patrouilles ordinaires** (« ils veillent » — le mot du tableau) ; le rituel ne se rejoue qu'en fin de cycle. À confirmer en équipe.
-7. **Doc Perchten manquant pour le Bouquetin** — Hiboux (1944) et Loup (1894) existent ; rien pour le bouquetin, 3e masque du rituel. `documents_ivan/07` couvre l'absence (« pas encore trouvé de coupure, c'est celui que décrit Marcellin ») — faut-il un 3e doc historique pour la symétrie ? (a priori non nécessaire).
+6. **Apparitions Perchten hors-cycle** — les 3 docs `ivan/Perchtenlauf *` (Loup 1894, Hiboux 1944, Bouquetin non daté) : si le rituel « éteint » le triangle ~140 ans, pourquoi des manifestations hors-cycle ? 💡 L'audit du 20/10 tranche en faveur de (a) : l'almanach (`slow_05`) ne liste que 1606/1746/1886 comme Grandes Veilles → ce sont des **patrouilles ordinaires** (« ils veillent » — le mot du tableau) ; le rituel ne se rejoue qu'en fin de cycle. À confirmer en équipe.
+7. ~~**Doc Perchten manquant pour le Bouquetin**~~ → ✅ trio complet depuis le 20/10 (Seb a ajouté `ivan/Perchtenlauf bouquetin` — un article moderne sur un grimpeur masqué en free solo). **Reste à régler avec Seb** : le texte n'est pas daté, et l'apparition est à la **Grande Moucherotte** (nord Vercors, ~60 km du jeu — le texte de 1944 est lui local, « nord de Vassieux ») ; + placement des 3 textes en jeu (pochette `07` vs épinglés au gîte — `documents_ivan/07` dit aujourd'hui « pas encore trouvé de coupure » pour le bouquetin, l'absence est diegétique et peut rester).
 
 ## Acquis du repérage terrain
 
@@ -95,6 +95,12 @@ Point d'entrée unique : on y ajoute toute contradiction repérée entre documen
 - [ ] Déployer les variables d'env Vercel (`KEY_*`, `ARCHIVES_TOKEN`) avec les vraies valeurs — `ARCHIVES_TOKEN` à changer impérativement (le défaut est dans le code)
 - [x] Choisir le mot caché dans le tableau du chasseur (clé 2) — **`VEILLE` retenu** (`props_slow/slow_04` ; double sens : « la veille » le samedi / « ils veillent » le dimanche — déjà configuré côté site)
 - [ ] Remplacer les 3 WAV placeholder par les enregistrements de Mareva + photos de pièges réelles (page `/archives/pieges`)
+- [ ] **PR de cohérence sur le site** (`ivan-beaulieu-photos` — workflow du repo : branche + PR, jamais de push direct sur `main`) :
+  - `journal.ts` + `dossier.astro` : « quinze ans » → « vingt ans » (2 occurrences — Ivan affûte depuis 2005, cf. audit point K)
+  - `sorties.astro` : « Réservations closes » → dater/préciser que c'est Camille qui a fermé le formulaire en découvrant notre réservation (oct. 2026) — sinon contradiction avec l'email de 14h qui dit que le site acceptait encore les résas (point J)
+  - `audio.astro` : « trois nuits » → « trois veilles » (les 3 bandes datent du même week-end, cf. `documents_ivan/02`) + reformuler « le compteur s'est arrêté » + aligner le carnet d'écoute sur `rituel/enigmes_dimanche.md` (point L)
+  - `disparitions.astro` : « vers 1746 » codé en dur → **ne pas toucher tant que Rémi n'a pas tranché** l'arbitrage A (1746 vs 1886)
+  - Vérifier le déploiement preview Vercel de la PR avant merge
 
 - [x] Créer un dépôt distinct dédié au site — fait : repo **privé** `ivan-beaulieu-photos` (Astro+TS), déployé sur Vercel → https://ivan-beaulieu-photos.vercel.app (zone secrète = gate serveur, pas de contenu sensible dans le repo public)
 - [ ] Définir la frontière entre le contenu public et les éléments secrets du scénario — ne publier aucun indice ni contenu réservé à la partie secrète
