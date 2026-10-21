@@ -34,6 +34,7 @@
     - Les 3 points du triangle et les cartes de la superposition du dimanche (Rémi y travaille) : 4 cartes (grottes, IGN, état-major, Cassini) pour 3 groupes, qui apporte laquelle ? Que représentent les trous, et comment les fabriquer ?
     - Chaîne des feuilles : indice vers le Col de Carri ; indices « Royer » et « la cabane » (Crobache) absents des phrases du fugitif ; code du cryptex ; indice « squelette du fuyard » (A2), potentiellement abandonné : par quoi le remplacer ? ; « description Ferrière » et lieu réel de la grotte ; version finale des 4 feuilles « à régénérer » ; carte donnée le samedi ; parcours marché et chronométré ; feuilles protégées du froid et de l'humidité
     - La « source » de la 1re feuille est une source en montagne que tu connais : où est-elle, et fait-elle partie de la piste ?
+    - ⚠️ Timing : le panneau rando du village donne **Col de Carri à 2h20 / 7,3 km** (`design/reperage.md`). La fenêtre est 14h15 → 17h30 (~3h15) : la chaîne ne tient pas à pied depuis le village si le Col est la première halte — le parcours part-il d'ailleurs (dépose en voiture, début avancé) ou le Col est-il une direction plus qu'une étape ?
     - La grotte contient-elle des morceaux de costumes (le « trésor caché » du lore) ? Seb ramène déjà toutes les tenues et tous les masques
 19. **Mareva**
     - Les 6 points de `joueurs/rituel/checklist_production.md` §1

@@ -46,7 +46,7 @@
 >
 > Comme ma mémoire me joue parfois des tours — et pour le cas où quelqu'un de sérieux reprendrait mes notes sur place après moi — j'ai verrouillé l'accès avec **quatre clés prises ici même, dans le bourg**. Pas moyen de les deviner depuis Paris ou Grenoble ; il faut avoir mis les bottes à La Chapelle :
 >
-> - **Clé n°1 — Fontaine à l'ours :** noter **les dates** gravées dans la pierre sur la vieille fontaine aux ours du village.
+> - **Clé n°1 — Fontaine à l'ours :** relever **les deux dates** de la plaque émaillée de la vieille fontaine aux ours du village.
 > - **Clé n°2 — Tableau du chasseur (au Café-Librairie) :** regarder la toile de très près **avec ma loupe** (sur la pierre du rocher, sous la statuette) — le peintre y a dissimulé **un mot minuscule**.
 > - **Clé n°3 — Cimetière du bourg :** aller voir la tombe du notable du procès médiéval (*pièce A*) et constater **ce qui y est inscrit aujourd'hui**.
 > - **Clé n°4 — Botanique des rues :** relever le nom de **la plante étiquetée dans le village qui évoque la bête cornue**.
