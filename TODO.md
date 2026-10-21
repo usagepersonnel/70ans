@@ -105,6 +105,7 @@
 ## À vérifier et sans urgence avant samedi
 
 - Frontière entre le contenu public du site et la zone secrète (ne publier aucun indice réservé à la partie secrète).
+- Images WhatsApp du 18/10 (`assets/photos/`) : avant de les utiliser sur le site, vérifier qu'aucune date incrustée ne postdate la mort d'Ivan (oct. 2025) ; les renommer ensuite (espaces et parenthèses dans les noms). Provenance et droits : `questions.md` #11.
 - Partie publique du site et photos de pièges : la v1 est en ligne, vérifier ce qu'il reste.
 - Recherche historique : événements du duché du Diois, cartes d'époques de La Chapelle-en-Vercors (OT fermé : mairie ou web), époques à documenter (Antiquité, napoléonien, 2GM), événements marquants (séismes).
 

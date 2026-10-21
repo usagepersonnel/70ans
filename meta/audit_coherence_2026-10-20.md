@@ -41,7 +41,7 @@ Application de `meta/methode_coherence.md` sur `70ans` + `ivan-beaulieu-photos`.
 - Indice on-site dans `joueurs/rando/feuilles_rando.md` l.146 alors que le squelette n'est **pas** le fugitif (validé) et que `validation_2026-10-19` pt 11 le marque « potentiellement abandonné ». Si gardé comme décor : rien ne dit aux joueurs que ce n'est pas lui — suggestion d'`design/enigmes.md` (crâne = décor « porte de l'Enfer ») à acter.
 
 ### I. Bouteilles des parents : samedi ou dimanche ?
-- `design/deroule.md` l.29 : décor au gîte « secret d'Ivan » + note « [à voir si pas plutôt dimanche ?] » ; `design/enigmes.md` l.114 + `validation_2026-10-19` pt 10 : � **plutôt dimanche** (dernière carte à superposer). → Harmoniser `design/deroule.md` sur « dimanche ».
+- `design/deroule.md` l.29 : décor au gîte « secret d'Ivan » + note « [à voir si pas plutôt dimanche ?] » ; `design/enigmes.md` l.114 + `validation_2026-10-19` pt 10 : 💡 **plutôt dimanche** (dernière carte à superposer). → Harmoniser `design/deroule.md` sur « dimanche ».
 
 ### J. Site — « Réservations closes » vs « formulaire resté actif »
 - `sorties.astro` : « Réservations closes. Suite au décès d'Ivan… — La famille » ; mais l'email de Camille dit que **le formulaire fonctionnait encore** (sinon pas de réservation à annuler !).
@@ -64,7 +64,7 @@ Application de `meta/methode_coherence.md` sur `70ans` + `ivan-beaulieu-photos`.
 - Le fugitif décrit un matériau « qui ne provient pas de ce monde » ; la statuette fabriquée est en **terre** — la terre cuite est parfaitement connue au XVIIIe. Soit le prop reçoit une finition étrange (patine, éclat, légèreté = creuse), soit on ajuste la description (« d'une terre grasse bizarrement légère »). Vigilance à la fabrication.
 
 ### O. Les 3 « piétons » ont survécu — alors pourquoi la chaîne est-elle rompue ?
-- La coupure (`06`) dit que les silhouettes « regagnèrent le sous-bois » → pas mortes en apparence. Le canon dit que la raison de l'absence des Perchten n'est **pas expliquée** (déductible, jamais énoncée) — OK en l'état, mais la note de design « l'accident a brisé leur relais » est une lecture, pas un fait : veiller à ce qu'aucun texte joueur ne la confirme explicitement. �-voisin de �🟠 : à garder en tête à la relecture.
+- La coupure (`06`) dit que les silhouettes « regagnèrent le sous-bois » → pas mortes en apparence. Le canon dit que la raison de l'absence des Perchten n'est **pas expliquée** (déductible, jamais énoncée) — OK en l'état, mais la note de design « l'accident a brisé leur relais » est une lecture, pas un fait : veiller à ce qu'aucun texte joueur ne la confirme explicitement. voisin d'un arbitrage 🟠 : à garder en tête à la relecture.
 
 ### P. Survie physique des feuilles du fugitif
 - Des feuillets de 1746 lisibles en 2026 le long d'un sentier : invraisemblable en physique stricte, mais **convention de genre acceptée** (comme les journaux trouvés dans les donjons). Le fait qu'Ivan ait trouvé le dernier message « près de la fontaine » peut même couvrir une partie (il les aurait collectées/étudiées ?). Pas de fix nécessaire — juste ne pas attirer l'attention dessus dans les textes.

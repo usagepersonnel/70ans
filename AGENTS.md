@@ -30,21 +30,21 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 - `design/enigmes.md` — cartographie du parcours joueur (étape → difficulté → déblocage)
 - `joueurs/rando/feuilles_rando.md` — texte joueur de l'arc rando (récit du fugitif)
 - `design/reperage.md` — checklist et retours terrain
-- `design/retroplanning.md` — plan de travail à J-20
-- `TODO.md` — état du projet, priorités, tâches
+- `design/retroplanning.md` — jalons et calendrier (le suivi des tâches est dans `TODO.md`)
+- `TODO.md` — tâches, responsables et état d'avancement (travail qui ne demande aucune décision)
 - `questions.md` — questions ouvertes pour l'équipe (ouvertes uniquement ; règles en tête du fichier)
 - `joueurs/slow/pochette/` — contenu de la pochette d'Ivan (7 pièces + index) — arc tranquille
 - `joueurs/slow/props/` — props du lancement et de l'arc tranquille
 - `joueurs/sportif/` — espace de l'arc sportif (Seb)
 - `joueurs/rituel/` — conception complète du rituel du dimanche (structure, partition des 12 sons, énigmes, checklist production)
 - `assets/` — bio/portraits (`assets/ivan/`), clichés de pièges (`assets/photos/`), textes Perchtenlauf (`assets/sources/`), cartes (`assets/cartes/`)
-- `meta/` — analyses subsidiaires et instantanés datés, **jamais une source de faits** : méthode, rapport et récap de la passe de cohérence (`meta/methode_coherence.md`, `meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`), cartographie structurelle du scénario (`meta/cartographie_scenario.md`), message d'équipe (`meta/message_equipe_2026-10-21.md`)
+- `meta/` — analyses subsidiaires et instantanés datés, **jamais une source de faits** : méthode, rapport et récap de la passe de cohérence (`meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`, et `meta/methode_coherence.md`, fichier local non versionné), cartographie structurelle du scénario (`meta/cartographie_scenario.md`), message d'équipe (`meta/message_equipe_2026-10-21.md`)
 - `meta/timeline_*.md` — chronologies de vérification
 - `decisions/validation_*.md` — points soumis à validation d'équipe, datés
 - `archive/` — snapshots et références non vivantes (`archive/ref_*.md`, `archive/excalidraw/`)
 - `tools/` — `tools/check_links.py` (vérification des références) + extraction Excalidraw (non essentiel)
 
-## � Où vit l'information (single source of truth)
+## Où vit l'information (single source of truth)
 
 Chaque information vit à **un seul endroit**. Les autres documents y renvoient par un chemin ou un lien ; ils ne la recopient pas.
 
@@ -70,14 +70,15 @@ Règles :
 - Si deux documents se contredisent, celui qui fait foi l'emporte ; on corrige l'autre.
 - Les ❓ placés dans les documents de design (`lore/lore_precisions.md`, `design/deroule.md`, `design/enigmes.md`) restent attachés à leur contexte ; les questions qui attendent la réponse d'une personne précise sont listées dans `questions.md`.
 
-## �🧭 Conventions de nommage
+## 🧭 Conventions de nommage
 
-- Fichiers : minuscules, `snake_case`, ASCII, extension `.md` obligatoire.
+- Documents Markdown : minuscules, `snake_case`, ASCII, extension `.md`. Images : noms parlants, en minuscules et sans espace pour les nouveaux fichiers ; les noms déjà cités ailleurs ne sont pas renommés.
 - Comptes rendus datés : `decisions/validation_*.md` — figés, ne pas réécrire.
 - Séquences ordonnées (pièces de la pochette, props) : préfixe `NN_`.
 - Contenu joueur : un dossier par équipe dans `joueurs/`, chacun avec un `README.md` d'index.
 - Références entre docs : chemins relatifs à la racine du repo, entre backticks ; liens `[x](...)` relatifs au fichier.
-- Avant de merger un déplacement : `python tools/check_links.py` doit répondre « aucune référence morte ».
+- Renvoi à une question : `questions.md` #N ou ❓ #N, avec N un numéro stable de `questions.md`.
+- Avant de pousser (déplacement de fichier, suppression d'une question) : `python tools/check_links.py` doit répondre OK. Il vérifie les liens, les chemins cités et les renvois aux questions ; si le dépôt voisin `ivan-beaulieu-photos` est absent, les références vers le site sont ignorées avec un avis.
 
 ## 🎭 Synopsis du scénario
 
@@ -114,8 +115,3 @@ Fin du jour 1 : les joueurs détruisent la statuette
    - Recherche des costumes, masques et chorégraphie corrects
    - Le rituel du changement d'heure pour désamorcer le triangle
 
-## 📚 Tâches de recherche en cours
-
-### Web
-
-- Créer un site web avec des photos animalières qui virent vers la théorie du complot (tâche pour Batiste — Astro+TS, repo privé `ivan-beaulieu-photos`, Vercel)
