@@ -11,7 +11,7 @@ Application de `meta/methode_coherence.md` sur `70ans` + `ivan-beaulieu-photos`.
 ## 🟠 Arbitrages à trancher (avec l'équipe, pas unilatéralement)
 
 ### A. Date du fugitif : 1746 vs ~1886
-- `joueurs/rando/feuilles_rando.md` : « 9 septembre 1746 » partout ; `lore/lore.md` l.105 + `meta/timeline_lore.md` l.24,58 : « fin du cycle précédent (~1886) » ; `questions.md` #20 pose déjà la question à Rémi.
+- `joueurs/rando/feuilles_rando.md` : « 9 septembre 1746 » partout ; `lore/lore.md` l.105 + `meta/timeline_lore.md` l.24,58 : « fin du cycle précédent (~1886) » ; `questions.md` #18 pose déjà la question à Rémi.
 - **Impact collatéral trouvé** : le site code déjà « vers 1746 » (`disparitions.astro` l.12) — si Rémi choisit 1886, il faut modifier le site.
 - **Recommandation** : 1746. Chaque année a alors un rôle propre : 1746 = fugitif (2 cycles avant), 1886 = Marcellin + almanach + tableau (1 cycle avant), et les apparitions 1894/1944 = patrouilles hors-cycle (point H). Si 1886 : réécrire les dates des feuilles + déplacer la lettre de Marcellin.
 
@@ -21,7 +21,7 @@ Application de `meta/methode_coherence.md` sur `70ans` + `ivan-beaulieu-photos`.
 
 ### C. Destruction de la statuette : marteau vs « rituel de purification »
 - `joueurs/rando/feuilles_rando.md` (Scialet→Refuge) : « il faut un **rituel de purification** pour la détruire » ; `design/enigmes.md` A3 ajoute « (canon : la statuette ne se brise pas à coups de marteau) » — pourtant les joueurs la brisent physiquement à ~18h.
-- Pont possible déjà esquissé : « les masques sont essentiels au rituel » (Col de Carri) → un joueur masqué la brise. Mais **nulle part le mécanisme exact n'est écrit** : la destruction physique marche-t-elle seule ? le « rituel de purification » était-il une croyance erronée du fugitif ? → à trancher dans la réponse de Seb/Rémi (déjà dans `questions.md` #19).
+- Pont possible déjà esquissé : « les masques sont essentiels au rituel » (Col de Carri) → un joueur masqué la brise. Mais **nulle part le mécanisme exact n'est écrit** : la destruction physique marche-t-elle seule ? le « rituel de purification » était-il une croyance erronée du fugitif ? → à trancher dans la réponse de Seb/Rémi (déjà dans `questions.md` #17).
 
 ### D. Statuette « immuable » (réapparition magique) vs « replacée par les Perchten »
 - `design/enigmes.md` l.60 propose *« la statuette réapparaît toujours dans la grotte »* ; le canon validé (02/10) dit : les Perchten ont rattrapé le fugitif et **replacé** la statuette (`lore/lore_precisions.md` l.53).

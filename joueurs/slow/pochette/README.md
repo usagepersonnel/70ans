@@ -1,6 +1,6 @@
 # La pochette d'Ivan — Index et guide d'assemblage
 
-Contenu de la **chemise cartonnée à élastiques (ou vieille sacoche)** trouvée dans la chambre d'Ivan à 14h45 (`design/enigmes.md` §B2).
+Contenu de la **chemise cartonnée à élastiques — « la pochette d'Ivan »** trouvée dans la chambre d'Ivan à 14h45 (`design/enigmes.md` §B2).
 
 **Justification matérielle & narrative (validée le 20/10)** :
 - Pas de carnet relié à moitié vide : il s'agit des **feuilles volantes perforées et photocopies en vrac** qu'Ivan avait laissées dans sa chambre avant de remonter au col le soir de son accident (son carnet de terrain quotidien était avec lui dans sa voiture).
@@ -19,7 +19,7 @@ Contenu de la **chemise cartonnée à élastiques (ou vieille sacoche)** trouvé
 | `joueurs/slow/pochette/06_coupure_presse_accident.md` | Coupure du *Dauphiné* pliée sous l'élastique de la pochette (ajoutée par les hôtes du gîte après le drame en attendant Camille) | Émotion + mention anodine de **« trois piétons en tenues étranges »** | **Révélation Chouette** : les 3 piétons étaient les 3 Perchtenlauf ; l'accident a brisé leur relais |
 | `joueurs/slow/pochette/07_annexes_1894_1944.md` | Deux photocopies agrafées (textes de `assets/sources/perchtenlauf_loup.md` et `assets/sources/perchtenlauf_hiboux.md` + fiche d'Ivan) | Prouve qu'Ivan n'était pas fou : **le Loup (1894)** et **le Hibou (1944)** ont été vus bien avant lui | Donne les **2 premiers animaux** du rituel ; Ivan note qu'il complète avec *« le troisième, celui des crêtes »* (= Bouquetin) |
 
-**Objets joints dans la sacoche** (hors papier) :
+**Objets joints dans la pochette** (hors papier) :
 - **La loupe de photographe** (sert au Café-Librairie sur le tableau du chasseur → clé n°2).
 - **Le vieux calendrier** (énigme autonome du retour au gîte à 16h30 → donne l'échéance du dimanche matin).
 

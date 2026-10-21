@@ -1,4 +1,4 @@
-archived/*.ini
+archive/*.ini
 
 # Machine-local files — never commit (convention: local_ prefix = local to this machine)
 local_*

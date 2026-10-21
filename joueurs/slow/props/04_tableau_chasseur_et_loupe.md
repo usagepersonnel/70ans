@@ -4,7 +4,7 @@
 - **Quand & Où** : Samedi vers 15h30, au Café-Librairie de La Chapelle-en-Vercors (au sec !).
 - **Ce qu'il résout** :
   1. **La Clé n°2 du site web d'Ivan (`/archives`)** : dans son aide-mémoire (`joueurs/slow/pochette/01_notes_ivan_et_aide_memoire.md`), Ivan a noté : *« Clé n°2 — regarder la toile du Café-Librairie de très près avec ma loupe : le peintre y a dissimulé un mot minuscule. »*
-  2. **L'utilité mécanique de la loupe** : trouvée à 14h45 dans la sacoche d'Ivan, la loupe est indispensable ici pour déchiffrer le mot minuscule caché dans les traits de gravure du tableau.
+  2. **L'utilité mécanique de la loupe** : trouvée à 14h45 dans la pochette d'Ivan, la loupe est indispensable ici pour déchiffrer le mot minuscule caché dans les traits de gravure du tableau.
   3. **Le double jeu narratif (Samedi vs Dimanche)** :
      - *Lecture du samedi (avec le biais d'Ivan)* : la figure masquée et les loups entourent la statuette mystérieuse → c'est un objet de culte maléfique qu'il faut détruire.
      - *Relecture du dimanche (après le twist)* : les loups sont assis **paisiblement** et le mot caché à la loupe est **`VEILLE`** (ou *« ILS VEILLENT »*) → depuis le début, le tableau disait qu'ils **protègent** !

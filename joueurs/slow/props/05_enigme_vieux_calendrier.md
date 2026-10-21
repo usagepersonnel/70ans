@@ -1,7 +1,7 @@
 # `joueurs/slow/props/05_enigme_vieux_calendrier.md` — L'énigme du Vieux Calendrier (Samedi 16h30 au gîte)
 
 ## Rôle dans le jeu
-- **Quand** : Trouvé à 14h45 dans la sacoche d'Ivan (en même temps que le carnet et la loupe), mais résolu tranquillement au chaud au gîte vers **16h30** (pendant ou juste après l'exploration du site web), ou le dimanche matin à 10h00.
+- **Quand** : Trouvé à 14h45 dans la pochette d'Ivan (en même temps que la loupe), mais résolu tranquillement au chaud au gîte vers **16h30** (pendant ou juste après l'exploration du site web), ou le dimanche matin à 10h00.
 - **Ce que ça résout dans le déroulé (`design/deroule.md` l. 42 & `lore/lore_precisions.md` #11)** :
   - Il fallait une énigme **100 % auto-portante** (le document contient toutes les règles nécessaires à sa propre résolution) qui explique **pourquoi le rituel a lieu au changement d'heure d'octobre** et qui fait calculer aux joueurs **l'heure limite du dimanche matin (11h30)**.
   - Elle donne aussi un vrai rôle aux **dates gravées sur la fontaine** ou aux **cycles de 140 ans** (1606 — 1746 — 1886 — 2026).

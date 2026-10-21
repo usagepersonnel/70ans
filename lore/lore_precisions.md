@@ -69,7 +69,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - 💡 **Photographe animalier** — Il a capturé des images d'êtres masqués dans la forêt. Il est convaincu qu'ils sont malveillants.
 - ✅ **Destin du photographe** — Validé (Rémi, 02/10) : il est mort (il y a un an — décision 19/10) dans un véritable accident de voiture, de nuit en montagne, alors qu'il partait chercher les êtres masqués — fasciné par eux, sans intention de leur nuire. Un article de journal présente l'événement comme un accident de la route fortuit, où il aurait percuté des personnes en tenues étranges. Le scénario ne confirme pas que ces victimes étaient les derniers Perchtenlauf ni que l'accident explique leur absence — le lien reste déductible, jamais énoncé.
 - ❓ **Lien du photographe avec les cultistes** — Son rôle auprès des Perchtenlauf et ce qu'il a découvert restent à préciser.
-- ✅ **Pas de PNJ enfant d'Ivan** — Validé en équipe : on se passe du PNJ pour l'instant. Son rôle (infodump + code de la partie secrète du site) passe par le carnet d'Ivan trouvé dans sa chambre le samedi. Le pèlerinage annuel est abandonné — réversible si un volontaire se déclare. Nuance (19/10, Batiste + Mareva) : un **message unique** de l'enfant d'Ivan (email imprimé ou appel : commande annulée, père décédé il y a un an, remboursement) lance le jeu — aucune réponse possible, ce n'est pas un PNJ.
+- ✅ **Pas de PNJ enfant d'Ivan** — Validé en équipe : on se passe du PNJ pour l'instant. Son rôle (infodump + code de la partie secrète du site) passe par la pochette d'Ivan trouvée dans sa chambre le samedi. Le pèlerinage annuel est abandonné — réversible si un volontaire se déclare. Nuance (19/10, Batiste + Mareva) : un **message unique** de l'enfant d'Ivan (email imprimé ou appel : commande annulée, père décédé il y a un an, remboursement) lance le jeu — aucune réponse possible, ce n'est pas un PNJ.
 - ✅ **Ivan, habitué du gîte** — (19/10) il séjournait au gîte au changement d'heure chaque année depuis 2011 (livre d'or 2011). Le café-librairie expose ses tirages.
 - ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par le photographe. Partie publique + partie secrète (`/archives`) déverrouillée **dès le samedi** par les 4 clés de l'aide-mémoire de la pochette d'Ivan (fouille du samedi) — les contenus secrets n'ont de sens que dimanche.
 
@@ -127,8 +127,8 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 3. ~~**Justification du changement d'heure**~~ — ✅ Validé (Rémi, 02/10). Créneau retenu : rituel ~11h–11h30 sur le champ repéré, tout terminé à midi. ⚠️ Pas de cadran solaire au village — énigme du calendrier autonome.
 4. 💡 **Les 3 points du triangle** — La grotte connue est à ~23 km → maillage régional ; centre = le champ du rituel. En attente de la carte de Rémi.
 5. ❓ **Les voix de la forêt** — Question ouverte : sont-ce les mêmes « échos du passé » que les manifestations nocturnes, autre chose, ou les deux ? (options dans la section « Le triangle »)
-6. ~~**Déclencheur du PNJ**~~ — ✅ Validé en équipe : pas de PNJ, son rôle passe par le carnet d'Ivan.
+6. ~~**Déclencheur du PNJ**~~ — ✅ Validé en équipe : pas de PNJ, son rôle passe par la pochette d'Ivan.
 7. ~~**Squelette du scialet**~~ — ✅ Confirmé : pas le fugitif (victime collectée par le triangle). Reste : choisir l'époque, sans exploiter les lieux de mémoire réels.
-8. ❓ **La voyante** — Pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans le carnet d'Ivan — cohérent avec l'option « pas de PNJ »).
+8. ❓ **La voyante** — Pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans la pochette d'Ivan — cohérent avec l'option « pas de PNJ »).
 9. ~~**Mettre à jour `lore/lore.md`**~~ — ✅ Fait (04/10). `joueurs/rando/feuilles_rando.md` reste à réécrire une fois les points ci-dessus tranchés.
 

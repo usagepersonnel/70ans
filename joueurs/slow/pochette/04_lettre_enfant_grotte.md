@@ -1,4 +1,4 @@
-# Pièce 4 (Pièce B du carnet) — La lettre de l'enfant et la grotte dorée
+# Pièce 4 (pièce B) — La lettre de l'enfant et la grotte dorée
 
 *(Copie dactylographiée d'une lettre ancienne issue d'archives familiales dioises, annotée par Ivan. Ce document prépare la jonction de 17h15 avec l'équipe Rando qui revient de la vraie grotte.)*
 

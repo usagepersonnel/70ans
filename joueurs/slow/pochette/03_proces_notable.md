@@ -1,4 +1,4 @@
-# Pièce 3 (Pièce A du carnet) — Le procès du notable innocent
+# Pièce 3 (pièce A) — Le procès du notable innocent
 
 *(Photocopie d'une page d'ouvrage d'histoire locale du XIXe siècle, avec des passages surlignés et annotés au crayon par Ivan dans la marge.)*
 

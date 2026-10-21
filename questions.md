@@ -14,29 +14,29 @@ Réponses à fournir quand vous passez par là — aucune ne nous bloque, les r�
 
 6. ~~**Prénom de l'enfant d'Ivan**~~ → **Camille** retenu dans `joueurs/slow/props/01_lancement_email_enfant.md` (épicène, volontaire) — à valider par le groupe
 7. ~~**Année de naissance d'Ivan**~~ → la coupure de presse (`joueurs/slow/pochette/06_coupure_presse_accident.md`) fixe **73 ans en oct. 2025 → né ~1952**. Bio à aligner sur cette valeur
-8. ~~**Date exacte de l'accident**~~ → fixée : **nuit du samedi 18 au dimanche 19 octobre 2025** (coupure `06`, carnet `01`, site) — une semaine avant le changement d'heure
+8. ~~**Date exacte de l'accident**~~ → fixée : **nuit du samedi 18 au dimanche 19 octobre 2025** (coupure `06`, pochette `01`, site) — une semaine avant le changement d'heure
 9. **La chambre d'Ivan existe-t-elle vraiment** ou on en choisit une au hasard à l'arrivée ? (prop : photo « vue depuis sa fenêtre » à fabriquer une fois la chambre choisie — à faire sur place à l'arrivée vendredi)
 10. **Livre d'or 2011** : format/état exact (album photo ?) pour y glisser la fausse page/photo d'Ivan
 
 ## Nouveaux assets (uploads du 20/10)
 
-14. **Source des photos de pièges** (`assets/photos/ChouetteFinale.jpg`, `assets/photos/LoupFinal.jpg`, les renards WhatsApp) : partiellement répondu (Seb 21/10) — en jeu ce sont des clichés des pièges d'Ivan, sur le trajet ou pointant vers un lieu du trajet. Reste : provenance réelle + droits pour le site public ?
-15. **L'eau-forte ours/loups** (`assets/photos/bring-back-the-etching-style.jpg`) : générée par IA ? C'est une référence de style pour le tableau du chasseur ou un asset destiné à servir tel quel ?
-16. ~~**La source des deux docs Perchten**~~ → ✅ **Seb** (il les a écrits + a ajouté `assets/sources/perchtenlauf_bouquetin.md` le 20/10 — « mes trucs pour Ivan et les Perchtenlauf »)
-17. **Photos de piège bouquetin** : des clichés `assets/photos/bouquetin*.jpg` existent — à vérifier s'ils font « cliché nocturne de piège » pour le site
-17b. **Texte Bouquetin (Seb)** : pas de date + apparition à la Grande Moucherotte (nord Vercors, ~60 km du jeu ; ton texte de 1944 est local, « nord de Vassieux ») → date à fixer et lieu à confirmer (Archiane / Grand Veymont si on reste local). Et les 3 textes : dans la pochette d'Ivan, épinglés au gîte, ou les deux ?
+11. **Source des photos de pièges** (`assets/photos/ChouetteFinale.jpg`, `assets/photos/LoupFinal.jpg`, les renards WhatsApp) : partiellement répondu (Seb 21/10) — en jeu ce sont des clichés des pièges d'Ivan, sur le trajet ou pointant vers un lieu du trajet. Reste : provenance réelle + droits pour le site public ?
+12. **L'eau-forte ours/loups** (`assets/photos/bring-back-the-etching-style.jpg`) : générée par IA ? C'est une référence de style pour le tableau du chasseur ou un asset destiné à servir tel quel ?
+13. ~~**La source des deux docs Perchten**~~ → ✅ **Seb** (il les a écrits + a ajouté `assets/sources/perchtenlauf_bouquetin.md` le 20/10 — « mes trucs pour Ivan et les Perchtenlauf »)
+14. **Photos de piège bouquetin** : des clichés `assets/photos/bouquetin*.jpg` existent — à vérifier s'ils font « cliché nocturne de piège » pour le site
+15. **Texte Bouquetin (Seb)** : pas de date + apparition à la Grande Moucherotte (nord Vercors, ~60 km du jeu ; ton texte de 1944 est local, « nord de Vassieux ») → date à fixer et lieu à confirmer (Archiane / Grand Veymont si on reste local). Et les 3 textes : dans la pochette d'Ivan, épinglés au gîte, ou les deux ?
 
 ## Équipe (points de synchro Samedi)
 
-18. **Seb & Rémi — Lancement de 14h00 et séparation des 3 groupes** : ✅ **OK pour Seb (21/10)** — Camille + départ 14h validés. Reste : Rémi, et comment chaque équipe reçoit son **tout premier indice à 14h15** (glissé dans le pli de l'email de Camille, ou trouvé autrement au gîte).
-19. **Seb — Parcours Sportif (~200 m D+)** :
+16. **Seb & Rémi — Lancement de 14h00 et séparation des 3 groupes** : ✅ **OK pour Seb (21/10)** — Camille + départ 14h validés. Reste : Rémi, et comment chaque équipe reçoit son **tout premier indice à 14h15** (glissé dans le pli de l'email de Camille, ou trouvé autrement au gîte).
+17. **Seb — Parcours Sportif (~200 m D+)** :
     - ~~Tenues/masques~~ → ✅ confirmé (Seb 21/10) : son groupe ramène **toutes les tenues et tous les masques**, + probablement des **cailloux peints**
     - Toujours ouvert : dans la cache finale, y a-t-il un indice qui pousse ton équipe à vouloir **détruire la statuette** à 17h30 (ou un protocole « comment la détruire avec les masques ») ?
-20. **Rémi — Parcours Rando** :
+18. **Rémi — Parcours Rando** :
     - Quel contenant pour la 1re feuille du fugitif au départ du gîte (on n'a pas de bambou pour l'instant : étui/tube carton, enveloppe d'Ivan, autre) ?
     - Trancher la date du fugitif (`1746` dans `joueurs/rando/feuilles_rando.md` vs `~1886` dans `lore/lore.md` — les deux marchent avec le cycle de 140 ans : 1746 = 2 cycles avant 2026, 1886 = 1 cycle avant 2026).
     - As-tu les 3 points du triangle / la carte que ton équipe ramène pour la superposition du dimanche matin ?
-21. **Mareva** : les 6 points de `joueurs/rituel/checklist_production.md` §1 + texte exact du message caché à l'intérieur de la statuette.
+19. **Mareva** : les 6 points de `joueurs/rituel/checklist_production.md` §1 + texte exact du message caché à l'intérieur de la statuette.
 
 
 ## Draft message

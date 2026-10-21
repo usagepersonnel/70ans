@@ -9,7 +9,7 @@ Principe : chaque info vit en un seul endroit — lore canonique dans `lore/lore
 
 Décisions validées en équipe (réunion du 04/10 — détail dans `lore/lore_precisions.md` et `decisions/validation_2026-10-02.md`) :
 
-- Pas de PNJ « enfant d'Ivan » pour l'instant : le carnet d'Ivan porte l'infodump et le code du site secret (réversible)
+- Pas de PNJ « enfant d'Ivan » pour l'instant : la pochette d'Ivan porte l'infodump et le code du site secret (réversible)
 - Squelette du scialet ≠ fugitif (victime collectée par le triangle ; époque à choisir sans lieux de mémoire réels)
 - Mapping des manifestations par groupe (miroirs→statuette, petit-déj→danse, voitures→terrain) : OK, textes à écrire
 
@@ -85,7 +85,7 @@ Point d'entrée unique : on y ajoute toute contradiction repérée entre documen
 - [ ] Décider et huiler comment les **3 groupes se forment et partent chacun avec leur référent (Batiste / Seb / Rémi)** à partir du lancement de 14h
 - [ ] **Équipe Slow — météo pluie & rythme** : gîte à ~10 min à pied du centre-ville (un éclaireur peut refaire un aller-retour si un indice a été oublié), mais pluie annoncée → concentrer le temps au sec (gîte + café-librairie) et limiter les arrêts sous la pluie (cimetière, fontaine) à des vérifications rapides (5 min)
 
-- [x] **Contenu du carnet d'Ivan rédigé (v1)** — `joueurs/slow/pochette/` (7 pièces + index `joueurs/slow/pochette/README.md`) : notes & aide-mémoire des 4 clés, relevés 2011–2025, procès du notable, lettre de l'enfant, voyante, coupure accident « trois piétons », annexes 1894/1944
+- [x] **Contenu de la pochette d'Ivan rédigé (v1)** — `joueurs/slow/pochette/` (7 pièces + index `joueurs/slow/pochette/README.md`) : notes & aide-mémoire des 4 clés, relevés 2011–2025, procès du notable, lettre de l'enfant, voyante, coupure accident « trois piétons », annexes 1894/1944
 - [x] **Props de l'équipe Slow & lancement rédigés (v1)** — `joueurs/slow/props/` (5 pièces + index `joueurs/slow/props/README.md`) : email imprimé de l'enfant (`joueurs/slow/props/01_lancement_email_enfant.md`), affiche déchirée/intacte (`joueurs/slow/props/02_affiche_habitants_de_la_nuit.md`), livre d'or 2011 + portes des chambres (`joueurs/slow/props/03_livre_dor_2011_chambre.md`), tableau du chasseur + loupe (`joueurs/slow/props/04_tableau_chasseur_et_loupe.md`), énigme du vieux calendrier → 11h30 (`joueurs/slow/props/05_enigme_vieux_calendrier.md`)
 - [ ] **Mise en forme & impression** des fichiers de `joueurs/slow/pochette/` et `joueurs/slow/props/` (une fois les retours de l'équipe intégrés)
 

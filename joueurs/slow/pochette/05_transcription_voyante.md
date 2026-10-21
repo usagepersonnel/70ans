@@ -1,4 +1,4 @@
-# Pièce 5 (Pièce C du carnet) — Le compte rendu chez la voyante
+# Pièce 5 (pièce C) — Le compte rendu chez la voyante
 
 *(Feuille volante quadrillée, écriture rapide d'Ivan. En haut, une carte de visite agrafée : « **Madame Solange — Tarots, radiesthésie, écoute — Sur rendez-vous, Die** ».)*
 

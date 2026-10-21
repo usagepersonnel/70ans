@@ -1,7 +1,7 @@
 # `joueurs/slow/props/03_livre_dor_2011_chambre.md` — Livre d'or 2011 & identification de la chambre d'Ivan (Samedi 14h30)
 
 ## Rôle dans le jeu
-- **Quand** : Samedi 14h30, juste après la séparation des 3 groupes. L'équipe Slow est au gîte et sait (grâce à l'email de Camille Beaulieu) qu'Ivan revenait chaque automne depuis **2011** dans la même chambre et y a peut-être laissé sa sacoche de notes.
+- **Quand** : Samedi 14h30, juste après la séparation des 3 groupes. L'équipe Slow est au gîte et sait (grâce à l'email de Camille Beaulieu) qu'Ivan revenait chaque automne depuis **2011** dans la même chambre et y a peut-être laissé sa pochette de notes.
 - **Le problème terrain (`design/reperage.md`)** :
   1. Le gîte comporte de nombreuses chambres identiques (on ne veut pas que les joueurs fouillent les effets personnels des 35 invités au hasard).
   2. Il existe dans le gîte **un vrai livre d'or qui date de 2011**, composé principalement de photos.
@@ -27,13 +27,13 @@
 >
 > *J'ai eu le coup de foudre pour cette chambre — la seule d'où j'aperçois exactement cet angle-là en ouvrant les volets le matin (voir la photo ci-contre !). Je vous la redemanderai chaque année à la même date.*
 >
-> *P.-S. : J'avoue un petit larcin en partant : j'ai tellement aimé **la petite étiquette de la Chouette** qui était collée sur la porte de ma chambre que je l'ai décollée pour la garder dans mon carnet comme porte-bonheur… Promis, je ne toucherai pas aux animaux des autres portes !*
+> *P.-S. : J'avoue un petit larcin en partant : j'ai tellement aimé **la petite étiquette de la Chouette** qui était collée sur la porte de ma chambre que je l'ai décollée pour la garder dans ma pochette de notes comme porte-bonheur… Promis, je ne toucherai pas aux animaux des autres portes !*
 >
 > — **Ivan Beaulieu** *(photographe, Villard-de-Lans)*
 
 ---
 
-## 2. Le dispositif sur les portes des chambres (et dans le carnet)
+## 2. Le dispositif sur les portes des chambres (et dans la pochette)
 
 Cette petite phrase en *P.-S.* crée un enchaînement super gratifiant pour les joueurs :
 1. **Sur les portes des chambres du gîte** :
@@ -42,5 +42,5 @@ Cette petite phrase en *P.-S.* crée un enchaînement super gratifiant pour les 
 2. **Double validation pour les joueurs** :
    - Les observateurs trouvent la chambre en comparant **la vue par la fenêtre** avec la photo de 2011.
    - Les déductifs parcourent le couloir, voient toutes les portes avec un animal **sauf une où l'étiquette a été arrachée**, et savent immédiatement que c'est celle de la Chouette — celle d'Ivan !
-3. **Le petit détail qui tue quand ils ouvrent le carnet d'Ivan (à 14h45)** :
-   - À l'intérieur de la couverture du carnet d'Ivan (trouvé sous le lit ou dans l'armoire de cette chambre), on colle effectivement **l'étiquette de la Chouette** qu'il avait « chipée » sur sa porte en 2011 ! (Ce qui ancre dès 14h45 le fait que l'équipe Slow est **l'équipe de la Chouette** pour le dimanche.)
+3. **Le petit détail qui tue quand ils ouvrent la pochette d'Ivan (à 14h45)** :
+   - À l'intérieur du rabat de la chemise cartonnée (trouvée sous le lit ou dans l'armoire de cette chambre), on colle effectivement **l'étiquette de la Chouette** qu'il avait « chipée » sur sa porte en 2011 ! (Ce qui ancre dès 14h45 le fait que l'équipe Slow est **l'équipe de la Chouette** pour le dimanche.)

@@ -8,7 +8,7 @@ Questions de répartition des équipes, d'énigmes et de mécaniques. Le lore es
 
 D'après excalidraw, les 3 équipes ont des buts distincts le samedi :
 
-- **Équipe tranquille (Batiste) — chapelle/gîte/village** : enquêter sur les cultistes et le triangle du Vercors. Enquête autonome : fouille du gîte, carnet d'Ivan, boucle village (café, cimetière, fontaine, plantes), site web d'Ivan et zone secrète.
+- **Équipe tranquille (Batiste) — chapelle/gîte/village** : enquêter sur les cultistes et le triangle du Vercors. Enquête autonome : fouille du gîte, pochette d'Ivan, boucle village (café, cimetière, fontaine, plantes), site web d'Ivan et zone secrète.
 - **Équipe sportive (Seb) — terrain (~200 m D+)** : énigmes autour des animaux en utilisant les **pièges photo d'Ivan** comme éléments de localisation → trouver et ramener **toutes les tenues/masques des Perchten** (qui sont l'élément requis pour le rituel sur la statuette selon le texte du fugitif).
 - **Équipe rando (Rémi) — terrain++** : remonter la trace du fugitif de 1746 à rebours jusqu'à la **Grotte des Ferrières** → trouver les objets disparus à travers les époques + **la statuette** + la carte de Cassini.
 
@@ -96,7 +96,7 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 
 ## Pistes narratives et indices documentaires
 
-4 documents/indices identifiés dans le scenario_statique (archived) — à répartir entre les équipes et les jours :
+4 documents/indices identifiés (reprend le scenario_statique, désormais dans `archive/ref_archive.md`) — à répartir entre les équipes et les jours :
 
 1. **[Procès] Le notable innocent** (Moyen Âge) — Un notable condamné pour vol d'un cadeau diplomatique destiné au Vercors. Il affirme que le cadeau a disparu (créatures surnaturelles). L'évêque retrouve le cadeau a posteriori, absout le notable posthumement. Inscription sur la tombe.
 2. **[Lettre] L'enfant et la grotte dorée** — Un enfant trouve une grotte pleine d'objets précieux et du quotidien (rouleau à pâtisserie de sa mamie). Personne ne le croit. Adulte, il raconte l'histoire dans une lettre au Dr Brilleux.
