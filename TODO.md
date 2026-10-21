@@ -25,12 +25,26 @@
 |---|---|---|---|
 | Email de Camille (`joueurs/slow/props/01_lancement_email_enfant.md`) | Batiste ? | imprimer | en cours (texte écrit) |
 | Affiche « Les Habitants de la nuit », 2 versions (`joueurs/slow/props/02_affiche_habitants_de_la_nuit.md`) | Batiste ? | imprimer ×2, vieillir, déchirer la version gîte, accrocher | en cours (texte écrit) |
-| 3 dossiers de parcours, un feuillet par équipe, enveloppe posée à côté de l'email (`questions.md` #16) | Batiste (Slow), Seb (Sportif), Rémi (Rando) | écrire ; Rando = 1re feuille du fugitif « jointe en l'état » | à faire |
+| 3 dossiers de parcours, un feuillet par équipe, enveloppe posée à côté de l'email (`questions.md` #16) | Batiste (Slow), Seb (Sportif), Rémi (Rando) | Slow : mettre en forme, imprimer (`joueurs/slow/props/06_dossier_parcours.md`) ; Sportif et Rando : écrire (Rando = 1re feuille du fugitif « jointe en l'état ») | en cours (Slow : texte écrit) |
 | Livre d'or 2011 : feuillet, photo « vue depuis la fenêtre », étiquettes d'animaux sur **toutes** les portes (`joueurs/slow/props/03_livre_dor_2011_chambre.md`) | répartir | photo prise vendredi à l'arrivée, fabriquer les étiquettes | à faire |
 | Pochette d'Ivan : 7 pièces, étiquette Chouette au rabat (`joueurs/slow/pochette/`) | Batiste | mise en forme, impression, vieillissement — aide-mémoire en 3 exemplaires (sous-groupes de ~10) — une fois les retours de l'équipe intégrés | en cours (textes v1 écrits) |
 | Vieux calendrier (`joueurs/slow/props/05_enigme_vieux_calendrier.md`) | Batiste | imprimer, vieillir | en cours (texte écrit) |
 | Loupe, environ 2 € | répartir | acheter (1 seule : elle reste dans la pochette ; seule la clé 2 du tableau en a besoin — si l'équipe se scinde, elle va au sous-groupe du café) | à faire |
 | Tableau du chasseur : image avec `VEILLE` en corps 4-5 pt, et tirages d'Ivan à exposer au café (`joueurs/slow/props/04_tableau_chasseur_et_loupe.md`) | répartir | créer l'image, imprimer ; accord du café à compléter pour les tirages | à faire |
+
+**Assets et props à réaliser (textes → objets)** — pour chacun : arrêter la forme, fabriquer (IA ou main), imprimer, vieillir si besoin.
+
+| Asset | Forme proposée | Source du texte | État |
+|---|---|---|---|
+| Email de Camille | Impression A4 type webmail, plié dans l'enveloppe | `joueurs/slow/props/01_lancement_email_enfant.md` | texte écrit |
+| 3 dossiers de parcours | Feuillet A4 chacun, style brouillon photocopié + marges au crayon | Slow : `joueurs/slow/props/06_dossier_parcours.md` ; Sportif et Rando à écrire | Slow : texte écrit |
+| Affiche ×2 | A4 épais/ivoire avec QR code ; version gîte déchirée et froissée, version café intacte | `joueurs/slow/props/02_affiche_habitants_de_la_nuit.md` | texte écrit |
+| Feuillet du livre d'or | Page type album photo (tirage 10×15 + légende + mot manuscrit) — photo prise vendredi à l'arrivée | `joueurs/slow/props/03_livre_dor_2011_chambre.md` | à faire vendredi |
+| Étiquettes animaux des portes | Petites affichettes illustrées sur toutes les portes + étiquette Chouette collée au rabat de la pochette | `joueurs/slow/props/03_livre_dor_2011_chambre.md` | à créer (IA ou dessin) |
+| Pochette d'Ivan | Chemise cartonnée à élastiques : 7 pièces (feuilles quadrillées perforées, photocopies, coupure Dauphiné, carte de visite de la voyante), post-it des propriétaires, étiquette Chouette ; aide-mémoire en 3 exemplaires | `joueurs/slow/pochette/` | textes v1, à mettre en forme et vieillir |
+| Vieux calendrier | Feuillet vieilli recto-verso (almanach + note au crayon) | `joueurs/slow/props/05_enigme_vieux_calendrier.md` | texte écrit |
+| Tableau du chasseur | Image eau-forte générée (IA) + mot `VEILLE` ajouté en corps 4-5 pt, tirage A4/A3 encadré | `joueurs/slow/props/04_tableau_chasseur_et_loupe.md` | image à générer |
+| Tirages d'Ivan pour le café | Quelques tirages animaliers (depuis `assets/photos/`) | `joueurs/slow/props/04_tableau_chasseur_et_loupe.md` | à choisir et imprimer |
 
 ## Équipe Rando (Rémi)
 
@@ -101,6 +115,12 @@
 | Dry-run | tous | jalon du 23/10 | à faire |
 
 **À répartir vendredi dans le plan de mise en place** : affiche déchirée et livre d'or modifié ; étiquettes sur toutes les portes ; pochette dans la chambre ; tableau et affiche au café ; les 7 props Rando (1 au gîte, 6 en terrain) ; cache des masques et parcours Sportif ; la nuit : miroirs, bols et céréales, vitres des voitures ; dimanche : échange de la statuette dorée, indice de secours à 10h25 si le groupe terrain bloque, signal de début et de fin de la foule.
+
+**Matériel — checklist se procurer / fabriquer / apporter** (le suivi détaillé reste dans les tableaux ci-dessus et `joueurs/rituel/checklist_production.md`) :
+
+- **À acheter** : loupe (~2 €) ; bombe de peinture dorée à séchage rapide ; feutre craie ou encre (miroirs) + marqueur craie effaçable (vitres) ; papier épais/ivoire + papier quadrillé perforé ; chemise cartonnée à élastiques ; enveloppes ; stylos + ~40 bandelettes ; bobine de fil 40-50 m ; ponchos (~35, pluie dimanche) ; sachets de riz/graines (objets sonores).
+- **À fabriquer ou imprimer avant vendredi** : tous les assets du tableau « Assets et props à réaliser » ci-dessus ; carte satellite du champ + 3 calques transparents ; papiers des manifestations (bols, céréales, miroirs) ; secret d'Ivan pour la bouteille.
+- **À apporter** : loupe, pochette montée, tableau, affiches et tirages ; 12 objets sonores ; 3 masques + costumes (Seb) ; statuette ancienne (Mareva) ; kit de la nouvelle statuette (Seb) ; fumigènes orange et vert ; lecteur audio + enceinte + fichiers en local (Batiste) ; les 7 props Rando (Rémi) ; matériel du parcours et de la cache Sportif (Seb).
 
 ## À vérifier et sans urgence avant samedi
 
