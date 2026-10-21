@@ -4,7 +4,7 @@ Réponses à fournir quand vous passez par là — aucune ne nous bloque, les r�
 
 ## Terrain (photos / données du repérage)
 
-1. **Fontaine à l'ours** : quelle(s) année(s) est/sont gravée(s) dessus ? (clé n°1 du mot de passe du site)
+1. ~~**Fontaine à l'ours**~~ → ✅ dates gravées **1894-1994** (Batiste, 21/10) ; les ours sont des statues d'environ 1,5 m. Le gate du site doit accepter 1894, 1994 ou les deux (variables d'environnement à régler, cf. `TODO.md`)
 2. **Photos du repérage** : sont-elles disponibles quelque part ? (livre d'or 2011, chambres du gîte, fontaine, tombe sans inscription, étiquettes de plantes, tableau/café) — utiles pour caler les énigmes et fabriquer les props
 3. **Nom du café-librairie** : le vrai nom du commerce pour l'affiche d'Ivan et le tableau
 4. **Chambres du gîte** : ont-elles déjà des noms/numéros (ex. une affichette par chambre) ? Si oui, quels noms ?
@@ -28,15 +28,27 @@ Réponses à fournir quand vous passez par là — aucune ne nous bloque, les r�
 
 ## Équipe (points de synchro Samedi)
 
-16. **Seb & Rémi — Lancement de 14h00 et séparation des 3 groupes** : ✅ **OK pour Seb (21/10)** — Camille + départ 14h validés. Reste : Rémi, et comment chaque équipe reçoit son **tout premier indice à 14h15** (glissé dans le pli de l'email de Camille, ou trouvé autrement au gîte).
+16. **Seb & Rémi — Lancement de 14h00 et séparation des 3 groupes** : ✅ **OK pour Seb (21/10)** — Camille + départ 14h validés. Reste : Rémi, et comment chaque équipe reçoit son **tout premier indice à 14h15** (glissé dans le pli de l'email de Camille, ou trouvé autrement au gîte). 💡 Piste (21/10) : l'email de Camille annonce déjà « trois dossiers de parcours » déposés au gîte. Si chaque équipe a le sien (une enveloppe posée à côté de l'email), le premier indice est dedans. Il reste à écrire le contenu des 3 dossiers (Slow : Batiste ; Sportif : Seb ; Rando : Rémi, probablement la 1re feuille du fugitif « jointe en l'état », comme le dit déjà l'email).
 17. **Seb — Parcours Sportif (~200 m D+)** :
     - ~~Tenues/masques~~ → ✅ confirmé (Seb 21/10) : son groupe ramène **toutes les tenues et tous les masques**, + probablement des **cailloux peints**
     - Toujours ouvert : dans la cache finale, y a-t-il un indice qui pousse ton équipe à vouloir **détruire la statuette** à 17h30 (ou un protocole « comment la détruire avec les masques ») ?
+    - ⏳ Seb (21/10) : « je te dis ça ce soir ou quand j'ai du temps » — en attente. À préciser aussi : l'objectif annoncé à ton équipe à 14h15, les étapes du parcours, et l'usage des cailloux peints.
 18. **Rémi — Parcours Rando** :
     - Quel contenant pour la 1re feuille du fugitif au départ du gîte (on n'a pas de bambou pour l'instant : étui/tube carton, enveloppe d'Ivan, autre) ?
     - Trancher la date du fugitif (`1746` dans `joueurs/rando/feuilles_rando.md` vs `~1886` dans `lore/lore.md` — les deux marchent avec le cycle de 140 ans : 1746 = 2 cycles avant 2026, 1886 = 1 cycle avant 2026).
-    - As-tu les 3 points du triangle / la carte que ton équipe ramène pour la superposition du dimanche matin ?
+    - As-tu les 3 points du triangle / la carte que ton équipe ramène pour la superposition du dimanche matin ? (Batiste, 21/10 : Rémi y travaille.)
+    - Chaîne des feuilles (relevé du 21/10, `meta/cartographie_scenario.md` §2), à voir à ton rythme :
+        - Rien dans le texte de la 1re feuille (gîte) ne mène au **Col de Carri** ; seule indication : « la montagne au Sud ».
+        - L'indice « Royer = aérer la terre en creusant des sillons » n'est que dans une note : il n'est dans aucune phrase du fugitif. Même chose pour le **Refuge de Crobache** : le texte dit seulement « la cabane ».
+        - **Code du cryptex** : que faut-il trouver dans la Plaine de Fauchier ?
+        - « Voir description Ferrière » : cette description n'existe pas, et la grotte réelle connue est à ~23 km. Où est le lieu réel de la grotte ?
+        - L'équipe reçoit-elle une **carte** le samedi ? Aujourd'hui l'IGN n'est prévue que pour la superposition du dimanche.
+        - 4 feuilles sur 6 sont encore « à régénérer » et divergent de la version de base (ex. sac abandonné ou fidèles qui l'ont devancé) : quelle est la version finale ?
+        - Le parcours a-t-il été marché et chronométré ? Les feuilles sont-elles protégées de la pluie ?
+        - La « source » de la 1re feuille (« à côté de la source, dans ma gourde ») est une **source en montagne** que Rémi connaît (précisé par Batiste le 21/10), pas la fontaine du village. Où est-elle, et fait-elle partie de la piste (lien avec le Col de Carri) ?
 19. **Mareva** : les 6 points de `joueurs/rituel/checklist_production.md` §1 + texte exact du message caché à l'intérieur de la statuette.
+    - La statuette ancienne (prop) peut-elle être **creuse et légère**, d'une seule pièce, avec une finition **sombre à reflets** ? C'est la description canonique retenue le 21/10 (`lore/lore.md`, section Statuette) : elle paraît lourde mais est étonnamment légère.
+20. **Scène de 17h30 — comment on détruit la statuette** : 💡 mémoire de Batiste (21/10), **à confirmer avec la team** : un rituel assez sommaire, avec les **3 masques + la statuette** (pas de marteau). Cela réconcilie le texte de Rémi (« rituel de purification », « les masques sont essentiels »), le canon (« la statuette ne se brise pas à coups de marteau », `design/enigmes.md` A3) et ce que ramène Seb (les masques). Reste à décider : qui porte les masques (un volontaire par équipe ?), ce que font les trois masqués, et ce que le geste de briser donne à voir.
 
 
 ## Draft message

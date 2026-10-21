@@ -46,7 +46,7 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 | Vieillissement et impression des documents ; découpe des trous dans les cartes | ? |
 | Kit logistique : marqueurs craie vitres, encre invisible pour miroirs, matériel arts plastiques pour la nouvelle statuette, prop bouteilles | ? |
 | ~~Casting PNJ~~ — sans objet : voyante = document, enfant d'Ivan = message unique | — |
-| Plan B météo : variante pluie pour le rituel et pour le samedi terrain | ? |
+| Plan B météo : variante pluie pour le rituel (prévision du 21/10 : pluie dimanche, pas de pluie samedi, ~8°C) ; variante pour le samedi terrain seulement si la prévision change | ? |
 | **Dry-run** : lecture à voix haute du déroulé complet en équipe + checklist finale | Tous |
 | Emballage : tout ce qui part au Vercors listé et regroupé | ? |
 

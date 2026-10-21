@@ -109,6 +109,14 @@ Cartes à utiliser :
 ### Statuette
 
 - La statuette ancienne se trouve dans la grotte aux objets disparus ; l'équipe rando la découvre le samedi.
+- **Description canonique de la statuette ancienne** (21/10, à respecter dans tous les textes et props) :
+    - **Taille** : petite, à peine plus grande qu'une main.
+    - **Aspect** : sombre, aux reflets ; elle **paraît lourde** (« comme du plomb »).
+    - **Au toucher** : elle est **étonnamment légère**. Explication : elle est **creuse**, c'est là qu'est caché le message au « je ».
+    - **Matière** : pas du bois ; indéterminée pour les témoins.
+    - **Forme** : d'une seule pièce, sans fil ni lien (le fil manquant est l'enjeu du dimanche).
+    - **Témoins concordants** : Marcellin en 1886, sans l'avoir touchée (« semblait lourde comme du plomb », `joueurs/slow/pochette/04_lettre_enfant_grotte.md`) ; le fugitif de 1746, en main (« elle semble lourde, mais elle est en fait très légère », `joueurs/rando/feuilles_rando.md`) ; le tableau (`joueurs/slow/props/04_tableau_chasseur_et_loupe.md`).
+    - **Prop** : terre ou pâte légère, creuse, finition sombre brillante (Mareva, à confirmer, `questions.md` #19).
 - Les joueurs la détruisent — poussés par la voyante, le tableau du chasseur et le journal du fugitif → elle contient le message d'un ancien Perchtenlauf écrit à la première personne : si les joueurs l'ont trouvée, c'est que les anciens Perchtenlauf ne sont plus là — ils doivent prendre le relais.
 - **Nouvelle statuette** : les joueurs la fabriquent selon les instructions — matériaux imposés (bois, etc.) et symboles à rendre visibles (loup, etc.) ; forme libre ; les morceaux de l'ancienne ne sont pas requis.
 - Fabrication en cours (Mareva) : parties réalisées en terre ; autres pistes props : nain de jardin doré, céramique, moyens du bord (pâte à sel, collier de nouilles)

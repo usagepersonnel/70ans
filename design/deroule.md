@@ -33,7 +33,7 @@ Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avan
 
 - Café/librairie : **l'affiche intacte** de la conférence *« Les Habitants de la nuit »* (qui donne enfin l'**URL complète du site d'Ivan** + QR code), ses tirages exposés, et le **tableau du chasseur** — 💡 interaction sobre privilégiée (`joueurs/slow/props/04_tableau_chasseur_et_loupe.md` : le tableau est visible en libre-service, la commerçante peut raconter son histoire si sollicitée) ; l'option « énigme ou service à rendre » reste possible si le commerçant joue le jeu.
 - Cimetière : identifier **la tombe sans inscription** → la relie au procès du notable (la vraie tombe devient la preuve physique du document). ✅ Visite du cimetière pendant le jeu validée en équipe (11/10, jugée respectueuse).
-- Fontaine avec dates + ours : candidate pour la « source » du fugitif ; les dates gravées peuvent alimenter l'énigme du vieux calendrier.
+- Fontaine à statues d'ours, dates gravées 1894-1994 : clé 1 du site. Ce n'est **pas** la « source » du fugitif (une source en montagne, précisé le 21/10) ; les dates gravées peuvent alimenter l'énigme du vieux calendrier.
 - Plantes nommées du village (« Barbe de bouc »…) : repérage utile pour les ingrédients de la nouvelle statuette le dimanche.
 
 **16h15–17h15 — Recoupements au gîte**
@@ -45,7 +45,7 @@ Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avan
 **~17h30 — Regroupement au gîte**
 
 - Mise en commun des trouvailles ; l'équipe rando présente la statuette.
-- **Destruction de la statuette** (à la suite du regroupement) — verrou : nécessite les objets/conditions préparés par l'équipe sportive (à concevoir dans leur arc), ce qui garantit que tout le monde est réuni.
+- **Destruction de la statuette** (à la suite du regroupement) — verrou : nécessite les objets/conditions préparés par l'équipe sportive (à concevoir dans leur arc), ce qui garantit que tout le monde est réuni. 💡 Piste (mémoire de Batiste, 21/10, **à confirmer en équipe**, cf. `questions.md` #20) : un rituel assez sommaire avec les 3 masques + la statuette, plutôt qu'un coup de marteau.
 
 Documents/props nécessaires à cet arc : pochette d'Ivan (central, `joueurs/slow/pochette/`), article de journal, tableau physique, transcription de la voyante (document), bouteilles + secret caché (décision 11/10, 💡 usage dimanche), livre d'or bidouillé (`joueurs/slow/props/03_livre_dor_2011_chambre.md`).
 

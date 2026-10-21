@@ -47,7 +47,7 @@ Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du
 
 ### Église et cimetière
 
-- [x] Photos des dates, inscriptions, vitraux, symboles — chercher tout motif loup, figure masquée, détail étrange ✅ Fait. On a trouvé une fontaine avec dates + ours, une église avec des vitraux, un cimetière avec des tombes anciennes (dont une sans aucune inscription), et plein de plantes avec des noms compliqués indiqués dessus dans toute la ville, dont des noms barrants comme "Barbe de bouc".
+- [x] Photos des dates, inscriptions, vitraux, symboles — chercher tout motif loup, figure masquée, détail étrange ✅ Fait. On a trouvé une fontaine avec dates (**1894-1994**) + statues d'ours d'environ 1,5 m, une église avec des vitraux, un cimetière avec des tombes anciennes (dont une sans aucune inscription), et plein de plantes avec des noms compliqués indiqués dessus dans toute la ville, dont des noms barrants comme "Barbe de bouc".
 - [x] **Cadran solaire** s'il y en a un — photo + position : matériau direct pour l'énigme du vieux calendrier / heure solaire. ✅ AUCUN — l'énigme du calendrier doit être autonome.
 - [x] Cimetière : photographier de vraies vieilles tombes (noms, dates, style d'inscription) pour fabriquer la « tombe du notable » crédible — le procès se solde par une inscription sur la tombe. ✅ Fait. On a trouvé une tombe sans inscription — candidate directe pour la tombe du notable. Visite du cimetière pendant le jeu validée en équipe (11/10, jugée respectueuse).
 
@@ -71,7 +71,7 @@ Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du
 
 - [ ] Panoramas depuis le village/gîte vers le Col de Carri, crêtes, falaises, pics distinctifs — photos + orientation (boussole). ~~Ces photos deviennent le matériau du géoguesser~~ — géoguesser abandonné (11/10 : pas de communication entre équipes) ; les photos peuvent servir à la triangulation de l'équipe rando ou au site d'Ivan
 - [ ] La « trouée au-dessus de la route et du village » (d'où les poursuivants repèrent le fugitif dans `joueurs/rando/feuilles_rando.md`) — visible depuis le village ? Repérer où
-- [x] **Une source ou fontaine** près du village — le fugitif cache l'objet « près d'une source » : un lieu réel peut-il jouer ce rôle ? ✅ Fontaine avec dates et ours repérée au village — candidate directe.
+- [x] **Une source ou fontaine** — le fugitif cache l'objet « près d'une source ». ✅ Précisé le 21/10 : c'est **une source en montagne, que Rémi connaît** (à localiser dans le repo, `questions.md` #18). La fontaine du village (dates 1894-1994, statues d'ours de ~1,5 m) sert à la clé 1 du site, pas de « source ».
 
 ### Le terroir du fugitif (arc RANDO)
 

@@ -45,12 +45,12 @@ Voici les propositions (💡) ajoutées aujourd'hui — un simple oui / non / aj
 - [ ] **Marquer chaque manchette/jambière** (symbole d'animal + D/G) et vérifier que l'attache tient bien en marchant
 
 ### Audio et photos (une fois les 12 sons prêts)
-- [ ] **Enregistrer les 3 clips audio** (`00_03.mp3`, `06_12.mp3`, `18_47.mp3`, ~35–42 s chacun) selon la partition de [`joueurs/rituel/partition_et_sons.md`](partition_et_sons.md#4--partition-des-3-clips-audio-à-enregistrer)
+- [ ] **Enregistrer les 3 clips audio** *(en cours au 21/10 : enregistrements bruts faits par Mareva, montage par Batiste)* (`00_03.mp3`, `06_12.mp3`, `18_47.mp3`, ~35–42 s chacun) selon la partition de [`joueurs/rituel/partition_et_sons.md`](partition_et_sons.md#4--partition-des-3-clips-audio-à-enregistrer)
 - [ ] **Prendre les 3 photos de pièges photo** (1 masqué, puis 2, puis 3, avec horodatage `00:03`, `06:12`, `18:47`) — utiles dès le samedi sur le site d'Ivan
 - [ ] **Préparer le lecteur audio** pour le dimanche matin : ordinateur / téléphone de Batiste + enceinte portable (ou vieil iPod) avec les fichiers en local
 
 ### Statuette, fil et effet spécial
-- [ ] **Statuette ancienne en terre** (samedi, à briser) : finition par Mareva + insertion du **message au « je »** d'un ancien Perchtenlauf (rédaction : Mareva)
+- [ ] **Statuette ancienne en terre** (samedi, à briser) : finition par Mareva + insertion du **message au « je »** d'un ancien Perchtenlauf (rédaction : Mareva). Cible : **creuse et légère, d'une seule pièce, sombre à reflets** (description canonique : `lore/lore.md`, section Statuette)
 - [ ] **Kit pour la nouvelle statuette** (dimanche matin) :
   - [ ] Pièces de Napoléon percées imprimées en 3D (Seb)
   - [ ] Grande bobine de fil (40–50 m pour faire le tour des ~35 joueurs)

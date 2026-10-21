@@ -18,7 +18,7 @@ On peut partir du style eau-forte / gravure ancienne de `assets/photos/bring-bac
 - **Style** : Gravure à l'eau-forte ou peinture sombre du XIXe siècle, encadrée sous verre ou sur carton toilé ancien, format A4 ou A3.
 - **Scène représentée** :
   - Dans une clairière de sapins du Vercors prise dans la brume, **une silhouette debout vêtue de peaux de bêtes et portant un masque cornu/boisé** se tient près d'un rocher plat.
-  - Posée sur le rocher au centre de la composition : **la statuette** (reconnaissable par les joueurs quand l'équipe de Rémi la ramènera à 17h30 !).
+  - Posée sur le rocher au centre de la composition : **la statuette** — petite, sombre, aux reflets (description canonique dans `lore/lore.md`, section Statuette) — reconnaissable par les joueurs quand l'équipe de Rémi la ramènera à 17h30 !
   - Tout autour du rocher : **deux ou trois loups** assis dans la neige, calmes, tournés vers l'extérieur de la clairière comme des chiens de garde qui protègent l'objet et le porteur de masque.
   - Au premier plan dans un coin, à demi caché derrière un tronc de sapin : la silhouette d'un chasseur coiffé d'un chapeau qui observe la scène.
 

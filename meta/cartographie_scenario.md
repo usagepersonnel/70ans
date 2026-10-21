@@ -1,6 +1,6 @@
 # Cartographie structurelle du scénario
 
-Date : 21/10/2026 (J-3). Objet : repérer les problèmes qui font échouer le jeu en conditions réelles, pas les contradictions de détail. Ce document est une carte vue sous plusieurs angles ; il ne tranche rien à la place des auteurs.
+Date : 21/10/2026 (J-3), mis à jour le jour même après les retours de Batiste (les points concernés sont marqués « résolu », « tranché » ou « décidé le 21/10 »). Objet : repérer les problèmes qui font échouer le jeu en conditions réelles, pas les contradictions de détail. Ce document est une carte vue sous plusieurs angles ; il ne tranche rien à la place des auteurs.
 
 ## 0. Méthode et limites
 
@@ -68,7 +68,7 @@ Chaque prop contient le texte d'une étape et doit permettre de trouver le lieu 
 - **[Lu]** `design/reperage.md` : « Faire le trajet gîte → Col de Carri » et « Vérifier que le texte colle au terrain » ne sont pas cochés. Aucune distance, durée ni dénivelé du parcours Rando dans le repo (grep : aucune occurrence pour la Rando).
 - **[Lu]** Aucune carte n'est donnée à l'équipe Rando le samedi. L'achat de l'IGN est prévu pour la superposition du dimanche (`design/reperage.md`, « Production »). Les indices de lieu sont des étymologies (Royer, Fauchier), qui supposent une carte.
 - **[Lu]** 4 feuilles sur 6 ont une version « adaptée à l'époque (à régénérer) » ; les deux versions divergent sur des faits (A3→A4 : le fugitif retourne à la cabane et abandonne son sac, ou ses fidèles l'ont devancé). Aucune version n'est désignée comme définitive.
-- **[Lu]** Le dernier message (A1) dit que le fugitif cache la statuette « à côté de la source, dans sa gourde » (déjà signalé). Conséquence de parcours **[Déduit]** : à 14h15, c'est le seul lieu nommé du texte. L'équipe peut donc partir à la fontaine (que `design/reperage.md` désigne comme candidate pour la « source »), où elle ne trouvera rien, et où elle croisera l'équipe Slow.
+- **[Lu]** Le dernier message (A1) dit que le fugitif cache la statuette « à côté de la source, dans sa gourde ». **Précisé par Batiste le 21/10 : c'est une source en montagne, que Rémi connaît ; ce n'est pas la fontaine du village.** (Ma première lecture, qui supposait la fontaine, était fausse, et `design/reperage.md` le laissait entendre : corrigé.) **[À vérifier]** Aucun document ne localise cette source ni ne dit si elle aide les joueurs à trouver le Col de Carri (`questions.md` #18).
 
 ---
 
@@ -78,15 +78,15 @@ Chaque prop contient le texte d'une étape et doit permettre de trouver le lieu 
 
 | # | Entrée | Qui la consomme | Constat |
 |---|---|---|---|
-| G-1 | **Année gravée sur la fontaine** (clé 1) | Slow, pour ouvrir le site | **[Lu]** Aucun document du repo ne la donne (`questions.md` n°1 toujours ouverte). Le site contient une valeur par défaut `1878` (`ivan-beaulieu-photos/src/lib/keys.ts`) sans source documentée, et `TODO.md` indique que les vraies valeurs ne sont pas déployées. **BLOQUANT**, résolu en 5 minutes au pied de la fontaine ou sur les photos de repérage |
+| G-1 | **Année gravée sur la fontaine** (clé 1) | Slow, pour ouvrir le site | **Résolu le 21/10** : dates gravées « 1894-1994 » (Batiste), statues d'ours de ~1,5 m. Reste à régler `KEY_FOUNTAIN` sur Vercel et à redéployer : le défaut du code (`1878`, `ivan-beaulieu-photos/src/lib/keys.ts`) est faux (`TODO.md`). **MAJEUR** tant que ce n'est pas fait |
 | G-2 | Texte du message dans la statuette | Tout le jeu (le retournement) | **[Lu]** « Reste : le message dans la statuette (Mareva) », `design/retroplanning.md` ; `questions.md` n°19 |
 | G-3 | Contenu des « trois dossiers de parcours » | Les 3 équipes à 14h15 | **[Lu]** L'email les dit « déposés » ; `design/enigmes.md` §0 les décrit comme photocopies des « dernières notes d'Ivan ». Aucun contenu écrit pour aucun des trois, pas même celui de Slow |
 | G-4 | Image du tableau du chasseur (mot `VEILLE` en corps 4-5 pt) | Slow, clé 2 | **[Lu]** « créer l'image du tableau » non coché (`TODO.md`, `design/retroplanning.md`) |
 | G-5 | Navigation Rando et Sportif | Ces deux équipes | Voir §2 : aucune carte ni parcours chiffré |
 | G-6 | Qui prépare quoi, quand | Tous | Voir §4 |
-| G-7 | Les 12 sons → 3 clips → page audio du site | Groupe danse | **[Lu]** table des 12 sons vide (`joueurs/rituel/partition_et_sons.md` §2) ; `SPEC.md` : audio = « Placeholder WAV » ; les enregistrements bruts existent localement, pas le montage |
+| G-7 | Les 12 sons → 3 clips → page audio du site | Groupe danse | **[Lu]** table des 12 sons vide (`joueurs/rituel/partition_et_sons.md` §2) ; `SPEC.md` : audio = « Placeholder WAV » ; les enregistrements bruts existent localement (Mareva). **Montage en cours (Batiste, 21/10).** La table des 12 sons du document reste à renseigner |
 | G-8 | 3 photos de pièges horodatées | Groupe danse (`00:03`, `06:12`, `18:47`) | **[Lu]** `SPEC.md` « À shooter » ; la page affiche `[tirage en cours de numérisation]` (`src/pages/archives/pieges.astro`) |
-| G-9 | Énigme du lieu du champ (superposition de cartes) | Groupe terrain, qui doit partir à 10h30 | **[Lu]** « Énigme du lieu réalisée par Rémi (ok) » (`joueurs/rituel/README.md`) mais aucun document ne la décrit ; `lore/lore.md` dit « chaque groupe revient avec une carte d'une époque différente », alors que la table de convergence (`design/enigmes.md` §D) ne mentionne qu'une carte (Cassini, Rando) ; 3 des 4 cartes n'ont pas de source ; « les trous dans les cartes » reste ❓ |
+| G-9 | Énigme du lieu du champ (superposition de cartes) | Groupe terrain, qui doit partir à 10h30 | **[Lu]** « Énigme du lieu réalisée par Rémi (ok) » (`joueurs/rituel/README.md`) mais aucun document ne la décrit ; `lore/lore.md` dit « chaque groupe revient avec une carte d'une époque différente », alors que la table de convergence (`design/enigmes.md` §D) ne mentionne qu'une carte (Cassini, Rando) ; 3 des 4 cartes n'ont pas de source ; « les trous dans les cartes » reste ❓. **Rémi y travaille (Batiste, 21/10)** |
 | G-10 | Amorce de l'équipe Sportif ; indice « détruire » | Sportif | Voir §5 |
 
 ### 3.2 Sorties sans consommateur scripté (les « aha » qui ne se déclenchent pas)
@@ -106,17 +106,18 @@ Chaque prop contient le texte d'une étape et doit permettre de trouver le lieu 
 
 | Élément | Si ça rate | Repli documenté | Gravité |
 |---|---|---|---|
-| Année de la fontaine / variables d'env. du site | Slow ne peut pas ouvrir le site ; sa récompense du samedi disparaît | Aucun. Le gate accepte les champs partiels, mais une clé fausse reste bloquante | BLOQUANT |
+| Variables d'environnement du site (clé 1 : le défaut `1878` est faux) | Slow ne peut pas ouvrir le site ; sa récompense du samedi disparaît | Aucun. Le gate accepte les champs partiels, mais une clé fausse reste bloquante | MAJEUR tant que `KEY_FOUNTAIN` n'est pas réglée |
 | Slow ne trouve pas la chambre ou la pochette | Plus de loupe, de clés, de calendrier, de voyante : toute l'équipe est à l'arrêt | Double piste (fenêtre + étiquette) ; aucun « coup de pouce » orga prévu | MAJEUR |
-| Réseau au gîte à 16h15 | Pas de site | Aucun pour le samedi ; le secours hors-ligne ne concerne que le dimanche (`joueurs/rituel/enigmes_dimanche.md` §4). **[Lu]** `design/reperage.md` : couverture « faible et inconstante » | MAJEUR |
-| Rando en retard ou chaîne coupée | Pas de statuette : pas de destruction à 17h30 | Aucun | MAJEUR |
-| Sportif ne trouve pas la cache | Pas de masques : pas de danse dimanche (les masques de Mareva n'existent qu'en un exemplaire) | Aucun | MAJEUR |
-| Pluie samedi | Papier en forêt ; parcours longs | **[Lu]** `design/retroplanning.md` : « Plan B météo : variante pluie pour le samedi terrain » = `?`, sans propriétaire. Aucun document ne dit si les feuilles sont protégées | MOYEN |
-| Pluie dimanche (annoncée) | Rituel en extérieur | Version courte sous la pluie, ou repli au gîte ; mais le plan B suggère d'attendre une « trouée sèche entre 10h30 et 11h30 » alors que l'arrivée est à 11h00 et la deadline à 11h30 : **[Déduit]** aucune marge pour attendre | MOYEN |
-| Un orga indisponible | 3 gestes critiques lui sont attribués : échange de la statuette dorée, indice de secours à 10h25, signal de début/fin | Les orgas sont aussi guides, danseurs ou participants ; aucun rôle assigné | MAJEUR |
-| Batiste | Guide Slow, auteur du site, détenteur de l'audio, lecteur du dimanche | Aucun | MOYEN |
+| Réseau au gîte à 16h15 | Pas de site | **Risque accepté (21/10).** Au pire : demander le wifi au personnel du gîte, ou aller au café-librairie. Pas de copie hors-ligne prévue pour le samedi (le secours hors-ligne ne concerne que le dimanche, `joueurs/rituel/enigmes_dimanche.md` §4). **[Lu]** `design/reperage.md` : couverture « faible et inconstante » | MOYEN |
+| Rando en retard ou chaîne coupée | Pas de statuette : pas de destruction à 17h30 | Référent d'équipe (Rémi) comme filet de sécurité (décision du 21/10) ; heure limite et aide possible à cadrer vendredi | MOYEN |
+| Sportif ne trouve pas la cache | Pas de masques : pas de danse dimanche (les masques de Mareva n'existent qu'en un exemplaire) | Référent d'équipe (Seb), même règle | MOYEN |
+| Pluie samedi | Papier en forêt ; parcours longs | **Prévision du 21/10 : pas de pluie, ~8°C**, donc risque faible. Reste le froid (lire et manipuler dehors). Le « Plan B météo » du rétroplanning n'a pas de propriétaire (`design/retroplanning.md`), utile seulement si la prévision change | MINEUR |
+| Pluie dimanche | Rituel en extérieur | **Prévision du 21/10 : pluie dimanche**, donc le plan B est le scénario probable, pas l'exception. Plan B écrit : version courte sous la pluie, ou repli au gîte ; mais il suggère d'attendre une « trouée sèche entre 10h30 et 11h30 » alors que l'arrivée est à 11h00 et la deadline à 11h30 : **[Déduit]** aucune marge pour attendre. Point à vérifier : la peinture dorée (séchage) et les fumigènes sous la pluie (`TODO.md`) | MOYEN |
+| Un orga indisponible | 3 gestes critiques lui sont attribués : échange de la statuette dorée, indice de secours à 10h25, signal de début/fin | Les orgas sont aussi guides, danseurs ou participants ; aucun rôle assigné (à répartir vendredi) | MAJEUR |
+| Mareva indisponible | Seul vrai risque individuel (avis de Batiste, 21/10) : masques, statuette ancienne et son message, sons et voix, chorégraphie reposent sur elle | Aucun écrit. Pistes dans `TODO.md` : finir ses fabrications tôt, partager le texte du message et les notes de chorégraphie, copier sons et voix chez Batiste (montage en cours) | MAJEUR |
+| Batiste, Seb ou Rémi indisponible | Chacun a un rôle de référent d'équipe | Aucun | MINEUR (jugé peu probable d'ici samedi, 21/10) |
 
-**Régie** : **[Lu]** il n'existe aucun plan de mise en place. Seules mentions : « photo prise le vendredi soir en arrivant » et « matériel pré-stagé ». Il faut pourtant placer, avant 14h00 le samedi : l'affiche déchirée, le livre d'or modifié, les étiquettes sur toutes les portes, la pochette, les 7 props Rando (dont 6 en terrain), la cache des masques et le parcours Sportif, le tableau et l'affiche au café ; et la nuit, les miroirs, les bols et les vitres. **[Lu]** `design/retroplanning.md` : sur 21 tâches, **8 n'ont pas de propriétaire** (`?`). Le dry-run est la dernière ligne, au 23/10.
+**Régie** : **[Lu]** il n'existe aucun plan de mise en place. Seules mentions : « photo prise le vendredi soir en arrivant » et « matériel pré-stagé ». Il faut pourtant placer, avant 14h00 le samedi : l'affiche déchirée, le livre d'or modifié, les étiquettes sur toutes les portes, la pochette, les 7 props Rando (dont 6 en terrain), la cache des masques et le parcours Sportif, le tableau et l'affiche au café ; et la nuit, les miroirs, les bols et les vitres. **[Lu]** `design/retroplanning.md` : sur 21 tâches, **8 n'ont pas de propriétaire** (`?`). Le dry-run est la dernière ligne, au 23/10. **Décidé le 21/10** : la répartition « qui place quoi » se fera vendredi 23/10, une fois que tout existe (`TODO.md`).
 
 ---
 
@@ -128,7 +129,7 @@ Chaque prop contient le texte d'une étape et doit permettre de trouver le lieu 
 |---|---|---|---|
 | Slow | « Marcher sur les pas d'Ivan », retrouver ses affaires | Voyante (« il faut la briser… c'est écrit dedans ») + synthèse d'Ivan (« la mettre hors d'état de nuire ») | OK |
 | Rando | Remonter la piste d'un fugitif | Le fugitif l'exige explicitement | OK, avec la réserve ci-dessous |
-| Sportif | **Aucun énoncé** | **Aucune** | **ABSENT** |
+| Sportif | **Aucun énoncé** | **Aucune** | **ABSENT**, en attente de la réponse de Seb (annoncée le 21/10) |
 
 **[Lu]** Le seul levier mécanique côté Sportif est « les masques sont nécessaires au rituel » (Rando, A2). Il n'est pas écrit comment ce « verrou » s'exerce à 17h30.
 
@@ -142,30 +143,32 @@ Contradictions **[Lu]** :
 
 Questions sans réponse écrite : qui brise, avec quoi, où, devant qui, avec quel masque, et ce que la destruction doit représenter pour les joueurs (« j'ai commis une erreur » ou « j'ai libéré un secret »).
 
+**Piste du 21/10** (mémoire de Batiste, **à confirmer avec la team**, `questions.md` #20) : un rituel assez sommaire avec les 3 masques + la statuette, sans marteau. Elle réconcilie les trois premiers points ci-dessus (« rituel de purification », « statuette à briser », masques ramenés par Seb).
+
 ### 5.3 Ivan est-il convaincu ou en train de douter ?
 
-- **[Lu]** La pochette (feuillet de synthèse, pièce 1) : « il faudra trouver cet objet et le mettre hors d'état de nuire ».
-- **[Lu]** La page du site accessible dès le samedi (`src/pages/archives/dossier.astro`) : « ce que j'ai pris pour de la malveillance pendant trop longtemps, je commence à me demander si ce n'est pas autre chose ».
-- **[Déduit]** Le retournement du samedi repose sur la croyance « ils sont dangereux ». Un joueur qui lit les deux documents voit un Ivan qui doute : l'effet de surprise est entamé. C'est peut-être voulu (annonce discrète) ; à décider.
+**Tranché le 21/10 (Batiste) : Ivan ne doute jamais, il est persuadé qu'ils sont maléfiques.** Enregistré dans `lore/lore_precisions.md`.
+- **[Lu]** La pochette est cohérente avec cela (feuillet de synthèse, pièce 1 : « il faudra trouver cet objet et le mettre hors d'état de nuire »).
+- **[Lu]** Un seul passage contredit cette certitude : `src/pages/archives/dossier.astro`, accessible dès le samedi (« je commence à me demander si ce n'est pas autre chose »). Il entame l'effet du retournement. Correction prévue dans la PR du site, texte proposé dans `TODO.md`.
 
 ### 5.4 La fenêtre entre 18h00 samedi et 10h00 dimanche
 
 - **[Lu]** La zone secrète du site est accessible dès le samedi, avec le `carnet d'écoute` qui dit : « toujours quatre sons, puis quatre secondes de silence, comme s'ils attendaient qu'une foule leur réponde » (`joueurs/rituel/enigmes_dimanche.md` §4).
 - **[Lu]** Après le retournement de 18h00, les joueurs savent qu'ils doivent faire le rituel à la place des masqués (`design/deroule.md`) ; l'équipe Slow connaît déjà la deadline de 11h30.
-- **[Déduit]** Slow peut résoudre le décodage du groupe danse le samedi soir. Ce n'est pas un défaut en soi, mais c'est une conséquence de la décision « accès total dès le samedi » (19/10) qui n'a pas été examinée : trois options, Slow coache les autres le dimanche, le contenu est verrouillé jusqu'à une heure donnée, ou le groupe danse reçoit une difficulté différente.
-- **[Lu]** Le cookie du site dure 4 h (`src/lib/auth.ts`, `COOKIE_MAX_AGE = 4 * 60 * 60`). Ouvert vers 16h30, il expire vers 20h30 : le dimanche, il faut ressaisir les 4 clés, ou s'appuyer sur le seul ordinateur de Batiste (secours hors-ligne).
+- **[Déduit]** Conséquence : dès le samedi soir, l'équipe Slow a déjà les clips audio et cette note. Elle peut donc résoudre le décodage du groupe danse **avant** le dimanche matin, alors que ce décodage est prévu pour les 10h00-10h45 de tout le monde. Ce n'est pas un défaut en soi : c'est un effet de la décision « accès total dès le samedi » (19/10), dont ce point n'avait pas été examiné. Trois façons de le traiter : l'accepter (Slow aide les autres le dimanche), verrouiller l'audio jusqu'au dimanche matin, ou donner au groupe danse une difficulté différente. **Accepté le 21/10 (Batiste)** : pas de verrouillage ; ils auront tous les éléments mais ne trouveront pas forcément cela intéressant, et au pire ils écouteront en se disant « c'est nul ».
+- **[Lu]** Quand Slow ouvre le site, le navigateur garde un jeton « connecté » pendant 4 h seulement (`src/lib/auth.ts`, `COOKIE_MAX_AGE = 4 * 60 * 60`). Ouvert vers 16h30, il expire vers 20h30. Le dimanche à 10h00, il faut donc ressaisir les 4 clés sur l'appareil utilisé (elles sont dans la pochette), ou utiliser la copie locale de Batiste, déjà prévue. Détail sans importance (Batiste, 21/10) : tant que les clés ne changent pas, ils peuvent les ressaisir ; on peut aussi porter la durée du cookie à 48 h dans la PR du site (optionnel, c'est un site de jeu). J'avais écrit trop vite que le dimanche « reposait » sur l'ordinateur de Batiste.
 - **[À vérifier]** Aucun document ne décrit la soirée du samedi (dîner, temps libre).
 
 ---
 
 ## 6. Récompense réelle de la zone secrète pour l'équipe Slow
 
-**[Lu]** `design/enigmes.md` B4 annonce, au retour du village : « zone secrète ouverte + échéance de 11h30 connue → conviction : il faut détruire la statuette ». Or :
+**[Lu]** `design/enigmes.md` B4 présente l'ouverture de la zone secrète comme le sommet de l'après-midi de Slow (« zone secrète ouverte + échéance de 11h30 connue → conviction : il faut détruire la statuette »). Mais :
 - l'échéance de 11h30 vient du calendrier (dans la pochette), pas du site ;
-- la conviction de détruire vient de la pochette (voyante, synthèse d'Ivan) ;
-- le contenu du site est par conception « inexploitable » avant dimanche (`decisions/validation_2026-10-19.md` n°13), et deux de ses pages (« relevés de disparitions », « journal d'Ivan ») sont « à écrire » (`SPEC.md`).
+- la conviction de détruire vient de la pochette (voyante, synthèse d'Ivan), pas du site ;
+- ce que le site contient a été voulu « inexploitable » avant dimanche (`decisions/validation_2026-10-19.md` n°13) : clips audio, photos horodatées ; deux pages (« relevés de disparitions », « journal d'Ivan ») sont encore « à écrire » (`SPEC.md`).
 
-**[Déduit]** Après une heure de quête des 4 clés, l'équipe Slow ouvre un coffre dont elle ne peut rien faire. C'est un risque d'anticlimax. Pistes à discuter : une seule pièce du site lisible et marquante dès le samedi.
+**[Déduit]** Après une heure à chercher les 4 clés, l'équipe ouvre un site dont elle ne peut rien faire sur le moment : risque de déception (« tout ça pour ça »). Ce n'est pas une erreur de conception, c'est l'effet de deux décisions qui se cumulent : la récompense arrive à la fin de la quête, et son contenu est volontairement opaque. Piste : mettre dès le samedi une pièce lisible et marquante dans la zone, par exemple l'un des deux textes encore « à écrire ». **Risque assumé le 21/10** (Batiste : « au pire ils vont écouter et se dire c'est nul »). La pièce marquante dès le samedi reste une option facultative.
 
 ---
 
@@ -180,7 +183,7 @@ Questions sans réponse écrite : qui brise, avec quoi, où, devant qui, avec qu
 | Tableau : statuette sur un rocher avec figure masquée et loups | Reconnaissance du prop à 17h30 | **[À vérifier]** : l'image du tableau et la statuette de Mareva doivent se ressembler ; aucun des deux n'est fini |
 | Échéance 11h30 | Deadline du rituel | Oui |
 | `VEILLE`, Chouette = Slow, « trois piétons » | Voir §3.2 | Non |
-| Poids de la statuette | **Deux témoins se contredisent** : le fugitif (1746) la trouve « très légère » ; Marcellin (1886) la dit « lourde comme du plomb » ; le prop est en terre | Non |
+| Poids de la statuette | **Correction de ma part** : les textes ne se contredisent pas. Marcellin (1886, de loin, sans la toucher) dit qu'elle « semblait lourde comme du plomb » ; le fugitif (1746, en main) dit « elle semble lourde, mais elle est en fait très légère ». Le vrai écart est avec le prop en terre. Résolu le 21/10 par une description canonique : creuse, donc légère (`lore/lore.md`) | Oui ; reste la fabrication (Mareva, `questions.md` #19) |
 | Voix de la forêt (fugitif) | Question ouverte depuis le 02/10 | Non |
 
 ---
@@ -201,25 +204,25 @@ Questions sans réponse écrite : qui brise, avec quoi, où, devant qui, avec qu
 
 ### À faire avant samedi (bloquant ou peu coûteux)
 
-1. **Clé 1** : relever l'année de la fontaine, la noter dans le repo, vérifier les variables d'environnement du site (G-1).
-2. **Écrire le plan de mise en place** : qui place quoi, quand, où ; qui est l'orga de nuit ; qui tient les 3 gestes d'orga du dimanche (§4).
-3. **Fermer la chaîne Rando** avec Rémi : indice vers le Col de Carri, indice vers la grotte, code du cryptex, version finale des feuilles, carte donnée à l'équipe, lieu réel de la grotte, parcours marché et chronométré (§2).
-4. **Définir l'amorce de 14h15** : le contenu des 3 dossiers (G-3) ; probablement la solution aux questions de Seb et Rémi sur le premier indice.
-5. **Écrire la scène de 17h30** : qui brise, comment, avec quel rôle des masques ; texte du message (G-2, §5.2).
+1. **Clé 1** : valeur connue (dates gravées 1894-1994, 21/10). Reste à régler `KEY_FOUNTAIN` sur Vercel et à redéployer (`TODO.md`). **En cours.**
+2. **Plan de mise en place** : décidé le 21/10 de le répartir vendredi 23/10, une fois que tout existe (`TODO.md`). **Planifié.**
+3. **Chaîne Rando** : relève de Rémi ; les points sont notés dans `questions.md` #18 (§2). **Noté, en attente de Rémi.**
+4. **Amorce de 14h15** : écrire les 3 dossiers de parcours (G-3), un feuillet chacun ; Batiste estime que c'est rapide (`TODO.md`). **À faire.**
+5. **Scène de 17h30** : piste de Batiste (rituel sommaire, 3 masques + statuette) à confirmer avec la team (`questions.md` #20) ; texte du message toujours à écrire (Mareva, G-2). **À confirmer.**
 
 ### À décider en équipe
 
-6. **Sportif** : un objectif énoncé, des étapes, une raison de détruire (§5.1).
-7. **Zone secrète** : que faire entre 18h00 samedi et 10h00 dimanche (§5.4), et quelle récompense réelle pour Slow (§6).
-8. **Ivan convaincu ou en doute** ? (§5.3).
-9. **Repli si une équipe n'a pas livré son trophée à une heure donnée** (statuette, masques).
-10. **Superposition de cartes** : qui apporte quelles cartes ; rédiger l'énigme du lieu (G-9).
+6. **Sportif** : un objectif énoncé, des étapes, une raison de détruire (§5.1). **En attente de Seb** (réponse annoncée le 21/10).
+7. **Zone secrète** : fenêtre entre 18h00 samedi et 10h00 dimanche (§5.4) et récompense de Slow (§6). **Accepté le 21/10**, pas de verrouillage ; une pièce marquante dès le samedi reste facultative (`TODO.md`).
+8. **Ivan convaincu ou en doute** ? **Tranché le 21/10** : il ne doute jamais. Texte du site à corriger dans la PR (`TODO.md`).
+9. **Repli si une équipe n'a pas livré son trophée** : **tranché le 21/10**, un référent par équipe aide si besoin. Heure limite et aide possible à cadrer vendredi.
+10. **Superposition de cartes** : qui apporte quelles cartes ; rédiger l'énigme du lieu (G-9). **Ouvert** (Rémi).
 
 ### À surveiller
 
-11. Pluie : papier protégé ; plan B du rituel et sa marge de 30 minutes.
+11. Pluie dimanche (prévue) : plan B du rituel et sa marge de 30 minutes, peinture dorée et fumigènes sous la pluie. Samedi : pas de pluie annoncée, ~8°C.
 12. Effectifs par équipe, nombre de pochettes et de loupes.
-13. Payoffs non scriptés (`VEILLE`, Chouette, « trois piétons ») ; poids contradictoire de la statuette.
+13. Payoffs non scriptés (`VEILLE`, Chouette, « trois piétons »). Le poids de la statuette est résolu (description canonique, §7).
 
 ### Tests humains que le repo ne peut pas remplacer
 
