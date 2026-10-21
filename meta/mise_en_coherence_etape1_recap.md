@@ -4,7 +4,7 @@ Voici le recap façon PR — prêt à partager ou à paraphraser pour la team :
 
 ### Ce qu'on a fait
 
-Audit complet du repo (et lecture croisée du site) selon `methode_coherence.md` : 5 passes — hygiène des docs, table des invariants, plausibilité matérielle des props, graphe d'information heure par heure, synchro site. Résultat détaillé dans `audit_coherence_2026-10-20.md`. Verdict : **aucune contradiction bloquante** dans le socle narratif ; l'essentiel était du doc rot dans les fichiers de synthèse.
+Audit complet du repo (et lecture croisée du site) selon `meta/methode_coherence.md` : 5 passes — hygiène des docs, table des invariants, plausibilité matérielle des props, graphe d'information heure par heure, synchro site. Résultat détaillé dans `meta/audit_coherence_2026-10-20.md`. Verdict : **aucune contradiction bloquante** dans le socle narratif ; l'essentiel était du doc rot dans les fichiers de synthèse.
 
 ### Corrigé — chronologie & mécanique du jeu
 
@@ -23,19 +23,19 @@ Audit complet du repo (et lecture croisée du site) selon `methode_coherence.md`
 - **Relevés d'Ivan** : 2011 ne parle plus de « déclenchement » (pas d'enregistreur avant 2019, pas de pièges avant 2021) ; la remontée du 18 oct. 2025 est signalée comme exceptionnelle (il meurt avant sa veille du changement d'heure).
 - **Almanach** : plus de « cadran solaire du bourg » (il n'en existe pas au village → risque de fausse piste), et « la brèche ouverte pour un siècle » → 140 ans, le vrai cycle.
 - **Cartel du tableau** : « novembre 1886 » → « fin octobre 1886 » (colle à la Grande Veille).
-- `ivan/Perchtenlauf Loup` et `Hiboux` marqués « document source » (la version joueur est `documents_ivan/07`) + coquilles corrigées (« Rpport », « desgrands »).
+- `assets/sources/perchtenlauf_loup.md` et `Hiboux` marqués « document source » (la version joueur est `joueurs/slow/pochette/07_annexes_1894_1944.md`) + coquilles corrigées (« Rpport », « desgrands »).
 
 ### Corrigé — docs de suivi
 
 - `AGENTS.md` : Ivan « meurt dans un accident », ne « disparaît » plus — un joueur aurait pu croire qu'il se cachait.
 - `questions.md` : renuméroté (deux fois « 14 »), 3 questions résolues — **Camille** (prénom épicène choisi), Ivan **né ~1952** (73 ans dans l'article), accident **nuit du 18–19 oct. 2025**.
-- `README`, `TODO`, `retroplanning` : inventaires et statuts à jour (`documents_ivan/`, `props_slow/`, mot du tableau = `VEILLE` acté).
+- `README`, `TODO`, `retroplanning` : inventaires et statuts à jour (`joueurs/slow/pochette/`, `joueurs/slow/props/`, mot du tableau = `VEILLE` acté).
 
 ### Pas touché volontairement
 
 - **Les arcs de Seb et Rémi** : rien de tranché à leur place — uniquement balisé `<a_confirmer>` et listé en questions.
 - **Le site** : 5 petits fixes identifiés mais non appliqués → PR à part (règle : jamais de push direct sur `main`).
-- `archived/`, `validation_*`, `code/` : figés par principe.
+- `archive/`, `validation_*`, `tools/` : figés par principe.
 
 ### Reste ouvert — à trancher avec la team (17 points dans l'audit)
 

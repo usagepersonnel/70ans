@@ -3,8 +3,8 @@ archived/*.ini
 # Machine-local files — never commit (convention: local_ prefix = local to this machine)
 local_*
 friction_log.md
-rituel/raw_sounds.wav
-rituel/raw_sounds.wav.asd
-rituel/voices.wav
-rituel/voices.wav.asd
+joueurs/rituel/raw_sounds.wav
+joueurs/rituel/raw_sounds.wav.asd
+joueurs/rituel/voices.wav
+joueurs/rituel/voices.wav.asd
 methode_coherence.md

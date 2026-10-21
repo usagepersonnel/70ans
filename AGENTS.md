@@ -24,24 +24,34 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 
 ## 📁 Structure du projet
 
-- `lore.md` — canon narratif (source de vérité)
-- `lore_precisions.md` — décisions et questions de lore
-- `deroule.md` — game design : équipes, déroulé, énigmes
-- `enigmes.md` — cartographie du parcours joueur (étape → difficulté → déblocage)
-- `feuilles_rando.md` — texte joueur de l'arc rando (récit du fugitif)
-- `reperage.md` — checklist et retours terrain
-- `retroplanning.md` — plan de travail à J-20
+- `lore/lore.md` — canon narratif (source de vérité)
+- `lore/lore_precisions.md` — décisions et questions de lore
+- `design/deroule.md` — game design : équipes, déroulé, énigmes
+- `design/enigmes.md` — cartographie du parcours joueur (étape → difficulté → déblocage)
+- `joueurs/rando/feuilles_rando.md` — texte joueur de l'arc rando (récit du fugitif)
+- `design/reperage.md` — checklist et retours terrain
+- `design/retroplanning.md` — plan de travail à J-20
 - `TODO.md` — état du projet, priorités, tâches
 - `questions.md` — questions en suspens pour l'équipe + draft du message de synchro
-- `documents_ivan/` — contenu de la pochette d'Ivan (7 pièces + index) — arc tranquille
-- `props_slow/` — props du lancement et de l'arc tranquille
-- `rituel/` — conception complète du rituel du dimanche (structure, partition des 12 sons, énigmes, checklist production)
-- `ivan/` — biographie et photos d'Ivan Beaulieu (assets pour le site web)
-- `meta/` — méthode, rapport et récap de la passe de cohérence (`methode_coherence.md`, `audit_coherence_2026-10-20.md`, `mise_en_coherence_etape1_recap.md`)
-- `timeline_*.md` — chronologies de vérification
-- `validation_*.md` — points soumis à validation d'équipe, datés
-- `ref_*.md` — références non vivantes
-- `code/` — script utilitaire Mermaid → markdown (non essentiel)
+- `joueurs/slow/pochette/` — contenu de la pochette d'Ivan (7 pièces + index) — arc tranquille
+- `joueurs/slow/props/` — props du lancement et de l'arc tranquille
+- `joueurs/sportif/` — espace de l'arc sportif (Seb)
+- `joueurs/rituel/` — conception complète du rituel du dimanche (structure, partition des 12 sons, énigmes, checklist production)
+- `assets/` — bio/portraits (`assets/ivan/`), clichés de pièges (`assets/photos/`), textes Perchtenlauf (`assets/sources/`), cartes (`assets/cartes/`)
+- `meta/` — méthode, rapport et récap de la passe de cohérence (`meta/methode_coherence.md`, `meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`)
+- `meta/timeline_*.md` — chronologies de vérification
+- `decisions/validation_*.md` — points soumis à validation d'équipe, datés
+- `archive/` — snapshots et références non vivantes (`archive/ref_*.md`, `archive/excalidraw/`)
+- `tools/` — `tools/check_links.py` (vérification des références) + extraction Excalidraw (non essentiel)
+
+## 🧭 Conventions de nommage
+
+- Fichiers : minuscules, `snake_case`, ASCII, extension `.md` obligatoire.
+- Comptes rendus datés : `decisions/validation_*.md` — figés, ne pas réécrire.
+- Séquences ordonnées (pièces de la pochette, props) : préfixe `NN_`.
+- Contenu joueur : un dossier par équipe dans `joueurs/`, chacun avec un `README.md` d'index.
+- Références entre docs : chemins relatifs à la racine du repo, entre backticks ; liens `[x](...)` relatifs au fichier.
+- Avant de merger un déplacement : `python tools/check_links.py` doit répondre « aucune référence morte ».
 
 ## 🎭 Synopsis du scénario
 
@@ -52,7 +62,7 @@ Des disparitions étranges ont lieu dans le Vercors depuis l'Antiquité. Le « T
 - Ivan Beaulieu, photographe animalier, a capturé des images d'êtres masqués dans la forêt avant de mourir dans un accident de la route (oct. 2025, un an avant le jeu). Il est convaincu qu'ils sont malveillants
 - Les joueurs découvrent que ces êtres (liés au folklore Perchten) ne sont pas dangereux mais protègent contre les phénomènes étranges
 - Un rituel de danse avec costumes spécifiques permet de désamorcer le « triangle » pour les 140 prochaines années (selon la qualité du rituel, les effets peuvent être plus ou moins atténués, voire le triangle complètement neutralisé)
-- Le rituel doit être effectué le dimanche du changement d'heure d'octobre, avant 11h30 à la montre (10h au soleil + corrections, cf. `props_slow/slow_05`)
+- Le rituel doit être effectué le dimanche du changement d'heure d'octobre, avant 11h30 à la montre (10h au soleil + corrections, cf. `joueurs/slow/props/05_enigme_vieux_calendrier.md`)
 
 **Progression narrative (mécanisme de révélation)** :
 

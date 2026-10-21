@@ -12,18 +12,18 @@ Réponses à fournir quand vous passez par là — aucune ne nous bloque, les r�
 
 ## Lore / props
 
-6. ~~**Prénom de l'enfant d'Ivan**~~ → **Camille** retenu dans `props_slow/slow_01` (épicène, volontaire) — à valider par le groupe
-7. ~~**Année de naissance d'Ivan**~~ → la coupure de presse (`documents_ivan/06`) fixe **73 ans en oct. 2025 → né ~1952**. Bio à aligner sur cette valeur
+6. ~~**Prénom de l'enfant d'Ivan**~~ → **Camille** retenu dans `joueurs/slow/props/01_lancement_email_enfant.md` (épicène, volontaire) — à valider par le groupe
+7. ~~**Année de naissance d'Ivan**~~ → la coupure de presse (`joueurs/slow/pochette/06_coupure_presse_accident.md`) fixe **73 ans en oct. 2025 → né ~1952**. Bio à aligner sur cette valeur
 8. ~~**Date exacte de l'accident**~~ → fixée : **nuit du samedi 18 au dimanche 19 octobre 2025** (coupure `06`, carnet `01`, site) — une semaine avant le changement d'heure
 9. **La chambre d'Ivan existe-t-elle vraiment** ou on en choisit une au hasard à l'arrivée ? (prop : photo « vue depuis sa fenêtre » à fabriquer une fois la chambre choisie — à faire sur place à l'arrivée vendredi)
 10. **Livre d'or 2011** : format/état exact (album photo ?) pour y glisser la fausse page/photo d'Ivan
 
 ## Nouveaux assets (uploads du 20/10)
 
-14. **Source des photos de pièges** (`ChouetteFinale.jpg`, `LoupFinal.jpg`, les renards WhatsApp) : partiellement répondu (Seb 21/10) — en jeu ce sont des clichés des pièges d'Ivan, sur le trajet ou pointant vers un lieu du trajet. Reste : provenance réelle + droits pour le site public ?
-15. **L'eau-forte ours/loups** (`bring-back-the-etching-style.jpg`) : générée par IA ? C'est une référence de style pour le tableau du chasseur ou un asset destiné à servir tel quel ?
-16. ~~**La source des deux docs Perchten**~~ → ✅ **Seb** (il les a écrits + a ajouté `Perchtenlauf bouquetin` le 20/10 — « mes trucs pour Ivan et les Perchtenlauf »)
-17. **Photos de piège bouquetin** : des clichés `bouquetin*.jpg` existent dans `ivan/` — à vérifier s'ils font « cliché nocturne de piège » pour le site
+14. **Source des photos de pièges** (`assets/photos/ChouetteFinale.jpg`, `assets/photos/LoupFinal.jpg`, les renards WhatsApp) : partiellement répondu (Seb 21/10) — en jeu ce sont des clichés des pièges d'Ivan, sur le trajet ou pointant vers un lieu du trajet. Reste : provenance réelle + droits pour le site public ?
+15. **L'eau-forte ours/loups** (`assets/photos/bring-back-the-etching-style.jpg`) : générée par IA ? C'est une référence de style pour le tableau du chasseur ou un asset destiné à servir tel quel ?
+16. ~~**La source des deux docs Perchten**~~ → ✅ **Seb** (il les a écrits + a ajouté `assets/sources/perchtenlauf_bouquetin.md` le 20/10 — « mes trucs pour Ivan et les Perchtenlauf »)
+17. **Photos de piège bouquetin** : des clichés `assets/photos/bouquetin*.jpg` existent — à vérifier s'ils font « cliché nocturne de piège » pour le site
 17b. **Texte Bouquetin (Seb)** : pas de date + apparition à la Grande Moucherotte (nord Vercors, ~60 km du jeu ; ton texte de 1944 est local, « nord de Vassieux ») → date à fixer et lieu à confirmer (Archiane / Grand Veymont si on reste local). Et les 3 textes : dans la pochette d'Ivan, épinglés au gîte, ou les deux ?
 
 ## Équipe (points de synchro Samedi)
@@ -34,9 +34,9 @@ Réponses à fournir quand vous passez par là — aucune ne nous bloque, les r�
     - Toujours ouvert : dans la cache finale, y a-t-il un indice qui pousse ton équipe à vouloir **détruire la statuette** à 17h30 (ou un protocole « comment la détruire avec les masques ») ?
 20. **Rémi — Parcours Rando** :
     - Quel contenant pour la 1re feuille du fugitif au départ du gîte (on n'a pas de bambou pour l'instant : étui/tube carton, enveloppe d'Ivan, autre) ?
-    - Trancher la date du fugitif (`1746` dans `feuilles_rando.md` vs `~1886` dans `lore.md` — les deux marchent avec le cycle de 140 ans : 1746 = 2 cycles avant 2026, 1886 = 1 cycle avant 2026).
+    - Trancher la date du fugitif (`1746` dans `joueurs/rando/feuilles_rando.md` vs `~1886` dans `lore/lore.md` — les deux marchent avec le cycle de 140 ans : 1746 = 2 cycles avant 2026, 1886 = 1 cycle avant 2026).
     - As-tu les 3 points du triangle / la carte que ton équipe ramène pour la superposition du dimanche matin ?
-21. **Mareva** : les 6 points de `rituel/checklist_production.md` §1 + texte exact du message caché à l'intérieur de la statuette.
+21. **Mareva** : les 6 points de `joueurs/rituel/checklist_production.md` §1 + texte exact du message caché à l'intérieur de la statuette.
 
 
 ## Draft message
@@ -53,7 +53,7 @@ Imaginez : samedi, 14h, tout le monde est au gîte (et personne ne sort son tél
 
 Justement, au mur du gîte, une vieille affiche déchirée : « Les Habitants de la nuit », une conférence d'Ivan au café-librairie. Le bas est arraché, avec l'adresse de son site. L'affiche intacte est au village, chez le commerçant qui l'a gardée. Ivan dormait ici chaque automne depuis 2011, et Camille propose à ceux qui le souhaitent de refaire ses itinéraires « sur ses pas », en sa mémoire. En nous donnant des infos sur ces itinéraires, elle se rachète un peu de planter le groupe cet aprem-là, en nous incitant à y aller en autonomie. Les trois parcours, les trois groupes, se forment ainsi naturellement, chacun avec sa propre histoire à vivre.
 
-Mon groupe rejouera l'enquête d'Ivan. Il retrouve sa chambre grâce au livre d'or de 2011, puis le vieux dossier à élastiques qu'il a oublié sous le lit : des feuilles volantes, car son vrai carnet était dans sa voiture la nuit de l'accident. Les hôtes du gîte y ont glissé l'article du journal, en attendant que Camille vienne récupérer les affaires de son père. Le groupe slow enchaîne avec le village (le café, le tableau du chasseur à la loupe, le cimetière, la fontaine, les plantes) puis le site secret d'Ivan. Tous les textes sont rédigés dans les dossiers documents_ivan et props_slow.
+Mon groupe rejouera l'enquête d'Ivan. Il retrouve sa chambre grâce au livre d'or de 2011, puis le vieux dossier à élastiques qu'il a oublié sous le lit : des feuilles volantes, car son vrai carnet était dans sa voiture la nuit de l'accident. Les hôtes du gîte y ont glissé l'article du journal, en attendant que Camille vienne récupérer les affaires de son père. Le groupe slow enchaîne avec le village (le café, le tableau du chasseur à la loupe, le cimetière, la fontaine, les plantes) puis le site secret d'Ivan. Tous les textes sont rédigés dans les dossiers joueurs/slow/pochette et joueurs/slow/props.
 
 À 17h30, les trois groupes se retrouvent, chacun avec un morceau de l'histoire : Rémi rapporte la statuette, Seb les tenues et les masques, et nous le dossier d'Ivan. Chaque groupe a eu, de son côté, une bonne raison de croire qu'il faut briser la statuette, et ils le font ensemble. Mais à l'intérieur, il y a un message écrit au « je » par un ancien Perchtenlauf : les masqués ne sont pas des monstres, ils protègent le Vercors, et on vient de commettre l'erreur d'Ivan. Dimanche, il faudra la réparer.
 
@@ -71,9 +71,9 @@ La liste complète est dans le fichier meta/audit_coherence_2026-10-20.md (secti
 
 @Seb : ton groupe ramène-t-il bien toutes les tenues et tous les masques ? Trouve-t-il dans la cache un indice qui le pousse à vouloir détruire la statuette ? Et d'où viennent les photos de pièges et les 2 textes Loup 1894 / Hiboux 1944 du dossier ivan (pour savoir si j'ai le droit de les mettre sur le site) ?
 
-@Rémi : 4 points sur feuilles_rando.md. Rien d'urgent, mais ça m'aide à aligner le reste.
+@Rémi : 4 points sur joueurs/rando/feuilles_rando.md. Rien d'urgent, mais ça m'aide à aligner le reste.
 
-a) Date du fugitif : 1746 ou ~1886 ? Ton texte dit 1746 (le 9 septembre), mais lore.md disait « fin du cycle précédent, ~1886 ». Les deux collent avec le cycle de 140 ans. Je propose de garder 1746, ce qui laisse 1886 aux autres documents (lettre de l'enfant, almanach, tableau). Un seul détail : le site d'Ivan dit déjà « vers 1746 ». Ça te va ?
+a) Date du fugitif : 1746 ou ~1886 ? Ton texte dit 1746 (le 9 septembre), mais lore/lore.md disait « fin du cycle précédent, ~1886 ». Les deux collent avec le cycle de 140 ans. Je propose de garder 1746, ce qui laisse 1886 aux autres documents (lettre de l'enfant, almanach, tableau). Un seul détail : le site d'Ivan dit déjà « vers 1746 ». Ça te va ?
 
 b) Premier message, au gîte. Dans ta liste des supports (ligne 179), le 1er message que trouvent les joueurs est « dans un morceau de bambou au gîte, à définir comment ils le trouvent ». Comme ton parcours se remonte à l'envers, c'est la toute dernière feuille du fugitif, celle qui lance ton équipe. Deux questions : as-tu un bambou ou un autre contenant (tube carton, enveloppe) ? Et comment tes joueurs le trouvent-ils à 14h15, sachant que le lancement passe par l'email de Camille ? Je peux glisser une phrase dans l'email, du genre « Ivan avait laissé ce tube pour qui reprendrait ses itinéraires », si ça t'aide.
 
@@ -81,7 +81,7 @@ c) Statuette « dans ma gourde » (ligne 190). Le fugitif dit cacher la statuett
 
 d) Détruire la statuette ou la « purifier » ? Ton fugitif cherche à retrouver « le rituel exact de purification » (lignes 126 et 136) et dit que les instructions de destruction ont disparu. Pourtant, samedi soir, les joueurs la brisent. Faut-il comprendre que le fugitif se trompe et qu'on peut la casser, ou qu'il faut un geste particulier au moment de la briser ? Je pensais à faire porter un masque ramené par l'équipe de Seb à celui qui la brise, puisque ton texte dit que « les masques sont essentiels au rituel ».
 
-@Mareva : les 6 points de rituel/checklist_production.md (section 1) et le texte exact du message caché dans la statuette.
+@Mareva : les 6 points de joueurs/rituel/checklist_production.md (section 1) et le texte exact du message caché dans la statuette.
 
 J'ai pas forcément besoin de toutes les réponses, mais si vous les avez je suis preneur :)
 
