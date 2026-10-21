@@ -21,6 +21,7 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 - Les 3 équipes coexistent sur le terrain
 - Jour 1 : séparation avec un but chacun (+ ou - physique)
 - Jour 2 : rituel ensemble
+- **Nommage (21/10)** : les équipes portent le prénom de leur référent — **équipe Batiste** (village/gîte), **équipe Seb** (~200 m D+), **équipe Rémi** (grande rando des crêtes). Niveau physique croissant : Batiste < Seb < Rémi. Les dossiers `joueurs/` suivent ce nommage ; les anciens labels « slow / rando / sportif » sont abandonnés (ils restent dans les fichiers figés `meta/`, `decisions/` et `archive/`).
 
 ## 📁 Structure du projet
 
@@ -28,14 +29,14 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 - `lore/lore_precisions.md` — décisions et questions de lore
 - `design/deroule.md` — game design : équipes, déroulé, énigmes
 - `design/enigmes.md` — cartographie du parcours joueur (étape → difficulté → déblocage)
-- `joueurs/rando/feuilles_rando.md` — texte joueur de l'arc rando (récit du fugitif)
+- `joueurs/remi/feuilles_rando.md` — texte joueur de l'arc de Rémi (récit du fugitif)
 - `design/reperage.md` — checklist et retours terrain
 - `design/retroplanning.md` — jalons et calendrier (le suivi des tâches est dans `TODO.md`)
 - `TODO.md` — tâches, responsables et état d'avancement (travail qui ne demande aucune décision)
 - `questions.md` — questions ouvertes pour l'équipe (ouvertes uniquement ; règles en tête du fichier)
-- `joueurs/slow/pochette/` — contenu de la pochette d'Ivan (7 pièces + index) — arc tranquille
-- `joueurs/slow/props/` — props du lancement et de l'arc tranquille
-- `joueurs/sportif/` — espace de l'arc sportif (Seb)
+- `joueurs/batiste/pochette/` — contenu de la pochette d'Ivan (7 pièces + index) — arc de Batiste
+- `joueurs/batiste/props/` — props du lancement et de l'arc de Batiste
+- `joueurs/seb/` — espace de l'arc de Seb
 - `joueurs/rituel/` — conception complète du rituel du dimanche (structure, partition des 12 sons, énigmes, checklist production)
 - `assets/` — bio/portraits (`assets/ivan/`), clichés de pièges (`assets/photos/`), textes Perchtenlauf (`assets/sources/`), cartes (`assets/cartes/`)
 - `meta/` — analyses subsidiaires et instantanés datés, **jamais une source de faits** : méthode, rapport et récap de la passe de cohérence (`meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`, et `meta/methode_coherence.md`, fichier local non versionné), cartographie structurelle du scénario (`meta/cartographie_scenario.md`), message d'équipe (`meta/message_equipe_2026-10-21.md`)
@@ -89,7 +90,7 @@ Des disparitions étranges ont lieu dans le Vercors depuis l'Antiquité. Le « T
 - Ivan Beaulieu, photographe animalier, a capturé des images d'êtres masqués dans la forêt avant de mourir dans un accident de la route (oct. 2025, un an avant le jeu). Il est convaincu qu'ils sont malveillants
 - Les joueurs découvrent que ces êtres (liés au folklore Perchten) ne sont pas dangereux mais protègent contre les phénomènes étranges
 - Un rituel de danse avec costumes spécifiques permet de désamorcer le « triangle » pour les 140 prochaines années (selon la qualité du rituel, les effets peuvent être plus ou moins atténués, voire le triangle complètement neutralisé)
-- Le rituel doit être effectué le dimanche du changement d'heure d'octobre, avant 11h30 à la montre (10h au soleil + corrections, cf. `joueurs/slow/props/05_enigme_vieux_calendrier.md`)
+- Le rituel doit être effectué le dimanche du changement d'heure d'octobre, avant 11h30 à la montre (10h au soleil + corrections, cf. `joueurs/batiste/props/05_enigme_vieux_calendrier.md`)
 
 **Progression narrative (mécanisme de révélation)** :
 

@@ -1,6 +1,6 @@
 # Lore
 
-> **Navigation** : décisions & questions ouvertes → `lore/lore_precisions.md` ; déroulé & game design → `design/deroule.md` ; chronologie → `meta/timeline_lore.md` ; parcours rando → `meta/timeline_rando.md` / `joueurs/rando/feuilles_rando.md` ; repérage terrain → `design/reperage.md` ; tâches & priorités → `TODO.md`.
+> **Navigation** : décisions & questions ouvertes → `lore/lore_precisions.md` ; déroulé & game design → `design/deroule.md` ; chronologie → `meta/timeline_lore.md` ; parcours rando → `meta/timeline_rando.md` / `joueurs/remi/feuilles_rando.md` ; repérage terrain → `design/reperage.md` ; tâches & priorités → `TODO.md`.
 
 ## Teaser
 
@@ -47,8 +47,8 @@ Les défilés, appelés Perchtenläufe, voient des groupes masqués parcourir le
 
 - 14h : lancement commun au gîte (email imprimé de l'enfant d'Ivan + affiche déchirée — 100 % physique)
 - ~14h15-14h30 : séparation des 3 groupes, chacun sur son arc autonome (pas de communication entre équipes)
-    - Groupe tranquille (Batiste) : chambre d'Ivan au gîte 14h30-15h15 → boucle village → site au gîte
-    - Groupe sportif (Seb) : parcours pièges photo + énigmes animaux (~200 m D+) → tenues/masques
+    - Groupe de Batiste : chambre d'Ivan au gîte 14h30-15h15 → boucle village → site au gîte
+    - Groupe de Seb : parcours pièges photo + énigmes animaux (~200 m D+) → tenues/masques
     - Groupe rando (Rémi) : trace du fugitif à rebours → grotte + statuette
 - ~17h30 : regroupement au gîte → destruction de la statuette
 
@@ -92,7 +92,7 @@ Cartes à utiliser :
 ### Autres énigmes
 
 - ~~Geoguesser avec photo~~ — abandonné (11/10 : pas de communication entre équipes le samedi)
-- Triangulation de photo de piège photographique (arc sportif de Seb)
+- Triangulation de photo de piège photographique (arc de Seb de Seb)
 - Descriptions de trajets qui mènent à des endroits qu’on retrouve sur une carte (écrit de l’an 1000)
 - 3 lieux, 3 énigmes
 
@@ -101,21 +101,21 @@ Cartes à utiliser :
 - **Ivan Beaulieu** — photographe animalier. Il a photographié les êtres masqués, s'est convaincu de leur malveillance et a créé le site web (façade animalière → complot, partie publique + partie secrète). Mort il y a un an (décision 19/10) dans un vrai accident de voiture, de nuit en montagne, en allant les chercher : l'article de journal mentionne des personnes en tenues étranges percutées — peut-être les derniers Perchtenlauf (déductible, jamais énoncé).
 - **Pas de PNJ « enfant d'Ivan »** (validé en équipe, réversible) — son rôle (infodump + code de la partie secrète du site) passe par la pochette d'Ivan trouvée dans sa chambre le samedi. Seule trace de l'enfant : un **message unique** au lancement (email ou appel annonçant l'annulation de la commande faite sur le site, cf. `design/deroule.md`), sans réponse possible — ce n'est pas un PNJ.
 - **La voyante** — donne un indice énigmatique tentant à interpréter comme « détruire l'objet ». En réalité c'est juste une mauvaise voyante, ni gentille ni méchante. Forme de l'interaction à trancher : pas de lieu au village (cf. `design/deroule.md`).
-- **Le fugitif** — Perchtenlauf du cycle précédent (~1886), convaincu par les « voix de la forêt » que la statuette causait les cycles : il l'a volée, a fui, a été rattrapé ; les Perchten l'ont replacée dans la grotte. Son récit structure l'arc rando (cf. `joueurs/rando/feuilles_rando.md`). Son sort n'est pas raconté ; la nature des voix reste à trancher — sont-ce les mêmes échos du passé que les manifestations nocturnes ? (cf. `lore/lore_precisions.md`).
+- **Le fugitif** — Perchtenlauf du cycle de **1746** (tranché par Rémi, 21/10), convaincu par les « voix de la forêt » que la statuette causait les cycles : il l'a volée, a fui, a été rattrapé ; les Perchten l'ont replacée dans la grotte. Son récit structure l'arc de Rémi (cf. `joueurs/remi/feuilles_rando.md`). Son sort n'est pas raconté ; la nature des voix reste à trancher — sont-ce les mêmes échos du passé que les manifestations nocturnes ? (cf. `lore/lore_precisions.md`).
 - **Mécanique PNJ** : les PNJ ne sont pas généreux — il faut résoudre une énigme ou accomplir une tâche pour obtenir un document ou une information
 
 ## Objets et costumes
 
 ### Statuette
 
-- La statuette ancienne se trouve dans la grotte aux objets disparus ; l'équipe rando la découvre le samedi.
+- La statuette ancienne se trouve dans la grotte aux objets disparus ; l'équipe Rémi la découvre le samedi.
 - **Description canonique de la statuette ancienne** (21/10, à respecter dans tous les textes et props) :
     - **Taille** : petite, à peine plus grande qu'une main.
     - **Aspect** : sombre, aux reflets ; elle **paraît lourde** (« comme du plomb »).
     - **Au toucher** : elle est **étonnamment légère**. Explication : elle est **creuse**, c'est là qu'est caché le message au « je ».
     - **Matière** : pas du bois ; indéterminée pour les témoins.
     - **Forme** : d'une seule pièce, sans fil ni lien (le fil manquant est l'enjeu du dimanche).
-    - **Témoins concordants** : Marcellin en 1886, sans l'avoir touchée (« semblait lourde comme du plomb », `joueurs/slow/pochette/04_lettre_enfant_grotte.md`) ; le fugitif de 1746, en main (« elle semble lourde, mais elle est en fait très légère », `joueurs/rando/feuilles_rando.md`) ; le tableau (`joueurs/slow/props/04_tableau_chasseur_et_loupe.md`).
+    - **Témoins concordants** : Marcellin en 1886, sans l'avoir touchée (« semblait lourde comme du plomb », `joueurs/batiste/pochette/04_lettre_enfant_grotte.md`) ; le fugitif de 1746, en main (« elle semble lourde, mais elle est en fait très légère », `joueurs/remi/feuilles_rando.md`) ; le tableau (`joueurs/batiste/props/04_tableau_chasseur_et_loupe.md`).
     - **Prop** : terre ou pâte légère, creuse, finition sombre brillante (Mareva, à confirmer, `questions.md` #19).
 - Les joueurs la détruisent — poussés par la voyante, le tableau du chasseur et le journal du fugitif → elle contient le message d'un ancien Perchtenlauf écrit à la première personne : si les joueurs l'ont trouvée, c'est que les anciens Perchtenlauf ne sont plus là — ils doivent prendre le relais.
 - **Nouvelle statuette** : les joueurs la fabriquent selon les instructions — matériaux imposés (bois, etc.) et symboles à rendre visibles (loup, etc.) ; forme libre ; les morceaux de l'ancienne ne sont pas requis.
@@ -140,7 +140,7 @@ Cartes à utiliser :
 
 ## Équipes et arcs
 
-### Équipe tranquille (Batiste) — dans la chapelle en Vercors
+### Équipe Batiste (Batiste) — dans la chapelle en Vercors
 
 Ivan : enquête sur les cultistes. Objectif : réunir des infos sur ce qu’il se passe (triangle du Vercors + cultistes). Arc autonome : l'équipe rejoue l'enquête d'Ivan (chambre → pochette → boucle village → site).
 

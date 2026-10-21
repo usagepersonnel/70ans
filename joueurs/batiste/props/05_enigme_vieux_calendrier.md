@@ -1,4 +1,4 @@
-# `joueurs/slow/props/05_enigme_vieux_calendrier.md` — L'énigme du Vieux Calendrier (Samedi 16h30 au gîte)
+# `joueurs/batiste/props/05_enigme_vieux_calendrier.md` — L'énigme du Vieux Calendrier (Samedi 16h30 au gîte)
 
 ## Rôle dans le jeu
 - **Quand** : Trouvé à 14h45 dans la pochette d'Ivan (en même temps que la loupe), mais résolu tranquillement au chaud au gîte vers **16h30** (pendant ou juste après l'exploration du site web), ou le dimanche matin à 10h00.

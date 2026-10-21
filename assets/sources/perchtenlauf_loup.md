@@ -1,4 +1,4 @@
-*(Document source — repris et mis en page dans `joueurs/slow/pochette/07_annexes_1894_1944.md` pour le prop joueur.)*
+*(Document source — repris et mis en page dans `joueurs/batiste/pochette/07_annexes_1894_1944.md` pour le prop joueur.)*
 
 UNE TERRIFIANTE APPARITION DANS LE VERCORS
 Robert Janlin — Grenoble, novembre 1894

@@ -1,6 +1,6 @@
-# Arc sportif (Seb) — pièges photo, énigmes animaux, cache des Perchten
+# Arc de Seb — pièges photo, énigmes animaux, cache des Perchten
 
-Espace de travail de l'équipe sportive (~200 m D+). Référence de design : `design/enigmes.md` §C.
+Espace de travail de l'équipe Seb (~200 m D+). Référence de design : `design/enigmes.md` §C.
 
 Confirmé par Seb (21/10) : l'équipe ramène **toutes les tenues et masques des Perchten** (+ probablement des cailloux peints). Les clichés de pièges (`assets/photos/`) sont posés sur le trajet ou pointent vers un lieu du trajet.
 

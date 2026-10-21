@@ -8,19 +8,19 @@ Questions de répartition des équipes, d'énigmes et de mécaniques. Le lore es
 
 D'après excalidraw, les 3 équipes ont des buts distincts le samedi :
 
-- **Équipe tranquille (Batiste) — chapelle/gîte/village** : enquêter sur les cultistes et le triangle du Vercors. Enquête autonome : fouille du gîte, pochette d'Ivan, boucle village (café, cimetière, fontaine, plantes), site web d'Ivan et zone secrète.
-- **Équipe sportive (Seb) — terrain (~200 m D+)** : énigmes autour des animaux en utilisant les **pièges photo d'Ivan** comme éléments de localisation → trouver et ramener **toutes les tenues/masques des Perchten** (qui sont l'élément requis pour le rituel sur la statuette selon le texte du fugitif).
-- **Équipe rando (Rémi) — terrain++** : remonter la trace du fugitif de 1746 à rebours jusqu'à la **Grotte des Ferrières** → trouver les objets disparus à travers les époques + **la statuette** + la carte de Cassini.
+- **Équipe Batiste (Batiste) — chapelle/gîte/village** : enquêter sur les cultistes et le triangle du Vercors. Enquête autonome : fouille du gîte, pochette d'Ivan, boucle village (café, cimetière, fontaine, plantes), site web d'Ivan et zone secrète.
+- **Équipe Seb — terrain (~200 m D+)** : énigmes autour des animaux en utilisant les **pièges photo d'Ivan** comme éléments de localisation → trouver et ramener **toutes les tenues/masques des Perchten** (qui sont l'élément requis pour le rituel sur la statuette selon le texte du fugitif).
+- **Équipe Rémi — terrain++** : remonter la trace du fugitif de 1746 à rebours jusqu'à la **Grotte des Ferrières** → trouver les objets disparus à travers les époques + **la statuette** + la carte de Cassini.
 
 ✅ **Validé en équipe (11/10)** : pas de communication entre équipes le samedi — chacune fait son truc, moins d'aléas. Chaque arc est donc autonome ; le géoguesser et les talkies-walkies sont abandonnés.
 
 ✅ **Lancement du samedi (décision 19/10, Batiste + Mareva)** — Le jeu démarre par un message unique du fils ou de la fille d'Ivan (email imprimé ou appel) : la commande passée sur le site pour une demi-journée de photo animalière en groupe est annulée, Ivan est mort il y a un an, remboursement à venir. Ton triste, aucune discussion possible : ce n'est pas un PNJ. Au gîte, l'**affiche déchirée** d'Ivan (d'un peu plus d'un an : conférence/débat au café-librairie) oriente les joueurs vers le café pour en savoir plus sur lui. Validé aussi par Seb (21/10). Exploration et variantes : [`design/enigmes.md`](enigmes.md) §0.
 
-✅ **Formation des trois groupes** — l'email de Camille propose trois parcours (tranquille, sportif, grande rando) et chacun choisit (`joueurs/slow/props/01_lancement_email_enfant.md`). Reste à équilibrer les effectifs : `questions.md` #24.
+✅ **Formation des trois groupes** — l'email de Camille propose trois parcours (tranquille, sportif, grande rando) et chacun choisit (`joueurs/batiste/props/01_lancement_email_enfant.md`). Reste à équilibrer les effectifs : `questions.md` #24.
 
-### Arc détaillé : équipe tranquille (proposition à valider)
+### Arc détaillé : équipe Batiste (proposition à valider)
 
-Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avant eux — sa pochette d'enquête (chemise cartonnée à élastiques pleine de feuilles volantes, `joueurs/slow/pochette/`), trouvée dans sa chambre, est la clé de voûte documentaire : elle centralise les pièces (procès, lettre, séance, article) et fait de l'équipe tranquille la « tour de contrôle » du lore, pas un simple guichet.
+Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avant eux — sa pochette d'enquête (chemise cartonnée à élastiques pleine de feuilles volantes, `joueurs/batiste/pochette/`), trouvée dans sa chambre, est la clé de voûte documentaire : elle centralise les pièces (procès, lettre, séance, article) et fait de l'équipe Batiste la « tour de contrôle » du lore, pas un simple guichet.
 
 **14h30–15h15 — La chambre d'Ivan (gîte)**
 
@@ -31,7 +31,7 @@ Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avan
 
 **15h15–16h15 — Boucle village**
 
-- Café/librairie : **l'affiche intacte** de la conférence *« Les Habitants de la nuit »* (qui donne enfin l'**URL complète du site d'Ivan** + QR code), ses tirages exposés, et le **tableau du chasseur** — 💡 interaction sobre privilégiée (`joueurs/slow/props/04_tableau_chasseur_et_loupe.md` : le tableau est visible en libre-service, la commerçante peut raconter son histoire si sollicitée) ; l'option « énigme ou service à rendre » reste possible si le commerçant joue le jeu.
+- Café/librairie : **l'affiche intacte** de la conférence *« Les Habitants de la nuit »* (qui donne enfin l'**URL complète du site d'Ivan** + QR code), ses tirages exposés, et le **tableau du chasseur** — 💡 interaction sobre privilégiée (`joueurs/batiste/props/04_tableau_chasseur_et_loupe.md` : le tableau est visible en libre-service, la commerçante peut raconter son histoire si sollicitée) ; l'option « énigme ou service à rendre » reste possible si le commerçant joue le jeu.
 - Cimetière : identifier **la tombe sans inscription** → la relie au procès du notable (la vraie tombe devient la preuve physique du document). ✅ Visite du cimetière pendant le jeu validée en équipe (11/10, jugée respectueuse).
 - Fontaine à statues d'ours, dates gravées 1894-1994 : clé 1 du site. Ce n'est **pas** la « source » du fugitif (une source en montagne, précisé le 21/10) ; les dates gravées peuvent alimenter l'énigme du vieux calendrier.
 - Plantes nommées du village (« Barbe de bouc »…) : repérage utile pour les ingrédients de la nouvelle statuette le dimanche.
@@ -44,22 +44,22 @@ Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avan
 
 **~17h30 — Regroupement au gîte**
 
-- Mise en commun des trouvailles ; l'équipe rando présente la statuette.
-- **Destruction de la statuette** (à la suite du regroupement) — verrou : nécessite les objets/conditions préparés par l'équipe sportive (à concevoir dans leur arc), ce qui garantit que tout le monde est réuni. 💡 Piste (mémoire de Batiste, 21/10, **à confirmer en équipe**, cf. `questions.md` #20) : un rituel assez sommaire avec les 3 masques + la statuette, plutôt qu'un coup de marteau.
+- Mise en commun des trouvailles ; l'équipe Rémi présente la statuette.
+- **Destruction de la statuette** (à la suite du regroupement) — verrou : nécessite les objets/conditions préparés par l'équipe Seb (à concevoir dans leur arc), ce qui garantit que tout le monde est réuni. 💡 Piste (mémoire de Batiste, 21/10, **à confirmer en équipe**, cf. `questions.md` #20) : un rituel assez sommaire avec les 3 masques + la statuette, plutôt qu'un coup de marteau.
 
-Documents/props nécessaires à cet arc : pochette d'Ivan (central, `joueurs/slow/pochette/`), article de journal, tableau physique, transcription de la voyante (document), bouteilles + secret caché (décision 11/10, 💡 usage dimanche), livre d'or bidouillé (`joueurs/slow/props/03_livre_dor_2011_chambre.md`).
+Documents/props nécessaires à cet arc : pochette d'Ivan (central, `joueurs/batiste/pochette/`), article de journal, tableau physique, transcription de la voyante (document), bouteilles + secret caché (décision 11/10, 💡 usage dimanche), livre d'or bidouillé (`joueurs/batiste/props/03_livre_dor_2011_chambre.md`).
 
-✅ **Résolu** : mécanisme « quelle chambre » = livre d'or 2011 + étiquette animale décollée (`joueurs/slow/props/03_livre_dor_2011_chambre.md`) ; voyante = document (`joueurs/slow/pochette/05_transcription_voyante.md`) ; documents = tous dans la pochette (arc tranquille), amorces Seb/Rémi trouvées au gîte en parallèle.
+✅ **Résolu** : mécanisme « quelle chambre » = livre d'or 2011 + étiquette animale décollée (`joueurs/batiste/props/03_livre_dor_2011_chambre.md`) ; voyante = document (`joueurs/batiste/pochette/05_transcription_voyante.md`) ; documents = tous dans la pochette (arc de Batiste), amorces Seb/Rémi trouvées au gîte en parallèle.
 
 ### Chevauchements à résoudre
 
 - **Costumes** — Seb ramène toutes les tenues et tous les masques (confirmé le 21/10). Reste à savoir si la grotte de Rémi contient aussi des morceaux de costumes (`questions.md` #18).
-- ✅ **Repère des cultistes** — Résolu par « pas de communication le samedi » (11/10) : l'équipe rando trouve la grotte de manière indépendante (triangulation des photos de piège photo). L'équipe tranquille enquête sur les cultistes de son côté, sans guider personne.
+- ✅ **Repère des cultistes** — Résolu par « pas de communication le samedi » (11/10) : l'équipe Rémi trouve la grotte de manière indépendante (triangulation des photos de piège photo). L'équipe Batiste enquête sur les cultistes de son côté, sans guider personne.
 - ✅ **Objectifs communs** — Résolu par « pas de communication le samedi » (11/10) : chaque équipe a son propre objectif autonome ; la convergence se fait au regroupement du soir et à la destruction de la statuette.
 
 ## Répartition du dimanche
 
-Le dimanche, les joueurs se reforment en **trois groupes fonctionnels**, distincts des arcs sportifs du samedi (détail complet et mécaniques dans [`joueurs/rituel/`](../joueurs/rituel/README.md), qui fait foi pour le dimanche) :
+Le dimanche, les joueurs se reforment en **trois groupes fonctionnels**, distincts des arcs de terrain du samedi (détail complet et mécaniques dans [`joueurs/rituel/`](../joueurs/rituel/README.md), qui fait foi pour le dimanche) :
 
 - **Groupe « terrain »** — Cherche le lieu du rituel à partir d'indices, notamment la triangulation et la superposition des cartes. Il prépare également le lieu une fois identifié (pierres, triangle en branchages, tipi).
 - **Groupe « statuette »** — Fabrique la nouvelle statuette à partir des instructions révélées dans l'ancienne : les 8 éléments requis dont le **fil**, l'élément manquant des cycles passés. Il réunit les matériaux nécessaires ; la forme et la réalisation restent libres.
@@ -86,7 +86,7 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 ## Déroulement du twist entre samedi et dimanche
 
 - ✅ **Samedi soir** — Les joueurs brisent la statuette, probablement persuadés qu'elle est liée au maléfice. Ils découvrent le message écrit à la première personne (« je ») par un ancien Perchtenlauf (décision 11/10 ; rédaction : Mareva) — il ne doit pas nécessairement tout expliquer immédiatement.
-- **Créer la défiance (décision 11/10)** — Il faut assez d'éléments rendant la statuette suspecte le samedi pour que les joueurs la détruisent. Leviers en place : le site d'Ivan (les masqués présentés comme dangereux), la voyante, le journal du fugitif, le tableau du chasseur. Reste le côté Sportif (`questions.md` #17) et la scène de 17h30 (`questions.md` #20).
+- **Créer la défiance (décision 11/10)** — Il faut assez d'éléments rendant la statuette suspecte le samedi pour que les joueurs la détruisent. Leviers en place : le site d'Ivan (les masqués présentés comme dangereux), la voyante, le journal du fugitif, le tableau du chasseur. Reste le côté Seb (`questions.md` #17) et la scène de 17h30 (`questions.md` #20).
 - ✅ **Pendant la nuit** — Des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes :
   - textes apparaissant sur les miroirs de l'espace commun ;
   - indices dans les boîtes de céréales et/ou sous les tasses ;
@@ -100,14 +100,14 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 
 1. **[Procès] Le notable innocent** (Moyen Âge) — Un notable condamné pour vol d'un cadeau diplomatique destiné au Vercors. Il affirme que le cadeau a disparu (créatures surnaturelles). L'évêque retrouve le cadeau a posteriori, absout le notable posthumement. Inscription sur la tombe.
 2. **[Lettre] L'enfant et la grotte dorée** — Un enfant trouve une grotte pleine d'objets précieux et du quotidien (rouleau à pâtisserie de sa mamie). Personne ne le croit. Adulte, il raconte l'histoire dans une lettre au Dr Brilleux.
-3. **[Tableau] Le chasseur et les loups** — Un chasseur perdu voit une figure masquée debout près d'un rocher plat sur lequel repose la statuette, avec des loups protecteurs assis autour. Tableau exposé chez un commerce local (descendant du chasseur). Spec visuelle : `joueurs/slow/props/04_tableau_chasseur_et_loupe.md`.
-4. **[Voyante] La voyante nulle** — ✅ **Document retenu** : transcription de séance dans les affaires d'Ivan (`joueurs/slow/pochette/05_transcription_voyante.md`) — donne un indice interprétable comme « détruire l'objet », en réalité juste une mauvaise voyante.
+3. **[Tableau] Le chasseur et les loups** — Un chasseur perdu voit une figure masquée debout près d'un rocher plat sur lequel repose la statuette, avec des loups protecteurs assis autour. Tableau exposé chez un commerce local (descendant du chasseur). Spec visuelle : `joueurs/batiste/props/04_tableau_chasseur_et_loupe.md`.
+4. **[Voyante] La voyante nulle** — ✅ **Document retenu** : transcription de séance dans les affaires d'Ivan (`joueurs/batiste/pochette/05_transcription_voyante.md`) — donne un indice interprétable comme « détruire l'objet », en réalité juste une mauvaise voyante.
 
 ### Questions
 
-- ✅ **Mappé** : tous les documents d'Ivan sont dans sa pochette (arc tranquille, samedi) ; le tableau et l'affiche intacte sont au café-librairie ; les amorces des arcs Seb/Rémi se trouvent au gîte au lancement.
-- ✅ Le tableau est chez le café/librairie du village — accord du commerçant obtenu (visite terrain). C'est aussi un possible point de chute pour l'équipe tranquille.
-- ✅ **Voyante = document** — pas de lieu ni d'acteur nécessaire au village ; la transcription de séance dans la pochette d'Ivan remplit la même fonction (cf. `joueurs/slow/pochette/05_transcription_voyante.md`).
+- ✅ **Mappé** : tous les documents d'Ivan sont dans sa pochette (arc de Batiste, samedi) ; le tableau et l'affiche intacte sont au café-librairie ; les amorces des arcs Seb/Rémi se trouvent au gîte au lancement.
+- ✅ Le tableau est chez le café/librairie du village — accord du commerçant obtenu (visite terrain). C'est aussi un possible point de chute pour l'équipe Batiste.
+- ✅ **Voyante = document** — pas de lieu ni d'acteur nécessaire au village ; la transcription de séance dans la pochette d'Ivan remplit la même fonction (cf. `joueurs/batiste/pochette/05_transcription_voyante.md`).
 
 ## Mécaniques d'énigmes identifiées
 
@@ -118,10 +118,10 @@ Liste des mécaniques d'énigmes mentionnées dans excalidraw et archive, à ré
 - **Triangulation de photos de piège photographique** — Indices sur place (traces landart, mobile Blairwitch), carte, trésor caché
 - **Vieux calendrier sans changement d'heure** — Pour trouver le moment du rituel
 - **Descriptions de trajets (écrit de l'an 1000)** — Texte ancien décrivant un trajet, à retrouver sur une carte
-- **Fouille du gîte** — Résolution d'énigmes au gîte (lancement 14h, chambre d'Ivan 14h30–15h15 pour le groupe tranquille)
+- **Fouille du gîte** — Résolution d'énigmes au gîte (lancement 14h, chambre d'Ivan 14h30–15h15 pour le groupe de Batiste)
 - **Échange avec PNJ** — Les PNJ ne sont pas généreux, il faut résoudre une énigme ou accomplir une tâche pour obtenir un document
 
 ### Questions
 
-- ✅ Coopération entre équipes : supprimée le samedi (décision 11/10 — chaque arc est autonome). La triangulation de photos devient une mécanique interne à l'équipe rando. Seul le site web d'Ivan suppose encore le réseau (consulté au gîte, où la couverture suffit).
+- ✅ Coopération entre équipes : supprimée le samedi (décision 11/10 — chaque arc est autonome). La triangulation de photos devient une mécanique interne à l'équipe Rémi. Seul le site web d'Ivan suppose encore le réseau (consulté au gîte, où la couverture suffit).
 - **Cartes** : 4 cartes listées (grottes, IGN, état-major, Cassini) pour 3 groupes, avec des trous à fabriquer : qui apporte laquelle, que représentent les trous ? Voir `questions.md` #18. La superposition doit pointer vers les coordonnées réelles du lieu du rituel repéré (champ à ~10 min en voiture) ; les 3 points du triangle maillent la région.

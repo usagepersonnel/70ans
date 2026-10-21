@@ -12,9 +12,9 @@ Trois contrôles :
    que des questions ouvertes. Un renvoi vers une question supprimée est donc signalé.
 
 Exemptions :
-- `archive/` et `decisions/` (documents figés) ne sont pas vérifiés.
-- `meta/` (instantanés datés) n'est pas vérifié pour les renvois aux questions : ces
-  fichiers ne sont pas mis à jour, leurs numéros peuvent légitimement devenir obsolètes.
+- `archive/`, `decisions/` et `meta/` (documents figés / instantanés datés) ne sont
+  pas vérifiés : ces fichiers ne sont pas mis à jour, leurs chemins et numéros de
+  questions peuvent légitimement devenir obsolètes après un renommage.
 - Les références vers le dépôt du site `ivan-beaulieu-photos` sont résolues contre le
   dossier voisin ; s'il est absent (cas d'un collègue), elles sont ignorées avec un avis.
 
@@ -31,8 +31,8 @@ REPO = Path(__file__).resolve().parents[1]
 SITE_REPO = REPO.parent / "ivan-beaulieu-photos"
 QUESTIONS = REPO / "questions.md"
 
-# Dossiers figés (archives, comptes rendus datés) : non vérifiés.
-FROZEN_DIRS = {"archive", "decisions", ".git", "node_modules"}
+# Dossiers figés (archives, comptes rendus et instantanés datés) : non vérifiés.
+FROZEN_DIRS = {"archive", "decisions", "meta", ".git", "node_modules"}
 # Dossiers dont les renvois aux questions ne sont pas vérifiés (instantanés datés).
 SNAPSHOT_DIRS = {"meta", "archive", "decisions"}
 

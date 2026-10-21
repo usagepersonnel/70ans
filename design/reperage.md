@@ -2,7 +2,7 @@
 
 Checklist de repérage et de collecte pour la visite sur le terrain. Tout ce qui est listé ici est **faisable uniquement sur place** — le reste du travail se fait à distance.
 
-**Références** : arc de l'équipe tranquille dans `design/deroule.md`, points de lore dans `lore/lore_precisions.md`, parcours rando dans `meta/timeline_rando.md` / `joueurs/rando/feuilles_rando.md`.
+**Références** : arc de l'équipe Batiste dans `design/deroule.md`, points de lore dans `lore/lore_precisions.md`, parcours rando dans `meta/timeline_rando.md` / `joueurs/remi/feuilles_rando.md`.
 
 ## 🎯 Priorités si le temps manque
 
@@ -14,12 +14,12 @@ Ces trois points sont ceux où le terrain décide du design, pas l'inverse.
 
 ## 🏠 Le gîte
 
-Terrain principal de l'équipe tranquille : fouille le samedi, manifestations la nuit, travail en groupes le dimanche.
+Terrain principal de l'équipe Batiste : fouille le samedi, manifestations la nuit, travail en groupes le dimanche.
 
-### Fouille (samedi, équipe tranquille 14h30–15h15)
+### Fouille (samedi, équipe Batiste 14h30–15h15)
 
 - [x] Repérer la chambre qui jouera le rôle de **chambre d'Ivan** — photo + cachettes plausibles (sous matelas, derrière cadre, bibliothèque, fond de tiroir) ✅ De nombreuses chambes identiques, n'importe laquelle fera l'affaire.
-- [x] Comment les joueurs découvrent-ils *quelle* chambre ? Chercher un indice naturel (plan du gîte, nom des chambres, livre d'or) ✅ Livre d'or 2011 : quasiment un album photo imprimé, surtout des photos de gens. Exploitation décidée (19/10) : double piste photo de fenêtre + étiquette d'animal décollée — `joueurs/slow/props/03_livre_dor_2011_chambre.md`.
+- [x] Comment les joueurs découvrent-ils *quelle* chambre ? Chercher un indice naturel (plan du gîte, nom des chambres, livre d'or) ✅ Livre d'or 2011 : quasiment un album photo imprimé, surtout des photos de gens. Exploitation décidée (19/10) : double piste photo de fenêtre + étiquette d'animal décollée — `joueurs/batiste/props/03_livre_dor_2011_chambre.md`.
 - [x] Photographier les espaces où cacher des documents (procès, lettre) : salon, salle commune, recoins ✅ Photos faites, on a la matière pour décider. Reste à le faire ^^
 
 ### Manifestations nocturnes (nuit samedi → dimanche)
@@ -34,7 +34,7 @@ Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du
 
 - [x] Espaces de travail pour les 3 groupes fonctionnels en parallèle : table pour fabriquer la statuette (« statuette »), espace pour répéter la chorégraphie (« danse »), coin calme pour le groupe « terrain » avec les cartes ✅ Il y a tout ce qu'il faut
 - [x] **Point d'arrivée du PNJ** — ✅ Sans objet : le PNJ « enfant d'Ivan » est supprimé (validé en équipe) ; la pochette d'Ivan le remplace.
-- [x] Dans la chambre d'Ivan : où cacher la pochette d'Ivan (qui porte désormais l'infodump et le code du site secret, le PNJ étant supprimé) ? ✅ Une chemise cartonnée à élastiques pleine de feuilles volantes qu'Ivan aurait oubliée (sous un lit ou dans un placard) — cf. `joueurs/slow/pochette/README.md`
+- [x] Dans la chambre d'Ivan : où cacher la pochette d'Ivan (qui porte désormais l'infodump et le code du site secret, le PNJ étant supprimé) ? ✅ Une chemise cartonnée à élastiques pleine de feuilles volantes qu'Ivan aurait oubliée (sous un lit ou dans un placard) — cf. `joueurs/batiste/pochette/README.md`
 
 ### À demander au propriétaire
 
@@ -42,14 +42,14 @@ Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du
 - [ ] Y a-t-il des **habitués qui reviennent chaque année à date fixe** ? (crédibilité du pèlerinage annuel du PNJ)
 - [ ] Accord pour les mécaniques : fouille, accès douches/cuisine la nuit, éléments sur les voitures
 
-## ⛪ Le village — enquête de l'équipe tranquille
+## ⛪ Le village — enquête de l'équipe Batiste
 
 ### Église et cimetière
 
 - [x] Photos des dates, inscriptions, vitraux, symboles — chercher tout motif loup, figure masquée, détail étrange ✅ Fait. On a trouvé une fontaine avec dates (**1894-1994**) + statues d'ours d'environ 1,5 m, une église avec des vitraux, un cimetière avec des tombes anciennes (dont une sans aucune inscription), et plein de plantes avec des noms compliqués indiqués dessus dans toute la ville. La fontaine : grand bassin de pierre porté par un pilier, statue d'ours assis sous le bassin ; les dates sont sur **une plaque émaillée bleue** avec les deux années empilées (`1894` sur `1994`), pas gravées dans la pierre, dont des noms barrants comme "Barbe de bouc". Étiquettes relevées (format : référence « n°/année SB », famille, latin "cultivar", nom français, « Sélection horticole ») : « Barbe de bouc » (094/2010 SB, Rosaceae, *Aruncus dioicus* "Kneiffii") et « Lilas d'Espagne, Valériane rouge » (072/2009 SB, Valerianaceae, *Centranthus ruber* "Coccineus"). Seules 4-5 étiquettes photographiées : liste non exhaustive. **Décision (21/10)** : la clé 4 est « Barbe de bouc », sauf blocage majeur — vérification vendredi prévue dans `TODO.md`.
 - [x] **Cadran solaire** s'il y en a un — photo + position : matériau direct pour l'énigme du vieux calendrier / heure solaire. ✅ AUCUN — l'énigme du calendrier doit être autonome.
 - [x] Cimetière : photographier de vraies vieilles tombes (noms, dates, style d'inscription) pour fabriquer la « tombe du notable » crédible — le procès se solde par une inscription sur la tombe. ✅ Fait. Tombe trouvée et photographiée (21/10) : haute stèle de pierre grise patinée, croix au sommet, face érodée **sans nom ni épitaphe** ; une plaque funéraire noire à rose métallique y est posée, gravée « SOUVENIR — À NOS CHERS DISPARUS » (pot orange au pied). **La clé 3 attend « à nos chers disparus »** — et le néant de la pierre. Visite du cimetière pendant le jeu validée en équipe (11/10, jugée respectueuse).
-- [x] Photos repérage du 21/10 versionnées dans `assets/photos/` : vitraux de l'église (`assets/photos/eglise.jpeg`, `assets/photos/eglise_2.jpeg`, `assets/photos/eglise_3.jpeg` — Saint-Pierre serrant ses clefs, conversion de Saint-Paul « pourquoi me persécutes-tu », Vierge « Étoile du matin »), la tombe réelle (`assets/photos/tombe.jpeg`), panneau « La Faune » de la réserve (`assets/photos/animaux.jpeg` — classement des animaux par leurs empreintes : matière possible pour les énigmes animaux de Seb), cabines colorées de la piscine municipale (`assets/photos/piscine.jpeg`). **Exploitation des vitraux retenue** : l'église est un stop du dossier de parcours Slow (`joueurs/slow/props/06_dossier_parcours.md`) — lore sans clé ; le vitrail Saint-Paul se relira dimanche (thème du retournement).
+- [x] Photos repérage du 21/10 versionnées dans `assets/photos/` : vitraux de l'église (`assets/photos/eglise.jpeg`, `assets/photos/eglise_2.jpeg`, `assets/photos/eglise_3.jpeg` — Saint-Pierre serrant ses clefs, conversion de Saint-Paul « pourquoi me persécutes-tu », Vierge « Étoile du matin »), la tombe réelle (`assets/photos/tombe.jpeg`), panneau « La Faune » de la réserve (`assets/photos/animaux.jpeg` — classement des animaux par leurs empreintes : matière possible pour les énigmes animaux de Seb), cabines colorées de la piscine municipale (`assets/photos/piscine.jpeg`). **Exploitation des vitraux retenue** : l'église est un stop du dossier de parcours de Batiste (`joueurs/batiste/props/06_dossier_parcours.md`) — lore sans clé ; le vitrail Saint-Paul se relira dimanche (thème du retournement).
 
 ### Commerces et office du tourisme
 
@@ -69,8 +69,8 @@ Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du
 
 ### Géoguesser et lignes de vue
 
-- [ ] Panoramas depuis le village/gîte vers le Col de Carri, crêtes, falaises, pics distinctifs — photos + orientation (boussole). ~~Ces photos deviennent le matériau du géoguesser~~ — géoguesser abandonné (11/10 : pas de communication entre équipes) ; les photos peuvent servir à la triangulation de l'équipe rando ou au site d'Ivan
-- [ ] La « trouée au-dessus de la route et du village » (d'où les poursuivants repèrent le fugitif dans `joueurs/rando/feuilles_rando.md`) — visible depuis le village ? Repérer où
+- [ ] Panoramas depuis le village/gîte vers le Col de Carri, crêtes, falaises, pics distinctifs — photos + orientation (boussole). ~~Ces photos deviennent le matériau du géoguesser~~ — géoguesser abandonné (11/10 : pas de communication entre équipes) ; les photos peuvent servir à la triangulation de l'équipe Rémi ou au site d'Ivan
+- [ ] La « trouée au-dessus de la route et du village » (d'où les poursuivants repèrent le fugitif dans `joueurs/remi/feuilles_rando.md`) — visible depuis le village ? Repérer où
 - [x] **Une source ou fontaine** — le fugitif cache l'objet « près d'une source ». ✅ Précisé le 21/10 : c'est **une source en montagne, que Rémi connaît** (à localiser dans le repo, `questions.md` #18). La fontaine du village (dates 1894-1994, statues d'ours de ~1,5 m) sert à la clé 1 du site, pas de « source ».
 
 ### Le terroir du fugitif (arc RANDO)
@@ -79,7 +79,7 @@ Contexte mis à jour (validé par Rémi, 02/10) : le fugitif cache la statuette 
 
 - [x] **Panneau rando du village** (relevé photos, 21/10) : La Chapelle Alt. 885 m — **Col de Carri 2h20 / 7,3 km**, Belvédère de Revoulat 1h55 / 5,7 km, Roche du Mas 2h35 / 7,9 km, Vassieux-en-Vercors 3h50 / 13,6 km ; hameaux proches : Les Bruyères 5 min, Les Bernards 10 min, Le Château 10 min, Les Chaberts 20 min, Chabotte 35 min. ⚠️ Col de Carri à 2h20 aller : ne tient pas dans la fenêtre 14h15 → 17h30 si c'est la première halte à pied depuis le village (`questions.md` #18)
 - [ ] Faire le trajet **gîte → Col de Carri** (premier tronçon du parcours, ~15 min) : photo depuis le col vers le village, temps de trajet réel
-- [ ] Vérifier que le texte de `joueurs/rando/feuilles_rando.md` colle au terrain (toponymes, lignes de vue) — seul contrôle réalité avant que le texte soit retravaillé
+- [ ] Vérifier que le texte de `joueurs/remi/feuilles_rando.md` colle au terrain (toponymes, lignes de vue) — seul contrôle réalité avant que le texte soit retravaillé
 - [ ] Si le parcours passe près d'un scialet : photo utile pour Rémi (le squelette y reste une fausse piste maîtrisée)
 
 ### ⭐ Lieu du rituel final
@@ -94,7 +94,7 @@ Bonus : la visite tombe en journée — les photos prises vers 10h–11h montren
 ## 📸 Production
 
 - Photos du repérage d'octobre (livre d'or, chambres, fontaine, tombe, étiquettes de plantes, café) : dans Google Photos (Batiste), non versionnées dans le dépôt
-- [ ] **Photos pour le site web d'Ivan** — la façade = photos animalières → dérive complotiste. Prendre de vraies photos : forêt, paysages, traces animales, et surtout des clichés **style piège photographique** (contre-plongée, flou, crépusculaire) — nécessaires au site ET à la triangulation de l'équipe rando. Bonus : formes lointaines floues, reflets étranges pour la dérive complotiste
+- [ ] **Photos pour le site web d'Ivan** — la façade = photos animalières → dérive complotiste. Prendre de vraies photos : forêt, paysages, traces animales, et surtout des clichés **style piège photographique** (contre-plongée, flou, crépusculaire) — nécessaires au site ET à la triangulation de l'équipe Rémi. Bonus : formes lointaines floues, reflets étranges pour la dérive complotiste
 - [ ] **Cartes physiques** — acheter l'IGN du secteur (office du tourisme/tabac) ; demander des reproductions de cartes anciennes (Cassini, état-major). La superposition de cartes du dimanche a besoin de matériel réel
 - [ ] **Sons** — enregistrer ambiance forêt, cloche de l'église, silence nocturne (partie secrète du site, indices sonores du rituel)
 - [ ] **Contacts** — téléphone du propriétaire, du commerçant, de l'OT : il y aura des questions après coup
@@ -102,9 +102,9 @@ Bonus : la visite tombe en journée — les photos prises vers 10h–11h montren
 
 ## 🚶 Logistique
 
-- [ ] **Temps de marche réels** : gîte → village, gîte → église, gîte → Col de Carri. L'équipe tranquille n'est pas sportive — tout doit être faisable à pied tranquille
+- [ ] **Temps de marche réels** : gîte → village, gîte → église, gîte → Col de Carri. L'équipe Batiste n'est pas sportive — tout doit être faisable à pied tranquille
 - [x] **Réseau téléphone** au gîte, dans le village, au col ✅ Couverture faible et inconstante hors du gîte. Màj 11/10 : pas de communication entre équipes le samedi → plus besoin de talkies ; seul le site web d'Ivan suppose le réseau (consulté au gîte, où on capte un peu). **Risque accepté (21/10)** : en cas de problème, demander le wifi au personnel du gîte, ou aller au café-librairie.
-- [ ] Où poser l'équipe tranquille au village pendant que les autres randonnent (café, banc, salle) ? → le café/librairie existe et est partenaire (tableau) : possible point de chute.
+- [ ] Où poser l'équipe Batiste au village pendant que les autres randonnent (café, banc, salle) ? → le café/librairie existe et est partenaire (tableau) : possible point de chute.
 
 ## Questions lore à trancher grâce au terrain
 

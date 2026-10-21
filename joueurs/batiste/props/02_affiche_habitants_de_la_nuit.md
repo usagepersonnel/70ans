@@ -1,4 +1,4 @@
-# `joueurs/slow/props/02_affiche_habitants_de_la_nuit.md` — L'affiche « Les Habitants de la nuit » (2 versions : déchirée au gîte / intacte au café)
+# `joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md` — L'affiche « Les Habitants de la nuit » (2 versions : déchirée au gîte / intacte au café)
 
 ## Rôle dans le jeu
 - **Version 1 (Gîte, dès 14h00)** : Punaisée dans l'entrée ou le salon du gîte, un peu jaunie. **Le bandeau tout en bas est déchiré en biais**, juste après `https://ivan-beaul…` → impossible de taper l'URL à 14h00 sur le canapé, mais les joueurs voient :

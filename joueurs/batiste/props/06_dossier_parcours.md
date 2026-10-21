@@ -1,8 +1,8 @@
-# `joueurs/slow/props/06_dossier_parcours.md` — Dossier de parcours « Balade douce » (équipe Slow, remis ~14h05)
+# `joueurs/batiste/props/06_dossier_parcours.md` — Dossier de parcours « Balade douce » (équipe Batiste, remis ~14h05)
 
 ## Rôle dans le jeu
 
-- **Quand** : remis samedi vers 14h05 dans l'enveloppe posée à côté de l'email de Camille (`joueurs/slow/props/01_lancement_email_enfant.md`), en même temps que les dossiers des deux autres équipes. C'est **le premier indice de l'arc Slow**.
+- **Quand** : remis samedi vers 14h05 dans l'enveloppe posée à côté de l'email de Camille (`joueurs/batiste/props/01_lancement_email_enfant.md`), en même temps que les dossiers des deux autres équipes. C'est **le premier indice de l'arc de Batiste**.
 - **Forme** : un feuillet A4 — la photocopie du brouillon de travail d'Ivan (tapuscrit, marges annotées au crayon). Camille a photocopié ses dossiers de préparation « en l'état », sans relire les marges.
 - **Ce que ça débloque** : sans jamais parler d'énigme, le feuillet envoie naturellement les joueurs sur **tous les lieux de la boucle village** — livre d'or du gîte (→ chambre → pochette), fontaine (clé 1), église + cimetière (clé 3), plantes étiquetées (clé 4), café-librairie (URL + clé 2).
 
@@ -36,8 +36,8 @@
 
 ## Notes de design
 
-- **Aucune clé n'est nommée** : les arrêts couvrent les 4 sources de clés sans les désigner. C'est l'aide-mémoire de la pochette (`joueurs/slow/pochette/01_notes_ivan_et_aide_memoire.md`, trouvée à 14h45) qui transforme ces lieux en énigmes — le feuillet ne fait que garantir que les joueurs passent devant.
+- **Aucune clé n'est nommée** : les arrêts couvrent les 4 sources de clés sans les désigner. C'est l'aide-mémoire de la pochette (`joueurs/batiste/pochette/01_notes_ivan_et_aide_memoire.md`, trouvée à 14h45) qui transforme ces lieux en énigmes — le feuillet ne fait que garantir que les joueurs passent devant.
 - **L'étape église est gratuite** (à ~10 m du café, sur le chemin du cimetière) : les vitraux ne portent aucune clé — saint Pierre aux clefs est un clin d'œil au portail du site, et le vitrail de la conversion de saint Paul (« pourquoi me persécutes-tu ») gagnera son sens à la relecture du dimanche. Pas de mécanique ajoutée.
-- **Le livre d'or en « étape 0 »** amorce la piste chambre (avec `joueurs/slow/props/03_livre_dor_2011_chambre.md`) : les joueurs qui ont lu l'email font eux-mêmes le lien « livre d'or → quelle chambre → pochette ».
+- **Le livre d'or en « étape 0 »** amorce la piste chambre (avec `joueurs/batiste/props/03_livre_dor_2011_chambre.md`) : les joueurs qui ont lu l'email font eux-mêmes le lien « livre d'or → quelle chambre → pochette ».
 - **Timing** : « 1 h – 1 h 15 » annoncé cale le retour au gîte vers 16 h 15, cohérent avec `design/enigmes.md` §B3–B4.
-- La mention des **grottes** en marge sert la cohérence avec les dossiers des autres équipes (Ivan préparait aussi la grande boucle), sans envoyer les Slow sur le terrain.
+- La mention des **grottes** en marge sert la cohérence avec les dossiers des autres équipes (Ivan préparait aussi la grande boucle), sans envoyer l'équipe de Batiste sur le terrain.

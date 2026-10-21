@@ -6,55 +6,55 @@
 
 ## Calendrier
 
-- **Jeu** : samedi 24 et dimanche 25 octobre 2026 (lancement samedi 14h00).
+- **Jeu** : samedi 24 et dimanche 25 octobre 2026 (lancement samedi ~14h00 ; Monique prévoyait 13h30, à confirmer — `questions.md` #25).
 - **Vendredi 23/10** : répartition « qui place quoi » (voir Logistique), dry-run centré sur 17h30 et le dimanche, emballage.
 - **Gel des textes avant impression** : date à fixer, `questions.md` #23.
 - Jalons détaillés : `design/retroplanning.md`.
 
 ## À faire en premier (proposition, 21/10)
 
-1. Régler `KEY_FOUNTAIN` sur Vercel et redéployer (sinon l'équipe Slow ne peut pas ouvrir le site).
+1. ~~Régler `KEY_FOUNTAIN` sur Vercel et redéployer~~ ✅ fait (21/10) : les 5 variables sont en prod et le gate est testé OK.
 2. Écrire les 3 dossiers de parcours (un feuillet chacun) : ils donnent le premier indice de 14h15.
 3. Créer l'image du tableau du chasseur (mot `VEILLE` en petit) et l'imprimer.
 4. Imprimer et vieillir l'email, l'affiche, la pochette et le calendrier.
 5. Message caché dans la statuette (Mareva) et statuette creuse et légère.
 
-## Lancement et équipe Slow (Batiste)
+## Lancement et équipe Batiste
 
 | Élément | Responsable | Reste à faire | État |
 |---|---|---|---|
-| Email de Camille (`joueurs/slow/props/01_lancement_email_enfant.md`) | Batiste ? | imprimer | en cours (texte écrit) |
-| Affiche « Les Habitants de la nuit », 2 versions (`joueurs/slow/props/02_affiche_habitants_de_la_nuit.md`) | Batiste ? | imprimer ×2, vieillir, déchirer la version gîte, accrocher | en cours (texte écrit) |
-| 3 dossiers de parcours, un feuillet par équipe, enveloppe posée à côté de l'email (`questions.md` #16) | Batiste (Slow), Seb (Sportif), Rémi (Rando) | Slow : mettre en forme, imprimer (`joueurs/slow/props/06_dossier_parcours.md`) ; Sportif et Rando : écrire (Rando = 1re feuille du fugitif « jointe en l'état ») | en cours (Slow : texte écrit) |
-| Livre d'or 2011 : feuillet, photo « vue depuis la fenêtre », étiquettes d'animaux sur **toutes** les portes (`joueurs/slow/props/03_livre_dor_2011_chambre.md`) | répartir | photo prise vendredi à l'arrivée, fabriquer les étiquettes | à faire |
-| Pochette d'Ivan : 7 pièces, étiquette Chouette au rabat (`joueurs/slow/pochette/`) | Batiste | mise en forme, impression, vieillissement — aide-mémoire en 3 exemplaires (sous-groupes de ~10) — une fois les retours de l'équipe intégrés | en cours (textes v1 écrits) |
-| Vieux calendrier (`joueurs/slow/props/05_enigme_vieux_calendrier.md`) | Batiste | imprimer, vieillir | en cours (texte écrit) |
+| Email de Camille (`joueurs/batiste/props/01_lancement_email_enfant.md`) | Batiste ? | imprimer | en cours (texte écrit) |
+| Affiche « Les Habitants de la nuit », 2 versions (`joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md`) | Batiste ? | imprimer ×2, vieillir, déchirer la version gîte, accrocher | en cours (texte écrit) |
+| 3 dossiers de parcours, un feuillet par équipe, enveloppe posée à côté de l'email (`questions.md` #16) | Batiste, Seb, Rémi | Batiste : mettre en forme, imprimer (`joueurs/batiste/props/06_dossier_parcours.md`) ; Seb et Rémi : écrire (Rémi = 1re feuille du fugitif « jointe en l'état ») | en cours (Batiste : texte écrit) |
+| Livre d'or 2011 : feuillet, photo « vue depuis la fenêtre », étiquettes d'animaux sur **toutes** les portes (`joueurs/batiste/props/03_livre_dor_2011_chambre.md`) | répartir | photo prise vendredi à l'arrivée, fabriquer les étiquettes | à faire |
+| Pochette d'Ivan : 7 pièces, étiquette Chouette au rabat (`joueurs/batiste/pochette/`) | Batiste | mise en forme, impression, vieillissement — aide-mémoire en 3 exemplaires (sous-groupes de ~10) — une fois les retours de l'équipe intégrés | en cours (textes v1 écrits) |
+| Vieux calendrier (`joueurs/batiste/props/05_enigme_vieux_calendrier.md`) | Batiste | imprimer, vieillir | en cours (texte écrit) |
 | Loupe, environ 2 € | répartir | acheter (1 seule : elle reste dans la pochette ; seule la clé 2 du tableau en a besoin — si l'équipe se scinde, elle va au sous-groupe du café) | à faire |
-| Tableau du chasseur : image avec `VEILLE` en corps 4-5 pt, et tirages d'Ivan à exposer au café (`joueurs/slow/props/04_tableau_chasseur_et_loupe.md`) | répartir | créer l'image, imprimer ; accord du café à compléter pour les tirages | à faire |
+| Tableau du chasseur : image avec `VEILLE` en corps 4-5 pt, et tirages d'Ivan à exposer au café (`joueurs/batiste/props/04_tableau_chasseur_et_loupe.md`) | répartir | créer l'image, imprimer ; accord du café à compléter pour les tirages | à faire |
 
 **Assets et props à réaliser (textes → objets)** — pour chacun : arrêter la forme, fabriquer (IA ou main), imprimer, vieillir si besoin.
 
 | Asset | Forme proposée | Source du texte | État |
 |---|---|---|---|
-| Email de Camille | Impression A4 type webmail, plié dans l'enveloppe | `joueurs/slow/props/01_lancement_email_enfant.md` | texte écrit |
-| 3 dossiers de parcours | Feuillet A4 chacun, style brouillon photocopié + marges au crayon | Slow : `joueurs/slow/props/06_dossier_parcours.md` ; Sportif et Rando à écrire | Slow : texte écrit |
-| Affiche ×2 | A4 épais/ivoire avec QR code ; version gîte déchirée et froissée, version café intacte | `joueurs/slow/props/02_affiche_habitants_de_la_nuit.md` | texte écrit |
-| Feuillet du livre d'or | Page type album photo (tirage 10×15 + légende + mot manuscrit) — photo prise vendredi à l'arrivée | `joueurs/slow/props/03_livre_dor_2011_chambre.md` | à faire vendredi |
-| Étiquettes animaux des portes | Petites affichettes illustrées sur toutes les portes + étiquette Chouette collée au rabat de la pochette | `joueurs/slow/props/03_livre_dor_2011_chambre.md` | à créer (IA ou dessin) |
-| Pochette d'Ivan | Chemise cartonnée à élastiques : 7 pièces (feuilles quadrillées perforées, photocopies, coupure Dauphiné, carte de visite de la voyante), post-it des propriétaires, étiquette Chouette ; aide-mémoire en 3 exemplaires | `joueurs/slow/pochette/` | textes v1, à mettre en forme et vieillir |
-| Vieux calendrier | Feuillet vieilli recto-verso (almanach + note au crayon) | `joueurs/slow/props/05_enigme_vieux_calendrier.md` | texte écrit |
-| Tableau du chasseur | Image eau-forte générée (IA) + mot `VEILLE` ajouté en corps 4-5 pt, tirage A4/A3 encadré | `joueurs/slow/props/04_tableau_chasseur_et_loupe.md` | image à générer |
-| Tirages d'Ivan pour le café | Quelques tirages animaliers (depuis `assets/photos/`) | `joueurs/slow/props/04_tableau_chasseur_et_loupe.md` | à choisir et imprimer |
+| Email de Camille | Impression A4 type webmail, plié dans l'enveloppe | `joueurs/batiste/props/01_lancement_email_enfant.md` | texte écrit |
+| 3 dossiers de parcours | Feuillet A4 chacun, style brouillon photocopié + marges au crayon | Batiste : `joueurs/batiste/props/06_dossier_parcours.md` ; Seb et Rémi à écrire | Batiste : texte écrit |
+| Affiche ×2 | A4 épais/ivoire avec QR code ; version gîte déchirée et froissée, version café intacte | `joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md` | texte écrit |
+| Feuillet du livre d'or | Page type album photo (tirage 10×15 + légende + mot manuscrit) — photo prise vendredi à l'arrivée | `joueurs/batiste/props/03_livre_dor_2011_chambre.md` | à faire vendredi |
+| Étiquettes animaux des portes | Petites affichettes illustrées sur toutes les portes + étiquette Chouette collée au rabat de la pochette | `joueurs/batiste/props/03_livre_dor_2011_chambre.md` | à créer (IA ou dessin) |
+| Pochette d'Ivan | Chemise cartonnée à élastiques : 7 pièces (feuilles quadrillées perforées, photocopies, coupure Dauphiné, carte de visite de la voyante), post-it des propriétaires, étiquette Chouette ; aide-mémoire en 3 exemplaires | `joueurs/batiste/pochette/` | textes v1, à mettre en forme et vieillir |
+| Vieux calendrier | Feuillet vieilli recto-verso (almanach + note au crayon) | `joueurs/batiste/props/05_enigme_vieux_calendrier.md` | texte écrit |
+| Tableau du chasseur | Image eau-forte générée (IA) + mot `VEILLE` ajouté en corps 4-5 pt, tirage A4/A3 encadré | `joueurs/batiste/props/04_tableau_chasseur_et_loupe.md` | 2 variantes générées : `assets/photos/gravure_1.jpg` et `assets/photos/gravure_2.png` — choisir, incruster `VEILLE` sous la statuette, imprimer |
+| Tirages d'Ivan pour le café | Quelques tirages animaliers (depuis `assets/photos/`) | `joueurs/batiste/props/04_tableau_chasseur_et_loupe.md` | à choisir et imprimer |
 
-## Équipe Rando (Rémi)
+## Équipe Rémi
 
 | Élément | Responsable | Reste à faire | État |
 |---|---|---|---|
-| Les 7 props du parcours : bambou ou autre contenant, gourde, crâne en résine, sacoche + vieux livre + cryptex, corne à poudre + gourde | Rémi ? | à confirmer avec Rémi | à confirmer |
+| Les 7 props du parcours : bambou ou autre contenant, gourde, crâne en résine, sacoche + vieux livre + cryptex, corne à poudre + gourde | Rémi ? | bambou trouvé (Mareva) mais la 1re feuille sera jointe aux dossiers (Rémi, 21/10) ; confirmer les autres props | à confirmer |
 | Cartes de la superposition du dimanche (IGN, Cassini, état-major, grottes) et découpe des trous. OT fermé : mairie ou web | Rémi ? | acheter ou reproduire, fabriquer la superposition (`questions.md` #18) | en cours |
-| Réécriture des feuilles (version finale) | Rémi | squelette, sac, voix à décider d'abord (`questions.md` #18 et #21) | à faire |
+| Réécriture des feuilles (version finale) | Rémi | date 1746 tranchée et gourde corrigée (21/10) ; repasser les artefacts du décalage + points de `questions.md` #18 | à faire |
 
-## Équipe Sportif (Seb)
+## Équipe Seb
 
 | Élément | Responsable | Reste à faire | État |
 |---|---|---|---|
@@ -82,7 +82,7 @@
 
 | Élément | Responsable | Reste à faire | État |
 |---|---|---|---|
-| Variables d'environnement Vercel (`KEY_*`, `ARCHIVES_TOKEN`) | Batiste | régler `KEY_FOUNTAIN` sur `1894;1994;1894 1994;1994 1894` (séparateur `;`, la comparaison ignore casse, accents et tirets) ; changer `ARCHIVES_TOKEN` ; **redéployer** | à faire |
+| Variables d'environnement Vercel (`KEY_*`, `ARCHIVES_TOKEN`) | Batiste | `KEY_FOUNTAIN` sur `1894;1994;1894 1994;1994 1894` + `KEY_TOMB`/`KEY_PLANT` étendus + `ARCHIVES_TOKEN` régénéré ; **redéployé** et gate testé en prod (21/10) | fait |
 | Remplacer les 3 WAV placeholder | Batiste | montage audio | en cours |
 | Photos de pièges (page `/archives/pieges`) | répartir | après le shooting | à faire |
 | Pages « relevés de disparitions » et « journal d'Ivan » | Batiste | à écrire ; dépendent des 3 points de Rémi (`questions.md` #18) | à faire |
@@ -94,11 +94,11 @@
 
 - `journal.ts` et `dossier.astro` : « quinze ans » → « vingt ans » (2 occurrences).
 - `sorties.astro` : « Réservations closes » → dater et préciser que c'est Camille qui a fermé le formulaire en découvrant la réservation (oct. 2026), sinon contradiction avec l'email de 14h.
-- `audio.astro` : « trois nuits » → « trois veilles » (les 3 bandes datent du même week-end, `joueurs/slow/pochette/02_releves_2011_2025.md`) ; reformuler « le compteur s'est arrêté » ; aligner le carnet d'écoute sur `joueurs/rituel/enigmes_dimanche.md`.
+- `audio.astro` : « trois nuits » → « trois veilles » (les 3 bandes datent du même week-end, `joueurs/batiste/pochette/02_releves_2011_2025.md`) ; reformuler « le compteur s'est arrêté » ; aligner le carnet d'écoute sur `joueurs/rituel/enigmes_dimanche.md`.
 - `keys.ts` et `.env.example` : défaut de la clé 1 `1878` → `1894` et `1994`, et comparaison « contient » (comme la clé 3) pour accepter « de 1894 à 1994 » ; libellé du champ dans `ivan-beaulieu-photos/src/pages/archives/index.astro` : « L'année gravée » → « Les deux dates » (la fontaine porte une plaque émaillée, pas une gravure). Clé 4 : comparaison « contient » acceptant `barbe de bouc` et `aruncus` (le nom latin figure sur l'étiquette, les joueurs peuvent le relever). Clé 3 : ajouter `chers disparus`, `a nos chers disparus` et `souvenir` aux variantes `KEY_TOMB` — la vraie tombe porte une plaque « À nos chers disparus ».
 - `dossier.astro` : **réécrire le paragraphe où Ivan doute** (« ce que j'ai pris pour de la malveillance pendant trop longtemps, je commence à me demander si ce n'est pas autre chose »). Ivan est persuadé qu'ils sont maléfiques. Proposition : « Ils ne sont pas des rêves. Ils viennent quand l'heure change, ils ont toujours trois pas d'avance sur la mémoire des gens, et chaque année je suis un peu plus certain qu'ils ne nous veulent aucun bien. »
 - Optionnel : `ivan-beaulieu-photos/src/lib/auth.ts`, durée du cookie `COOKIE_MAX_AGE` de 4 h à 48 h.
-- `disparitions.astro` : « vers 1746 » codé en dur ; ne pas toucher tant que la date du fugitif n'est pas tranchée (`questions.md` #18).
+- `disparitions.astro` : « vers 1746 » confirmé par Rémi (21/10) — la date peut rester codée en dur.
 - Vérifier le déploiement de prévisualisation Vercel avant de fusionner.
 
 ## Logistique et risques
@@ -114,23 +114,23 @@
 | Emballage : tout ce qui part au Vercors, listé et regroupé | répartir | lister, regrouper | à faire |
 | Dry-run | tous | jalon du 23/10 | à faire |
 
-**À répartir vendredi dans le plan de mise en place** : affiche déchirée et livre d'or modifié ; étiquettes sur toutes les portes ; pochette dans la chambre ; tableau et affiche au café ; les 7 props Rando (1 au gîte, 6 en terrain) ; cache des masques et parcours Sportif ; la nuit : miroirs, bols et céréales, vitres des voitures ; dimanche : échange de la statuette dorée, indice de secours à 10h25 si le groupe terrain bloque, signal de début et de fin de la foule.
+**À répartir vendredi dans le plan de mise en place** : affiche déchirée et livre d'or modifié ; étiquettes sur toutes les portes ; pochette dans la chambre ; tableau et affiche au café ; les 7 props de Rémi (1 au gîte, 6 en terrain) ; cache des masques et parcours de Seb ; la nuit : miroirs, bols et céréales, vitres des voitures ; dimanche : échange de la statuette dorée, indice de secours à 10h25 si le groupe terrain bloque, signal de début et de fin de la foule.
 
 **Matériel — checklist se procurer / fabriquer / apporter** (le suivi détaillé reste dans les tableaux ci-dessus et `joueurs/rituel/checklist_production.md`) :
 
 - **À acheter** : loupe (~2 €) ; bombe de peinture dorée à séchage rapide ; feutre craie ou encre (miroirs) + marqueur craie effaçable (vitres) ; papier épais/ivoire + papier quadrillé perforé ; chemise cartonnée à élastiques ; enveloppes ; stylos + ~40 bandelettes ; bobine de fil 40-50 m ; ponchos (~35, pluie dimanche) ; sachets de riz/graines (objets sonores).
 - **À fabriquer ou imprimer avant vendredi** : tous les assets du tableau « Assets et props à réaliser » ci-dessus ; carte satellite du champ + 3 calques transparents ; papiers des manifestations (bols, céréales, miroirs) ; secret d'Ivan pour la bouteille.
-- **À apporter** : loupe, pochette montée, tableau, affiches et tirages ; 12 objets sonores ; 3 masques + costumes (Seb) ; statuette ancienne (Mareva) ; kit de la nouvelle statuette (Seb) ; fumigènes orange et vert ; lecteur audio + enceinte + fichiers en local (Batiste) ; les 7 props Rando (Rémi) ; matériel du parcours et de la cache Sportif (Seb).
+- **À apporter** : loupe, pochette montée, tableau, affiches et tirages ; 12 objets sonores ; 3 masques + costumes (Seb) ; statuette ancienne (Mareva) ; kit de la nouvelle statuette (Seb) ; fumigènes orange et vert ; lecteur audio + enceinte + fichiers en local (Batiste) ; les 7 props Rémi ; matériel du parcours et de la cache Seb.
 
 ## À vérifier et sans urgence avant samedi
 
 - Frontière entre le contenu public du site et la zone secrète (ne publier aucun indice réservé à la partie secrète).
 - Images WhatsApp du 18/10 (`assets/photos/`) : avant de les utiliser sur le site, vérifier qu'aucune date incrustée ne postdate la mort d'Ivan (oct. 2025) ; les renommer ensuite (espaces et parenthèses dans les noms). Provenance et droits : `questions.md` #11.
-- Vendredi sur place : vérifier que la tombe repérée (plaque « À nos chers disparus », photo du 21/10) est bien identifiable par « la haute tombe de pierre grise qui ne porte plus ni nom ni épitaphe » (sinon ajuster `joueurs/slow/pochette/03_proces_notable.md`) ; qu'aucune autre plante étiquetée n'évoque une bête cornue (« Barbe de bouc » retenue le 21/10 sauf blocage majeur ; étiquettes relevées : `design/reperage.md`) ; et si les chambres ont des noms ou des numéros (`questions.md` #4).
+- Vendredi sur place : vérifier que la tombe repérée (plaque « À nos chers disparus », photo du 21/10) est bien identifiable par « la haute tombe de pierre grise qui ne porte plus ni nom ni épitaphe » (sinon ajuster `joueurs/batiste/pochette/03_proces_notable.md`) ; qu'aucune autre plante étiquetée n'évoque une bête cornue (« Barbe de bouc » retenue le 21/10 sauf blocage majeur ; étiquettes relevées : `design/reperage.md`) ; et si les chambres ont des noms ou des numéros (`questions.md` #4).
 - Partie publique du site et photos de pièges : la v1 est en ligne, vérifier ce qu'il reste.
 - Recherche historique : événements du duché du Diois, cartes d'époques de La Chapelle-en-Vercors (OT fermé : mairie ou web), époques à documenter (Antiquité, napoléonien, 2GM), événements marquants (séismes).
 
 ## Fait
 
 - Site : spec (`ivan-beaulieu-photos/SPEC.md`), v1 en ligne (façade, journal, conférence, gate à 4 clés), mot caché `VEILLE` retenu.
-- Textes écrits : pochette d'Ivan (7 pièces), 5 props du lancement et de l'arc Slow, email, affiche.
+- Textes écrits : pochette d'Ivan (7 pièces), 5 props du lancement et de l'arc de Batiste, email, affiche.

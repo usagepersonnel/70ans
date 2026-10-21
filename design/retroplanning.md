@@ -16,10 +16,10 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 
 | Tâche | Qui | Bloque |
 |---|---|---|
-| **Validation lore en équipe** — réunion du 11/10 faite (`decisions/validation_2026-10-11.md`) : pas de communication samedi, bouteilles au gîte, message au « je », échos confirmés, cimetière OK. ✅ **Voyante résolue** (document `joueurs/slow/pochette/05_transcription_voyante.md`). **Restent : les voix du fugitif** et la **défiance envers la statuette** | Tous | Tout le reste |
-| ~~Arc équipe tranquille~~ — ✅ arc autonome détaillé dans `design/deroule.md`, validé le 11/10 | Batiste | Documents, site |
-| Arc équipe sportive — détailler le samedi : quels objets, où, justification narrative (crée le verrou de destruction de la statuette) | Seb | Timing du twist |
-| Réécriture `joueurs/rando/feuilles_rando.md` — après tranchage voix/squelette/sac | Rémi | Parcours rando |
+| **Validation lore en équipe** — réunion du 11/10 faite (`decisions/validation_2026-10-11.md`) : pas de communication samedi, bouteilles au gîte, message au « je », échos confirmés, cimetière OK. ✅ **Voyante résolue** (document `joueurs/batiste/pochette/05_transcription_voyante.md`). **Restent : les voix du fugitif** et la **défiance envers la statuette** | Tous | Tout le reste |
+| ~~Arc équipe Batiste~~ — ✅ arc autonome détaillé dans `design/deroule.md`, validé le 11/10 | Batiste | Documents, site |
+| Arc équipe Seb — détailler le samedi : quels objets, où, justification narrative (crée le verrou de destruction de la statuette) | Seb | Timing du twist |
+| Réécriture `joueurs/remi/feuilles_rando.md` — après tranchage voix/squelette/sac | Rémi | Parcours rando |
 | Site web : squelette — repo public + structure publique/secrète | Batiste | Contenus site |
 | Chorégraphie du rituel — v1 simple, apprenable en ~20 min | Mareva ? | Groupe « rituel » |
 | ~~Costumes/masques~~ — ✅ en cours : masques faits par Mareva ; reste la finition / les pièces manquantes | Mareva | — |
@@ -28,7 +28,7 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 
 | Tâche | Qui |
 |---|---|
-| Documents du jeu : ✅ faits dans `joueurs/slow/pochette/` + `joueurs/slow/props/` — procès du notable, lettre de l'enfant, article de journal d'Ivan, pochette d'Ivan, vieux calendrier (énigme autonome), transcription de la voyante (document retenu), email de Camille, affiche, livre d'or. **Reste : le message dans la statuette** (Mareva) | ? |
+| Documents du jeu : ✅ faits dans `joueurs/batiste/pochette/` + `joueurs/batiste/props/` — procès du notable, lettre de l'enfant, article de journal d'Ivan, pochette d'Ivan, vieux calendrier (énigme autonome), transcription de la voyante (document retenu), email de Camille, affiche, livre d'or. **Reste : le message dans la statuette** (Mareva) | ? |
 | Site web : partie publique remplie (photos animalières → complot) | Batiste |
 | Manifestations nocturnes : écrire les indices (symboles → miroirs, fragments petit-déj, tracé voitures) | ? |
 | Cartes trouées : maquettes des 3–4 cartes + technique de fabrication des trous | Rémi ? |
@@ -42,7 +42,7 @@ Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus,
 | Tâche | Qui |
 |---|---|
 | Site web : partie secrète + code, test complet sur mobile (le gîte capte « un peu ») | Batiste |
-| Lancement du samedi (19/10) : ✅ contenus rédigés (`joueurs/slow/props/01_lancement_email_enfant.md` email de Camille, `joueurs/slow/props/02_affiche_habitants_de_la_nuit.md` affiche). Reste : imprimer l'email, créer et vieillir l'affiche déchirée | Batiste ? |
+| Lancement du samedi (19/10) : ✅ contenus rédigés (`joueurs/batiste/props/01_lancement_email_enfant.md` email de Camille, `joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md` affiche). Reste : imprimer l'email, créer et vieillir l'affiche déchirée | Batiste ? |
 | Café-librairie : créer l'image du tableau du chasseur + tirages d'Ivan à exposer (accord à compléter) | ? |
 | Bambou (message du fugitif) : vérifier qu'on en a un, sinon alternative — à confirmer avec Rémi | Rémi ? |
 | Vieillissement et impression des documents ; découpe des trous dans les cartes | ? |

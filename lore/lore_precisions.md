@@ -26,7 +26,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - 💡 **Les 3 points du triangle** — Rémi va les définir : il s'agit de grottes ou lieux similaires, qui seront utilisés pour les énigmes. Coordonnées d'une grotte déjà identifiées (45.150739, 5.564328, grottomap.org). Constat terrain : cette grotte est à ~23 km à vol d'oiseau de La Chapelle → les 3 points maillent la région, et le centre du triangle doit tomber sur le lieu du rituel repéré (champ à ~10 min en voiture du gîte). En attente de la carte de Rémi.
 - ✅ **Boussoles affolées** — Effet du maléfice, pas besoin d'explication supplémentaire.
 - ✅ **Météo soudaine** — Effet du maléfice, pas besoin d'explication supplémentaire.
-- ❓ **Les voix de la forêt** — Question ouverte (à confirmer en réunion). `joueurs/rando/feuilles_rando.md` montre des voix qui guident et manipulent le fugitif, alors que le maléfice « n'a pas de volonté ». Sont-ce les mêmes « échos du passé » que les manifestations nocturnes ? Trois lectures possibles : (a) les voix du fugitif **sont** des échos, même mécanisme que les manifestations — unifie le lore et résout la contradiction ; (b) seules les manifestations sont des échos — les voix relèvent de la psychologie/endoctrinement du fugitif (récit non fiable) ; (c) les deux : échos réels + interprétation biaisée. Aucune n'est décidée.
+- ❓ **Les voix de la forêt** — Question ouverte (à confirmer en réunion). `joueurs/remi/feuilles_rando.md` montre des voix qui guident et manipulent le fugitif, alors que le maléfice « n'a pas de volonté ». Sont-ce les mêmes « échos du passé » que les manifestations nocturnes ? Trois lectures possibles : (a) les voix du fugitif **sont** des échos, même mécanisme que les manifestations — unifie le lore et résout la contradiction ; (b) seules les manifestations sont des échos — les voix relèvent de la psychologie/endoctrinement du fugitif (récit non fiable) ; (c) les deux : échos réels + interprétation biaisée. **Position de Rémi (21/10)** : les voix dictent au fugitif de briser la statuette **selon un rituel précis** — cohérent avec « le rituel exact de purification » des feuilles et avec la scène de destruction de 17h30 (masques requis). Reste à trancher leur nature entre (a)/(b)/(c) — avis de Seb attendu (`questions.md` #21).
 
 ## La connection Perchtenlauf ↔ Vercors
 
@@ -49,8 +49,8 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ✅ **Pourquoi les joueurs la brisent-ils ?** — Le tableau la présente comme un objet magique et la voyante donne un indice interprétable comme « détruire l'objet ». Les joueurs pensent donc résoudre la malédiction en la brisant.
 - ✅ **Effet de la destruction** — La destruction de la statuette ne provoque rien en elle-même : elle est seulement nécessaire pour révéler les instructions et permettre la suite du scénario.
 - ✅ **Message** — Validé en équipe (11/10) : le message est **écrit par un ancien Perchtenlauf, à la première personne (« je »)** — Mareva le rédige. Il explique en substance que si les joueurs ont trouvé la statuette, c'est que les anciens Perchtenlauf ne sont plus là — sinon ils ne les auraient pas laissés y accéder — et que les joueurs doivent devenir les nouveaux Perchtenlauf.
-- ✅ **Lieu** — La statuette se trouve dans la grotte où sont rassemblés les objets disparus ; l'équipe rando la découvre le samedi.
-- ✅ **Après le vol du fugitif** — Dans `joueurs/rando/feuilles_rando.md` (récit situé dans le passé), le fugitif la cache près d'une source. Validé (Rémi, 02/10) : les Perchtenlauf le rattrapent, récupèrent la statuette et la replacent dans la grotte — retour à l'état initial. Le vol n'explique pas le rituel partiel : la cause reste la statuette jamais parfaitement conforme aux instructions.
+- ✅ **Lieu** — La statuette se trouve dans la grotte où sont rassemblés les objets disparus ; l'équipe Rémi la découvre le samedi.
+- ✅ **Après le vol du fugitif** — Dans `joueurs/remi/feuilles_rando.md` (récit situé dans le passé), le fugitif la cache près d'une source. Validé (Rémi, 02/10) : les Perchtenlauf le rattrapent, récupèrent la statuette et la replacent dans la grotte — retour à l'état initial. Le vol n'explique pas le rituel partiel : la cause reste la statuette jamais parfaitement conforme aux instructions.
 - ✅ **Origine de la statuette actuelle** — Elle a été fabriquée par les Perchtenlauf du cycle précédent, voire d'un cycle antérieur. C'est un vieil objet, potentiellement réutilisé depuis plusieurs cycles.
 - ✅ **Description physique** (21/10) — canonique dans `lore/lore.md`, section Statuette (petite, sombre, paraît lourde mais légère parce que creuse, matière indéterminée). Ne pas la redécrire ailleurs : y renvoyer.
 - ✅ **Ingrédients de la statuette** — Les instructions précisent que la statuette doit être composée de certains matériaux (du bois, etc.) et porter des symboles correspondant à un loup, etc. La forme et la réalisation restent libres.
@@ -96,7 +96,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 - ✅ **Qui l'a créé ?** — **Résolu** : Ivan Beaulieu. Structure en deux parties : publique (photos animalières → théorie du complot) et secrète (`/archives`, sous 4 clés).
 - ✅ **Évolution du contenu** — **Résolu** : Narration volontaire d'Ivan, pas une infection progressive.
-- ✅ **Quel est le lien avec les énigmes ?** — **Résolu** : Le site est consulté par l'équipe tranquille le samedi au gîte (publique + zone secrète déverrouillée). La partie secrète donne les briques qui prennent sens dimanche (bandes audio, photos horodatées). Vecteur pendant le jeu, pas seulement teaser.
+- ✅ **Quel est le lien avec les énigmes ?** — **Résolu** : Le site est consulté par l'équipe Batiste le samedi au gîte (publique + zone secrète déverrouillée). La partie secrète donne les briques qui prennent sens dimanche (bandes audio, photos horodatées). Vecteur pendant le jeu, pas seulement teaser.
 
 ## Les manifestations nocturnes
 
@@ -130,6 +130,6 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 5. ❓ **Les voix de la forêt** → `questions.md` #21 (options dans la section « La nature du Triangle du Vercors » ci-dessus).
 6. ~~**Déclencheur du PNJ**~~ — ✅ Validé en équipe : pas de PNJ, son rôle passe par la pochette d'Ivan.
 7. ~~**Squelette du scialet**~~ — ✅ Confirmé : pas le fugitif (victime collectée par le triangle). Reste : choisir l'époque, sans exploiter les lieux de mémoire réels.
-8. ~~**La voyante**~~ — ✅ document retenu : transcription de séance dans la pochette d'Ivan (`joueurs/slow/pochette/05_transcription_voyante.md`).
-9. ~~**Mettre à jour `lore/lore.md`**~~ — ✅ Fait (04/10). `joueurs/rando/feuilles_rando.md` reste à réécrire une fois les points ci-dessus tranchés.
+8. ~~**La voyante**~~ — ✅ document retenu : transcription de séance dans la pochette d'Ivan (`joueurs/batiste/pochette/05_transcription_voyante.md`).
+9. ~~**Mettre à jour `lore/lore.md`**~~ — ✅ Fait (04/10). `joueurs/remi/feuilles_rando.md` reste à réécrire une fois les points ci-dessus tranchés.
 

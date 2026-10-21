@@ -10,14 +10,14 @@ L'essentiel du projet est constitué de **fichiers Markdown** :
 - `lore/lore_precisions.md` — Décisions, pistes et questions ouvertes sur le lore --> à valider d'abord
 - `design/deroule.md` — Répartition des équipes, déroulement et mécaniques d'énigmes
 - `design/enigmes.md` — Cartographie du parcours joueur : étapes, difficultés, déblocages (tranche les questions ouvertes)
-- `joueurs/rando/feuilles_rando.md` — Texte des feuilles trouvées par l'équipe rando (récit du fugitif)
+- `joueurs/remi/feuilles_rando.md` — Texte des feuilles trouvées par l'équipe Rémi (récit du fugitif)
 - `design/reperage.md` — Checklist et retours de la visite terrain
 - `design/retroplanning.md` — Jalons et calendrier (le suivi des tâches est dans `TODO.md`)
 - `TODO.md` — Tâches, responsables et état d'avancement (travail qui ne demande aucune décision)
 - `questions.md` — Questions ouvertes pour l'équipe (ouvertes uniquement ; où vit chaque information : `AGENTS.md`)
-- `joueurs/slow/pochette/` — Contenu de la pochette d'Ivan (7 pièces + index) — le cœur documentaire de l'arc tranquille
-- `joueurs/slow/props/` — Props de lancement et de l'arc tranquille (email, affiche, livre d'or, tableau, calendrier)
-- `joueurs/sportif/` — Espace de l'arc sportif (Seb) — parcours pièges photo et cache des Perchten
+- `joueurs/batiste/pochette/` — Contenu de la pochette d'Ivan (7 pièces + index) — le cœur documentaire de l'arc de Batiste
+- `joueurs/batiste/props/` — Props de lancement et de l'arc de Batiste (email, affiche, livre d'or, tableau, calendrier)
+- `joueurs/seb/` — Espace de l'arc de Seb (Seb) — parcours pièges photo et cache des Perchten
 - `joueurs/rituel/` — Conception du rituel du dimanche (structure, 12 sons, énigmes, production) — fait foi pour le dimanche
 - `assets/ivan/` — Bio et portraits d'Ivan · `assets/photos/` — clichés de pièges · `assets/sources/` — textes Perchtenlauf · `assets/cartes/` — cartes du dimanche
 - `meta/` — méthode, rapport et récap de la passe de cohérence (`meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`, et `meta/methode_coherence.md`, fichier local non versionné), cartographie structurelle du scénario (`meta/cartographie_scenario.md`) et message d'équipe (`meta/message_equipe_2026-10-21.md`). Ce sont des instantanés, pas des sources de faits

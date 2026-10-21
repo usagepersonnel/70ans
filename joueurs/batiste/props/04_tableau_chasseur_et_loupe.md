@@ -1,9 +1,9 @@
-# `joueurs/slow/props/04_tableau_chasseur_et_loupe.md` — Le Tableau du chasseur et des loups + l'usage de la loupe (Café-Librairie, 15h30)
+# `joueurs/batiste/props/04_tableau_chasseur_et_loupe.md` — Le Tableau du chasseur et des loups + l'usage de la loupe (Café-Librairie, 15h30)
 
 ## Rôle dans le jeu
 - **Quand & Où** : Samedi vers 15h30, au Café-Librairie de La Chapelle-en-Vercors (au sec !).
 - **Ce qu'il résout** :
-  1. **La Clé n°2 du site web d'Ivan (`/archives`)** : dans son aide-mémoire (`joueurs/slow/pochette/01_notes_ivan_et_aide_memoire.md`), Ivan a noté : *« Clé n°2 — regarder la toile du Café-Librairie de très près avec ma loupe : le peintre y a dissimulé un mot minuscule. »*
+  1. **La Clé n°2 du site web d'Ivan (`/archives`)** : dans son aide-mémoire (`joueurs/batiste/pochette/01_notes_ivan_et_aide_memoire.md`), Ivan a noté : *« Clé n°2 — regarder la toile du Café-Librairie de très près avec ma loupe : le peintre y a dissimulé un mot minuscule. »*
   2. **L'utilité mécanique de la loupe** : trouvée à 14h45 dans la pochette d'Ivan, la loupe est indispensable ici pour déchiffrer le mot minuscule caché dans les traits de gravure du tableau.
   3. **Le double jeu narratif (Samedi vs Dimanche)** :
      - *Lecture du samedi (avec le biais d'Ivan)* : la figure masquée et les loups entourent la statuette mystérieuse → c'est un objet de culte maléfique qu'il faut détruire.
@@ -42,5 +42,5 @@ On peut partir du style eau-forte / gravure ancienne de `assets/photos/bring-bac
 ## 3. Interaction au Café-Librairie (sobre et zéro gêne pour la commerçante)
 
 Conformément à ta consigne (ne pas embarrasser la dame du café avec du jeu d'acteur morbide) :
-- **Option 1 (zéro sollicitation)** : Le tableau est simplement accroché ou posé sur une étagère du café-librairie à côté de l'affiche intacte d'Ivan (`joueurs/slow/props/02_affiche_habitants_de_la_nuit.md`) et de quelques tirages photos d'animaux. Les joueurs entrent prendre un café/chocolat chaud, repèrent l'affiche et le tableau tout seuls, sortent leur loupe et notent l'URL + le mot `VEILLE`.
+- **Option 1 (zéro sollicitation)** : Le tableau est simplement accroché ou posé sur une étagère du café-librairie à côté de l'affiche intacte d'Ivan (`joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md`) et de quelques tirages photos d'animaux. Les joueurs entrent prendre un café/chocolat chaud, repèrent l'affiche et le tableau tout seuls, sortent leur loupe et notent l'URL + le mot `VEILLE`.
 - **Option 2 (si la commerçante a envie d'un petit échange sympa de 30 secondes)** : Le tableau est derrière le comptoir ; quand les joueurs demandent s'ils peuvent voir « le vieux tableau du chasseur qu'Ivan Beaulieu aimait tant », elle le leur prête avec le sourire pendant qu'ils consomment.

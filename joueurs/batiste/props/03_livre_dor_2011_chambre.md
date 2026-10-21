@@ -1,7 +1,7 @@
-# `joueurs/slow/props/03_livre_dor_2011_chambre.md` — Livre d'or 2011 & identification de la chambre d'Ivan (Samedi 14h30)
+# `joueurs/batiste/props/03_livre_dor_2011_chambre.md` — Livre d'or 2011 & identification de la chambre d'Ivan (Samedi 14h30)
 
 ## Rôle dans le jeu
-- **Quand** : Samedi 14h30, juste après la séparation des 3 groupes. L'équipe Slow est au gîte et sait (grâce à l'email de Camille Beaulieu) qu'Ivan revenait chaque automne depuis **2011** dans la même chambre et y a peut-être laissé sa pochette de notes.
+- **Quand** : Samedi 14h30, juste après la séparation des 3 groupes. L'équipe Batiste est au gîte et sait (grâce à l'email de Camille Beaulieu) qu'Ivan revenait chaque automne depuis **2011** dans la même chambre et y a peut-être laissé sa pochette de notes.
 - **Le problème terrain (`design/reperage.md`)** :
   1. Le gîte comporte de nombreuses chambres identiques (on ne veut pas que les joueurs fouillent les effets personnels des 35 invités au hasard).
   2. Il existe dans le gîte **un vrai livre d'or qui date de 2011** — quasiment un album photo imprimé, surtout des photos de gens.
@@ -43,4 +43,4 @@ Cette petite phrase en *P.-S.* crée un enchaînement super gratifiant pour les 
    - Les observateurs trouvent la chambre en comparant **la vue par la fenêtre** avec la photo de 2011.
    - Les déductifs parcourent le couloir, voient toutes les portes avec un animal **sauf une où l'étiquette a été arrachée**, et savent immédiatement que c'est celle de la Chouette — celle d'Ivan !
 3. **Le petit détail qui tue quand ils ouvrent la pochette d'Ivan (à 14h45)** :
-   - À l'intérieur du rabat de la chemise cartonnée (trouvée sous le lit ou dans l'armoire de cette chambre), on colle effectivement **l'étiquette de la Chouette** qu'il avait « chipée » sur sa porte en 2011 ! (Ce qui ancre dès 14h45 le fait que l'équipe Slow est **l'équipe de la Chouette** pour le dimanche.)
+   - À l'intérieur du rabat de la chemise cartonnée (trouvée sous le lit ou dans l'armoire de cette chambre), on colle effectivement **l'étiquette de la Chouette** qu'il avait « chipée » sur sa porte en 2011 ! (Ce qui ancre dès 14h45 le fait que l'équipe Batiste est **l'équipe de la Chouette** pour le dimanche.)

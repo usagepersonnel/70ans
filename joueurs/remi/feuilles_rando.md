@@ -1,4 +1,4 @@
-# Récit équipe randonnée
+# Récit équipe Réminnée
 
 Les joueurs liront les dernières feuilles avant de remonter vers les premières feuilles. La feuille suivante donnera des indications sur la feuilles précédentes (et donc le lieu associé). Mais temporellement, le récit se lit du haut vers le bas dans ce fichier.
 
@@ -176,7 +176,7 @@ Dans une bouteille scellées à la cire ou la gourde en cuir (préférence pour 
 
 ### Stockage du message
 
-Dans un morceau de bambou au gîte. A définir comment ils le trouvent...
+Feuillet joint aux autres feuilles volantes de l'enveloppe du lancement (direction Rémi, 21/10 — « on verra si ils font la distinction avec les autres indices » ; l'email la dit déjà « jointe en l'état »). Bambou trouvé par Mareva, conservé en réserve si un contenant physique est préféré.
 
 ### Texte de base
 > 9 septembre 1746, fin de journée
@@ -187,7 +187,7 @@ Dans un morceau de bambou au gîte. A définir comment ils le trouvent...
 
 > Le brouillard s'est finalement retourné contre moi et m'a désorienté en descendant. Je pensais descendre en Ouest mais je suis descendu en Nord, en plein dans la gueule du loup...
 
-> Je vais tenter de cacher ce que je leur ai subtilisé à côté de la source, dans ma gourde. Je ne pourrai pas faire mieux. Peut être que les voix trouveront un autre champion pour remplir cette tâche et ainsi éviter que le cycle ne se répète une nouvelle fois.
+> Je vais tenter de cacher ces écrits dans ma gourde, et de poser ce que je leur ai subtilisé juste à côté, près de la source. Je ne pourrai pas faire mieux. Peut être que les voix trouveront un autre champion pour remplir cette tâche et ainsi éviter que le cycle ne se répète une nouvelle fois.
 
 > Je n'aurais pas réussi à les semer mais j'espère que ces écrits parviendront à quelqu'un... Voyageur, puisses-tu réussir là où j'ai échoué. Détruit la statuette avant le prochain cycle. C'est la seule manière de parvenir à restaurer l'équilibre du plateau du Vercors.
 
@@ -200,7 +200,7 @@ Dans un morceau de bambou au gîte. A définir comment ils le trouvent...
 
 > Le brouillard s'est finalement tournez contre moy et m'a desorienté en descendant. Je pensois descendre vers le Couchant, mais j'ay descendu vers le Nord, en plein dans la gueule du loup...
  
-> Je vais tenter de cacher ce que je leur ay subtilisé à costé de la source. Je ne pourray pas faire mieux. Peut-estre que les voix trouveront un autre champion pour remplir ceste tâche, et ainsi éviter que le cycle ne se répéte une nouvelle foys.
+> Je vais tenter de cacher ces escripts dans ma gourde, et de poser ce que je leur ay subtilisé juste à costé, près de la source. Je ne pourray pas faire mieux. Peut-estre que les voix trouveront un autre champion pour remplir ceste tâche, et ainsi éviter que le cycle ne se répéte une nouvelle foys.
 
 > Je n'aurois point peu les semer, mais j'espère que ces escripts parviendront à quelqu'un... Voyageur, puisses-tu réussir là où j'ay eschoué. Détruy la statuette avant le prochain cycle. C'est la seule manière de parvenir à restaurer l'équilibre du plateau du Vercors.
 

@@ -1,4 +1,4 @@
-# `joueurs/slow/props/01_lancement_email_enfant.md` — Email imprimé de l'enfant d'Ivan (Lancement commun, samedi 14h00)
+# `joueurs/batiste/props/01_lancement_email_enfant.md` — Email imprimé de l'enfant d'Ivan (Lancement commun, samedi 14h00)
 
 ## Rôle dans le jeu
 - **Quand** : Samedi 14h00, au café après le déjeuner au gîte, devant les 35 joueurs.
@@ -32,8 +32,8 @@
 > Puisque vous êtes nombreux et de niveaux différents, et qu'il aurait détesté gâcher votre après-midi d'anniversaire, je vous ai fait déposer les trois dossiers de parcours sur lesquels il travaillait au départ de la maison :
 >
 > - **Pour ceux qui préfèrent rester au calme autour du gîte et du bourg :** une balade douce dans La Chapelle-en-Vercors, sur les pas de ses habitudes au village et au café-librairie. *(Les propriétaires du gîte m'ont dit au téléphone qu'il avait oublié une vieille pochette de notes dans sa chambre la veille de son accident et qu'ils la gardaient de côté pour moi — n'hésitez pas à y jeter un œil si vous trouvez sa chambre, je ne suis pas encore revenu(e) la chercher.)*
-> - <a_confirmer>**Pour les marcheurs sportifs (~200 m de dénivelé) :** l'itinéraire en forêt où il avait installé ses pièges photographiques pour suivre la faune nocturne (lachouette, le loup et le bouquetin).</a_confirmer>
-> - <a_confirmer>**Pour les grands randonneurs :** la boucle des crêtes et des grottes, où il s'intéressait à une vieille histoire locale *(il avait d'ailleurs rapporté d'une source un curieux message ancien que je vous joins en l'état)*.</a_confirmer>
+> - <a_confirmer>**Pour les marcheurs (~200 m de dénivelé en forêt) :** l'itinéraire où il avait installé ses pièges photographiques pour suivre la faune nocturne (la chouette, le loup et le bouquetin).</a_confirmer>
+> - <a_confirmer>**Pour les randonneurs confirmés :** la grande boucle des crêtes et des grottes, où il s'intéressait à une vieille histoire locale *(il avait d'ailleurs rapporté d'une source un curieux message ancien que je vous joins en l'état)*.</a_confirmer>
 >
 > Si le cœur vous en dit de marcher sur ses pas cet après-midi, chacune et chacun à votre rythme, ce sera sans doute la plus belle façon de lui rendre hommage.
 >
@@ -47,4 +47,4 @@
 
 ## Notes d'ajustement avant impression
 - *Prénom de l'enfant* : mis **Camille** (épicène, fonctionne pour fils ou fille sans ambiguïté).
-- *Paragraphes balisés « a_confirmer »* : formulation souple qui fonctionne quelle que soit la façon dont Seb et Rémi donnent leur premier indice à 14h15 (soit dans une enveloppe jointe à ce mail, soit posé sur la table à côté).
+- *Paragraphes balisés « a_confirmer »* : formulation souple qui fonctionne quelle que soit la façon dont Seb et Rémi donnent leur premier indice à 14h15 (soit dans une enveloppe jointe à ce mail, soit posé sur la table à côté). Validation des descriptions par Seb et Rémi : `questions.md` #16.
