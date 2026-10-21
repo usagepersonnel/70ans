@@ -2,6 +2,8 @@
 
 Jeu : week-end du **24–25 octobre 2026**. Reste ~3 semaines (point de départ : 4 oct).
 
+**Depuis le 21/10, le suivi des tâches et des responsables est dans `TODO.md`** ; ce document garde les jalons et le calendrier. Les tableaux par semaine ci-dessous sont l'historique du plan initial.
+
 Principe : la semaine 1 verrouille le design, la semaine 2 produit les contenus, la semaine 3 assemble et teste. Les propriétaires sont des **propositions à répartir en équipe**.
 
 ## Jalons

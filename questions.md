@@ -19,6 +19,7 @@
 9. **La chambre d'Ivan existe-t-elle vraiment** ou en choisit-on une à l'arrivée ? La photo « vue depuis sa fenêtre » se fabrique une fois la chambre choisie (à faire sur place, vendredi)
 10. **Livre d'or 2011** : format et état exact (album photo ?), pour y glisser la fausse page d'Ivan
 21. **Voix de la forêt** : elles guident le fugitif, alors que le maléfice « n'a pas de volonté ». Échos du passé (même mécanisme que les manifestations), récit non fiable du fugitif, ou les deux ? Options détaillées dans `lore/lore_precisions.md`, section « La nature du Triangle du Vercors »
+22. **Apparitions hors-cycle** (non bloquante) : les textes du Loup (1894), des Hiboux (1944) et du Bouquetin (non daté) montrent des Perchten en dehors des Grandes Veilles de 1606, 1746 et 1886. Sont-ce des patrouilles ordinaires (« ils veillent », le mot du tableau), sans lien avec le rituel qui n'a lieu qu'en fin de cycle ? Proposition : oui. Contexte : `joueurs/slow/props/05_enigme_vieux_calendrier.md`
 
 ## Assets et sources
 
@@ -44,3 +45,4 @@
     - Texte exact du message caché dans la statuette
     - La statuette ancienne peut-elle être creuse et légère, d'une seule pièce, sombre à reflets ? Description retenue : `lore/lore.md`, section Statuette
 20. **Scène de 17h30** : confirme-t-on le rituel sommaire avec les 3 masques et la statuette, sans marteau ? Proposition et raisonnement dans `design/deroule.md` (section 17h30). Reste à décider : qui porte les masques, ce que font les trois masqués, et ce que le geste de briser donne à voir
+23. **Gel des textes avant impression** (@équipe) : à partir de quand ne modifie-t-on plus les textes imprimés, sauf blocage ? Suggestion : jeudi soir 22/10. Après ce moment, chaque changement oblige à réimprimer

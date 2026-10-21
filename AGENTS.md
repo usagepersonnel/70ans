@@ -55,10 +55,10 @@ Chaque information vit à **un seul endroit**. Les autres documents y renvoient 
 | Parcours joueur, énigmes, déblocages | `design/enigmes.md` |
 | Équipes, déroulé, mécaniques | `design/deroule.md` |
 | Terrain et repérage | `design/reperage.md` |
-| Planning de production, propriétaires | `design/retroplanning.md` |
+| Jalons et calendrier (le suivi des tâches est dans `TODO.md`) | `design/retroplanning.md` |
 | Texte joueur et fabrication d'un prop | `joueurs/<équipe>/` (un fichier par prop) |
 | Dimanche et rituel | `joueurs/rituel/` |
-| Tâche et état d'avancement | `TODO.md` |
+| Tâche, responsable et état d'avancement (travail qui ne demande aucune décision) | `TODO.md` |
 | Question ouverte à un membre de l'équipe | `questions.md` (questions ouvertes uniquement) |
 | Décision prise en réunion (datée, figée) | `decisions/` |
 | Analyse, audit, vérification, message d'équipe | `meta/` (instantanés, jamais source de faits) |
