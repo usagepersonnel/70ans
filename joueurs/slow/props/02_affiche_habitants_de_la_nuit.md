@@ -52,5 +52,5 @@
 
 ## Instructions de fabrication (quand on passera à la forme)
 1. Imprimer **deux exemplaires** sur papier A4 un peu épais (ou ivoire).
-2. **Exemplaire Café-Librairie** : le laisser intact (avec le vrai nom du café-librairie une fois renseigné dans `questions.md` #3, et le QR code pointant vers `https://ivan-beaulieu-photos.vercel.app`).
+2. **Exemplaire Café-Librairie** : le laisser intact (avec le vrai nom du commerce (renseigné — non écrit dans le dépôt, qui est public), et le QR code pointant vers `https://ivan-beaulieu-photos.vercel.app`).
 3. **Exemplaire Gîte** : arracher à la main le tiers inférieur en biais de façon à ce qu'on lise encore `Portfolio, journal d'affût & archives en ligne : https://ivan-b...` mais que la fin de l'URL et le QR code aient disparu. Froisser légèrement et punaiser au gîte avant le déjeuner du samedi.

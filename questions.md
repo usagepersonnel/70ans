@@ -9,17 +9,11 @@
 
 ## Terrain (photos et données du repérage)
 
-2. **Photos du repérage** : sont-elles disponibles quelque part ? (livre d'or 2011, chambres du gîte, fontaine, tombe sans inscription, étiquettes de plantes, tableau et café) Utiles pour caler les énigmes et fabriquer les props
-3. **Nom du café-librairie** : le vrai nom du commerce, pour l'affiche d'Ivan et le tableau
 4. **Chambres du gîte** : ont-elles déjà des noms ou des numéros (par exemple une affichette par chambre) ? Si oui, lesquels ?
-5. **Plantes étiquetées** : liste exacte des plantes nommées dans le village (« Barbe de bouc » et les autres), pour la clé n°4 et d'éventuels ingrédients du dimanche
 
 ## Lore et props
 
-9. **La chambre d'Ivan existe-t-elle vraiment** ou en choisit-on une à l'arrivée ? La photo « vue depuis sa fenêtre » se fabrique une fois la chambre choisie (à faire sur place, vendredi)
-10. **Livre d'or 2011** : format et état exact (album photo ?), pour y glisser la fausse page d'Ivan
-21. **Voix de la forêt** : elles guident le fugitif, alors que le maléfice « n'a pas de volonté ». Échos du passé (même mécanisme que les manifestations), récit non fiable du fugitif, ou les deux ? Options détaillées dans `lore/lore_precisions.md`, section « La nature du Triangle du Vercors »
-22. **Apparitions hors-cycle** (non bloquante) : les textes du Loup (1894), des Hiboux (1944) et du Bouquetin (non daté) montrent des Perchten en dehors des Grandes Veilles de 1606, 1746 et 1886. Sont-ce des patrouilles ordinaires (« ils veillent », le mot du tableau), sans lien avec le rituel qui n'a lieu qu'en fin de cycle ? Proposition : oui. Contexte : `joueurs/slow/props/05_enigme_vieux_calendrier.md`
+21. **Voix de la forêt** : elles guident le fugitif, alors que le maléfice « n'a pas de volonté ». Échos du passé (même mécanisme que les manifestations), récit non fiable du fugitif, ou les deux ? Options détaillées dans `lore/lore_precisions.md`, section « La nature du Triangle du Vercors » (@Seb, surtout @Rémi : votre avis ?)
 
 ## Assets et sources
 

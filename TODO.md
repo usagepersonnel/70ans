@@ -81,7 +81,7 @@
 - `journal.ts` et `dossier.astro` : « quinze ans » → « vingt ans » (2 occurrences).
 - `sorties.astro` : « Réservations closes » → dater et préciser que c'est Camille qui a fermé le formulaire en découvrant la réservation (oct. 2026), sinon contradiction avec l'email de 14h.
 - `audio.astro` : « trois nuits » → « trois veilles » (les 3 bandes datent du même week-end, `joueurs/slow/pochette/02_releves_2011_2025.md`) ; reformuler « le compteur s'est arrêté » ; aligner le carnet d'écoute sur `joueurs/rituel/enigmes_dimanche.md`.
-- `keys.ts` et `.env.example` : défaut de la clé 1 `1878` → `1894` et `1994`, et comparaison « contient » (comme la clé 3) pour accepter « de 1894 à 1994 » ; libellé du champ dans `ivan-beaulieu-photos/src/pages/archives/index.astro` : « L'année gravée » → « Les dates gravées ».
+- `keys.ts` et `.env.example` : défaut de la clé 1 `1878` → `1894` et `1994`, et comparaison « contient » (comme la clé 3) pour accepter « de 1894 à 1994 » ; libellé du champ dans `ivan-beaulieu-photos/src/pages/archives/index.astro` : « L'année gravée » → « Les dates gravées ». Clé 4 : comparaison « contient » acceptant `barbe de bouc` et `aruncus` (le nom latin figure sur l'étiquette, les joueurs peuvent le relever).
 - `dossier.astro` : **réécrire le paragraphe où Ivan doute** (« ce que j'ai pris pour de la malveillance pendant trop longtemps, je commence à me demander si ce n'est pas autre chose »). Ivan est persuadé qu'ils sont maléfiques. Proposition : « Ils ne sont pas des rêves. Ils viennent quand l'heure change, ils ont toujours trois pas d'avance sur la mémoire des gens, et chaque année je suis un peu plus certain qu'ils ne nous veulent aucun bien. »
 - Optionnel : `ivan-beaulieu-photos/src/lib/auth.ts`, durée du cookie `COOKIE_MAX_AGE` de 4 h à 48 h.
 - `disparitions.astro` : « vers 1746 » codé en dur ; ne pas toucher tant que la date du fugitif n'est pas tranchée (`questions.md` #18).
@@ -106,6 +106,7 @@
 
 - Frontière entre le contenu public du site et la zone secrète (ne publier aucun indice réservé à la partie secrète).
 - Images WhatsApp du 18/10 (`assets/photos/`) : avant de les utiliser sur le site, vérifier qu'aucune date incrustée ne postdate la mort d'Ivan (oct. 2025) ; les renommer ensuite (espaces et parenthèses dans les noms). Provenance et droits : `questions.md` #11.
+- Vendredi sur place : vérifier que la tombe sans inscription correspond à « allée du fond, grande dalle de calcaire gris » (sinon ajuster `joueurs/slow/pochette/03_proces_notable.md`) ; qu'aucune autre plante étiquetée n'évoque une bête cornue (étiquettes relevées : `design/reperage.md`) ; et si les chambres ont des noms ou des numéros (`questions.md` #4).
 - Partie publique du site et photos de pièges : la v1 est en ligne, vérifier ce qu'il reste.
 - Recherche historique : événements du duché du Diois, cartes d'époques de La Chapelle-en-Vercors (OT fermé : mairie ou web), époques à documenter (Antiquité, napoléonien, 2GM), événements marquants (séismes).
 

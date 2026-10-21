@@ -64,6 +64,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ✅ **Absence au moment du jeu** — On ne sait pas pourquoi les anciens Perchtenlauf ne peuvent pas réaliser le rituel cette fois-ci. Le scénario ne doit pas fournir cette explication. C'est la **première fois** que la transmission est rompue.
 - ✅ **Indice narratif** — Le dimanche, les joueurs doivent comprendre que les anciens Perchtenlauf ne sont plus disponibles et que la solution n'est pas de partir à leur recherche. Le message dans la statuette leur indique directement de devenir les nouveaux Perchtenlauf.
 - ✅ **Avant et après la destruction** — Rien de particulier n'arrive nécessairement aux anciens Perchtenlauf : ce sont des gens ordinaires. Leur destin reste volontairement non expliqué aux joueurs.
+- ✅ **Veille permanente (décision 21/10)** — Les Perchtenlauf existent et veillent tout au long du cycle, pas seulement au moment du rituel : les apparitions de 1894 et 1944 (et le Bouquetin non daté) sont des patrouilles ordinaires — « ils veillent », le mot du tableau. Ce sont des gens ordinaires qui se transmettent à l'oral un savoir un peu ésotérique.
 
 ## Le photographe et le PNJ
 

@@ -4,7 +4,7 @@
 - **Quand** : Samedi 14h30, juste après la séparation des 3 groupes. L'équipe Slow est au gîte et sait (grâce à l'email de Camille Beaulieu) qu'Ivan revenait chaque automne depuis **2011** dans la même chambre et y a peut-être laissé sa pochette de notes.
 - **Le problème terrain (`design/reperage.md`)** :
   1. Le gîte comporte de nombreuses chambres identiques (on ne veut pas que les joueurs fouillent les effets personnels des 35 invités au hasard).
-  2. Il existe dans le gîte **un vrai livre d'or qui date de 2011**, composé principalement de photos.
+  2. Il existe dans le gîte **un vrai livre d'or qui date de 2011** — quasiment un album photo imprimé, surtout des photos de gens.
 - **La solution retenue (double piste redondante, validée le 19/10)** :
   - **Piste A (la vue depuis la fenêtre)** : une photo prise depuis la fenêtre de la chambre choisie comme « chambre d'Ivan », glissée dans le livre d'or 2011 avec un mot d'Ivan.
   - **Piste B (l'animal par porte, dont le sien est décollé/effacé)** : un petit médaillon/affichette d'animal du Vercors sur chaque porte de chambre, sauf sur celle d'Ivan où il ne reste que la trace d'adhésif / un coin déchiré — et le mot d'Ivan dans le livre d'or explique pourquoi !
@@ -13,7 +13,7 @@
 
 ## 1. Le feuillet à glisser dans le vrai livre d'or 2011 du gîte
 
-*(À préparer sur une feuille de même format que le livre d'or 2011, avec une photo imprimée prise le vendredi soir en arrivant au gîte depuis la fenêtre de la chambre qu'on aura choisie.)*
+*(À préparer au format de l'album — une page photo + légende, comme les autres pages : la photo de la vue est prise le vendredi soir depuis la fenêtre de la chambre choisie à l'arrivée.)*
 
 ### Photo collée sur la page
 - **Visuel** : Une photo de la vue extérieure prise **exactement depuis la fenêtre de la chambre d'Ivan** (montrant un angle reconnaissable : un arbre précis, un bout de toit, le muret ou une montagne en face), légèrement vieillie / style tirage 10×15 de 2011.

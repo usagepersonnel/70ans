@@ -19,8 +19,7 @@ Terrain principal de l'équipe tranquille : fouille le samedi, manifestations la
 ### Fouille (samedi, équipe tranquille 14h30–15h15)
 
 - [x] Repérer la chambre qui jouera le rôle de **chambre d'Ivan** — photo + cachettes plausibles (sous matelas, derrière cadre, bibliothèque, fond de tiroir) ✅ De nombreuses chambes identiques, n'importe laquelle fera l'affaire.
-- [x] Comment les joueurs découvrent-ils *quelle* chambre ? Chercher un indice naturel (plan du gîte, nom des chambres, livre d'or) ✅ Il existe un livre d'or datant de 2011, surtout des photos. A part ça pas de livre d'or. Donc à voir si c'est exploitable. Sinon un autre indice est à trouver.
-- [x] **Livre d'or / registre** — s'il existe, c'est le support naturel pour prouver le séjour d'Ivan (signature, date). ✅ Livre d'or 2011 existant, surtout des photos — exploitation à décider.
+- [x] Comment les joueurs découvrent-ils *quelle* chambre ? Chercher un indice naturel (plan du gîte, nom des chambres, livre d'or) ✅ Livre d'or 2011 : quasiment un album photo imprimé, surtout des photos de gens. Exploitation décidée (19/10) : double piste photo de fenêtre + étiquette d'animal décollée — `joueurs/slow/props/03_livre_dor_2011_chambre.md`.
 - [x] Photographier les espaces où cacher des documents (procès, lettre) : salon, salle commune, recoins ✅ Photos faites, on a la matière pour décider. Reste à le faire ^^
 
 ### Manifestations nocturnes (nuit samedi → dimanche)
@@ -47,7 +46,7 @@ Contenu proposé (à valider ce soir) : chaque manifestation amorce un groupe du
 
 ### Église et cimetière
 
-- [x] Photos des dates, inscriptions, vitraux, symboles — chercher tout motif loup, figure masquée, détail étrange ✅ Fait. On a trouvé une fontaine avec dates (**1894-1994**) + statues d'ours d'environ 1,5 m, une église avec des vitraux, un cimetière avec des tombes anciennes (dont une sans aucune inscription), et plein de plantes avec des noms compliqués indiqués dessus dans toute la ville, dont des noms barrants comme "Barbe de bouc".
+- [x] Photos des dates, inscriptions, vitraux, symboles — chercher tout motif loup, figure masquée, détail étrange ✅ Fait. On a trouvé une fontaine avec dates (**1894-1994**) + statues d'ours d'environ 1,5 m, une église avec des vitraux, un cimetière avec des tombes anciennes (dont une sans aucune inscription), et plein de plantes avec des noms compliqués indiqués dessus dans toute la ville, dont des noms barrants comme "Barbe de bouc". Étiquettes relevées (format : référence « n°/année SB », famille, latin "cultivar", nom français, « Sélection horticole ») : « Barbe de bouc » (094/2010 SB, Rosaceae, *Aruncus dioicus* "Kneiffii") et « Lilas d'Espagne, Valériane rouge » (072/2009 SB, Valerianaceae, *Centranthus ruber* "Coccineus"). Seules 4-5 étiquettes photographiées : liste non exhaustive — vérification vendredi prévue dans `TODO.md`.
 - [x] **Cadran solaire** s'il y en a un — photo + position : matériau direct pour l'énigme du vieux calendrier / heure solaire. ✅ AUCUN — l'énigme du calendrier doit être autonome.
 - [x] Cimetière : photographier de vraies vieilles tombes (noms, dates, style d'inscription) pour fabriquer la « tombe du notable » crédible — le procès se solde par une inscription sur la tombe. ✅ Fait. On a trouvé une tombe sans inscription — candidate directe pour la tombe du notable. Visite du cimetière pendant le jeu validée en équipe (11/10, jugée respectueuse).
 
@@ -92,6 +91,7 @@ Bonus : la visite tombe en journée — les photos prises vers 10h–11h montren
 
 ## 📸 Production
 
+- Photos du repérage d'octobre (livre d'or, chambres, fontaine, tombe, étiquettes de plantes, café) : dans Google Photos (Batiste), non versionnées dans le dépôt
 - [ ] **Photos pour le site web d'Ivan** — la façade = photos animalières → dérive complotiste. Prendre de vraies photos : forêt, paysages, traces animales, et surtout des clichés **style piège photographique** (contre-plongée, flou, crépusculaire) — nécessaires au site ET à la triangulation de l'équipe rando. Bonus : formes lointaines floues, reflets étranges pour la dérive complotiste
 - [ ] **Cartes physiques** — acheter l'IGN du secteur (office du tourisme/tabac) ; demander des reproductions de cartes anciennes (Cassini, état-major). La superposition de cartes du dimanche a besoin de matériel réel
 - [ ] **Sons** — enregistrer ambiance forêt, cloche de l'église, silence nocturne (partie secrète du site, indices sonores du rituel)
