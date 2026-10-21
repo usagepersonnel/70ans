@@ -1,6 +1,6 @@
 # Cartographie structurelle du scénario
 
-Date : 21/10/2026 (J-3), mis à jour le jour même après les retours de Batiste (les points concernés sont marqués « résolu », « tranché » ou « décidé le 21/10 »). Objet : repérer les problèmes qui font échouer le jeu en conditions réelles, pas les contradictions de détail. Ce document est une carte vue sous plusieurs angles ; il ne tranche rien à la place des auteurs.
+Instantané du 21/10/2026 (J-3), figé en fin de journée après les retours de Batiste (les mentions « résolu », « tranché » ou « décidé le 21/10 » reflètent cet état). **Ce document est une analyse, pas un lieu de stockage : il n'est plus mis à jour.** L'état courant est dans `TODO.md` (tâches) et `questions.md` (questions ouvertes) ; les faits sont dans les documents qui font foi (`AGENTS.md`). Objet : repérer les problèmes qui font échouer le jeu en conditions réelles, pas les contradictions de détail. Ce document est une carte vue sous plusieurs angles ; il ne tranche rien à la place des auteurs.
 
 ## 0. Méthode et limites
 

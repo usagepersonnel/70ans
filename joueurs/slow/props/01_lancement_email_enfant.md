@@ -46,5 +46,5 @@
 ---
 
 ## Notes d'ajustement avant impression
-- *Prénom de l'enfant* : mis **Camille** (épicène, fonctionne pour fils ou fille sans ambiguïté — cf. `questions.md` #6).
+- *Prénom de l'enfant* : mis **Camille** (épicène, fonctionne pour fils ou fille sans ambiguïté).
 - *Paragraphes balisés « a_confirmer »* : formulation souple qui fonctionne quelle que soit la façon dont Seb et Rémi donnent leur premier indice à 14h15 (soit dans une enveloppe jointe à ce mail, soit posé sur la table à côté).

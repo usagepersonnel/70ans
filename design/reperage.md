@@ -101,7 +101,7 @@ Bonus : la visite tombe en journée — les photos prises vers 10h–11h montren
 ## 🚶 Logistique
 
 - [ ] **Temps de marche réels** : gîte → village, gîte → église, gîte → Col de Carri. L'équipe tranquille n'est pas sportive — tout doit être faisable à pied tranquille
-- [x] **Réseau téléphone** au gîte, dans le village, au col ✅ Couverture faible et inconstante hors du gîte. Màj 11/10 : pas de communication entre équipes le samedi → plus besoin de talkies ; seul le site web d'Ivan suppose le réseau (consulté au gîte, où on capte un peu).
+- [x] **Réseau téléphone** au gîte, dans le village, au col ✅ Couverture faible et inconstante hors du gîte. Màj 11/10 : pas de communication entre équipes le samedi → plus besoin de talkies ; seul le site web d'Ivan suppose le réseau (consulté au gîte, où on capte un peu). **Risque accepté (21/10)** : en cas de problème, demander le wifi au personnel du gîte, ou aller au café-librairie.
 - [ ] Où poser l'équipe tranquille au village pendant que les autres randonnent (café, banc, salle) ? → le café/librairie existe et est partenaire (tableau) : possible point de chute.
 
 ## ❓ Questions lore à trancher grâce au terrain

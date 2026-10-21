@@ -32,19 +32,45 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 - `design/reperage.md` — checklist et retours terrain
 - `design/retroplanning.md` — plan de travail à J-20
 - `TODO.md` — état du projet, priorités, tâches
-- `questions.md` — questions en suspens pour l'équipe + draft du message de synchro
+- `questions.md` — questions ouvertes pour l'équipe (ouvertes uniquement ; règles en tête du fichier)
 - `joueurs/slow/pochette/` — contenu de la pochette d'Ivan (7 pièces + index) — arc tranquille
 - `joueurs/slow/props/` — props du lancement et de l'arc tranquille
 - `joueurs/sportif/` — espace de l'arc sportif (Seb)
 - `joueurs/rituel/` — conception complète du rituel du dimanche (structure, partition des 12 sons, énigmes, checklist production)
 - `assets/` — bio/portraits (`assets/ivan/`), clichés de pièges (`assets/photos/`), textes Perchtenlauf (`assets/sources/`), cartes (`assets/cartes/`)
-- `meta/` — méthode, rapport et récap de la passe de cohérence (`meta/methode_coherence.md`, `meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`) et cartographie structurelle du scénario (`meta/cartographie_scenario.md`)
+- `meta/` — analyses subsidiaires et instantanés datés, **jamais une source de faits** : méthode, rapport et récap de la passe de cohérence (`meta/methode_coherence.md`, `meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`), cartographie structurelle du scénario (`meta/cartographie_scenario.md`), message d'équipe (`meta/message_equipe_2026-10-21.md`)
 - `meta/timeline_*.md` — chronologies de vérification
 - `decisions/validation_*.md` — points soumis à validation d'équipe, datés
 - `archive/` — snapshots et références non vivantes (`archive/ref_*.md`, `archive/excalidraw/`)
 - `tools/` — `tools/check_links.py` (vérification des références) + extraction Excalidraw (non essentiel)
 
-## 🧭 Conventions de nommage
+## � Où vit l'information (single source of truth)
+
+Chaque information vit à **un seul endroit**. Les autres documents y renvoient par un chemin ou un lien ; ils ne la recopient pas.
+
+| Type d'information | Document qui fait foi |
+|---|---|
+| Fait narratif (personnages, objets, dates, cycle de 140 ans, description d'un objet) | `lore/lore.md` |
+| Décision de lore et son contexte | `lore/lore_precisions.md` |
+| Parcours joueur, énigmes, déblocages | `design/enigmes.md` |
+| Équipes, déroulé, mécaniques | `design/deroule.md` |
+| Terrain et repérage | `design/reperage.md` |
+| Planning de production, propriétaires | `design/retroplanning.md` |
+| Texte joueur et fabrication d'un prop | `joueurs/<équipe>/` (un fichier par prop) |
+| Dimanche et rituel | `joueurs/rituel/` |
+| Tâche et état d'avancement | `TODO.md` |
+| Question ouverte à un membre de l'équipe | `questions.md` (questions ouvertes uniquement) |
+| Décision prise en réunion (datée, figée) | `decisions/` |
+| Analyse, audit, vérification, message d'équipe | `meta/` (instantanés, jamais source de faits) |
+
+Règles :
+
+- Une réponse à une question s'écrit dans le document qui fait foi, puis la question est supprimée de `questions.md` (les règles détaillées sont en tête de ce fichier).
+- `meta/` est **subsidiaire** : une analyse n'est pas un lieu de stockage. On ne met pas à jour ces fichiers après coup. Un problème repéré dans `meta/` se règle dans le document qui fait foi, et se suit dans `TODO.md` ou `questions.md`.
+- Si deux documents se contredisent, celui qui fait foi l'emporte ; on corrige l'autre.
+- Les ❓ placés dans les documents de design (`lore/lore_precisions.md`, `design/deroule.md`, `design/enigmes.md`) restent attachés à leur contexte ; les questions qui attendent la réponse d'une personne précise sont listées dans `questions.md`.
+
+## �🧭 Conventions de nommage
 
 - Fichiers : minuscules, `snake_case`, ASCII, extension `.md` obligatoire.
 - Comptes rendus datés : `decisions/validation_*.md` — figés, ne pas réécrire.

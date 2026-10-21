@@ -14,7 +14,7 @@ D'après excalidraw, les 3 équipes ont des buts distincts le samedi :
 
 ✅ **Validé en équipe (11/10)** : pas de communication entre équipes le samedi — chacune fait son truc, moins d'aléas. Chaque arc est donc autonome ; le géoguesser et les talkies-walkies sont abandonnés.
 
-✅ **Lancement du samedi (décision 19/10, Batiste + Mareva)** — Le jeu démarre par un message unique du fils ou de la fille d'Ivan (email imprimé ou appel) : la commande passée sur le site pour une demi-journée de photo animalière en groupe est annulée, Ivan est mort il y a un an, remboursement à venir. Ton triste, aucune discussion possible : ce n'est pas un PNJ. Au gîte, l'**affiche déchirée** d'Ivan (d'un peu plus d'un an : conférence/débat au café-librairie) oriente les joueurs vers le café pour en savoir plus sur lui. Exploration et variantes : [`design/enigmes.md`](enigmes.md) §0.
+✅ **Lancement du samedi (décision 19/10, Batiste + Mareva)** — Le jeu démarre par un message unique du fils ou de la fille d'Ivan (email imprimé ou appel) : la commande passée sur le site pour une demi-journée de photo animalière en groupe est annulée, Ivan est mort il y a un an, remboursement à venir. Ton triste, aucune discussion possible : ce n'est pas un PNJ. Au gîte, l'**affiche déchirée** d'Ivan (d'un peu plus d'un an : conférence/débat au café-librairie) oriente les joueurs vers le café pour en savoir plus sur lui. Validé aussi par Seb (21/10). Exploration et variantes : [`design/enigmes.md`](enigmes.md) §0.
 
 ❓ **Formation des trois groupes** — comment les joueurs se répartissent-ils à partir du lancement ? Pistes : affiche à trois parcours (option, pas forcément la meilleure), autre à trouver.
 

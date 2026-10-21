@@ -14,13 +14,13 @@ L'essentiel du projet est constitué de **fichiers Markdown** :
 - `design/reperage.md` — Checklist et retours de la visite terrain
 - `design/retroplanning.md` — Plan de travail à J-20 (jalons, tâches par semaine, propriétaires)
 - `TODO.md` — État du projet, priorités et tâches
-- `questions.md` — Questions en suspens pour l'équipe + draft du message de synchro
+- `questions.md` — Questions ouvertes pour l'équipe (ouvertes uniquement ; où vit chaque information : `AGENTS.md`)
 - `joueurs/slow/pochette/` — Contenu de la pochette d'Ivan (7 pièces + index) — le cœur documentaire de l'arc tranquille
 - `joueurs/slow/props/` — Props de lancement et de l'arc tranquille (email, affiche, livre d'or, tableau, calendrier)
 - `joueurs/sportif/` — Espace de l'arc sportif (Seb) — parcours pièges photo et cache des Perchten
 - `joueurs/rituel/` — Conception du rituel du dimanche (structure, 12 sons, énigmes, production) — fait foi pour le dimanche
 - `assets/ivan/` — Bio et portraits d'Ivan · `assets/photos/` — clichés de pièges · `assets/sources/` — textes Perchtenlauf · `assets/cartes/` — cartes du dimanche
-- `meta/` — méthode, rapport et récap de la passe de cohérence (`meta/methode_coherence.md`, `meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`) et cartographie structurelle du scénario (`meta/cartographie_scenario.md`)
+- `meta/` — méthode, rapport et récap de la passe de cohérence (`meta/methode_coherence.md`, `meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`) cartographie structurelle du scénario (`meta/cartographie_scenario.md`) et message d'équipe (`meta/message_equipe_2026-10-21.md`). Ce sont des instantanés, pas des sources de faits
 - `archive/` — Documents retirés de la conception courante (références, pas de mise à jour)
 - `AGENTS.md` — Vue d'ensemble du projet, pour les IAs
 

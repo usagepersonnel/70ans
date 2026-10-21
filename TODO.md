@@ -21,15 +21,7 @@ Décisions validées en équipe (réunion du 11/10 — détail dans `decisions/v
 - Manifestations nocturnes = échos du passé confirmé, sources élargies (potentiellement d'anciens Perchtenlauf entre autres)
 - Visite du cimetière voisin pendant le jeu : OK (jugé respectueux)
 
-Reste à trancher :
-
-- **Défiance envers la statuette** (demande du 11/10) : quels éléments concrets la rendent suspecte le samedi, pour que les joueurs finissent par la détruire ? Leviers existants : site d'Ivan, voyante, journal du fugitif, tableau
-
-- **Scène de destruction de 17h30** (21/10) : piste de Batiste, un rituel sommaire avec les 3 masques + la statuette, **à confirmer avec la team** (`questions.md` #20) ; le texte du message caché reste à écrire (Mareva)
-- ~~**Zone secrète du site, côté samedi**~~ — ✅ **accepté le 21/10 (Batiste)** : pas de verrouillage de l'audio. Slow aura tous les éléments le samedi soir (le carnet d'écoute donne déjà la clé du groupe danse) mais n'y verra pas forcément d'intérêt ; au pire ils se diront « c'est nul » : risque assumé. Option restante, facultative : une pièce lisible et marquante dans la zone dès le samedi. Voir `meta/cartographie_scenario.md` §5.4 et §6
-- **Équipe sportive** (21/10) : objectif annoncé à 14h15, étapes, raison de détruire la statuette. Seb a promis de répondre (« ce soir ou quand j'ai du temps »)
-- Nature des voix de la forêt — contradiction avec « le maléfice n'a pas de volonté » (piste recommandée : échos/projection, pas d'entité)
-- ~~Mécanisme de la voyante~~ — ✅ résolu : document (`joueurs/slow/pochette/05_transcription_voyante.md`), pas de PNJ
+Décisions à trancher : voir `questions.md` (scène de 17h30 #20, équipe sportive #17, voix de la forêt #21). Le levier de « défiance envers la statuette » (demande du 11/10) est suivi dans `design/deroule.md`, section « Déroulement du twist entre samedi et dimanche ».
 
 ## Incohérences connues (à résoudre)
 
@@ -95,7 +87,7 @@ Point d'entrée unique : on y ajoute toute contradiction repérée entre documen
 - [ ] **Mise en forme & impression** des fichiers de `joueurs/slow/pochette/` et `joueurs/slow/props/` (une fois les retours de l'équipe intégrés)
 
 - [x] **Spec complète écrite** — `ivan-beaulieu-photos/SPEC.md` (structure, gate à 4 clés, zone secrète, stack)
-- [ ] **Questions en suspens** — voir `questions.md` (fontaine, photos repérage, chambres, plantes, dates d'Ivan…)
+- [ ] **Questions en suspens** — voir `questions.md`
 - [x] Construire la v1 : façade portfolio + journal + conférence + gate `/archives` (4 champs, API `/api/unlock`, cookie) — déployé et vérifié Playwright en prod ; audio = placeholder WAV en attendant les vrais enregistrements
 - [ ] Déployer les variables d'env Vercel (`KEY_*`, `ARCHIVES_TOKEN`) avec les vraies valeurs — `ARCHIVES_TOKEN` à changer impérativement (le défaut est dans le code). **Clé 1 connue depuis le 21/10** (fontaine gravée « 1894-1994 ») : sans modification de code, régler `KEY_FOUNTAIN` sur `1894;1994;1894 1994;1994 1894` (le séparateur est `;`, la comparaison ignore casse, accents et tirets), puis **redéployer** pour que la valeur soit prise en compte. Le défaut du code (`1878`) est faux
 - [x] Choisir le mot caché dans le tableau du chasseur (clé 2) — **`VEILLE` retenu** (`joueurs/slow/props/04_tableau_chasseur_et_loupe.md` ; double sens : « la veille » le samedi / « ils veillent » le dimanche — déjà configuré côté site)
@@ -120,7 +112,7 @@ Note : le photographe a séjourné au gîte. Les joueurs peuvent découvrir quel
 ### Continuité / lore à trancher
 
 - [ ] **Continuité de la randonnée** — `joueurs/rando/feuilles_rando.md` mentionne un squelette au Scialet Royer, mais le fugitif poursuit ensuite sa fuite (proposition : le squelette n'est pas le sien — victime collectée par le triangle, époque à choisir sans lieux de mémoire réels). Deux versions incompatibles du sac. Réécriture des feuilles une fois les points de lore tranchés.
-- [ ] **Voix de la forêt** — elles manipulent le fugitif alors que le maléfice « n'a pas de volonté » : contradiction à trancher (options dans `lore/lore_precisions.md`)
+- [ ] **Voix de la forêt** — décision à prendre avant la réécriture des feuilles : `questions.md` #21
 
 ### Logistique
 
