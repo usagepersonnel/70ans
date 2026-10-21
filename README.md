@@ -20,7 +20,7 @@ L'essentiel du projet est constitué de **fichiers Markdown** :
 - `joueurs/sportif/` — Espace de l'arc sportif (Seb) — parcours pièges photo et cache des Perchten
 - `joueurs/rituel/` — Conception du rituel du dimanche (structure, 12 sons, énigmes, production) — fait foi pour le dimanche
 - `assets/ivan/` — Bio et portraits d'Ivan · `assets/photos/` — clichés de pièges · `assets/sources/` — textes Perchtenlauf · `assets/cartes/` — cartes du dimanche
-- `meta/` — méthode, rapport et récap de la passe de cohérence (`meta/methode_coherence.md`, `meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`)
+- `meta/` — méthode, rapport et récap de la passe de cohérence (`meta/methode_coherence.md`, `meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`) et cartographie structurelle du scénario (`meta/cartographie_scenario.md`)
 - `archive/` — Documents retirés de la conception courante (références, pas de mise à jour)
 - `AGENTS.md` — Vue d'ensemble du projet, pour les IAs
 

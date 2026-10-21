@@ -38,7 +38,7 @@ Ce projet vise à préparer un **jeu de piste grandeur nature** pour l'anniversa
 - `joueurs/sportif/` — espace de l'arc sportif (Seb)
 - `joueurs/rituel/` — conception complète du rituel du dimanche (structure, partition des 12 sons, énigmes, checklist production)
 - `assets/` — bio/portraits (`assets/ivan/`), clichés de pièges (`assets/photos/`), textes Perchtenlauf (`assets/sources/`), cartes (`assets/cartes/`)
-- `meta/` — méthode, rapport et récap de la passe de cohérence (`meta/methode_coherence.md`, `meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`)
+- `meta/` — méthode, rapport et récap de la passe de cohérence (`meta/methode_coherence.md`, `meta/audit_coherence_2026-10-20.md`, `meta/mise_en_coherence_etape1_recap.md`) et cartographie structurelle du scénario (`meta/cartographie_scenario.md`)
 - `meta/timeline_*.md` — chronologies de vérification
 - `decisions/validation_*.md` — points soumis à validation d'équipe, datés
 - `archive/` — snapshots et références non vivantes (`archive/ref_*.md`, `archive/excalidraw/`)
