@@ -104,10 +104,10 @@ Bonus : la visite tombe en journée — les photos prises vers 10h–11h montren
 - [x] **Réseau téléphone** au gîte, dans le village, au col ✅ Couverture faible et inconstante hors du gîte. Màj 11/10 : pas de communication entre équipes le samedi → plus besoin de talkies ; seul le site web d'Ivan suppose le réseau (consulté au gîte, où on capte un peu). **Risque accepté (21/10)** : en cas de problème, demander le wifi au personnel du gîte, ou aller au café-librairie.
 - [ ] Où poser l'équipe tranquille au village pendant que les autres randonnent (café, banc, salle) ? → le café/librairie existe et est partenaire (tableau) : possible point de chute.
 
-## ❓ Questions lore à trancher grâce au terrain
+## Questions lore à trancher grâce au terrain
 
 - [x] Le triangle du Vercors : où tombent les coordonnées connues (45.150739, 5.564328) par rapport à La Chapelle ? ✅ ~23 km à vol d'oiseau — les « 3 points du triangle » maillent la région, pas le village ; le centre du triangle doit tomber sur le lieu du rituel repéré.
-- [ ] Quelles grottes/scialets réels et visitables autour du village pourraient inspirer le repère des cultistes ?
+- [ ] Grottes et scialets réels et visitables autour du village, pour le repère des cultistes : `questions.md` #18 (lieu réel de la grotte)
 
 ## 📝 Technique photo
 

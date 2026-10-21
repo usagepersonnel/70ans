@@ -88,8 +88,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 ## Les cartes et la superposition
 
-- ❓ **4 cartes listées, 3 groupes** — Carte des grottes, IGN, état major, Cassini. Laquelle est attribuée à quel groupe ? Une carte est-elle redondante ? *(Question game design — voir `design/deroule.md`.)*
-- ❓ **Les trous dans les cartes** — Que représentent-ils ? Des lieux où des objets ont disparu ? Des zones effacées par le triangle ? Comment les trous sont-ils créés matériellement ?
+- ❓ **4 cartes pour 3 groupes, et trous dans les cartes** (grottes, IGN, état-major, Cassini) → `questions.md` #18.
 - 💡 **Le centre du triangle = lieu du rituel** — ~~La grotte aux objets disparus semble être à la fois le repère des cultistes et le lieu du rituel~~ → **corrigé par le repérage terrain** : la grotte connue est à ~23 km (maillage régional), le centre du triangle tombe sur le champ du rituel repéré (~10 min en voiture). En attente de la carte de Rémi pour confirmer.
 
 ## Le site web
@@ -127,9 +126,9 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 2. ~~**Destin d'Ivan Beaulieu**~~ — ✅ Validé (Rémi, 02/10) : vrai accident de voiture, de nuit en montagne, en allant chercher les êtres masqués (article de journal). Lien avec les derniers Perchtenlauf déductible, jamais énoncé.
 3. ~~**Justification du changement d'heure**~~ — ✅ Validé (Rémi, 02/10). Créneau retenu : rituel ~11h–11h30 sur le champ repéré, tout terminé à midi. ⚠️ Pas de cadran solaire au village — énigme du calendrier autonome.
 4. 💡 **Les 3 points du triangle** — La grotte connue est à ~23 km → maillage régional ; centre = le champ du rituel. En attente de la carte de Rémi.
-5. ❓ **Les voix de la forêt** — Question ouverte : sont-ce les mêmes « échos du passé » que les manifestations nocturnes, autre chose, ou les deux ? (options dans la section « Le triangle »)
+5. ❓ **Les voix de la forêt** → `questions.md` #21 (options dans la section « La nature du Triangle du Vercors » ci-dessus).
 6. ~~**Déclencheur du PNJ**~~ — ✅ Validé en équipe : pas de PNJ, son rôle passe par la pochette d'Ivan.
 7. ~~**Squelette du scialet**~~ — ✅ Confirmé : pas le fugitif (victime collectée par le triangle). Reste : choisir l'époque, sans exploiter les lieux de mémoire réels.
-8. ❓ **La voyante** — Pas de lieu au village : PNJ au gîte (à caster) ou document (transcription de séance dans la pochette d'Ivan — cohérent avec l'option « pas de PNJ »).
+8. ~~**La voyante**~~ — ✅ document retenu : transcription de séance dans la pochette d'Ivan (`joueurs/slow/pochette/05_transcription_voyante.md`).
 9. ~~**Mettre à jour `lore/lore.md`**~~ — ✅ Fait (04/10). `joueurs/rando/feuilles_rando.md` reste à réécrire une fois les points ci-dessus tranchés.
 

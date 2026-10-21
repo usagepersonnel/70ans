@@ -16,7 +16,7 @@ D'après excalidraw, les 3 équipes ont des buts distincts le samedi :
 
 ✅ **Lancement du samedi (décision 19/10, Batiste + Mareva)** — Le jeu démarre par un message unique du fils ou de la fille d'Ivan (email imprimé ou appel) : la commande passée sur le site pour une demi-journée de photo animalière en groupe est annulée, Ivan est mort il y a un an, remboursement à venir. Ton triste, aucune discussion possible : ce n'est pas un PNJ. Au gîte, l'**affiche déchirée** d'Ivan (d'un peu plus d'un an : conférence/débat au café-librairie) oriente les joueurs vers le café pour en savoir plus sur lui. Validé aussi par Seb (21/10). Exploration et variantes : [`design/enigmes.md`](enigmes.md) §0.
 
-❓ **Formation des trois groupes** — comment les joueurs se répartissent-ils à partir du lancement ? Pistes : affiche à trois parcours (option, pas forcément la meilleure), autre à trouver.
+✅ **Formation des trois groupes** — l'email de Camille propose trois parcours (tranquille, sportif, grande rando) et chacun choisit (`joueurs/slow/props/01_lancement_email_enfant.md`). Reste à équilibrer les effectifs : `questions.md` #24.
 
 ### Arc détaillé : équipe tranquille (proposition à valider)
 
@@ -53,7 +53,7 @@ Documents/props nécessaires à cet arc : pochette d'Ivan (central, `joueurs/slo
 
 ### Chevauchements à résoudre
 
-- ❓ **Costumes** — L'équipe sportive (Seb) cherche "une partie des costumes" ET l'équipe rando (Rémi) trouve "des morceaux de costumes" dans le trésor caché. Comment répartir clairement ? Qui trouve quoi ?
+- **Costumes** — Seb ramène toutes les tenues et tous les masques (confirmé le 21/10). Reste à savoir si la grotte de Rémi contient aussi des morceaux de costumes (`questions.md` #18).
 - ✅ **Repère des cultistes** — Résolu par « pas de communication le samedi » (11/10) : l'équipe rando trouve la grotte de manière indépendante (triangulation des photos de piège photo). L'équipe tranquille enquête sur les cultistes de son côté, sans guider personne.
 - ✅ **Objectifs communs** — Résolu par « pas de communication le samedi » (11/10) : chaque équipe a son propre objectif autonome ; la convergence se fait au regroupement du soir et à la destruction de la statuette.
 
@@ -86,7 +86,7 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 ## Déroulement du twist entre samedi et dimanche
 
 - ✅ **Samedi soir** — Les joueurs brisent la statuette, probablement persuadés qu'elle est liée au maléfice. Ils découvrent le message écrit à la première personne (« je ») par un ancien Perchtenlauf (décision 11/10 ; rédaction : Mareva) — il ne doit pas nécessairement tout expliquer immédiatement.
-- ❓ **Créer la défiance (décision 11/10)** — Il faut assez d'éléments rendant la statuette suspecte le samedi pour que les joueurs la détruisent. Leviers existants : le site complotiste d'Ivan (les masqués présentés comme dangereux), l'indice de la voyante, le journal du fugitif, le tableau du chasseur. Suffisant ou pas ? À concevoir dans le détail des arcs.
+- **Créer la défiance (décision 11/10)** — Il faut assez d'éléments rendant la statuette suspecte le samedi pour que les joueurs la détruisent. Leviers en place : le site d'Ivan (les masqués présentés comme dangereux), la voyante, le journal du fugitif, le tableau du chasseur. Reste le côté Sportif (`questions.md` #17) et la scène de 17h30 (`questions.md` #20).
 - ✅ **Pendant la nuit** — Des manifestations surnaturelles apparaissent dans la maison et ouvrent de nouvelles pistes :
   - textes apparaissant sur les miroirs de l'espace commun ;
   - indices dans les boîtes de céréales et/ou sous les tasses ;
@@ -123,6 +123,5 @@ Liste des mécaniques d'énigmes mentionnées dans excalidraw et archive, à ré
 
 ### Questions
 
-- ❓ Comment répartir ces mécaniques entre les 3 équipes et les 2 jours ?
 - ✅ Coopération entre équipes : supprimée le samedi (décision 11/10 — chaque arc est autonome). La triangulation de photos devient une mécanique interne à l'équipe rando. Seul le site web d'Ivan suppose encore le réseau (consulté au gîte, où la couverture suffit).
-- ❓ 4 cartes listées (grottes, IGN, état major, Cassini), 3 groupes : laquelle est attribuée à quel groupe ? Une carte est-elle redondante ? La superposition doit pointer vers les coordonnées réelles du lieu du rituel repéré (champ à ~10 min en voiture) ; les 3 points du triangle maillent la région.
+- **Cartes** : 4 cartes listées (grottes, IGN, état-major, Cassini) pour 3 groupes, avec des trous à fabriquer : qui apporte laquelle, que représentent les trous ? Voir `questions.md` #18. La superposition doit pointer vers les coordonnées réelles du lieu du rituel repéré (champ à ~10 min en voiture) ; les 3 points du triangle maillent la région.

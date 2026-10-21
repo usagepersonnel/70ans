@@ -49,15 +49,15 @@ Fil : les joueurs remontent la journée du fugitif (9 septembre 1746) à l'enver
 
 | # | Lieu | Prop du message | Ce que vivent les joueurs / difficulté | Déblocage | Produit |
 |---|---|---|---|---|---|
-| A1 | Gîte | Morceau de bambou | ❓ Comment tombent-ils sur le 1er message ? (« à définir » dans `joueurs/rando/feuilles_rando.md`) | À concevoir (lancement orga ?) | Le texte de fin de journée : il cache « ce qu'il a subtilisé » près de **la source** + appel « détruis la statuette » |
-| A2 | Col de Carri | Gourde en cuir scellée cire | Orientation depuis la « source » ; ❓ indice « squelette du fuyard » — potentiellement abandonné (19/10) → remplacer par quoi ? | Toponyme « Royer » + indice lieu | Texte scialets jumeaux + « les masques sont essentiels au rituel » |
+| A1 | Gîte | Morceau de bambou | ❓ #16, #18 (1er message : piste = dossier de parcours à côté de l'email) | Dossier à écrire (`TODO.md`) | Le texte de fin de journée : il cache « ce qu'il a subtilisé » près de **la source** + appel « détruis la statuette » |
+| A2 | Col de Carri | Gourde en cuir scellée cire | Orientation depuis la « source » ; indice « squelette du fuyard » potentiellement abandonné (19/10) : ❓ #18 | Toponyme « Royer » + indice lieu | Texte scialets jumeaux + « les masques sont essentiels au rituel » |
 | A3 | Scialet Royer | Crâne en résine | Trouver le scialet, fouiller | Indice A2 | Les instructions de destruction ont disparu → **il faut un rituel de purification pour la détruire** (canon : la statuette ne se brise pas à coups de marteau) |
-| A4 | Refuge de Crobache | Sacoche cuir + vieux livre + cryptex | Trouver la cabane, ouvrir le cryptex | ❓ Code du cryptex — où ? | Texte brouillard + voix qui guident |
+| A4 | Refuge de Crobache | Sacoche cuir + vieux livre + cryptex | Trouver la cabane, ouvrir le cryptex | ❓ #18 (code du cryptex) | Texte brouillard + voix qui guident |
 | A5 | Plaine de Fauchier | Cryptex : code alphabétique + carte de Cassini | Trouver/décoder le code | Indice toponyme « Fauchier » | **Carte de Cassini** (1ère pièce de la superposition du dimanche ?) |
 | A6 | Belvédère 1355 m | Corne à poudre + gourde en peau | Trouver la trouée | Description du lieu dans le texte précédent | La statuette décrite : « matériau inconnu, très légère » — indice de défiance physique |
 | A7 | Grotte des Ferrières | — | La « Grotte des Maléfices » : objets disparus à travers les époques + **la statuette** | Chaîne complète | Retour au gîte avec la statuette |
 
-❓ **Cohérence** : le fugitif dit cacher la statuette à la source (A1), mais les joueurs la trouvent dans la grotte (A7). Canon validé (02/10, `lore/lore_precisions.md`) : **les Perchten ont rattrapé le fugitif et replacé la statuette** — « seule la statuette semble immuable » est une croyance du fugitif, pas un fait magique (éviter la réapparition surnaturelle : ça ajouterait un mécanisme inexpliqué au canon).
+**Cohérence** : le fugitif dit cacher la statuette à la source (A1), mais les joueurs la trouvent dans la grotte (A7). Canon validé (02/10, `lore/lore_precisions.md`) : **les Perchten ont rattrapé le fugitif et replacé la statuette** — « seule la statuette semble immuable » est une croyance du fugitif, pas un fait magique (éviter la réapparition surnaturelle : ça ajouterait un mécanisme inexpliqué au canon).
 
 </a_confirmer>
 
@@ -83,11 +83,11 @@ Articulation avec Rémi : dans `joueurs/rando/feuilles_rando.md` (Col de Carri, 
 
 | # | Étape | Difficulté | Déblocage | Produit |
 |---|---|---|---|---|
-| C0 | **14h15 — Amorce au gîte** | ❓ Comment reçoivent-ils la 1re piste / 1re photo de piège ? (toujours ouvert — Seb n'a pas encore tranché, 21/10) | Proposition : fiche parcours d'Ivan + 1er cliché de piège dans le pli de l'enfant d'Ivan | Départ vers le secteur à ~200 m D+ |
+| C0 | **14h15 — Amorce au gîte** | ❓ #16, #17 : comment reçoivent-ils la 1re piste / 1re photo de piège ? | Proposition : fiche parcours d'Ivan + 1er cliché de piège dans le pli de l'enfant d'Ivan | Départ vers le secteur à ~200 m D+ |
 | C1–C? | **Parcours pièges photo & énigmes animaux** | Localiser les étapes grâce aux clichés de pièges photo et résoudre les énigmes animaux | Détails avec Seb | Progression vers la cache des Perchten |
-| C_fin | **Cache des Perchten** | Trouver la cache finale | Dernière énigme animale | **Toutes les tenues et masques des Perchten** ✅ (Seb 21/10, + cailloux peints) + ❓ quel indice leur fait croire qu'il faut **détruire** la statuette ? |
+| C_fin | **Cache des Perchten** | Trouver la cache finale | Dernière énigme animale | **Toutes les tenues et masques des Perchten** ✅ (Seb 21/10, + cailloux peints) + ❓ #17 : quel indice leur fait croire qu'il faut **détruire** la statuette ? |
 
-❓ Reste à confirmer avec Seb : comment démarre C0 à 14h15, et est-ce que la cache finale contient un élément qui les pousse eux aussi vers la destruction de la statuette (ou s'ils se rallient aux preuves de Rémi et Batiste à 17h30).
+Questions ouvertes côté Sportif : `questions.md` #16 (démarrage de C0 à 14h15) et #17 (élément de la cache qui pousse vers la destruction).
 
 **Textes Perchtenlauf (Seb, 20/10)** : le trio est complet — `assets/sources/perchtenlauf_loup.md` (1894), `assets/sources/perchtenlauf_hiboux.md` (1944), `assets/sources/perchtenlauf_bouquetin.md` (non daté). Placement à trancher (Seb hésite) : photocopies dans la pochette (`joueurs/slow/pochette/07_annexes_1894_1944.md` — mais la fiche d'Ivan y dit « pas encore trouvé de coupure » pour le bouquetin) vs épinglés au gîte — les deux peuvent coexister. ⚠️ Bouquetin : pas de date + apparition à la Grande Moucherotte (nord Vercors, ~60 km du site du jeu ; le texte de 1944 est lui local, « nord de Vassieux ») → à confirmer avec Seb (Archiane / Grand Veymont si on veut rester local).
 
@@ -99,7 +99,7 @@ Articulation avec Rémi : dans `joueurs/rando/feuilles_rando.md` (Col de Carri, 
 |---|---|---|---|---|
 | **Slow** (Batiste) | **Le dossier d'Ivan** (pochette + site déverrouillé) : quinze veilles de relevés (2011–2025), tableau du chasseur, procès, accident des « 3 piétons » | Ivan et la voyante concluent que la statuette est le nœud du mal qui attire les êtres masqués | **La partition sonore** (les 3 bandes `00:03 / 06:12 / 18:47` + carnet d'écoute sur le site) + l'échéance (vieux calendrier) | **Chouette** *(voit ce qui est caché)* |
 | <a_confirmer>**Rando** (Rémi)</a_confirmer> | **La statuette** (trouvée dans la Grotte des Ferrières avec les objets disparus) + **les écrits du fugitif** + **la carte de Cassini** | Le fugitif de 1746 supplie explicitement de détruire la statuette et dit que les masques sont nécessaires au rituel | **La statuette** (qui révèle le message au « je » une fois brisée) + **la carte de Cassini** (pour localiser le lieu du rituel dimanche) | <a_confirmer>**Bouquetin** *(les hauteurs)*</a_confirmer> |
-| <a_confirmer>**Sportifs** (Seb)</a_confirmer> | **Toutes les tenues et masques des Perchten** ✅ (Seb 21/10 ; trouvés via les pièges photo et les énigmes animaux à ~200 m D+, + cailloux peints) | Ils ont traqué les êtres masqués jusqu'à leur cache et ramènent les masques requis par le journal de Rémi *(❓ + indice propre à Seb ? — sauf réponse contraire de Rémi)* | **Les 3 masques et costumes** indispensables pour accomplir la vraie danse du dimanche matin | <a_confirmer>**Loup** *(la meute, les sentiers)*</a_confirmer> |
+| <a_confirmer>**Sportifs** (Seb)</a_confirmer> | **Toutes les tenues et masques des Perchten** ✅ (Seb 21/10 ; trouvés via les pièges photo et les énigmes animaux à ~200 m D+, + cailloux peints) | Ils ont traqué les êtres masqués jusqu'à leur cache et ramènent les masques requis par le journal de Rémi *(❓ #17 : indice propre à Seb ? — sauf réponse contraire de Rémi)* | **Les 3 masques et costumes** indispensables pour accomplir la vraie danse du dimanche matin | <a_confirmer>**Loup** *(la meute, les sentiers)*</a_confirmer> |
 
 ## E. Nuit → dimanche
 
@@ -118,4 +118,4 @@ Manifestations (échos du passé) → 3 groupes (terrain / statuette / danse) �
 | <a_confirmer>**Squelette** (11) | Si abandonné : remplacer l'indice A2 (« squelette du fuyard ») par un autre signe de fin de course (ex. ses effets abandonnés, une marque gravée) — et le crâne en résine d'A3 devient un prop de grotte « porte de l'Enfer », pas un squelette identifié</a_confirmer> |
 | **Zone secrète** (13) | ✅ Direction retenue : accès total dès le samedi ; les fichiers sans contexte (clips, cartes annotées) sont « inexploitables » — leur sens éclot dimanche. Le site sert donc les trois jours sans cloisonnement artificiel. **Risque assumé (Batiste, 21/10)** : l'équipe Slow aura les clips et le carnet d'écoute dès le samedi soir ; pas de verrouillage de l'audio, au pire ils se diront « c'est nul ». Une pièce lisible et marquante dès le samedi reste facultative |
 | **Chambre d'Ivan** (B1) | ✅ Résolu : livre d'or 2011 + étiquette de la Chouette décollée (`joueurs/slow/props/03_livre_dor_2011_chambre.md`) — arc tranquille complet de bout en bout |
-| <a_confirmer>**Arc sportif** (C)</a_confirmer> | ❓ Plus gros trou documentaire — Seb avance de son côté |
+| <a_confirmer>**Arc sportif** (C)</a_confirmer> | ❓ #17 : plus gros trou documentaire, Seb avance de son côté |
