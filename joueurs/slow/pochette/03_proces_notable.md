@@ -24,9 +24,11 @@
 
 > *« Encore eux ! Oiseaux + cornes + loup, dès 1466, avec un lien direct avec les vallées autrichiennes (Perchten ?).*
 >
-> *J'ai cherché la tombe d'Anselme Giraud dans le carré ancien du cimetière de La Chapelle (allée du fond, la grande dalle de calcaire gris). L'épitaphe commandée par l'Évêque a-t-elle été burinée ? Ou la pierre a-t-elle subi le même sort que le reste ?*
+> *J'ai cherché la tombe d'Anselme Giraud dans le carré ancien du cimetière de La Chapelle : la haute tombe de pierre grise qui ne porte plus ni nom ni épitaphe. L'épitaphe commandée par l'Évêque a-t-elle été burinée ? Ou la pierre a-t-elle subi le même sort que le reste ?*
 > *→ **C'est ma clé n°3** : il suffit d'aller devant la tombe et de regarder **ce qui y est inscrit aujourd'hui**. »*
 
 ---
 
 *(Note de design pour Batiste : samedi, les joueurs voient « voleurs surnaturels + tombe effacée = ils effacent leurs traces ». Dimanche, en relisant : le cadeau a été **rendu intact** au printemps — les êtres l'avaient seulement mis à l'abri pendant la brèche d'automne !)*
+
+*(La vraie tombe repérée porte une plaque « SOUVENIR — À NOS CHERS DISPARUS » : la clé 3 attend ce texte — la pierre elle-même reste sans nom. Bonus de relecture : après le twist, la plaque peut se lire comme l'hommage des Perchten à leurs disparus, dont ceux de l'accident d'Ivan.)*
