@@ -26,3 +26,14 @@
 ---
 
 *(Note de design : samedi, les joueurs lisent « les 3 monstres ont tué Ivan sur la route ! » → motivation maximale pour détruire leur statuette à 17h30. Dimanche matin, quand ils comprennent le rôle des Perchtenlauf : Ivan a donné un coup de volant pour **ne pas les écraser**, ou l'un des trois porteurs de masque a été blessé/la chaîne a été rompue ce soir-là — et c'est pourquoi les 35 membres de la famille doivent reprendre le relais !)*
+
+---
+
+## Prompt visuel (à fournir à l'IA avec le texte de la pièce)
+
+> Rends le document suivant sous forme d'une **coupure de presse réaliste**, journal régional « Le Dauphiné », édition Drôme/Vercors, dimanche 19 octobre 2025.
+>
+> - **Mise en page de presse régionale** : nom du journal et date en haut, rubrique « FAITS DIVERS — LA CHAPELLE-EN-VERCORS » en petites capitales, grand titre serif gras sur deux lignes (« Sortie de route mortelle dans le brouillard sur la descente du col »), chapô en gras, corps de l'article en **2 ou 3 colonnes étroites**, interligne de presse serré.
+> - **Objet** : bords de découpe irréguliers au ciseau, papier journal fin grisâtre, deux pliures, un coin corné — la coupure a voyagé dans une poche.
+> - **Pas de photo** dans la coupure : elle est purement textuelle.
+> - **Ne génère pas** le post-it des propriétaires : il sera écrit à la main et collé après impression (texte : « Affaires retrouvées dans la chambre d'Ivan après son accident + article du Dauphiné. À garder de côté pour Camille, à son prochain passage. »).

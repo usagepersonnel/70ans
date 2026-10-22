@@ -19,3 +19,15 @@
 ---
 
 *(Note de design : coche la piste n°4 de `design/deroule.md` (« la voyante nulle ») sans avoir besoin d'un acteur PNJ le samedi ! Elle pousse explicitement à casser la statuette ET annonce aux joueurs qu'il faut regarder le message caché à l'intérieur quand ils la briseront à 17h30.)*
+
+---
+
+## Prompt visuel (à fournir à l'IA avec le texte de la pièce)
+
+> Rends **deux objets** comme un seul scan posé à plat :
+>
+> 1. **Une feuille volante à petits carreaux**, entièrement manuscrite — écriture rapide au stylo noir d'Ivan (notes de séance, le monologue de la voyante en bloc légèrement plus resserré). Traces de perforation à gauche, une déchirure d'un centimètre sur le bord droit.
+> 2. **Agrafée en haut de la feuille : une carte de visite à l'ancienne** — petit carton épais un peu jauni, typographie décorative fin XIXe (filets d'encadrement, initiales ornées), texte : « Madame Solange — Tarots, radiesthésie, écoute — Sur rendez-vous, Die », plus un tout petit motif discret (lune ou pendule) gravé en coin.
+>
+> - **Rendu** : scan réaliste à plat, ombre légère de la carte sur la feuille, point d'agrafe visible.
+> - Rien d'autre : pas de décor, pas de photo.

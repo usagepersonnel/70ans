@@ -41,3 +41,14 @@
 - **Le livre d'or en « étape 0 »** amorce la piste chambre (avec `joueurs/batiste/props/03_livre_dor_2011_chambre.md`) : les joueurs qui ont lu l'email font eux-mêmes le lien « livre d'or → quelle chambre → pochette ».
 - **Timing** : « 1 h – 1 h 15 » annoncé cale le retour au gîte vers 16 h 15, cohérent avec `design/enigmes.md` §B3–B4.
 - La mention des **grottes** en marge sert la cohérence avec les dossiers des autres équipes (Ivan préparait aussi la grande boucle), sans envoyer l'équipe de Batiste sur le terrain.
+
+---
+
+## Prompt visuel (à fournir à l'IA avec le texte du feuillet)
+
+> Rends le document suivant sous forme d'une **photocopie de brouillon tapuscrit**, page A4 verticale.
+>
+> - **Style** : tout le texte en police machine à écrire (type Courier), encre gris-noir légèrement inégale ; titre en capitales machine à écrire, aligné à gauche ; titres d'étapes en gras machine à écrire.
+> - **Rendu** : l'aspect d'une photocopie — page très légèrement penchée, fond blanc cassé, micro-taches et grain de toner, une bande grise de bord de scanner, marges blanches inégales.
+> - **N'inclus PAS les passages « En marge »** dans le visuel : ils seront écrits au crayon à la main après impression (laisse de la place dans les marges).
+> - **Aucune image, aucun logo, aucun ornement** : c'est un document de travail, pas une brochure.

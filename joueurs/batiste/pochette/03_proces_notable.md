@@ -32,3 +32,14 @@
 *(Note de design pour Batiste : samedi, les joueurs voient « voleurs surnaturels + tombe effacée = ils effacent leurs traces ». Dimanche, en relisant : le cadeau a été **rendu intact** au printemps — les êtres l'avaient seulement mis à l'abri pendant la brèche d'automne !)*
 
 *(La vraie tombe repérée porte une plaque « SOUVENIR — À NOS CHERS DISPARUS » : la clé 3 attend ce texte — la pierre elle-même reste sans nom. Bonus de relecture : après le twist, la plaque peut se lire comme l'hommage des Perchten à leurs disparus, dont ceux de l'accident d'Ivan.)*
+
+---
+
+## Prompt visuel (à fournir à l'IA avec le texte de la pièce)
+
+> Rends le document suivant sous forme d'une **photocopie noir et blanc d'une page d'ouvrage ancien** : *Chroniques et curiosités judiciaires du Dauphiné et du Vercors*, Grenoble, 1867, page 114.
+>
+> - **Typographie** : livre du XIXe siècle — serif ancien à forts empattements, titre de chapitre en petites capitales, alinéas d'époque, légers défauts d'encrage typographique.
+> - **Rendu** : fond grisé de photocopie, lignes qui se courbent doucement vers la reliure à gauche, taches et grain de toner, éclairage inégal.
+> - **Ne génère PAS** le surlignage ni l'annotation d'Ivan : passages surlignés au surligneur pâle et notes marginales au crayon seront faits à la main après impression (garde des marges latérales généreuses).
+> - Aucune image d'illustration : c'est une page de texte d'ouvrage d'histoire locale.

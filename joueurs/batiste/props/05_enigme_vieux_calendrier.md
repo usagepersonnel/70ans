@@ -63,3 +63,14 @@ Mais pour que le calcul soit un plaisir ludique faisable en 5 minutes par toute 
 Le verso ne donne **pas** le résultat : les joueurs font eux-mêmes `1886 + 140 = 2026` (1 cycle) → `10h00 (soleil) + 1h00 (Règle 1) + 0h30 (Règle 3, 1 cycle) = 11h30`. C'est un vrai moment d'énigme pour l'équipe — et la note d'Ivan prévient déjà : « ne vous trompez pas d'une demi-heure ».
 
 *Version de secours (non retenue) : le verso d'Ivan donnait directement `11h30` — à réintroduire si l'équipe bloque.*
+
+---
+
+## Prompt visuel (à fournir à l'IA avec le texte du feuillet)
+
+> Rends le document suivant sous forme d'une **page d'almanach rural français du XIXe siècle**, feuillet A4 vieilli (le VERSO sera imprimé quasi vierge — la note d'Ivan est écrite au crayon à la main après impression).
+>
+> - **Mise en page d'almanach** : cadre à filets ornementés, titre en lettres ornementales « ALMANACH PASTORAL DU ROYANS & DU VERCORS — ANNÉE 1886 », sous-titre italique, filets de séparation, quelques petites vignettes gravées rustiques en coins ou en têtes (lune, soleil, faucille, branche — pas plus).
+> - **Deux registres typographiques** : le texte de 1886 en caractères anciens ; la « Table de concordance des horloges modernes (ajoutée par l'horloger de Die, 1976) » dans une typographie volontairement **plus moderne** (machine à écrire ou casse sobre) — c'est un ajout tardif au feuillet.
+> - **Papier** : jauni, taches d'humidité en coins, une pliure médiane ancienne, bords un peu effrangés.
+> - **Interdit** : aucune apparition du résultat (`2026`, `11h30`, `11 h 30`) nulle part dans le visuel — les joueurs doivent le calculer.

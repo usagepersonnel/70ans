@@ -34,3 +34,15 @@
 ---
 
 *(Note de design : remarquez le détail glissé au 4e paragraphe : l'être cornu « frappe deux fois du pied sur le sol, puis lève les bras » — c'est le geste du rituel du dimanche, interprété le samedi par l'enfant et par Ivan comme une menace !)*
+
+---
+
+## Prompt visuel (à fournir à l'IA avec le texte de la pièce)
+
+> Rends le document suivant sous forme d'une **page A4 dactylographiée** — la copie archivée d'une lettre de 1931.
+>
+> - **En-tête d'archive** tapé à la machine : « Transcription — Fonds privé du Dr H. Brilleux, Die (lettre datée du 3 novembre 1931) ».
+> - **Corps** : police machine à écrire, interligne simple, marges larges d'époque, ruban d'encre fatigué (lettres irrégulières, quelques « a » et « e » pâles).
+> - **Papier** : jauni, deux pliures anciennes, une agrafe un peu rouillée en haut à gauche, un bord légèrement effrangé.
+> - **Ne génère PAS** l'annotation manuscrite d'Ivan du bas de page : elle sera écrite au crayon après impression (laisse le tiers inférieur libre).
+> - Aucune illustration.
