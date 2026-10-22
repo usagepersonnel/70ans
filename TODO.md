@@ -68,9 +68,9 @@
 |---|---|---|---|
 | 3 masques et compléments de costumes | Mareva | finitions | en cours |
 | 12 objets sonores avec marquage animal et droite/gauche | Mareva | réunir, fixer, renseigner la table de `joueurs/rituel/partition_et_sons.md` | à faire |
-| 3 clips audio `00_03`, `06_12`, `18_47` | Mareva (enregistrements), Batiste (montage) | montage | en cours |
+| 3 clips audio `00_03`, `06_12`, `18_47` | Mareva (enregistrements), Batiste (montage) | montage, puis sur **clé USB** trouvée dimanche matin + copie papier du carnet d'écoute | en cours |
 | 3 photos de pièges horodatées, avec les masques | répartir | shooter | à faire |
-| Lecteur audio, enceinte, copie locale des fichiers | Batiste | préparer | à faire |
+| Lecteur audio, enceinte, **clé USB avec les 3 clips**, copie locale des fichiers | Batiste | préparer | à faire |
 | Statuette ancienne : finition et message au « je » (`joueurs/rituel/checklist_production.md`) | Mareva | creuse et légère, sombre à reflets (`lore/lore.md`) ; texte du message | en cours |
 | Kit de la nouvelle statuette : pièces de Napoléon en 3D, bobine de fil de 40 à 50 m, environ 40 bandelettes et stylos, matériaux des 8 éléments | Seb (pièces) | réunir | à faire |
 | Effet statuette dorée : bombe de peinture dorée à séchage rapide | répartir | acheter ; tester sous la pluie | à faire |
@@ -84,7 +84,7 @@
 | Élément | Responsable | Reste à faire | État |
 |---|---|---|---|
 | Variables d'environnement Vercel (`KEY_*`, `ARCHIVES_TOKEN`) | Batiste | `KEY_FOUNTAIN` sur `1894;1994;1894 1994;1994 1894` + `KEY_TOMB`/`KEY_PLANT` étendus + `ARCHIVES_TOKEN` régénéré ; **redéployé** et gate testé en prod (21/10) | fait |
-| Remplacer les 3 WAV placeholder | Batiste | montage audio | en cours |
+| Page `/archives/audio` | Batiste | retirer les lecteurs WAV placeholder — la page ne montre que le carnet d'écoute (fichiers sur clé USB dimanche, décision Mareva 22/10) | en cours |
 | Photos de pièges (page `/archives/pieges`) | répartir | après le shooting | à faire |
 | Pages « relevés de disparitions » et « journal d'Ivan » | Batiste | à écrire ; dépendent des 3 points de Rémi (`questions.md` #18) | à faire |
 | Page « carnet d'écoute » | Batiste | page existante, à aligner sur `joueurs/rituel/enigmes_dimanche.md` | en cours |
@@ -95,7 +95,7 @@
 
 - `journal.ts` et `dossier.astro` : « quinze ans » → « vingt ans » (2 occurrences).
 - `sorties.astro` : « Réservations closes » → dater et préciser que c'est Camille qui a fermé le formulaire en découvrant la réservation (oct. 2026), sinon contradiction avec l'email de 14h.
-- `audio.astro` : « trois nuits » → « trois veilles » (les 3 bandes datent du même week-end, `joueurs/batiste/pochette/02_releves_2011_2025.md`) ; reformuler « le compteur s'est arrêté » ; aligner le carnet d'écoute sur `joueurs/rituel/enigmes_dimanche.md`.
+- `audio.astro` : **retirer les 3 lecteurs audio** (décision Mareva 22/10 — les fichiers ne sont pas sur le site, clé USB dimanche) ; garder le carnet d'écoute et ajouter une ligne in-fiction expliquant l'absence (« je ne les mets pas en ligne — ce qu'ils captent doit rester à l'abri » ou équivalent, dans le ton d'Ivan convaincu) ; « trois nuits » → « trois veilles » (les 3 bandes datent du même week-end, `joueurs/batiste/pochette/02_releves_2011_2025.md`) ; aligner le carnet sur `joueurs/rituel/enigmes_dimanche.md` §4.
 - `keys.ts` et `.env.example` : défaut de la clé 1 `1878` → `1894` et `1994`, et comparaison « contient » (comme la clé 3) pour accepter « de 1894 à 1994 » ; libellé du champ dans `ivan-beaulieu-photos/src/pages/archives/index.astro` : « L'année gravée » → « Les deux dates » (la fontaine porte une plaque émaillée, pas une gravure). Clé 4 : comparaison « contient » acceptant `barbe de bouc` et `aruncus` (le nom latin figure sur l'étiquette, les joueurs peuvent le relever). Clé 3 : ajouter `chers disparus`, `a nos chers disparus` et `souvenir` aux variantes `KEY_TOMB` — la vraie tombe porte une plaque « À nos chers disparus ».
 - `dossier.astro` : **réécrire le paragraphe où Ivan doute** (« ce que j'ai pris pour de la malveillance pendant trop longtemps, je commence à me demander si ce n'est pas autre chose »). Ivan est persuadé qu'ils sont maléfiques. Proposition : « Ils ne sont pas des rêves. Ils viennent quand l'heure change, ils ont toujours trois pas d'avance sur la mémoire des gens, et chaque année je suis un peu plus certain qu'ils ne nous veulent aucun bien. »
 - Optionnel : `ivan-beaulieu-photos/src/lib/auth.ts`, durée du cookie `COOKIE_MAX_AGE` de 4 h à 48 h.
@@ -115,13 +115,13 @@
 | Emballage : tout ce qui part au Vercors, listé et regroupé | répartir | lister, regrouper | à faire |
 | Dry-run | tous | jalon du 23/10 | à faire |
 
-**À répartir vendredi dans le plan de mise en place** : affiche déchirée et livre d'or modifié ; étiquettes sur toutes les portes ; pochette dans la chambre ; tableau et affiche au café ; affiche publicitaire à l'office de tourisme ; les 7 props de Rémi (1 au gîte, 6 en terrain) ; cache des masques et parcours de Seb ; la nuit : miroirs, bols et céréales, vitres des voitures ; dimanche : échange de la statuette dorée, indice de secours à 10h25 si le groupe terrain bloque, signal de début et de fin de la foule.
+**À répartir vendredi dans le plan de mise en place** : affiche déchirée et livre d'or modifié ; étiquettes sur toutes les portes ; pochette dans la chambre ; tableau et affiche au café ; affiche publicitaire à l'office de tourisme ; les 7 props de Rémi (1 au gîte, 6 en terrain) ; cache des masques et parcours de Seb ; la nuit : miroirs, bols et céréales, vitres des voitures ; dimanche : la clé USB + copie papier du carnet parmi le matériel des manifestations, échange de la statuette dorée, indice de secours à 10h25 si le groupe terrain bloque, signal de début et de fin de la foule.
 
 **Matériel — checklist se procurer / fabriquer / apporter** (le suivi détaillé reste dans les tableaux ci-dessus et `joueurs/rituel/checklist_production.md`) :
 
 - **À acheter** : loupe (~2 €) ; bombe de peinture dorée à séchage rapide ; feutre craie ou encre (miroirs) + marqueur craie effaçable (vitres) ; papier épais/ivoire + papier quadrillé perforé ; chemise cartonnée à élastiques ; enveloppes ; stylos + ~40 bandelettes ; bobine de fil 40-50 m ; ponchos (~35, pluie dimanche) ; sachets de riz/graines (objets sonores).
 - **À fabriquer ou imprimer avant vendredi** : tous les assets du tableau « Assets et props à réaliser » ci-dessus ; carte satellite du champ + 3 calques transparents ; papiers des manifestations (bols, céréales, miroirs) ; secret d'Ivan pour la bouteille.
-- **À apporter** : loupe, pochette montée, tableau, affiches et tirages ; 12 objets sonores ; 3 masques + costumes (Seb) ; statuette ancienne (Mareva) ; kit de la nouvelle statuette (Seb) ; fumigènes orange et vert ; lecteur audio + enceinte + fichiers en local (Batiste) ; les 7 props Rémi ; matériel du parcours et de la cache Seb.
+- **À apporter** : loupe, pochette montée, tableau, affiches et tirages ; 12 objets sonores ; 3 masques + costumes (Seb) ; statuette ancienne (Mareva) ; kit de la nouvelle statuette (Seb) ; fumigènes orange et vert ; lecteur audio + enceinte + **clé USB (3 MP3 + carnet papier)** + fichiers en local (Batiste) ; les 7 props Rémi ; matériel du parcours et de la cache Seb.
 
 ## À vérifier et sans urgence avant samedi
 

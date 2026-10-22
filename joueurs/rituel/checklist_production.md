@@ -45,7 +45,7 @@ Voici les propositions (💡) ajoutées aujourd'hui — un simple oui / non / aj
 - [ ] **Marquer chaque manchette/jambière** (symbole d'animal + D/G) et vérifier que l'attache tient bien en marchant
 
 ### Audio et photos (une fois les 12 sons prêts)
-- [ ] **Enregistrer les 3 clips audio** *(en cours au 21/10 : enregistrements bruts faits par Mareva, montage par Batiste)* (`00_03.mp3`, `06_12.mp3`, `18_47.mp3`, ~35–42 s chacun) selon la partition de [`joueurs/rituel/partition_et_sons.md`](partition_et_sons.md#4--partition-des-3-clips-audio-à-enregistrer)
+- [ ] **Enregistrer les 3 clips audio** *(en cours au 21/10 : enregistrements bruts faits par Mareva, montage par Batiste)* (`00_03.mp3`, `06_12.mp3`, `18_47.mp3`, ~35–42 s chacun) selon la partition de [`joueurs/rituel/partition_et_sons.md`](partition_et_sons.md#4--partition-des-3-clips-audio-à-enregistrer) — puis **les mettre sur une clé USB** trouvée dimanche matin (décision Mareva 22/10 : pas d'audio sur le site) + **copie papier du carnet d'écoute** jointe
 - [ ] **Prendre les 3 photos de pièges photo** (1 masqué, puis 2, puis 3, avec horodatage `00:03`, `06:12`, `18:47`) — utiles dès le samedi sur le site d'Ivan
 - [ ] **Préparer le lecteur audio** pour le dimanche matin : ordinateur / téléphone de Batiste + enceinte portable (ou vieil iPod) avec les fichiers en local
 
@@ -65,4 +65,4 @@ Voici les propositions (💡) ajoutées aujourd'hui — un simple oui / non / aj
 - [ ] **Petit-déj** : petits papiers avec les phrases du cycle 24 h et du fil (à glisser sous les bols et dans les céréales)
 - [ ] **Voitures** : marqueur craie effaçable pour vitres
 - [ ] **Carte satellite du champ + 3 calques transparents** pour l'équipe terrain (pierres N/SO/SE, triangle en branchages, tipi en bord de champ)
-- [ ] **Page « Carnet d'écoute »** sur la partie secrète du site d'Ivan (Batiste)
+- [ ] **Page « Carnet d'écoute »** sur la partie secrète du site d'Ivan (Batiste) — le carnet seul, **sans les fichiers** : ils passent par la clé USB du dimanche (décision Mareva 22/10)

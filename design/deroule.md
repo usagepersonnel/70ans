@@ -63,7 +63,7 @@ Le dimanche, les joueurs se reforment en **trois groupes fonctionnels**, distinc
 
 - **Groupe « terrain »** — Cherche le lieu du rituel à partir d'indices, notamment la triangulation et la superposition des cartes. Il prépare également le lieu une fois identifié (pierres, triangle en branchages, tipi).
 - **Groupe « statuette »** — Fabrique la nouvelle statuette à partir des instructions révélées dans l'ancienne : les 8 éléments requis dont le **fil**, l'élément manquant des cycles passés. Il réunit les matériaux nécessaires ; la forme et la réalisation restent libres.
-- **Groupe « danse »** — Reconstitue le rituel : chorégraphie, 12 sons, gestes, costumes à partir des 3 clips audio et des indices.
+- **Groupe « danse »** — Reconstitue le rituel : chorégraphie, 12 sons, gestes, costumes à partir des 3 clips audio (clé USB trouvée le matin, pas sur le site — décision Mareva 22/10) et des indices.
 
 Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rituel ensemble.
 
