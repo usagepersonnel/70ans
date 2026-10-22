@@ -25,10 +25,10 @@
 |---|---|---|---|
 | Email de Camille (`joueurs/batiste/props/01_lancement_email_enfant.md`) | Batiste ? | imprimer | en cours (texte écrit) |
 | Affiche « Les Habitants de la nuit », 2 versions (`joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md`) | Mareva | mise en forme ×2 avec QR code, vieillir, déchirer la version gîte ; accrochage vendredi (plan de mise en place) | en cours (texte écrit) |
-| 3 dossiers de parcours, un feuillet par équipe, enveloppe posée à côté de l'email (`questions.md` #16) | Batiste, Seb, Rémi | Batiste : mettre en forme, imprimer (`joueurs/batiste/props/06_dossier_parcours.md`) ; Seb et Rémi : écrire (Rémi = 1re feuille du fugitif « jointe en l'état ») | en cours (Batiste : texte écrit) |
+| 3 dossiers de parcours, un feuillet par équipe, enveloppe posée à côté de l'email (`questions.md` #16) | Batiste, Seb, Rémi | Batiste : mettre en forme, imprimer (`joueurs/batiste/props/06_dossier_parcours.md`) ; Seb et Rémi : écrire (Rémi = 1re feuille du fugitif « jointe en l'état ») | en cours (Batiste : rendu PDF dispo) |
 | Livre d'or 2011 : feuillet, photo « vue depuis la fenêtre », étiquettes d'animaux sur **toutes** les portes (`joueurs/batiste/props/03_livre_dor_2011_chambre.md`) | répartir ; étiquettes : Mareva | photo prise vendredi à l'arrivée ; étiquettes en cours chez Mareva | à faire |
 | Pochette d'Ivan : 7 pièces, étiquette Chouette au rabat (`joueurs/batiste/pochette/`) | Batiste | mise en forme, impression, vieillissement — aide-mémoire en 3 exemplaires (sous-groupes de ~10) — une fois les retours de l'équipe intégrés | en cours (textes v1 écrits) |
-| Vieux calendrier (`joueurs/batiste/props/05_enigme_vieux_calendrier.md`) | Batiste | imprimer, vieillir | en cours (texte écrit) |
+| Vieux calendrier (`joueurs/batiste/props/05_enigme_vieux_calendrier.md`) | Batiste | imprimer, vieillir | en cours (rendu PDF dispo) |
 | Loupe, environ 2 € | répartir | acheter (1 seule : elle reste dans la pochette ; seule la clé 2 du tableau en a besoin — si l'équipe se scinde, elle va au sous-groupe du café) | à faire |
 | Tableau du chasseur : image avec `VEILLE` en corps 4-5 pt, et tirages d'Ivan à exposer au café (`joueurs/batiste/props/04_tableau_chasseur_et_loupe.md`) | répartir | créer l'image, imprimer ; accord du café à compléter pour les tirages | à faire |
 
@@ -37,13 +37,13 @@
 | Asset | Forme proposée | Source du texte | État |
 |---|---|---|---|
 | Email de Camille | Impression A4 type webmail, plié dans l'enveloppe | `joueurs/batiste/props/01_lancement_email_enfant.md` | texte écrit |
-| 3 dossiers de parcours | Feuillet A4 chacun, style brouillon photocopié + marges au crayon | Batiste : `joueurs/batiste/props/06_dossier_parcours.md` ; Seb et Rémi à écrire | Batiste : texte écrit |
+| 3 dossiers de parcours | Feuillet A4 chacun, style brouillon photocopié + marges au crayon | Batiste : `joueurs/batiste/props/06_dossier_parcours.md` ; Seb et Rémi à écrire | Batiste : rendu prêt (`assets/photos/site_ivan/dossier_parcours.pdf`) ; Seb et Rémi à écrire |
 | Affiche ×2 | A4 épais/ivoire avec QR code ; version gîte déchirée et froissée, version café intacte | `joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md` | en cours (Mareva : mise en forme, QR, vieillissement) |
 | Affiche publicitaire OT | Déclinaison de l'affiche sans date : pub d'activité (affûts, veillées), A4 intact légèrement jauni, URL + QR | `joueurs/batiste/props/07_affiche_publicitaire_ot.md` | en cours (Mareva ; l'OT accepte de l'afficher) |
 | Feuillet du livre d'or | Page type album photo (tirage 10×15 + légende + mot manuscrit) — photo prise vendredi à l'arrivée | `joueurs/batiste/props/03_livre_dor_2011_chambre.md` | à faire vendredi |
 | Étiquettes animaux des portes | Petites affichettes illustrées sur toutes les portes + étiquette Chouette collée au rabat de la pochette | `joueurs/batiste/props/03_livre_dor_2011_chambre.md` | en cours (Mareva, IA ou dessin) |
 | Pochette d'Ivan | Chemise cartonnée à élastiques : 7 pièces (feuilles quadrillées perforées, photocopies, coupure Dauphiné, carte de visite de la voyante), post-it des propriétaires, étiquette Chouette ; aide-mémoire en 3 exemplaires | `joueurs/batiste/pochette/` | textes v1, à mettre en forme et vieillir |
-| Vieux calendrier | Feuillet vieilli recto-verso (almanach + note au crayon) | `joueurs/batiste/props/05_enigme_vieux_calendrier.md` | texte écrit |
+| Vieux calendrier | Feuillet vieilli recto-verso (almanach + note au crayon) | `joueurs/batiste/props/05_enigme_vieux_calendrier.md` | rendu prêt : `assets/photos/site_ivan/almanach_1886.pdf` — imprimer recto-verso, vieillir, note d'Ivan au crayon au verso |
 | Tableau du chasseur | Image eau-forte générée (IA) + mot `VEILLE` ajouté en corps 4-5 pt, tirage A4/A3 encadré | `joueurs/batiste/props/04_tableau_chasseur_et_loupe.md` | 2 variantes générées : `assets/photos/gravure_1.jpg` et `assets/photos/gravure_2.png` — choisir, incruster `VEILLE` sous la statuette, imprimer |
 | Tirages d'Ivan pour le café | Quelques tirages animaliers (depuis `assets/photos/`) | `joueurs/batiste/props/04_tableau_chasseur_et_loupe.md` | à choisir et imprimer |
 
@@ -84,7 +84,7 @@
 | Élément | Responsable | Reste à faire | État |
 |---|---|---|---|
 | Variables d'environnement Vercel (`KEY_*`, `ARCHIVES_TOKEN`) | Batiste | `KEY_FOUNTAIN` sur `1894;1994;1894 1994;1994 1894` + `KEY_TOMB`/`KEY_PLANT` étendus + `ARCHIVES_TOKEN` régénéré ; **redéployé** et gate testé en prod (21/10) | fait |
-| Page `/archives/audio` | Batiste | retirer les lecteurs WAV placeholder — la page ne montre que le carnet d'écoute (fichiers sur clé USB dimanche, décision Mareva 22/10) | en cours |
+| Page `/archives/audio` | Batiste | retirer les lecteurs WAV placeholder (`src/pages/archives/audio.astro`) **et supprimer du site tous les fichiers audio** (les 3 WAV placeholder du dossier public/audio et leur script de génération gen_placeholder_audio.mjs) — il ne doit rester sur le site que des notes qui s'y réfèrent, jamais d'audio (fichiers sur clé USB dimanche, décision Mareva 22/10). Non traité par la PR #3 du site (qui a seulement aligné le texte) : à corriger plus tard, dans une PR dédiée | à faire (plus tard) — **Batiste : à nettoyer** |
 | Photos de pièges (page `/archives/pieges`) | répartir | après le shooting | à faire |
 | Pages « relevés de disparitions » et « journal d'Ivan » | Batiste | à écrire ; dépendent des 3 points de Rémi (`questions.md` #18) | à faire |
 | Page « carnet d'écoute » | Batiste | page existante, à aligner sur `joueurs/rituel/enigmes_dimanche.md` | en cours |

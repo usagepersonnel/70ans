@@ -46,9 +46,10 @@
 
 ## Prompt visuel (à fournir à l'IA avec le texte du feuillet)
 
-> Rends le document suivant sous forme d'une **photocopie de brouillon tapuscrit**, page A4 verticale.
->
-> - **Style** : tout le texte en police machine à écrire (type Courier), encre gris-noir légèrement inégale ; titre en capitales machine à écrire, aligné à gauche ; titres d'étapes en gras machine à écrire.
-> - **Rendu** : l'aspect d'une photocopie — page très légèrement penchée, fond blanc cassé, micro-taches et grain de toner, une bande grise de bord de scanner, marges blanches inégales.
-> - **N'inclus PAS les passages « En marge »** dans le visuel : ils seront écrits au crayon à la main après impression (laisse de la place dans les marges).
-> - **Aucune image, aucun logo, aucun ornement** : c'est un document de travail, pas une brochure.
+Rends le document suivant sous forme d'une photocopie de brouillon tapuscrit, page A4 verticale. Tout le texte est en police machine à écrire type Courier, encre gris-noir légèrement inégale, titre en capitales machine à écrire aligné à gauche, titres d'étapes en gras machine à écrire. Le rendu est celui d'une photocopie : page très légèrement penchée, fond blanc cassé, micro-taches et grain de toner, une bande grise de bord de scanner, marges blanches inégales. N'inclus pas les passages « En marge » dans le visuel : ils seront écrits au crayon à la main après impression, donc laisse de la place dans les marges. Aucune image, aucun logo, aucun ornement : c'est un document de travail, pas une brochure.
+
+---
+
+## Fichier imprimable
+
+`assets/photos/site_ivan/dossier_parcours.pdf` — page A4 prête à imprimer (recto seul ; les passages « En marge » sont écrits au crayon après impression, marges latérales prévues larges). Preview : `assets/photos/site_ivan/dossier_parcours.png`. Rendu généré depuis le repo `ivan-beaulieu-photos` (route /dossier-parcours, branche prop/almanach, non publiée).

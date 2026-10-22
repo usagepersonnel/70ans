@@ -37,9 +37,4 @@
 
 ## Prompt visuel (à fournir à l'IA avec le texte de la pièce)
 
-> Rends le document suivant sous forme d'une **photocopie noir et blanc d'une page d'ouvrage ancien** : *Chroniques et curiosités judiciaires du Dauphiné et du Vercors*, Grenoble, 1867, page 114.
->
-> - **Typographie** : livre du XIXe siècle — serif ancien à forts empattements, titre de chapitre en petites capitales, alinéas d'époque, légers défauts d'encrage typographique.
-> - **Rendu** : fond grisé de photocopie, lignes qui se courbent doucement vers la reliure à gauche, taches et grain de toner, éclairage inégal.
-> - **Ne génère PAS** le surlignage ni l'annotation d'Ivan : passages surlignés au surligneur pâle et notes marginales au crayon seront faits à la main après impression (garde des marges latérales généreuses).
-> - Aucune image d'illustration : c'est une page de texte d'ouvrage d'histoire locale.
+Rends le document suivant sous forme d'une photocopie noir et blanc d'une page d'ouvrage ancien : Chroniques et curiosités judiciaires du Dauphiné et du Vercors, Grenoble, 1867, page 114. Typographie de livre du XIXe siècle, serif ancien à forts empattements, titre de chapitre en petites capitales, alinéas d'époque, légers défauts d'encrage typographique. Le rendu est un fond grisé de photocopie, lignes qui se courbent doucement vers la reliure à gauche, taches et grain de toner, éclairage inégal. Ne génère pas le surlignage ni l'annotation d'Ivan : ils seront faits à la main après impression, donc garde des marges latérales généreuses. Aucune image d'illustration : c'est une page de texte d'ouvrage d'histoire locale.

@@ -17,7 +17,7 @@ Chaque étape : **Étape** / difficulté / déblocage / produit. `❓` = trou da
 - Ivan est un **habitué du gîte au changement d'heure depuis 2011** (livre d'or 2011).
 - Le café-librairie **a gardé l'affiche intacte** (avec l'URL complète du site + QR code) et **expose les tirages d'Ivan** ainsi que le tableau du chasseur.
 - Les trois animaux de ses photos (chouette, loup, bouquetin) sont les trois masques.
-- L'article de l'accident parle de **« trois piétons »** ; le lien avec les Perchtenlauf n'est jamais énoncé.
+- L'article de l'accident parle de **« trois silhouettes » au visage dissimulé** ; le lien avec les Perchtenlauf n'est jamais énoncé.
 - Thèse : les Perchtenlauf se transmettent une flamme, la chaîne est rompue, Ivan l'a rompue par accident. Il avait tout vu juste sauf le sens ; ses relevés, enregistrements et photos de pièges sont sans le savoir la partition conservée du rituel.
 
 **❓ / 💡 À décider**

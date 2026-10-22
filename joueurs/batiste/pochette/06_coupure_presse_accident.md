@@ -15,9 +15,9 @@
 >
 > La victime, **Ivan Beaulieu**, ancien ingénieur du CNRS à la retraite et accompagnateur en moyenne montagne très apprécié dans le massif — où il venait tout juste d'animer, la veille au soir, une conférence au café-librairie du bourg — redescendait seul au volant de son véhicule après avoir relevé des appareils photographiques en forêt.
 >
-> Dans une courbe en épingle, son véhicule a donné un brusque coup de volant, comme pour **éviter un obstacle sur la chaussée**, avant de franchir le bas-côté.
+> Dans une courbe en épingle, le véhicule a quitté la chaussée après un brusque coup de volant. L'avant de la voiture porte un choc dont l'origine reste à déterminer.
 >
-> Un automobiliste qui suivait à quelques minutes d'intervalle a donné l'alerte. Encore sous le choc, ce témoin a indiqué aux gendarmes avoir cru distinguer sur le bord de la route, juste avant le virage, **« trois piétons immobiles vêtus de tenues étranges »**, lesquels auraient regagné le sous-bois avant l'arrivée des secours. Les recherches effectuées dans la nuit par les militaires n'ont toutefois permis de retrouver aucune trace de randonneurs dans ce secteur escarpé.
+> Un automobiliste qui le suivait à quelques centaines de mètres a donné l'alerte. Encore sous le choc, ce témoin a indiqué aux gendarmes avoir aperçu dans la lueur de ses phares **« trois silhouettes immobiles au milieu de la route, le visage dissimulé, vêtues de tenues étranges »**, dont l'une tendait la main, paume ouverte, vers la voiture qui le précédait. Quelques secondes plus tard, dit-il, **« il n'y avait plus personne »**. Les recherches effectuées dans la nuit par les militaires n'ont permis de retrouver aucune trace de piéton ni de randonneur dans ce secteur escarpé. Les enquêteurs n'écartent à ce stade ni la collision avec un animal, ni l'hypothèse d'un témoin abusé par le brouillard.
 >
 > À l'intérieur du véhicule, les secouristes ont retrouvé le matériel photographique de la victime ainsi qu'un **petit magnétophone à cassette dont la bande continuait de tourner**.
 >
@@ -25,15 +25,10 @@
 
 ---
 
-*(Note de design : samedi, les joueurs lisent « les 3 monstres ont tué Ivan sur la route ! » → motivation maximale pour détruire leur statuette à 17h30. Dimanche matin, quand ils comprennent le rôle des Perchtenlauf : Ivan a donné un coup de volant pour **ne pas les écraser**, ou l'un des trois porteurs de masque a été blessé/la chaîne a été rompue ce soir-là — et c'est pourquoi les 35 membres de la famille doivent reprendre le relais !)*
+*(Note de design : le texte ne tranche jamais — animal, brouillard ou 3 silhouettes heurtées puis évanouies sont trois lectures possibles. Samedi, les joueurs lisent « les 3 monstres ont tué Ivan sur la route ! » → motivation maximale pour détruire leur statuette à 17h30. Dimanche, la main tendue paume ouverte se relit comme un « stop » : les Perchtenlauf tentaient d'arrêter Ivan. L'accident a brisé la chaîne ce soir-là — c'est pourquoi les 35 membres de la famille doivent reprendre le relais. Garde-fou : aucun texte joueur ne doit confirmer que les silhouettes ont été heurtées ni qu'elles sont mortes.)*
 
 ---
 
 ## Prompt visuel (à fournir à l'IA avec le texte de la pièce)
 
-> Rends le document suivant sous forme d'une **coupure de presse réaliste**, journal régional « Le Dauphiné », édition Drôme/Vercors, dimanche 19 octobre 2025.
->
-> - **Mise en page de presse régionale** : nom du journal et date en haut, rubrique « FAITS DIVERS — LA CHAPELLE-EN-VERCORS » en petites capitales, grand titre serif gras sur deux lignes (« Sortie de route mortelle dans le brouillard sur la descente du col »), chapô en gras, corps de l'article en **2 ou 3 colonnes étroites**, interligne de presse serré.
-> - **Objet** : bords de découpe irréguliers au ciseau, papier journal fin grisâtre, deux pliures, un coin corné — la coupure a voyagé dans une poche.
-> - **Pas de photo** dans la coupure : elle est purement textuelle.
-> - **Ne génère pas** le post-it des propriétaires : il sera écrit à la main et collé après impression (texte : « Affaires retrouvées dans la chambre d'Ivan après son accident + article du Dauphiné. À garder de côté pour Camille, à son prochain passage. »).
+Rends le document suivant sous forme d'une coupure de presse réaliste du journal régional Le Dauphiné, édition Drôme/Vercors, dimanche 19 octobre 2025. Mise en page de presse régionale : nom du journal et date en haut, rubrique FAITS DIVERS — LA CHAPELLE-EN-VERCORS en petites capitales, grand titre serif gras sur deux lignes, chapô en gras, corps de l'article en 2 ou 3 colonnes étroites à interligne serré. Bords de découpe irréguliers au ciseau, papier journal fin grisâtre, deux pliures, un coin corné comme si la coupure avait voyagé dans une poche. Pas de photo dans la coupure, elle est purement textuelle. Ne génère pas le post-it des propriétaires : il sera écrit à la main et collé après impression, texte « Affaires retrouvées dans la chambre d'Ivan après son accident + article du Dauphiné. À garder de côté pour Camille, à son prochain passage. »

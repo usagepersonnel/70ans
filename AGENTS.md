@@ -71,6 +71,11 @@ Règles :
 - Si deux documents se contredisent, celui qui fait foi l'emporte ; on corrige l'autre.
 - Les ❓ placés dans les documents de design (`lore/lore_precisions.md`, `design/deroule.md`, `design/enigmes.md`) restent attachés à leur contexte ; les questions qui attendent la réponse d'une personne précise sont listées dans `questions.md`.
 
+## Points de vigilance (repo du site `ivan-beaulieu-photos`)
+
+- **Branche prop/almanach** : branche **locale uniquement**, qui porte les pages de props imprimables (`src/pages/almanach.astro`, `src/pages/dossier-parcours.astro`, et les suivantes). **Ne jamais la pousser ni la fusionner dans `main`** (le merge déploierait ces pages sur le site public). Avant de reprendre le travail normal du site, revenir sur `main` (`git switch main`) et partir de là pour toute nouvelle branche ; vérifier la branche courante avant tout commit sur le site.
+- Les fichiers imprimables produits (PDF/PNG) se déposent dans `assets/photos/site_ivan/`, avec une section « Fichier imprimable » dans le doc du prop.
+
 ## 🧭 Conventions de nommage
 
 - Documents Markdown : minuscules, `snake_case`, ASCII, extension `.md`. Images : noms parlants, en minuscules et sans espace pour les nouveaux fichiers ; les noms déjà cités ailleurs ne sont pas renommés.

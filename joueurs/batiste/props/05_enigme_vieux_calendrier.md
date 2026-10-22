@@ -68,9 +68,10 @@ Le verso ne donne **pas** le résultat : les joueurs font eux-mêmes `1886 + 140
 
 ## Prompt visuel (à fournir à l'IA avec le texte du feuillet)
 
-> Rends le document suivant sous forme d'une **page d'almanach rural français du XIXe siècle**, feuillet A4 vieilli (le VERSO sera imprimé quasi vierge — la note d'Ivan est écrite au crayon à la main après impression).
->
-> - **Mise en page d'almanach** : cadre à filets ornementés, titre en lettres ornementales « ALMANACH PASTORAL DU ROYANS & DU VERCORS — ANNÉE 1886 », sous-titre italique, filets de séparation, quelques petites vignettes gravées rustiques en coins ou en têtes (lune, soleil, faucille, branche — pas plus).
-> - **Deux registres typographiques** : le texte de 1886 en caractères anciens ; la « Table de concordance des horloges modernes (ajoutée par l'horloger de Die, 1976) » dans une typographie volontairement **plus moderne** (machine à écrire ou casse sobre) — c'est un ajout tardif au feuillet.
-> - **Papier** : jauni, taches d'humidité en coins, une pliure médiane ancienne, bords un peu effrangés.
-> - **Interdit** : aucune apparition du résultat (`2026`, `11h30`, `11 h 30`) nulle part dans le visuel — les joueurs doivent le calculer.
+Rends le document suivant sous forme d'une page d'almanach rural français du XIXe siècle, feuillet A4 vieilli ; le verso sera imprimé quasi vierge car la note d'Ivan est écrite au crayon à la main après impression. Mise en page d'almanach ancien : cadre à double filets ornementés, titre en lettres ornementales « ALMANACH PASTORAL DU ROYANS & DU VERCORS — ANNÉE 1886 », sous-titre italique, filets de séparation, quelques petites vignettes gravées rustiques en coins ou en têtes comme une lune, un soleil, une faucille ou une branche. Deux registres typographiques : le texte de 1886 en caractères anciens, puis la table de concordance des horloges modernes ajoutée par l'horloger de Die en 1976 dans une typographie volontairement plus moderne, machine à écrire ou casse sobre. Papier jauni, taches d'humidité en coins, une pliure médiane ancienne, bords un peu effrangés. Interdiction absolue : les nombres 2026 et 11h30 ne doivent apparaître nulle part dans le visuel, les joueurs doivent les calculer eux-mêmes.
+
+---
+
+## Fichier imprimable
+
+`assets/photos/site_ivan/almanach_1886.pdf` — feuillet A4 recto-verso prêt à imprimer (recto : page d'almanach ; verso : réglure pâle pour la note au crayon d'Ivan). Previews : `assets/photos/site_ivan/almanach_1886_recto.png` et `assets/photos/site_ivan/almanach_1886_verso.png`. Rendu généré depuis le repo `ivan-beaulieu-photos` (route /almanach, branche prop/almanach, non publiée).
