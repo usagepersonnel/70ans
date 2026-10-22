@@ -38,3 +38,11 @@
 ## Prompt visuel (à fournir à l'IA avec le texte de la pièce)
 
 Rends le document suivant sous forme d'une photocopie noir et blanc d'une page d'ouvrage ancien : Chroniques et curiosités judiciaires du Dauphiné et du Vercors, Grenoble, 1867, page 114. Typographie de livre du XIXe siècle, serif ancien à forts empattements, titre de chapitre en petites capitales, alinéas d'époque, légers défauts d'encrage typographique. Le rendu est un fond grisé de photocopie, lignes qui se courbent doucement vers la reliure à gauche, taches et grain de toner, éclairage inégal. Ne génère pas le surlignage ni l'annotation d'Ivan : ils seront faits à la main après impression, donc garde des marges latérales généreuses. Aucune image d'illustration : c'est une page de texte d'ouvrage d'histoire locale.
+
+---
+
+## Fichier imprimable
+
+`assets/photos/site_ivan/03_proces_notable.pdf` (+ `assets/photos/site_ivan/03_proces_notable.png`) — photocopie de la page 114 du livre de 1867 (titre courant « Chroniques et curiosités judiciaires » et folio « 114 » ajoutés). Surlignage et annotation d'Ivan à écrire au crayon dans la moitié basse et les marges. L'ancien rendu IA (archivé : `assets/photos/site_ivan/archived/ai_rejete_03_proces_notable.png`) est **rejeté** : coquilles dans la date de 1466.
+
+Rendu généré depuis le repo `ivan-beaulieu-photos` (branche locale prop/almanach, non publiée) ; export : scripts/prop_export.mjs du repo du site.

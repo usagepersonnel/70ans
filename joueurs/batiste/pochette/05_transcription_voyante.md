@@ -25,3 +25,11 @@
 ## Prompt visuel (à fournir à l'IA avec le texte de la pièce)
 
 Rends deux objets réunis en un seul scan posé à plat. Premier objet : une feuille volante à petits carreaux entièrement manuscrite, écriture rapide au stylo noir, notes de séance avec le monologue de la voyante en bloc légèrement plus resserré, traces de perforation à gauche, une déchirure d'un centimètre sur le bord droit. Deuxième objet : agrafée en haut de la feuille, une carte de visite à l'ancienne, petit carton épais un peu jauni, typographie décorative fin XIXe avec filets d'encadrement et initiales ornées, texte « Madame Solange — Tarots, radiesthésie, écoute — Sur rendez-vous, Die », plus un tout petit motif discret gravé en coin, lune ou pendule. Le rendu est un scan réaliste à plat avec l'ombre légère de la carte sur la feuille et le point d'agrafe visible. Pas de décor, pas de photo.
+
+---
+
+## Fichier imprimable
+
+Carte de visite : `assets/photos/site_ivan/05_carte_madame_solange.pdf` (+ `assets/photos/site_ivan/05_carte_madame_solange.png`) — 4 exemplaires à découper (une seule est agrafée). La feuille de notes d'Ivan est **manuscrite** (non générée).
+
+Rendu généré depuis le repo `ivan-beaulieu-photos` (branche locale prop/almanach, non publiée) ; export : scripts/prop_export.mjs du repo du site.

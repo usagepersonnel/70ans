@@ -6,7 +6,7 @@
 
 ## Sur le rabat intérieur de la chemise cartonnée
 
-> **Ivan BEAULIEU** — Chalet des Érables, Villard-de-Lans (`ivanbeaulieu2@orange.fr`)
+> **Ivan BEAULIEU** — Chalet des Érables, Villard-de-Lans
 > *Dossier « La Chapelle — Veilles d'octobre » (pièces d'archives & doubles de sécurité)*
 >
 > *(Petit mot sur post-it ajouté sur le dessus par les propriétaires du gîte après octobre 2025 :*

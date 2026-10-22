@@ -33,7 +33,6 @@
 
    Programme, tarifs & réservations sur le site :
    https://ivan-beaulieu-photos.vercel.app          [ QR CODE ]
-   Contact : ivanbeaulieu2@orange.fr
 ======================================================================
 ```
 

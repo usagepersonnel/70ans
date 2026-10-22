@@ -5,14 +5,14 @@
 - **Comment il est amené** : L'un des organisateurs explique qu'il avait réservé une activité surprise pour tout le groupe cet après-midi via le site d'un accompagnateur-photographe du Vercors, mais qu'il vient de recevoir cet email (et un pli déposé au gîte). Il lit l'email à voix haute puis le laisse sur la table.
 - **Pourquoi ce format** :
   1. **Zéro tentation de rappeler un PNJ** : le message clôt explicitement la boîte mail et procède au remboursement.
-  2. **Zéro écran à 14h00** : l'email est lu sur papier imprimé, et **ne contient pas l'URL du site web** (juste l'adresse `ivanbeaulieu2@orange.fr`).
+  2. **Zéro écran à 14h00** : l'email est lu sur papier imprimé, et **ne contient ni l'URL du site web ni aucune adresse email** : l'expéditeur n'apparaît que par son nom (comme dans les webmails récents), pour que les joueurs ne tentent pas d'écrire à la boîte d'Ivan.
   3. **Séparation naturelle des 3 groupes** : il mentionne les 3 parcours de son père au départ du gîte (village/chambre, relevé des pièges photo à ~200 m D+, grande randonnée des crêtes).
 
 ---
 
 ## Texte à imprimer (comme un vrai email transféré / imprimé depuis Gmail ou Orange)
 
-> **De :** `ivanbeaulieu2@orange.fr`
+> **De :** Camille Beaulieu
 > **À :** Famille Bill & Monique *(réservation groupe)*
 > **Date :** Samedi 24 octobre 2026, 09:14
 > **Objet :** Annulation et remboursement de votre réservation de cet après-midi (La Chapelle-en-Vercors)
@@ -48,3 +48,11 @@
 ## Notes d'ajustement avant impression
 - *Prénom de l'enfant* : mis **Camille** (épicène, fonctionne pour fils ou fille sans ambiguïté).
 - *Paragraphes balisés « a_confirmer »* : formulation souple qui fonctionne quelle que soit la façon dont Seb et Rémi donnent leur premier indice à 14h15 (soit dans une enveloppe jointe à ce mail, soit posé sur la table à côté). Validation des descriptions par Seb et Rémi : `questions.md` #16.
+
+---
+
+## Fichier imprimable
+
+`assets/photos/site_ivan/01_lancement_email_enfant.pdf` (+ `assets/photos/site_ivan/01_lancement_email_enfant.png`) — email imprimé façon webmail, A4, sans adresse email ni URL (les joueurs ne doivent pas écrire à la boîte d'Ivan). Texte à refaire si les réponses à `questions.md` #16 changent les deux lignes `<a_confirmer>` : modifier la constante en tête de la page `/email-camille` du site (branche locale prop/almanach) et relancer l'export.
+
+Rendu généré depuis le repo `ivan-beaulieu-photos` (branche locale prop/almanach, non publiée) ; export : scripts/prop_export.mjs du repo du site.

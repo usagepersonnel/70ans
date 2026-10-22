@@ -1,4 +1,4 @@
-Ivan Beaulieu, Accompagnateur en moyenne montagne et Photographe animalier du Vercors                                                                          ivanbeaulieu2@orange.fr
+Ivan Beaulieu, Accompagnateur en moyenne montagne et Photographe animalier du Vercors
 
 tous droits réservés / copyright Ivan Beaulieu © 2025
 

@@ -40,3 +40,11 @@
 ## Prompt visuel (à fournir à l'IA avec le texte de la pièce)
 
 Rends le document suivant sous forme d'une page A4 dactylographiée, la copie archivée d'une lettre de 1931. En-tête d'archive tapé à la machine : Transcription — Fonds privé du Dr H. Brilleux, Die (lettre datée du 3 novembre 1931). Corps en police machine à écrire, interligne simple, marges larges d'époque, ruban d'encre fatigué avec lettres irrégulières et quelques lettres pâles. Papier jauni, deux pliures anciennes, une agrafe un peu rouillée en haut à gauche, un bord légèrement effrangé. Ne génère pas l'annotation manuscrite d'Ivan du bas de page : elle sera écrite au crayon après impression, donc laisse le tiers inférieur libre. Aucune illustration.
+
+---
+
+## Fichier imprimable
+
+`assets/photos/site_ivan/04_lettre_enfant_grotte_code.pdf` (+ `assets/photos/site_ivan/04_lettre_enfant_grotte_code.png`) — copie dactylographiée de 1931, tiers inférieur libre pour l'annotation au crayon. Le PDF Canva `assets/photos/site_ivan/04_lettre_enfant_grotte.pdf` est **corrompu** (octets binaires remplacés lors d'une copie ou d'un téléchargement : il ne s'affiche pas) ; à réexporter depuis Canva si on préfère cette version.
+
+Rendu généré depuis le repo `ivan-beaulieu-photos` (branche locale prop/almanach, non publiée) ; export : scripts/prop_export.mjs du repo du site.

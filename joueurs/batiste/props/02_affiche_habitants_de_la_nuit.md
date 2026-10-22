@@ -44,7 +44,6 @@
 
   Portfolio, journal d'affût & archives en ligne :
   https://ivan-beaulieu-photos.vercel.app          [ QR CODE ]
-  Contact : ivanbeaulieu2@orange.fr
 ======================================================================
 ```
 

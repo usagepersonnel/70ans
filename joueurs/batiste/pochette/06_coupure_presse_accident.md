@@ -32,3 +32,11 @@
 ## Prompt visuel (à fournir à l'IA avec le texte de la pièce)
 
 Rends le document suivant sous forme d'une coupure de presse réaliste du journal régional Le Dauphiné, édition Drôme/Vercors, dimanche 19 octobre 2025. Mise en page de presse régionale : nom du journal et date en haut, rubrique FAITS DIVERS — LA CHAPELLE-EN-VERCORS en petites capitales, grand titre serif gras sur deux lignes, chapô en gras, corps de l'article en 2 ou 3 colonnes étroites à interligne serré. Bords de découpe irréguliers au ciseau, papier journal fin grisâtre, deux pliures, un coin corné comme si la coupure avait voyagé dans une poche. Pas de photo dans la coupure, elle est purement textuelle. Ne génère pas le post-it des propriétaires : il sera écrit à la main et collé après impression, texte « Affaires retrouvées dans la chambre d'Ivan après son accident + article du Dauphiné. À garder de côté pour Camille, à son prochain passage. »
+
+---
+
+## Fichier imprimable
+
+`assets/photos/site_ivan/06_coupure_presse_accident.pdf` (+ `assets/photos/site_ivan/06_coupure_presse_accident.png`) — coupure sur A4 avec cadre de découpe pointillé : à découper aux ciseaux, plier en quatre et corner l'angle. Le post-it des propriétaires est à écrire à la main.
+
+Rendu généré depuis le repo `ivan-beaulieu-photos` (branche locale prop/almanach, non publiée) ; export : scripts/prop_export.mjs du repo du site.
