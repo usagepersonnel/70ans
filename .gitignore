@@ -7,4 +7,9 @@ joueurs/rituel/raw_sounds.wav
 joueurs/rituel/raw_sounds.wav.asd
 joueurs/rituel/voices.wav
 joueurs/rituel/voices.wav.asd
+# Copies a l'ancien emplacement pour le projet Ableton (temporaire)
+rituel/raw_sounds.wav
+rituel/raw_sounds.wav.asd
+rituel/voices.wav
+rituel/voices.wav.asd
 methode_coherence.md

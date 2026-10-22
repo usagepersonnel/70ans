@@ -24,9 +24,9 @@
 | Élément | Responsable | Reste à faire | État |
 |---|---|---|---|
 | Email de Camille (`joueurs/batiste/props/01_lancement_email_enfant.md`) | Batiste ? | imprimer | en cours (texte écrit) |
-| Affiche « Les Habitants de la nuit », 2 versions (`joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md`) | Batiste ? | imprimer ×2, vieillir, déchirer la version gîte, accrocher | en cours (texte écrit) |
+| Affiche « Les Habitants de la nuit », 2 versions (`joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md`) | Mareva | mise en forme ×2 avec QR code, vieillir, déchirer la version gîte ; accrochage vendredi (plan de mise en place) | en cours (texte écrit) |
 | 3 dossiers de parcours, un feuillet par équipe, enveloppe posée à côté de l'email (`questions.md` #16) | Batiste, Seb, Rémi | Batiste : mettre en forme, imprimer (`joueurs/batiste/props/06_dossier_parcours.md`) ; Seb et Rémi : écrire (Rémi = 1re feuille du fugitif « jointe en l'état ») | en cours (Batiste : texte écrit) |
-| Livre d'or 2011 : feuillet, photo « vue depuis la fenêtre », étiquettes d'animaux sur **toutes** les portes (`joueurs/batiste/props/03_livre_dor_2011_chambre.md`) | répartir | photo prise vendredi à l'arrivée, fabriquer les étiquettes | à faire |
+| Livre d'or 2011 : feuillet, photo « vue depuis la fenêtre », étiquettes d'animaux sur **toutes** les portes (`joueurs/batiste/props/03_livre_dor_2011_chambre.md`) | répartir ; étiquettes : Mareva | photo prise vendredi à l'arrivée ; étiquettes en cours chez Mareva | à faire |
 | Pochette d'Ivan : 7 pièces, étiquette Chouette au rabat (`joueurs/batiste/pochette/`) | Batiste | mise en forme, impression, vieillissement — aide-mémoire en 3 exemplaires (sous-groupes de ~10) — une fois les retours de l'équipe intégrés | en cours (textes v1 écrits) |
 | Vieux calendrier (`joueurs/batiste/props/05_enigme_vieux_calendrier.md`) | Batiste | imprimer, vieillir | en cours (texte écrit) |
 | Loupe, environ 2 € | répartir | acheter (1 seule : elle reste dans la pochette ; seule la clé 2 du tableau en a besoin — si l'équipe se scinde, elle va au sous-groupe du café) | à faire |
@@ -38,9 +38,9 @@
 |---|---|---|---|
 | Email de Camille | Impression A4 type webmail, plié dans l'enveloppe | `joueurs/batiste/props/01_lancement_email_enfant.md` | texte écrit |
 | 3 dossiers de parcours | Feuillet A4 chacun, style brouillon photocopié + marges au crayon | Batiste : `joueurs/batiste/props/06_dossier_parcours.md` ; Seb et Rémi à écrire | Batiste : texte écrit |
-| Affiche ×2 | A4 épais/ivoire avec QR code ; version gîte déchirée et froissée, version café intacte | `joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md` | texte écrit |
+| Affiche ×2 | A4 épais/ivoire avec QR code ; version gîte déchirée et froissée, version café intacte | `joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md` | en cours (Mareva : mise en forme, QR, vieillissement) |
 | Feuillet du livre d'or | Page type album photo (tirage 10×15 + légende + mot manuscrit) — photo prise vendredi à l'arrivée | `joueurs/batiste/props/03_livre_dor_2011_chambre.md` | à faire vendredi |
-| Étiquettes animaux des portes | Petites affichettes illustrées sur toutes les portes + étiquette Chouette collée au rabat de la pochette | `joueurs/batiste/props/03_livre_dor_2011_chambre.md` | à créer (IA ou dessin) |
+| Étiquettes animaux des portes | Petites affichettes illustrées sur toutes les portes + étiquette Chouette collée au rabat de la pochette | `joueurs/batiste/props/03_livre_dor_2011_chambre.md` | en cours (Mareva, IA ou dessin) |
 | Pochette d'Ivan | Chemise cartonnée à élastiques : 7 pièces (feuilles quadrillées perforées, photocopies, coupure Dauphiné, carte de visite de la voyante), post-it des propriétaires, étiquette Chouette ; aide-mémoire en 3 exemplaires | `joueurs/batiste/pochette/` | textes v1, à mettre en forme et vieillir |
 | Vieux calendrier | Feuillet vieilli recto-verso (almanach + note au crayon) | `joueurs/batiste/props/05_enigme_vieux_calendrier.md` | texte écrit |
 | Tableau du chasseur | Image eau-forte générée (IA) + mot `VEILLE` ajouté en corps 4-5 pt, tirage A4/A3 encadré | `joueurs/batiste/props/04_tableau_chasseur_et_loupe.md` | 2 variantes générées : `assets/photos/gravure_1.jpg` et `assets/photos/gravure_2.png` — choisir, incruster `VEILLE` sous la statuette, imprimer |
