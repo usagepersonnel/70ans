@@ -24,7 +24,7 @@
 >
 > **3. Les rues et leurs étiquettes.** Le bourg étiquette les plantes de ses massifs avec un soin de botaniste — défi à lancer aux clients : dénicher le nom de plante le plus improbable de la promenade.
 >
-> **4. Le Café-Librairie.** L'étape qui justifie la balade à elle seule : chocolat chaud, bouquins et jeux. La patronne y expose mes tirages et garde au mur l'affiche de ma conférence *« Les Habitants de la nuit »* — ainsi qu'un vieux tableau de chasse qui intrigue toujours les gens ; demandez-lui son histoire si elle a une minute.
+> **4. Le Café-Librairie.** L'étape qui justifie la balade à elle seule : chocolat chaud, bouquins et jeux. La patronne y expose mes tirages et garde au mur l'affiche de ma conférence *« Les Habitants de la nuit »* — ainsi qu'un vieux tableau de chasse qui intrigue toujours les gens ; demandez-lui son histoire si elle a une minute. *(En marge : « passer à l'office de tourisme voir si ma pub tient toujours — la refaire si elle a jauni. »)*
 >
 > **Retour.** Remonter au gîte par le même chemin (~15 min). Pour les lève-tôt : sortir tôt dimanche matin, écouter le bois au-dessus du pré — octobre, ici, est un autre monde. *(En marge : « ne pas promettre les grottes aux clients — ça, c'est pour la grande boucle. »)*
 >

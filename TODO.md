@@ -39,6 +39,7 @@
 | Email de Camille | Impression A4 type webmail, plié dans l'enveloppe | `joueurs/batiste/props/01_lancement_email_enfant.md` | texte écrit |
 | 3 dossiers de parcours | Feuillet A4 chacun, style brouillon photocopié + marges au crayon | Batiste : `joueurs/batiste/props/06_dossier_parcours.md` ; Seb et Rémi à écrire | Batiste : texte écrit |
 | Affiche ×2 | A4 épais/ivoire avec QR code ; version gîte déchirée et froissée, version café intacte | `joueurs/batiste/props/02_affiche_habitants_de_la_nuit.md` | en cours (Mareva : mise en forme, QR, vieillissement) |
+| Affiche publicitaire OT | Déclinaison de l'affiche sans date : pub d'activité (affûts, veillées), A4 intact légèrement jauni, URL + QR | `joueurs/batiste/props/07_affiche_publicitaire_ot.md` | en cours (Mareva ; l'OT accepte de l'afficher) |
 | Feuillet du livre d'or | Page type album photo (tirage 10×15 + légende + mot manuscrit) — photo prise vendredi à l'arrivée | `joueurs/batiste/props/03_livre_dor_2011_chambre.md` | à faire vendredi |
 | Étiquettes animaux des portes | Petites affichettes illustrées sur toutes les portes + étiquette Chouette collée au rabat de la pochette | `joueurs/batiste/props/03_livre_dor_2011_chambre.md` | en cours (Mareva, IA ou dessin) |
 | Pochette d'Ivan | Chemise cartonnée à élastiques : 7 pièces (feuilles quadrillées perforées, photocopies, coupure Dauphiné, carte de visite de la voyante), post-it des propriétaires, étiquette Chouette ; aide-mémoire en 3 exemplaires | `joueurs/batiste/pochette/` | textes v1, à mettre en forme et vieillir |
@@ -114,7 +115,7 @@
 | Emballage : tout ce qui part au Vercors, listé et regroupé | répartir | lister, regrouper | à faire |
 | Dry-run | tous | jalon du 23/10 | à faire |
 
-**À répartir vendredi dans le plan de mise en place** : affiche déchirée et livre d'or modifié ; étiquettes sur toutes les portes ; pochette dans la chambre ; tableau et affiche au café ; les 7 props de Rémi (1 au gîte, 6 en terrain) ; cache des masques et parcours de Seb ; la nuit : miroirs, bols et céréales, vitres des voitures ; dimanche : échange de la statuette dorée, indice de secours à 10h25 si le groupe terrain bloque, signal de début et de fin de la foule.
+**À répartir vendredi dans le plan de mise en place** : affiche déchirée et livre d'or modifié ; étiquettes sur toutes les portes ; pochette dans la chambre ; tableau et affiche au café ; affiche publicitaire à l'office de tourisme ; les 7 props de Rémi (1 au gîte, 6 en terrain) ; cache des masques et parcours de Seb ; la nuit : miroirs, bols et céréales, vitres des voitures ; dimanche : échange de la statuette dorée, indice de secours à 10h25 si le groupe terrain bloque, signal de début et de fin de la foule.
 
 **Matériel — checklist se procurer / fabriquer / apporter** (le suivi détaillé reste dans les tableaux ci-dessus et `joueurs/rituel/checklist_production.md`) :
 
