@@ -66,7 +66,7 @@ Le détail de fabrication de chaque pièce est dans `joueurs/batiste/props/`, `j
 |---|---|---|
 | Brouillons d'Ivan (todo.txt, post_v1, post_v3, perchtenlauf.txt, a_publier_apres_samedi) | `/archives` | Texte vivant en ligne, jamais papier |
 | Page « pièces » (scans) | `/archives/pieces` | **Doubles numériques** des imprimés de la pochette — cohérent : Ivan a scanné ses papiers |
-| Photo du vide-grenier (statuette levée vers la lune) | `/archives/pieces` — fichier IMG_0518.jpg dans `public/scans/` du repo du site | Numérique uniquement |
+| Photo du vide-grenier (statuette levée vers la lune) | `/archives/pieces` — fichier IMG_0518.jpg dans public/scans/ du repo du site | Numérique uniquement |
 | Carnet d'écoute | `/archives/audio` | Le carnet est en ligne ; les **vrais clips audio sont sur la clé USB**, hors site |
 | Page disparitions | `/archives/disparitions` | En ligne |
 | Formulaire de contact | `/contact` | Renvoie « Erreur 410 — service désactivé » (lore : Camille l'a tué) |
