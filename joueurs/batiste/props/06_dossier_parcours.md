@@ -4,7 +4,7 @@
 
 - **Quand** : remis samedi vers 14h05 dans l'enveloppe posée à côté de l'email de Camille (`joueurs/batiste/props/01_lancement_email_enfant.md`), en même temps que les dossiers des deux autres équipes. C'est **le premier indice de l'arc de Batiste**.
 - **Forme** : un feuillet A4 — la photocopie du brouillon de travail d'Ivan (tapuscrit, marges annotées au crayon). Camille a photocopié ses dossiers de préparation « en l'état », sans relire les marges.
-- **Ce que ça débloque** : sans jamais parler d'énigme, le feuillet envoie naturellement les joueurs sur **tous les lieux de la boucle village** — livre d'or du gîte (→ chambre → pochette), café-librairie (URL), office du tourisme (clé 1), fontaine (clé 2), plantes étiquetées (clé 3), église + cimetière (clé 4).
+- **Ce que ça débloque** : sans jamais parler d'énigme, le feuillet envoie naturellement les joueurs sur **tous les lieux de la boucle village** — livre d'or du gîte (→ chambre → pochette), café-librairie (URL), office du tourisme (clé 1), fontaine (clé 2), plantes étiquetées (clé 3), église (clé 4), cimetière (clé 5).
 
 ---
 
@@ -20,7 +20,7 @@
 >
 > **1. La fontaine aux ours.** Le rendez-vous des gamins du bourg depuis toujours : grand bassin de pierre, ours sculptés et vieille plaque émaillée bleue. Contre-plongée sympa sur les ours quand la lumière est douce.
 >
-> **2. L'église et le cimetière.** Entrer cinq minutes dans l'église : les vitraux méritent le détour — dont un saint Pierre qui serre ses clefs contre lui. À côté, le vieux cimetière : tombes patinées, certaines sans nom, belle lumière rasante en fin d'après-midi. On y reste discret, c'est le lieu de mémoire du village. *(En marge : « les vitraux racontent des histoires à qui sait les lire ».)*
+> **2. L'église et le cimetière.** Entrer cinq minutes dans l'église : les vitraux méritent le détour — dont un saint Pierre monumental, à regarder jusqu'en bas. À côté, le vieux cimetière : tombes patinées, certaines sans nom, belle lumière rasante en fin d'après-midi. On y reste discret, c'est le lieu de mémoire du village. *(En marge : « les vitraux racontent des histoires à qui sait les lire ».)*
 >
 > **3. Les rues et leurs étiquettes.** Le bourg étiquette les plantes de ses massifs avec un soin de botaniste — défi à lancer aux clients : dénicher le nom de plante le plus improbable de la promenade.
 >
@@ -36,8 +36,8 @@
 
 ## Notes de design
 
-- **Aucune clé n'est nommée** : les arrêts couvrent les 4 sources de clés sans les désigner. C'est l'aide-mémoire de la pochette (`joueurs/batiste/pochette/01_notes_ivan_et_aide_memoire.md`, trouvée à 14h45) qui transforme ces lieux en énigmes — le feuillet ne fait que garantir que les joueurs passent devant.
-- **L'étape église est gratuite** (à ~10 m du café, sur le chemin du cimetière) : les vitraux ne portent aucune clé — saint Pierre aux clefs est un clin d'œil au portail du site, et le vitrail de la conversion de saint Paul (« pourquoi me persécutes-tu ») gagnera son sens à la relecture du dimanche. Pas de mécanique ajoutée.
+- **Aucune clé n'est nommée** : les arrêts couvrent les 5 sources de clés sans les désigner. C'est l'aide-mémoire de la pochette (`joueurs/batiste/pochette/01_notes_ivan_et_aide_memoire.md`, trouvée à 14h45) qui transforme ces lieux en énigmes — le feuillet ne fait que garantir que les joueurs passent devant.
+- **L'étape église porte la clé 4** (à ~10 m du café, sur le chemin du cimetière) : le vitrail de saint Pierre donne « les clefs du royaume du ciel » (décision 23/10) — le Saint-Paul voisin (« pourquoi me persécutes-tu ») reste sans clé et gagnera son sens à la relecture du dimanche.
 - **Le livre d'or en « étape 0 »** amorce la piste chambre (avec `joueurs/batiste/props/03_livre_dor_2011_chambre.md`) : les joueurs qui ont lu l'email font eux-mêmes le lien « livre d'or → quelle chambre → pochette ».
 - **Timing** : « 1 h – 1 h 15 » annoncé cale le retour au gîte vers 16 h 15, cohérent avec `design/enigmes.md` §B3–B4.
 - La mention des **grottes** en marge sert la cohérence avec les dossiers des autres équipes (Ivan préparait aussi la grande boucle), sans envoyer l'équipe de Batiste sur le terrain.

@@ -4,7 +4,7 @@
 
 - **Bonus diegétique, aucune clé attachée** : l'affiche publicitaire « pro » qu'Ivan aurait fait déposer à l'office de tourisme du village — ce qu'un accompagnateur local fait réellement. Elle épaissit le personnage (un vrai acteur du bourg, visible partout) sans ajouter de mécanique.
 - **Émotion** : l'OT expose encore la pub d'un homme mort depuis un an — personne ne l'a dépunaissée. Ça dit le village qui l'aimait.
-- **Filet de sécurité** : l'URL et le QR y sont lisibles (une vraie pub les aurait). Si les joueurs la repèrent avant le café, rien ne casse — le site sans les 4 clés n'est qu'un portfolio.
+- **Filet de sécurité** : l'URL et le QR y sont lisibles (une vraie pub les aurait). Si les joueurs la repèrent avant le café, rien ne casse — le site sans les 5 clés n'est qu'un portfolio.
 - **Accord** : l'office de tourisme accepte de l'afficher (Mareva, 22/10).
 
 ---

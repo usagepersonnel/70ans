@@ -147,7 +147,7 @@ Ivan : enquête sur les cultistes. Objectif : réunir des infos sur ce qu’il s
 **Activités du samedi** :
 - Identifier puis fouiller la chambre d'Ivan au gîte (livre d'or 2011 + pochette d'Ivan + loupe)
 - Boucle village : café-librairie (affiche intacte), office du tourisme (tableau du chasseur à la loupe), fontaine, plantes, église, cimetière
-- Consulter le site web d'Ivan au gîte (partie publique + zone secrète déverrouillée par les 4 clés)
+- Consulter le site web d'Ivan au gîte (partie publique + zone secrète déverrouillée par les 5 clés)
 
 ### Équipe sportive (Seb) — équipe des moyens
 
@@ -201,7 +201,7 @@ Les joueurs vont faire appel à une voyante, qui leur donne un indice énigmatiq
 
 - Créé par Ivan Beaulieu
 - **Partie publique** : photos animalières qui virent vers la théorie du complot (consultée samedi en fin d'après-midi)
-- **Partie secrète** (`/archives`) : déverrouillée dès le samedi par les 4 clés de l'aide-mémoire de la pochette d'Ivan — ses contenus (sons, cartes) n'ont de sens que dimanche
+- **Partie secrète** (`/archives`) : déverrouillée dès le samedi par les 5 clés de l'aide-mémoire de la pochette d'Ivan — ses contenus (sons, cartes) n'ont de sens que dimanche
 
 ## Objectifs communs aux trois équipes [TODO: affiner]
 

@@ -74,7 +74,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ❓ **Lien du photographe avec les cultistes** — Son rôle auprès des Perchtenlauf et ce qu'il a découvert restent à préciser.
 - ✅ **Pas de PNJ enfant d'Ivan** — Validé en équipe : on se passe du PNJ pour l'instant. Son rôle (infodump + code de la partie secrète du site) passe par la pochette d'Ivan trouvée dans sa chambre le samedi. Le pèlerinage annuel est abandonné — réversible si un volontaire se déclare. Nuance (19/10, Batiste + Mareva) : un **message unique** de l'enfant d'Ivan (email imprimé ou appel : commande annulée, père décédé il y a un an, remboursement) lance le jeu — aucune réponse possible, ce n'est pas un PNJ.
 - ✅ **Ivan, habitué du gîte** — (19/10) il séjournait au gîte au changement d'heure chaque année depuis 2011 (livre d'or 2011). Le café-librairie expose ses tirages.
-- ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par le photographe. Partie publique + partie secrète (`/archives`) déverrouillée **dès le samedi** par les 4 clés de l'aide-mémoire de la pochette d'Ivan (fouille du samedi) — les contenus secrets n'ont de sens que dimanche.
+- ✅ **Le mot de passe du site web** — **Résolu** : Le site a été créé par le photographe. Partie publique + partie secrète (`/archives`) déverrouillée **dès le samedi** par les 5 clés de l'aide-mémoire de la pochette d'Ivan (fouille du samedi) — les contenus secrets n'ont de sens que dimanche.
 
 ## Pourquoi la statuette est avec les objets ? Et pourquoi les perchtenlaufs ne prennent pas les objets ? [Décision du 19/07]
 
@@ -95,7 +95,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 
 ## Le site web
 
-- ✅ **Qui l'a créé ?** — **Résolu** : Ivan Beaulieu. Structure en deux parties : publique (photos animalières → théorie du complot) et secrète (`/archives`, sous 4 clés).
+- ✅ **Qui l'a créé ?** — **Résolu** : Ivan Beaulieu. Structure en deux parties : publique (photos animalières → théorie du complot) et secrète (`/archives`, sous 5 clés).
 - ✅ **Évolution du contenu** — **Résolu** : Narration volontaire d'Ivan, pas une infection progressive.
 - ✅ **Quel est le lien avec les énigmes ?** — **Résolu** : Le site est consulté par l'équipe Batiste le samedi au gîte (publique + zone secrète déverrouillée). La partie secrète donne les briques qui prennent sens dimanche (bandes audio, photos horodatées). Vecteur pendant le jeu, pas seulement teaser.
 

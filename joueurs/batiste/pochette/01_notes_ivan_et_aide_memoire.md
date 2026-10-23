@@ -1,4 +1,4 @@
-# Pièce 1 — Feuillets mobiles d'Ivan (Synthèse & Aide-mémoire des 4 clés)
+# Pièce 1 — Feuillets mobiles d'Ivan (Synthèse & Aide-mémoire des 5 clés)
 
 *(Deux feuilles mobiles perforées — comme celles qui tombent d'un classeur ou d'un carnet à anneaux qu'Ivan a emporté avec lui — rangées en vrac dans sa chemise cartonnée à élastiques. Sur l'intérieur du rabat de la chemise est collée **l'étiquette de la Chouette** qu'il avait décollée de sa porte en 2011.)*
 
@@ -44,11 +44,12 @@
 >
 > Je ne laisserai pas mes clichés nocturnes et mes bandes sonores en pâture aux curieux ou aux plaisantins. En rentrant ce soir, j'ai tout déplacé dans l'espace **`🔒 Archives`** de mon site *(l'adresse complète est en bas de mon affiche restée au Café-Librairie)*.
 >
-> Comme ma mémoire me joue parfois des tours — et pour le cas où quelqu'un de sérieux reprendrait mes notes sur place après moi — j'ai verrouillé l'accès avec **quatre clés prises ici même, dans le bourg**. Pas moyen de les deviner depuis Paris ou Grenoble ; il faut avoir mis les bottes à La Chapelle :
+> Comme ma mémoire me joue parfois des tours — et pour le cas où quelqu'un de sérieux reprendrait mes notes sur place après moi — j'ai verrouillé l'accès avec **cinq clés prises ici même, dans le bourg**. Pas moyen de les deviner depuis Paris ou Grenoble ; il faut avoir mis les bottes à La Chapelle :
 >
 > - **Clé n°1 — Tableau du chasseur (à l'office du tourisme) :** regarder la toile de très près **avec ma loupe** (sur la pierre du rocher, sous la statuette) — le peintre y a dissimulé **un mot minuscule**.
 > - **Clé n°2 — Fontaine à l'ours :** relever **les deux dates** de la plaque émaillée de la vieille fontaine aux ours du village.
 > - **Clé n°3 — Botanique des rues :** relever le nom de **la plante étiquetée dans le village qui évoque la bête cornue** — cherchez du côté du monument aux fusillés.
-> - **Clé n°4 — Cimetière du bourg :** aller voir la tombe du notable du procès médiéval (*pièce A*) et constater **ce qui y est inscrit aujourd'hui**.
+> - **Clé n°4 — Église du bourg :** devant le vitrail de saint Pierre, relever **ce qu'on promet de lui remettre**. *(Une clé qui en ouvre d'autres — je n'ai pas résisté.)*
+> - **Clé n°5 — Cimetière du bourg :** aller voir la tombe du notable du procès médiéval (*pièce A*) et constater **ce qui y est inscrit aujourd'hui**.
 >
 > *(Je remonte demain soir au col relever le piège n°1 avec mon carnet. Je laisse cette pochette et ma loupe d'atelier ici — ne pas oublier de prendre la loupe avant de descendre au bourg.)*

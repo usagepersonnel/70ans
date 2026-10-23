@@ -134,5 +134,5 @@
 
 ## Fait
 
-- Site : spec (`ivan-beaulieu-photos/SPEC.md`), v1 en ligne (façade, journal, conférence, gate à 4 clés), mot caché `VEILLE` retenu.
+- Site : spec (`ivan-beaulieu-photos/SPEC.md`), v1 en ligne (façade, journal, conférence, gate à 5 clés), mot caché `VEILLE` retenu.
 - Textes écrits : pochette d'Ivan (7 pièces), 5 props du lancement et de l'arc de Batiste, email, affiche.
