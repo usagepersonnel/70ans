@@ -14,6 +14,7 @@
 ## Lore et props
 
 21. **Voix de la forêt** : position de Rémi (21/10) — elles dictent au fugitif de briser la statuette **selon un rituel précis** (cohérent avec les feuilles et la scène de 17h30 ; consigné dans `lore/lore_precisions.md`, section « La nature du Triangle du Vercors »). Reste à trancher leur nature : échos du passé, récit non fiable, ou les deux — avis de @Seb ?
+26. **Disparitions de personnes** : position de Batiste (23/10) — le maléfice ne ferait disparaître que des **objets** ; les personnes disparues (berger 1886, randonneurs 1952, chamoisarde 1998) auraient d'autres causes, qu'Ivan et les gens de l'époque mettent sur le dos des Perchten. À valider en équipe — consigné dans `lore/lore_precisions.md`, section « La durée du cycle ».
 
 ## Assets et sources
 

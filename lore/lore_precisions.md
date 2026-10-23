@@ -12,6 +12,7 @@ Les questions de game design (répartition des équipes, déroulement, mécaniqu
 - ✅ **Durée** — Les cycles durent **140 ans**.
 - ✅ **Fonction du rituel** — À la fin d'un cycle, un rituel peut apaiser le maléfice ou éventuellement le briser définitivement.
 - ✅ **Échec du rituel** — Un rituel raté ou non réalisé entraîne 140 ans de chaos dans le Vercors, avec des disparitions régulières d'objets et de personnes.
+- ❓ **Disparitions : objets seulement ?** — Position de Batiste (23/10, à valider en équipe, `questions.md` #26) : le maléfice ne ferait disparaître que des **objets** ; les disparitions de personnes relèveraient d'autres causes (accident, montagne, guerre) mais restent assez inexpliquées pour qu'Ivan — et les gens d'avant — les mettent sur le dos des Perchten. Si retenu, corriger la formulation « d'objets et de personnes » ci-dessus.
 - ✅ **Réussite partielle** — Le cas habituel : les effets sont fortement réduits, mais des objets peuvent encore disparaître ponctuellement, à n'importe quel moment du cycle.
 - ✅ **Événement d'il y a 140 ans** — Le rituel précédent a été partiellement réussi, ce qui explique les disparitions ponctuelles pendant le cycle actuel.
 - ✅ **Accélération des phénomènes** — À l'approche de la fin du cycle, le maléfice « déborde » naturellement : les phénomènes s'intensifient dans les mois précédant l'échéance.
