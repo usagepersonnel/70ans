@@ -8,7 +8,9 @@ Le détail de fabrication de chaque pièce est dans `joueurs/batiste/props/`, `j
 
 ---
 
-## 1. À imprimer — fichiers prêts dans `assets/photos/site_ivan/`
+## 1. À imprimer — fichiers prêts dans `aimprimer/`
+
+**Imprimer depuis `aimprimer/`** : versions fond blanc économes en encre (les versions « écran » dans `assets/photos/site_ivan/` servent de scans pour le site d'Ivan). Chemins ci-dessous = `site_ivan` pour référence ; le même nom existe en version blanche dans `aimprimer/`.
 
 | Fichier | Pièce | Ex. | Travail à la main après impression | Placement |
 |---|---|---|---|---|
