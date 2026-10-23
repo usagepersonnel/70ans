@@ -69,7 +69,7 @@
 | 3 masques et compléments de costumes | Mareva | finitions | en cours |
 | 12 objets sonores avec marquage animal et droite/gauche | Mareva | réunir, fixer, renseigner la table de `joueurs/rituel/partition_et_sons.md` | à faire |
 | 3 clips audio `00_03`, `06_12`, `18_47` | Mareva (enregistrements), Batiste (montage) | montage, puis sur **clé USB** trouvée dimanche matin + copie papier du carnet d'écoute | en cours |
-| 3 photos de pièges horodatées, avec les masques | répartir | shooter | à faire |
+| 3 photos de pièges horodatées, avec les masques | répartir | shooter, puis déposer les fichiers piege-0003.jpg, piege-0612.jpg et piege-1847.jpg dans le dossier public/images du repo `ivan-beaulieu-photos` (liens déjà en place — cassés tant que les fichiers manquent, c'est voulu : « erreur d'Ivan ») | à faire |
 | Lecteur audio, enceinte, **clé USB avec les 3 clips**, copie locale des fichiers | Batiste | préparer | à faire |
 | Statuette ancienne : finition et message au « je » (`joueurs/rituel/checklist_production.md`) | Mareva | creuse et légère, sombre à reflets (`lore/lore.md`) ; texte du message | en cours |
 | Kit de la nouvelle statuette : pièces de Napoléon en 3D, bobine de fil de 40 à 50 m, environ 40 bandelettes et stylos, matériaux des 8 éléments | Seb (pièces) | réunir | à faire |
