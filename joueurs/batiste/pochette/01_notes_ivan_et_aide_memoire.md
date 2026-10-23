@@ -30,7 +30,7 @@
 >
 > 1. **Ils sont trois.** Un à tête d'oiseau de nuit (*voir le rapport allemand de 1944*), un à tête de loup (*voir l'article de 1894*), et un troisième qui tient les hauteurs, cornu comme un vieux bouc ou un bouquetin.
 > 2. **Des choses et des gens disparaissent** dans le triangle qu'ils arpentent depuis des siècles : le cadeau diplomatique du Moyen Âge (*pièce A*), les objets de la grotte dorée décrite par l'enfant (*pièce B*), et combien de promeneurs égarés ?
-> 3. **Ils se relaient autour d'un objet.** Le vieux tableau accroché au Café-Librairie montre la scène : une figure masquée sur un rocher, entourée de loups, veillant sur une **statuette** posée devant elle. La dame que j'ai consultée à Die (*pièce C*) a vu la même chose sans que je lui en parle : *« une figurine qu'on garde dans le noir — tant qu'elle est entière, cela recommencera »*.
+> 3. **Ils se relaient autour d'un objet.** Le vieux tableau accroché à l'office du tourisme montre la scène : une figure masquée sur un rocher, entourée de loups, veillant sur une **statuette** posée devant elle. La dame que j'ai consultée à Die (*pièce C*) a vu la même chose sans que je lui en parle : *« une figurine qu'on garde dans le noir — tant qu'elle est entière, cela recommencera »*.
 >
 > Je ne suis pas superstitieux, mais les faits sont têtus : ces silhouettes gardent quelque chose dans la montagne, et le phénomène s'amplifie d'année en année. Si le cycle de 140 ans arrive à son terme à l'automne 2026 comme tout l'indique, **il faudra trouver cet objet et le mettre hors d'état de nuire** avant la nuit du changement d'heure.
 
@@ -46,9 +46,9 @@
 >
 > Comme ma mémoire me joue parfois des tours — et pour le cas où quelqu'un de sérieux reprendrait mes notes sur place après moi — j'ai verrouillé l'accès avec **quatre clés prises ici même, dans le bourg**. Pas moyen de les deviner depuis Paris ou Grenoble ; il faut avoir mis les bottes à La Chapelle :
 >
-> - **Clé n°1 — Fontaine à l'ours :** relever **les deux dates** de la plaque émaillée de la vieille fontaine aux ours du village.
-> - **Clé n°2 — Tableau du chasseur (au Café-Librairie) :** regarder la toile de très près **avec ma loupe** (sur la pierre du rocher, sous la statuette) — le peintre y a dissimulé **un mot minuscule**.
-> - **Clé n°3 — Cimetière du bourg :** aller voir la tombe du notable du procès médiéval (*pièce A*) et constater **ce qui y est inscrit aujourd'hui**.
-> - **Clé n°4 — Botanique des rues :** relever le nom de **la plante étiquetée dans le village qui évoque la bête cornue**.
+> - **Clé n°1 — Tableau du chasseur (à l'office du tourisme) :** regarder la toile de très près **avec ma loupe** (sur la pierre du rocher, sous la statuette) — le peintre y a dissimulé **un mot minuscule**.
+> - **Clé n°2 — Fontaine à l'ours :** relever **les deux dates** de la plaque émaillée de la vieille fontaine aux ours du village.
+> - **Clé n°3 — Botanique des rues :** relever le nom de **la plante étiquetée dans le village qui évoque la bête cornue** — cherchez du côté du monument aux fusillés.
+> - **Clé n°4 — Cimetière du bourg :** aller voir la tombe du notable du procès médiéval (*pièce A*) et constater **ce qui y est inscrit aujourd'hui**.
 >
 > *(Je remonte demain soir au col relever le piège n°1 avec mon carnet. Je laisse cette pochette et ma loupe d'atelier ici — ne pas oublier de prendre la loupe avant de descendre au café.)*

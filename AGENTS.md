@@ -73,7 +73,7 @@ Règles :
 
 ## Points de vigilance (repo du site `ivan-beaulieu-photos`)
 
-- **Branche prop/almanach** : branche **locale uniquement**, qui porte les pages de props imprimables (`src/pages/almanach.astro`, `src/pages/dossier-parcours.astro`, et les suivantes). **Ne jamais la pousser ni la fusionner dans `main`** (le merge déploierait ces pages sur le site public). Avant de reprendre le travail normal du site, revenir sur `main` (`git switch main`) et partir de là pour toute nouvelle branche ; vérifier la branche courante avant tout commit sur le site.
+- **Branche prop/almanach** : branche **locale uniquement**, qui porte les pages de props imprimables du site (almanach, dossier-parcours et les suivantes, dans `src/pages/` du repo voisin). **Ne jamais la pousser ni la fusionner dans `main`** (le merge déploierait ces pages sur le site public). Avant de reprendre le travail normal du site, revenir sur `main` (`git switch main`) et partir de là pour toute nouvelle branche ; vérifier la branche courante avant tout commit sur le site.
 - Les fichiers imprimables produits (PDF/PNG) se déposent dans `assets/photos/site_ivan/`, avec une section « Fichier imprimable » dans le doc du prop.
 
 ## 🧭 Conventions de nommage
