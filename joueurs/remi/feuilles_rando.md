@@ -51,7 +51,7 @@ Corne à poudre, Gourde en peau
 
 ### Stockage du message
 
-Dans le cryptex dont le code alphabétique se trouve dans la plaine de fauchier. Contient la page et la carte de Cassini
+Dans le cryptex dont le code alphabétique est prononcé par une voix fantomatique dans la plaine de fauchier.
 
 ### Texte
 
@@ -116,11 +116,6 @@ Sacoche en cuir accrochée dans la cabane. Elle contient un vieux livre dont la 
 
 ## Scialet Royer ➜ Refuge de Crobache
 
-### Indices du lieu
-
-- Stockage sac/d'outils
-- Au contraire, il n'a pas réussi à récupérer son sac sinon cela signifie qu'il ne serait plus là
-
 ### Stockage du message
 
 Dans un crane en résine
@@ -149,9 +144,6 @@ Dans un crane en résine
 
 ### Indices du lieu
 - Royer : Aérer la terre en y creusant des sillons.
-
-### Indice sur place
-- Squelette du fuyard
 
 ### Stockage du message
 
