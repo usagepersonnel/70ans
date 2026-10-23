@@ -5,7 +5,7 @@
   1. qu'Ivan a donné une conférence intitulée **« Les Habitants de la nuit »** le vendredi 17 octobre 2025 (la veille de sa mort !) ;
   2. qu'elle avait lieu au **Café-Librairie de La Chapelle-en-Vercors** ;
   3. qu'il avait un **site web / portfolio en ligne** dont l'adresse figurait en bas de l'affiche.
-- **Version 2 (Café-Librairie, 15h30)** : Exactement la même affiche, **intacte**, conservée au mur par la commerçante parce qu'elle appréciait Ivan. Le bandeau du bas est complet et donne l'URL `ivan-beaulieu-photos.vercel.app` + un QR code. **Décision 23/10** : le bandeau mentionne aussi « plus d'infos à l'office du tourisme » — il aiguille les joueurs vers l'OT où sont accrochés le tableau du chasseur et une autre affiche (`joueurs/batiste/props/07_affiche_publicitaire_ot.md`).
+- **Version 2 (Café-Librairie, 15h30)** : Exactement la même affiche, **intacte**, conservée au mur par la commerçante parce qu'elle appréciait Ivan. Le bandeau du bas est complet et donne l'URL `ivan-beaulieu-photos.vercel.app` + un QR code. **Décision 23/10** : sur l'exemplaire du café, une mention **écrite à la main** « plus d'infos à l'office du tourisme » — comme si la gérante, lassée des questions sur Ivan, renvoyait vers l'OT. Elle aiguille les joueurs vers l'OT où sont accrochés le tableau du chasseur et une autre affiche (`joueurs/batiste/props/07_affiche_publicitaire_ot.md`). Pas besoin de la prévoir à l'impression.
 
 ---
 
@@ -44,7 +44,6 @@
 
   Portfolio, journal d'affût & archives en ligne :
   https://ivan-beaulieu-photos.vercel.app          [ QR CODE ]
-  Plus d'infos auprès de l'office du tourisme du village
 ======================================================================
 ```
 
@@ -52,5 +51,5 @@
 
 ## Instructions de fabrication (quand on passera à la forme)
 1. Imprimer **deux exemplaires** sur papier A4 un peu épais (ou ivoire).
-2. **Exemplaire Café-Librairie** : le laisser intact (avec le vrai nom du commerce (renseigné — non écrit dans le dépôt, qui est public), et le QR code pointant vers `https://ivan-beaulieu-photos.vercel.app`).
+2. **Exemplaire Café-Librairie** : le laisser intact (avec le vrai nom du commerce (renseigné — non écrit dans le dépôt, qui est public), et le QR code pointant vers `https://ivan-beaulieu-photos.vercel.app`), puis ajouter **au feutre** en bas « plus d'infos à l'office du tourisme » (écriture de la gérante, voir « Rôle dans le jeu »).
 3. **Exemplaire Gîte** : arracher à la main le tiers inférieur en biais de façon à ce qu'on lise encore `Portfolio, journal d'affût & archives en ligne : https://ivan-b...` mais que la fin de l'URL et le QR code aient disparu. Froisser légèrement et punaiser au gîte avant le déjeuner du samedi.
