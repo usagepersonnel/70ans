@@ -29,8 +29,8 @@
 | Livre d'or 2011 : feuillet, photo « vue depuis la fenêtre », étiquettes d'animaux sur **toutes** les portes (`joueurs/batiste/props/03_livre_dor_2011_chambre.md`) | répartir ; étiquettes : Mareva | photo prise vendredi à l'arrivée ; étiquettes en cours chez Mareva | à faire |
 | Pochette d'Ivan : 7 pièces, étiquette Chouette au rabat (`joueurs/batiste/pochette/`) | Batiste | mise en forme, impression, vieillissement — aide-mémoire en 3 exemplaires (sous-groupes de ~10) — une fois les retours de l'équipe intégrés | en cours (textes v1 écrits) |
 | Vieux calendrier (`joueurs/batiste/props/05_enigme_vieux_calendrier.md`) | Batiste | imprimer, vieillir | en cours (rendu PDF dispo) |
-| Loupe, environ 2 € | répartir | acheter (1 seule : elle reste dans la pochette ; seule la clé 2 du tableau en a besoin — si l'équipe se scinde, elle va au sous-groupe du café) | à faire |
-| Tableau du chasseur : image avec `VEILLE` en corps 4-5 pt, et tirages d'Ivan à exposer au café (`joueurs/batiste/props/04_tableau_chasseur_et_loupe.md`) | répartir | créer l'image, imprimer ; accord du café à compléter pour les tirages | à faire |
+| Loupe, environ 2 € | répartir | acheter (1 seule : elle reste dans la pochette ; seule la clé 1 du tableau en a besoin — si l'équipe se scinde, elle va au sous-groupe de l'office du tourisme) | à faire |
+| Tableau du chasseur : image avec `VEILLE` en corps 4-5 pt, à accrocher à l'office du tourisme le samedi matin ; et tirages d'Ivan à exposer au café (`joueurs/batiste/props/04_tableau_chasseur_et_loupe.md`) | répartir | créer l'image, imprimer ; accord du café à compléter pour les tirages ; OT ouvert samedi (confirmé 23/10) | à faire |
 
 **Assets et props à réaliser (textes → objets)** — pour chacun : arrêter la forme, fabriquer (IA ou main), imprimer, vieillir si besoin.
 

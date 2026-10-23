@@ -51,4 +51,4 @@
 > - **Clé n°3 — Botanique des rues :** relever le nom de **la plante étiquetée dans le village qui évoque la bête cornue** — cherchez du côté du monument aux fusillés.
 > - **Clé n°4 — Cimetière du bourg :** aller voir la tombe du notable du procès médiéval (*pièce A*) et constater **ce qui y est inscrit aujourd'hui**.
 >
-> *(Je remonte demain soir au col relever le piège n°1 avec mon carnet. Je laisse cette pochette et ma loupe d'atelier ici — ne pas oublier de prendre la loupe avant de descendre au café.)*
+> *(Je remonte demain soir au col relever le piège n°1 avec mon carnet. Je laisse cette pochette et ma loupe d'atelier ici — ne pas oublier de prendre la loupe avant de descendre au bourg.)*

@@ -4,7 +4,7 @@
 
 - **Quand** : remis samedi vers 14h05 dans l'enveloppe posée à côté de l'email de Camille (`joueurs/batiste/props/01_lancement_email_enfant.md`), en même temps que les dossiers des deux autres équipes. C'est **le premier indice de l'arc de Batiste**.
 - **Forme** : un feuillet A4 — la photocopie du brouillon de travail d'Ivan (tapuscrit, marges annotées au crayon). Camille a photocopié ses dossiers de préparation « en l'état », sans relire les marges.
-- **Ce que ça débloque** : sans jamais parler d'énigme, le feuillet envoie naturellement les joueurs sur **tous les lieux de la boucle village** — livre d'or du gîte (→ chambre → pochette), fontaine (clé 1), église + cimetière (clé 3), plantes étiquetées (clé 4), café-librairie (URL + clé 2).
+- **Ce que ça débloque** : sans jamais parler d'énigme, le feuillet envoie naturellement les joueurs sur **tous les lieux de la boucle village** — livre d'or du gîte (→ chambre → pochette), café-librairie (URL), office du tourisme (clé 1), fontaine (clé 2), plantes étiquetées (clé 3), église + cimetière (clé 4).
 
 ---
 
@@ -24,7 +24,7 @@
 >
 > **3. Les rues et leurs étiquettes.** Le bourg étiquette les plantes de ses massifs avec un soin de botaniste — défi à lancer aux clients : dénicher le nom de plante le plus improbable de la promenade.
 >
-> **4. Le Café-Librairie.** L'étape qui justifie la balade à elle seule : chocolat chaud, bouquins et jeux. La patronne y expose mes tirages et garde au mur l'affiche de ma conférence *« Les Habitants de la nuit »* — ainsi qu'un vieux tableau de chasse qui intrigue toujours les gens ; demandez-lui son histoire si elle a une minute. *(En marge : « passer à l'office de tourisme voir si ma pub tient toujours — la refaire si elle a jauni. »)*
+> **4. Le Café-Librairie.** L'étape qui justifie la balade à elle seule : chocolat chaud, bouquins et jeux. La patronne y expose mes tirages et garde au mur l'affiche de ma conférence *« Les Habitants de la nuit »*. *(En marge : « passer à l'office de tourisme voir si ma pub tient toujours — et leur vieux tableau de chasse, il intrigue toujours les gens. »)*
 >
 > **Retour.** Remonter au gîte par le même chemin (~15 min). Pour les lève-tôt : sortir tôt dimanche matin, écouter le bois au-dessus du pré — octobre, ici, est un autre monde. *(En marge : « ne pas promettre les grottes aux clients — ça, c'est pour la grande boucle. »)*
 >

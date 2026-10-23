@@ -31,9 +31,10 @@ Fil narratif : l'équipe **rejoue l'enquête d'Ivan**. Il a tout documenté avan
 
 **15h15–16h15 — Boucle village**
 
-- Café/librairie : **l'affiche intacte** de la conférence *« Les Habitants de la nuit »* (qui donne enfin l'**URL complète du site d'Ivan** + QR code), ses tirages exposés, et le **tableau du chasseur** — 💡 interaction sobre privilégiée (`joueurs/batiste/props/04_tableau_chasseur_et_loupe.md` : le tableau est visible en libre-service, la commerçante peut raconter son histoire si sollicitée) ; l'option « énigme ou service à rendre » reste possible si le commerçant joue le jeu.
+- Café/librairie : **l'affiche intacte** de la conférence *« Les Habitants de la nuit »* (qui donne enfin l'**URL complète du site d'Ivan** + QR code) et ses tirages exposés — l'affiche aiguille vers l'office du tourisme.
+- Office du tourisme (ouvert le samedi, confirmé par Mareva le 23/10 ; Batiste y accroche le tableau le matin) : **le tableau du chasseur** (`joueurs/batiste/props/04_tableau_chasseur_et_loupe.md`) + une autre affiche.
 - Cimetière : identifier **la tombe sans inscription** → la relie au procès du notable (la vraie tombe devient la preuve physique du document). ✅ Visite du cimetière pendant le jeu validée en équipe (11/10, jugée respectueuse).
-- Fontaine à statues d'ours, dates gravées 1894-1994 : clé 1 du site. Ce n'est **pas** la « source » du fugitif (une source en montagne, précisé le 21/10) ; les dates gravées peuvent alimenter l'énigme du vieux calendrier.
+- Fontaine à statues d'ours, dates gravées 1894-1994 : clé 2 du site. Ce n'est **pas** la « source » du fugitif (une source en montagne, précisé le 21/10) ; les dates gravées peuvent alimenter l'énigme du vieux calendrier.
 - Plantes nommées du village (« Barbe de bouc »…) : repérage utile pour les ingrédients de la nouvelle statuette le dimanche.
 
 **16h15–17h15 — Recoupements au gîte**
@@ -105,8 +106,8 @@ Les trois groupes doivent ensuite réunir leurs résultats pour réaliser le rit
 
 ### Questions
 
-- ✅ **Mappé** : tous les documents d'Ivan sont dans sa pochette (arc de Batiste, samedi) ; le tableau et l'affiche intacte sont au café-librairie ; les amorces des arcs Seb/Rémi se trouvent au gîte au lancement.
-- ✅ Le tableau est chez le café/librairie du village — accord du commerçant obtenu (visite terrain). C'est aussi un possible point de chute pour l'équipe Batiste.
+- ✅ **Mappé** : tous les documents d'Ivan sont dans sa pochette (arc de Batiste, samedi) ; l'affiche intacte est au café-librairie, le tableau à l'office du tourisme ; les amorces des arcs Seb/Rémi se trouvent au gîte au lancement.
+- ✅ Le tableau est à l'office du tourisme — ouvert le samedi, confirmé par Mareva le 23/10 ; Batiste l'y accroche le matin. Le café/librairie reste un partenaire (affiche, tirages) et un possible point de chute pour l'équipe Batiste.
 - ✅ **Voyante = document** — pas de lieu ni d'acteur nécessaire au village ; la transcription de séance dans la pochette d'Ivan remplit la même fonction (cf. `joueurs/batiste/pochette/05_transcription_voyante.md`).
 
 ## Mécaniques d'énigmes identifiées

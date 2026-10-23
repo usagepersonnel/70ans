@@ -146,7 +146,7 @@ Ivan : enquête sur les cultistes. Objectif : réunir des infos sur ce qu’il s
 
 **Activités du samedi** :
 - Identifier puis fouiller la chambre d'Ivan au gîte (livre d'or 2011 + pochette d'Ivan + loupe)
-- Boucle village : café-librairie (affiche intacte, tableau du chasseur à la loupe), cimetière, fontaine, plantes
+- Boucle village : café-librairie (affiche intacte), office du tourisme (tableau du chasseur à la loupe), fontaine, plantes, église, cimetière
 - Consulter le site web d'Ivan au gîte (partie publique + zone secrète déverrouillée par les 4 clés)
 
 ### Équipe sportive (Seb) — équipe des moyens

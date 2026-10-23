@@ -5,7 +5,7 @@
   1. qu'Ivan a donné une conférence intitulée **« Les Habitants de la nuit »** le vendredi 17 octobre 2025 (la veille de sa mort !) ;
   2. qu'elle avait lieu au **Café-Librairie de La Chapelle-en-Vercors** ;
   3. qu'il avait un **site web / portfolio en ligne** dont l'adresse figurait en bas de l'affiche.
-- **Version 2 (Café-Librairie, 15h30)** : Exactement la même affiche, **intacte**, conservée au mur par la commerçante parce qu'elle appréciait Ivan. Le bandeau du bas est complet et donne l'URL `ivan-beaulieu-photos.vercel.app` + un QR code.
+- **Version 2 (Café-Librairie, 15h30)** : Exactement la même affiche, **intacte**, conservée au mur par la commerçante parce qu'elle appréciait Ivan. Le bandeau du bas est complet et donne l'URL `ivan-beaulieu-photos.vercel.app` + un QR code. **Décision 23/10** : le bandeau mentionne aussi « plus d'infos à l'office du tourisme » — il aiguille les joueurs vers l'OT où sont accrochés le tableau du chasseur et une autre affiche (`joueurs/batiste/props/07_affiche_publicitaire_ot.md`).
 
 ---
 
@@ -44,6 +44,7 @@
 
   Portfolio, journal d'affût & archives en ligne :
   https://ivan-beaulieu-photos.vercel.app          [ QR CODE ]
+  Plus d'infos auprès de l'office du tourisme du village
 ======================================================================
 ```
 
