@@ -12,9 +12,10 @@ Les joueurs liront les dernières feuilles avant de remonter vers les premières
 Corne à poudre, Gourde en peau
 
 ### Texte
-> 9 septembre 1746, dès potron-minet
 
-> Depuis tout petit, ils m'ont initié au rituel et à leurs secrets. Depuis tout petit, ils m'endoctrinent. Vingt ans que je ne vis que pour ce moment. Les anciens me l'ont dit, à l'approche de la convergence, les phénomènes se font plus fréquents, plus forts. Hier encore, les sommets se sont parés de blanc en plein mois d’août et la Grotte des Maléfices était plus que jamais insondable. Bientôt, ils se lanceront dans le rituel car nous arrivons à la fin du cycle.
+> Le 9 septembre 1746, dès potron-minet
+
+> Depuis tout petit, ils m'ont initié au rituel et à leurs secrets. Depuis tout petit, ils m'endoctrinent. Vingt ans que je ne vis que pour ce moment. Les anciens me l'ont dit, à l'approche de la convergence, les phénomènes se font plus fréquents, plus forts. Hier encore, les sommets se sont parés de blanc en plein mois d’août et la Grotte des Maléfices était plus que jamais insondable. Bientôt, ils se lanceront dans le rituel car nous arrivons à la fin du cycle de 140 ans.
 
 > Mais, les anciens et les autres Perchtenlauf ont tord, les êtres de la foret me l'ont dit, ils m'ont ouvert les yeux. La statuette ne nous sauvera pas. Au contraire, elle est la cause de tout ces cycles de malheurs. Les voix de la foret m'ont choisi pour la détruire au plus vite et enfin sortir de ces répétitions infernales.
 
@@ -22,13 +23,13 @@ Corne à poudre, Gourde en peau
 
 > En pénétrant dans ce temple maléfique, j'ai une dernière fois pu constater le mal qui est à l’œuvre dans le Vercors. Ces objets de malheur éparpillés de ci de là et qui apparaissent et disparaissent au grès de l'intensité des phénomènes. Seule la statuette semble immuable au milieu de ces marées. Je l'ai subtilisé rapidement pour ne pas risquer à mon tour de disparaître.
 
-> Je sais que les autres Perchtenlauf ne tarderont pas à découvrir la traîtrise. Je dois fuir et détruire cette statuette avant qu'un nouveau cycle ne commence, avant que le rituel ne recommence.
+> Je sais que les autres Perchtenlauf ne tarderont pas à découvrir la traîtrise. Je dois fuir et détruire cette statuette avant qu'un nouveau cycle ne commence, avant que le rituel ne soit effectué.
 
 ### Texte adapté à l'époque
 
 > Le 9 septembre 1746, dès potron-minet
 
-> Dès ma plus tendre enfance, ils me préparent au rituel et m'instruisent en detail de leurs secrets, m'endoctrinent. Vingt ans que je ne vis que pour ceste heure. Les anciens me l'ont dit : à l'approche de la convergence, les phénomènes se font plus fréquens, plus puissans. Hier encores, les sommets se sont parez de blanc en plein mois d'aoust, et la Grotte des Maléfices estoit plus que jamais insondable. Bientôt, ils se lanceront dans le rituel, car nous arrivons à la fin du cycle.
+> Dès ma plus tendre enfance, ils m'ont initié au rituel et à leurs secrets. Dès ma plus tendre enfance, ils m'endoctrinent. Vingt ans que je ne vis que pour ceste heure. Les anciens me l'ont dit : à l'approche de la convergence, les phénomènes se font plus frequens, plus puissans. Hier encores, les sommets se sont parez de blanc en plein mois d'aoust, et la Grotte des Maléfices estoit plus que jamais insondable. Bientôt, ils se lanceront dans le rituel, car nous arrivons à la fin du cycle de cent quarante ans.
 
 > Mais les anciens et les autres Perchtenlauf ont tort ; les êtres de la forest me l'ont dit, ils m'ont ouvert les yeux. La statuette ne nous sauvera point. Bien au contraire, elle est la cause de tous ces cycles de malheurs. Les voix de la forest m'ont choisi pour la détruire au plus tost, et sortir enfin de ces répétitions infernales.
 
@@ -36,7 +37,7 @@ Corne à poudre, Gourde en peau
 
 > En penetrant dans ceste maléfique temple, j'ay une dernière foys peu constater le mal qui est à l'œuvre dans le Vercors. Ces objets de malheur esparsez çà et là, qui paraissent et disparaissent au gré de l'intensité des phénomènes. Seule la statuette semble immuable au milieu de ces marées. Je l'ay subtilisé bien tost, pour ne pas rischer à mon tour de disparaître.
 
-> Je sçay que les autres Perchtenlauf ne tarderont guère à descouvrir la traïtrise. Il me faut fuir et détruire ceste statuette avant qu'un nouveau cycle ne commence, avant que le rituel ne recommence.
+> Je sçay que les autres Perchtenlauf ne tarderont guère à descouvrir la traïtrise. Il me faut fuir et détruire ceste statuette avant qu'un nouveau cycle ne commence, avant que le rituel ne soit acomply.
 
 ## Plaine de Fauchier ➜ Belvédère 1355m
 
@@ -53,27 +54,28 @@ Corne à poudre, Gourde en peau
 Dans le cryptex dont le code alphabétique se trouve dans la plaine de fauchier. Contient la page et la carte de Cassini
 
 ### Texte
-> 9 septembre 1746, milieu de matinée
+
+> Le 9 septembre 1746, milieu de matinée
 
 > Je n'ose pas imaginer mon châtiment si ils arrivent à mettre la main sur moi. Mais les êtres de la foret me protègent, je ne crains rien tant qu'ils sont autour de moi. Ils me guident et me préservent.
 
-> Dans ma fuite, j'ai pu jeter un coup d’œil à la statuette. C'est la première fois que je la voyais d'aussi près. Sa consistance est vraiment étrange, elle semble lourde, mais elle est en fait très légère. Elle n'est pas faite de bois mais d'un matériau qui m'est inconnu. Quelle maléfice cela cache-t-il ? Sûrement, rien qui ne provienne de ce monde.
+> Dans ma fuite, j'ai pu jeter un coup d’œil à la statuette. C'est la première fois que je la voyais d'aussi près. Sa consistance est vraiment étrange, elle semble lourde, mais elle est en fait très légère. C'est un patchwork de matériaux minéraux et végétaux. Quelle maléfice cela cache-t-il ? Sûrement, rien qui ne provienne de ce monde.
 
 > J'ai pris la direction de la montagne au sud ouest du point de convergence maléfique, alors que le soleil se levait. Ce secteur raide et forestier est le terrain que je connais le mieux et c'est là où j'aurai la plus grande chance de fuir avant qu'ils ne m'attrapent.
 
 > Je sais qu'ils sont à mes trousses, je les vois depuis le belvédère avec leurs lanternes. Cette trouée dans la foret à flanc de montagne surplombe la route par laquelle ils arrivent. Ils ont rameté les leurs, ils s'organisent, ils viennent me chercher. La chasse commence... Mais le gibier est plus intelligent qu'eux cette fois ci.
 
-### Texte adapté à l'époque (à régénérer)
+### Texte adapté à l'époque
 
 > Le 9 septembre 1746, milieu de matinée
 
 > Je n'ose imaginer le châtiment qui m'attend s'ils viennent à mettre la main sur moy. Mais les êtres de la forest me protègent : je ne crains rien tant qu'ils sont autour de moy. Ils me guident et me préservent.
-
-> Dans ma fuite, j'ay peu jeter un coup d'œil à la statuette. C'est la première foys que je la voyois d'aussi près. Sa consistance est vraiment estrange : elle semble pesante, mais elle est en effect fort légère. Elle n'est point faite de bois, mais d'une matière qui m'est inconnue. Quel maléfice cela cache-t-il ? Assurément, rien qui ne provienne de ce monde.
+ 
+> Dans ma fuite, j'ay peu jeter un coup d'œil à la statuette. C'est la première foys que je la voyois d'aussi près. Sa consistance est vraiment estrange : elle semble pesante, mais elle est en effect fort légère. C'est un assemblage bigarré de matières minérales et végétales. Quel maléfice cela cache-t-il ? Assurément, rien qui ne provienne de ce monde.
 
 > J'ay pris la direction de la montagne au Midy-Oüest du point de convergence maléfique, comme le soleil se levoit. Ceste secteur rude et forestier est le terrain que je cognois le mieux, et c'est là que j'auray la meilleure chance de fuyr avant qu'ils ne m'attrapent.
 
-> Je sçay qu'ils sont à mes trousses : je les voy avec leurs lanternes, depuis la trouée dans la forest qui surplombe la route, à deux cens pas, et le village à val en dessous. Ils ont rassemblé les leurs, ils s'organisent, ils viennent me querir. La chasse commence... Mais le gibier est cette foys plus adverti qu'eux.
+> Je sçay qu'ils sont à mes trousses : je les voy depuis le belvédère avec leurs lanternes. Ceste trouée dans la forest à flanc de montagne domine la route par laquelle ils arrivent. Ils ont rassemblé les leurs, ils s'organisent, ils viennent me querir. La chasse commence... Mais le gibier est cette foys plus adverti qu'eux.
 
 ## Refuge de Crobache ➜ Plaine de Fauchier
 
@@ -85,7 +87,8 @@ Dans le cryptex dont le code alphabétique se trouve dans la plaine de fauchier.
 Sacoche en cuir accrochée dans la cabane. Elle contient un vieux livre dont la page est dedans. Contient également le cryptex.
 
 ### Texte
-> 9 septembre 1746, fin de matinée
+
+> Le 9 septembre 1746, fin de matinée
 
 > Les voix dans la foret m'ont dit de me cacher dans les hautes herbes mais les faucheurs ont fait leurs œuvres ce matin à l'aurore. Il ne restait pas un seul coin dans la plaine où je pouvais me dissimuler.
 
@@ -101,11 +104,15 @@ Sacoche en cuir accrochée dans la cabane. Elle contient un vieux livre dont la 
 
 > Le 9 septembre 1746, fin de matinée
 
-> Les voix de la forest m'ont dit de me cacher dans les hautes herbes ; mais les faucheurs ont fait leur œuvre ce matin à l'aurore. Il ne reste pas un seul coin dans la plaine où je puisse me dissimuler.
+> Les voix dans la forest m'ont dit de me cacher dans les hautes herbes ; mais les faucheurs ont fait leur œuvre ce matin à l'aurore. Il ne restoit pas un seul coin dans la plaine où je peusse me dissimuler.
 
-> Par heureuse rencontre, un brouillard espais s'est estably quand mes poursuivans sont arrivés dans la plaine. L'espace d'un instant, ils ont creu me tenir ; mais à présent, je les entens vociférer autour de moy, absorbés par ceste insondable brume.
+> Par heureuse rencontre, un brouillard à couper au couteau s'est estably quand mes poursuivans sont arrivés dans la plaine. L'espace d'un instant, ils ont creu me tenir ; mais je les entendois vociférer autour de moy, absorbés par ceste insondable brume.
 
-> Le brouillard est à couper au couteau. Je me faufile tout doucement entre leurs pas. On ne voit point à deux pas, ce qui est à mon avantage. Et puis, les voix de la forest me guident. Elles m'indiquent la direction du refuge. Il n'est plus guère loin. Bientôt je pourray recouvrer les instructions du rituel pour détruire la statuette.
+> J'ay peu me faufiler tout doucement entre leurs pas. On ne voyoit point à deux pas, ce qui estoit à mon avantage.
+
+> Bien heureusement que les voix de la forest m'ont guidé. Leurs paroles m'aydent à progresser dans ma queste.
+
+> Le refuge n'est plus guère loin. Bientôt je pourray recouvrer les instructions du rituel pour détruire la statuette.
 
 ## Scialet Royer ➜ Refuge de Crobache
 
@@ -119,21 +126,22 @@ Sacoche en cuir accrochée dans la cabane. Elle contient un vieux livre dont la 
 Dans un crane en résine
 
 ### Texte
-> 9 septembre 1746, début d'après midi
+
+> Le 9 septembre 1746, début d'après midi
 
 > Les instructions n'étaient plus là ! Je suis retourné à la cabane mais les instructions pour détruire la statuette n'y étaient plus. Mon sac ne m'est plus d'aucune utilité dorénavant, je l'ai laissé là bas.
 
-> Il faut maintenant que je parvienne à me souvenir le rituel exact de purification de la statuette. Cela prendra plus de temps mais, il va falloir que je recommence du début...
+> Il faut maintenant que je parvienne à me souvenir le rituel exact de destruction de la statuette. Cela prendra plus de temps mais, il va falloir que je recommence du début...
 
 > Les voix de la foret se font plus calmes. Je pense qu'elles doivent tenter de les ralentir afin de me protéger. Elles savent à quel point ma mission est vitale.
 
-### Texte adapté à l'époque (à régénérer)
+### Texte adapté à l'époque
 
 > Le 9 septembre 1746, début d'après-midy
 
-> J'ay esté stupide : j'avois laissé mon sac dans la cabane, à costé de ma couche, pour ne point paraître suspect ; je pensois qu'elle seroit vide. Mais quelques fidèles m'ont devancé. Il me faudra trouver une autre solution pour détruire la statuette.
+> Les instructions n'y estoient plus ! Je suis retourné à la cabane, mais les instructions pour détruire la statuette n'y estoient plus. Mon sac ne m'est désormais d'aucune utilité : je l'ay laissé là-bas.
 
-> Depuis tout à l'heure, je fouille dans ma mémoire pour reconstituer le rituel exact de purification de la statuette. Cela me prendra davantage de temps, mais il faudra que je recommence du commencement.
+> Il faut à présent que je parviène à me souvenir du rituel exact de destruction de la statuette. Cela me prendra davantage de temps, mais il faudra que je recommence du commencement...
 
 > Les voix de la forest se font plus paisibles. Je croy qu'elles s'efforcent de les ralentir afin de me protéger. Elles sçavent à quel point ma mission est vitale.
 
@@ -147,39 +155,44 @@ Dans un crane en résine
 
 ### Stockage du message
 
-Dans une bouteille scellées à la cire ou la gourde en cuir (préférence pour la gourde en cuir)
+Dans la choppe en fer.
 
 ### Texte
-> 9 septembre 1746, milieu l'après midi
+
+> Le 9 septembre 1746, milieu l'après midi
 
 > Ils ont presque réussi à me capturer mais j'ai pu me mettre à l'abri dans l'un des deux scialets jumeaux sur le plateau. Les voix m'ont dit que je serai en sécurité dedans, que les Perchtenlauf n'oseraient jamais s'approcher de ce qu'ils considèrent être les portes de l'Enfer. C'est jonché de cranes et d'ossements, je comprends pourquoi ils ne s'en approchent vraiment pas.
 
 > Je les entends parler. Ils craignent le rituel à venir si jamais ils ne récupèrent pas la statuette à temps.
 
-> Les instructions exactes du rituel m'échappent encore partiellement. Je sais déjà que les masques des esprits de la foret sont un élément essentiel pour le rituel.
+> Les instructions exactes du rituel m'échappent encore partiellement. Je sais déjà que les masques et les assourdissantes tenues païennes des esprits de la foret sont un élément essentiel pour le rituel. Pour le reste, qu'importe les détails, ma force physique aura raison de cette statuette impie.
 
-> Pour ma part, il faut que je planifie mes prochains déplacements avec rigueur. Collecter certains éléments pour la destruction de la statuette va me demander de passer dans des lieux publics où ils pourront facilement me reconnaître et me capturer.
+> Pour ma part, il faut que je planifie mes prochains déplacements avec rigueur.
 
 ### Texte adapté à l'époque (à régénérer)
 
-> Le 9 septembre 1746, en l'après-midy
+> Le 9 septembre 1746, milieu de l'après-midy
 
-> Ils ont faillî me capturer, mais j'ay su me mettre à l'abri dans l'un des deux scialets jumeaux du plateau. Les voix m'ont dit que je seroïs en sûreté là-dedans, que les Perchtenlauf n'oseroient jamais s'approcher de ce qu'ils réputent estre les portes de l'Enfer. Elles avoient raison.
+> Ils ont faillî me capturer, mais j'ay peu me mettre à l'abri dans l'un des deux scialets jumeaux du plateau. Les voix m'ont dit que je serois en sûreté là-dedans, que les Perchtenlauf n'oseroient jamais s'approcher de ce qu'ils réputent estre les portes de l'Enfer. C'est jonché de crânes et d'ossemens : je comprens pourquoi ils ne s'en approchent vraiment point.
 
 > Je les entens parler. Ils redoutent le rituel à venir, s'ils ne recouvrent point la statuette à temps.
 
-> Les instructions exactes du rituel m'eschappent encore en partie. Je sçay déjà que les masques des esprits de la forest sont chose essentielle audit rituel.
+> Les instructions exactes du rituel m'eschappent encores en partie. Je sçay déjà que les masques et les assourdissans habits païens des esprits de la forest sont chose essentielle audit rituel. Pour le reste, qu'importent les détails : ma force physique aura raison de ceste statuette impie.
 
-> Pour ma part, il me faut concerter mes prochains déplacements avec la plus grande rigueur. Recueillir certains éléments en vue de la destruction de la statuette m'obligera à passer par des lieux publics où il leur sera aisé de me reconnoître et de me saisir.
+> Pour ma part, il me faut concerter mes prochains déplacements avec rigueur.
 
 ## Gîte ➜ Col de Carri
 
 ### Stockage du message
 
-Feuillet joint aux autres feuilles volantes de l'enveloppe du lancement (direction Rémi, 21/10 — « on verra si ils font la distinction avec les autres indices » ; l'email la dit déjà « jointe en l'état »). Bambou trouvé par Mareva, conservé en réserve si un contenant physique est préféré.
+Dans une pochette au gite. Ajouter un post-it pour donner les dernières réflexions d'Ivan sur le sujet. Apporter carte IGN aussi à centrer sur le col de carri.
+
+Post-it : lampe frontale
+Sac à dos vide...
 
 ### Texte de base
-> 9 septembre 1746, fin de journée
+
+> Le 9 septembre 1746, fin de journée
 
 > Je n'aurais pas du sortir de la foret, les voix se font plus lointaines. Elles m'abandonnent. Finalement, elles ne m'ont pas accordé leur confiance après cette épreuve. J'ai échoué dans ma mission.
 
@@ -187,21 +200,21 @@ Feuillet joint aux autres feuilles volantes de l'enveloppe du lancement (directi
 
 > Le brouillard s'est finalement retourné contre moi et m'a désorienté en descendant. Je pensais descendre en Ouest mais je suis descendu en Nord, en plein dans la gueule du loup...
 
-> Je vais tenter de cacher ces écrits dans ma gourde, et de poser ce que je leur ai subtilisé juste à côté, près de la source. Je ne pourrai pas faire mieux. Peut être que les voix trouveront un autre champion pour remplir cette tâche et ainsi éviter que le cycle ne se répète une nouvelle fois.
+> Je vais tenter de cacher ce que je leur ai subtilisé à côté de la source, avec ma choppe. Je ne pourrai pas faire mieux. Peut être que les voix trouveront un autre champion pour remplir cette tâche et ainsi éviter que le cycle ne se répète une nouvelle fois.
 
 > Je n'aurais pas réussi à les semer mais j'espère que ces écrits parviendront à quelqu'un... Voyageur, puisses-tu réussir là où j'ai échoué. Détruit la statuette avant le prochain cycle. C'est la seule manière de parvenir à restaurer l'équilibre du plateau du Vercors.
 
-### Texte adapté à l'époque (à régénérer)
-> > 9 septembre 1746, sur le soir
+### Texte adapté à l'époque
 
-> Je n'aurois point dû sortir de la forest, les voix se font plus lointaines. Elles m'abandonnent. Finalement, elles ne m'ont point accordé leur confiance après cette espreuve. J'ay eschoué dans ma mission.
+> Le 9 septembre 1746, sur le soir
 
-> Mes poursuivans sont tout proches, je les entens. Ils descendent de la montagne au Midy. Je voy leurs lanternes osciller dans la forest au gré des trouées parmy les arbres. Des renforts arrivent de la route de l'Orient, du cœur du Vercors. D'autres viennent du Nord-Oüest, des plaines. Ils sont là, ils arrivent, ils m'encerclent...
+> Je n'aurois point dû sortir de la forest ; les voix se font plus lointaines. Elles m'abandonnent. Finalement, elles ne m'ont point accordé leur confiance après ceste espreuve. J'ay eschoué dans ma mission.
+
+> Mes poursuivans sont tout proches, je les entens. Ils descendent de la montagne au Midy. Je voy leurs lanternes osciller dans la forest au gré des trouées parmy les arbres. Des renforts arrivent de la route de l'Orient, du cœur du Vercors. D'autres du Nord-Oüest, des plaines. Ils sont là, ils arrivent, ils m'encerclent...
 
 > Le brouillard s'est finalement tournez contre moy et m'a desorienté en descendant. Je pensois descendre vers le Couchant, mais j'ay descendu vers le Nord, en plein dans la gueule du loup...
- 
-> Je vais tenter de cacher ces escripts dans ma gourde, et de poser ce que je leur ay subtilisé juste à costé, près de la source. Je ne pourray pas faire mieux. Peut-estre que les voix trouveront un autre champion pour remplir ceste tâche, et ainsi éviter que le cycle ne se répéte une nouvelle foys.
+
+> Je vais tenter de cacher ce que je leur ay subtilisé à costé de la source, avec ma choppe. Je ne pourray pas faire mieux. Peut-estre que les voix trouveront un autre champion pour remplir ceste tâche, et ainsi éviter que le cycle ne se répéte une nouvelle foys.
 
 > Je n'aurois point peu les semer, mais j'espère que ces escripts parviendront à quelqu'un... Voyageur, puisses-tu réussir là où j'ay eschoué. Détruy la statuette avant le prochain cycle. C'est la seule manière de parvenir à restaurer l'équilibre du plateau du Vercors.
-
 
