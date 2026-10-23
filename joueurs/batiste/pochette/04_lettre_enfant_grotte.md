@@ -45,6 +45,6 @@ Rends le document suivant sous forme d'une page A4 dactylographiée, la copie ar
 
 ## Fichier imprimable
 
-`assets/photos/site_ivan/04_lettre_enfant_grotte_code.pdf` (+ `assets/photos/site_ivan/04_lettre_enfant_grotte_code.png`) — copie dactylographiée de 1931, tiers inférieur libre pour l'annotation au crayon. Le PDF Canva `assets/photos/site_ivan/04_lettre_enfant_grotte.pdf` est **corrompu** (octets binaires remplacés lors d'une copie ou d'un téléchargement : il ne s'affiche pas) ; à réexporter depuis Canva si on préfère cette version.
+`assets/photos/site_ivan/04_lettre_enfant_grotte_code.pdf` (+ `assets/photos/site_ivan/04_lettre_enfant_grotte_code.png`) — copie dactylographiée de 1931, tiers inférieur libre pour l'annotation au crayon. (L'ancien PDF Canva a été supprimé : fichier corrompu, inaffichable.)
 
 Rendu généré depuis le repo `ivan-beaulieu-photos` (branche locale prop/almanach, non publiée) ; export : scripts/prop_export.mjs du repo du site.

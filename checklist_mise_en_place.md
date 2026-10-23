@@ -16,8 +16,9 @@ Le détail de fabrication de chaque pièce est dans `joueurs/batiste/props/`, `j
 | `assets/photos/site_ivan/dossier_parcours.pdf` | Feuillet « Balade douce » (guide des 5 lieux sans parler d'énigme) | 1 | 4 notes de marge au crayon (voir `joueurs/batiste/props/06_dossier_parcours.md`) | Enveloppe de lancement, 14h05 |
 | `assets/photos/site_ivan/almanach_1886.pdf` | Feuillet d'almanach (calcul de l'heure limite du rituel) | 1 | **Recto-verso** ; note au crayon d'Ivan au verso (texte dans `joueurs/batiste/props/05_enigme_vieux_calendrier.md`) | Dans la pochette, trouvé 14h45 |
 | `assets/photos/site_ivan/02_releves_2011_2025_rendu.pdf` | Relevés de pièges 2011-2025 (lore, optionnel) | 1 | Rien | Pochette |
+| `assets/photos/site_ivan/livre_dor_2011.pdf` | Page du livre d'or 2011 (mot d'Ivan + cadre photo) | 1 | **Coller dans le cadre le tirage 10×15 de la vue** (photo à prendre vendredi soir depuis la fenêtre de la chambre), puis glisser dans le vrai livre d'or du gîte | Livre d'or du gîte, samedi matin |
 | `assets/photos/site_ivan/03_proces_notable.pdf` | Procès du notable innocent (1466) | 1 | Surligner les passages + note de marge au crayon « C'est ma clé n°5 » (texte dans `joueurs/batiste/pochette/03_proces_notable.md`) | Pochette |
-| `assets/photos/site_ivan/04_lettre_enfant_grotte_code.pdf` | Copie dactylo de la lettre 1931 (grotte + statuette) | 1 | Annotation au crayon dans le tiers inférieur laissé libre (texte dans `joueurs/batiste/pochette/04_lettre_enfant_grotte.md`). ⚠️ `assets/photos/site_ivan/04_lettre_enfant_grotte.pdf` (Canva) est corrompu, ne pas l'imprimer | Pochette |
+| `assets/photos/site_ivan/04_lettre_enfant_grotte_code.pdf` | Copie dactylo de la lettre 1931 (grotte + statuette) | 1 | Annotation au crayon dans le tiers inférieur laissé libre (texte dans `joueurs/batiste/pochette/04_lettre_enfant_grotte.md`) | Pochette |
 | `assets/photos/site_ivan/05_carte_madame_solange.pdf` | Carte de visite de la voyante | 1 (sur 4) | Découper **une** carte, l'agrafer en haut de la feuille manuscrite (§3) | Pochette |
 | `assets/photos/site_ivan/06_coupure_presse_accident.pdf` | Coupure Dauphiné — accident d'Ivan | 1 | Découper au cadre pointillé, plier en quatre, corner l'angle + **post-it des propriétaires écrit à la main** | Pochette, sous l'élastique |
 | `assets/photos/site_ivan/07_annexe_1894.pdf` | Article XIXe — loup (Janlin) | 1 | Agrafer sous la fiche manuscrite (§3) | Pochette, pièce 07 |
@@ -34,8 +35,8 @@ Le détail de fabrication de chaque pièce est dans `joueurs/batiste/props/`, `j
 | Clichés de pièges photo posés sur le trajet de Seb | `assets/photos/*.jpg` existants | Imprimer les clichés retenus (traces des silhouettes) — voir `joueurs/seb/README.md` |
 | Photo-traps horodatées pour le site | À tourner | 3 images mises en scène avec silhouettes + timestamps (checklist rituel) |
 | Feuilles du fugitif (Rémi) | Texte prêt (`joueurs/remi/feuilles_rando.md`) | Imprimer en feuilles volantes, placer dans l'ordre inverse le long de la rando ; contenant : bambou trouvé par Mareva ou enveloppe |
-| Insert du livre d'or 2011 | Texte prêt (`joueurs/batiste/props/03_livre_dor_2011_chambre.md`) | Double page / mot manuscrit glissé dans le **vrai** livre d'or du gîte |
-| Étiquettes animaux des portes de chambres | À fabriquer | Petites affichettes illustrées sur chaque porte **sauf celle d'Ivan** (reste : coin déchiré / trace d'adhésif) — voir `joueurs/batiste/props/03_livre_dor_2011_chambre.md` |
+| Photo de la vue pour le livre d'or | Page prête (`assets/photos/site_ivan/livre_dor_2011.pdf`, §1) | **Prendre la photo vendredi soir** depuis la fenêtre de la chambre, la tirer en 10×15, la coller dans le cadre — voir `joueurs/batiste/props/03_livre_dor_2011_chambre.md` |
+| Étiquettes animaux des portes de chambres | **Faites — Mareva** | Poser une étiquette sur chaque porte **sauf celle d'Ivan** (reste : coin déchiré / trace d'adhésif) + coller l'étiquette Chouette sous le rabat de la pochette — voir `joueurs/batiste/props/03_livre_dor_2011_chambre.md` |
 | Carte satellite du champ du rituel + 3 calques | À produire | Impression de la carte + 3 calques transparents (checklist rituel) |
 
 ## 3. À écrire à la main — aucun fichier à imprimer

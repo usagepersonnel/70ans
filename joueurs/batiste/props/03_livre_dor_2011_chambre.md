@@ -44,3 +44,9 @@ Cette petite phrase en *P.-S.* crée un enchaînement super gratifiant pour les 
    - Les déductifs parcourent le couloir, voient toutes les portes avec un animal **sauf une où l'étiquette a été arrachée**, et savent immédiatement que c'est celle de la Chouette — celle d'Ivan !
 3. **Le petit détail qui tue quand ils ouvrent la pochette d'Ivan (à 14h45)** :
    - À l'intérieur du rabat de la chemise cartonnée (trouvée sous le lit ou dans l'armoire de cette chambre), on colle effectivement **l'étiquette de la Chouette** qu'il avait « chipée » sur sa porte en 2011 ! (Ce qui ancre dès 14h45 le fait que l'équipe Batiste est **l'équipe de la Chouette** pour le dimanche.)
+
+---
+
+## Fichier imprimable
+
+`assets/photos/site_ivan/livre_dor_2011.pdf` (+ `assets/photos/site_ivan/livre_dor_2011.png`) — page au format de l'album : cadre pointillé pour le tirage 10×15 de la vue (photo à prendre vendredi soir depuis la fenêtre de la chambre) + mot d'Ivan en écriture manuscrite simulée. À glisser dans le vrai livre d'or du gîte. Peut être remplacé par une vraie page manuscrite.
